@@ -1,0 +1,184 @@
+Invalid argument: -AUTH_LOGIN=unused
+Invalid argument: -AUTH_PASSWORD=c329642fb848435d9676a445d760a9f2
+Invalid argument: -AUTH_TYPE=exchangecode
+Invalid argument: -epicapp=Blobfish
+Invalid argument: -epicenv=Prod
+Invalid argument: -EpicPortal
+Invalid argument: -epicusername="REX
+Invalid argument: TERRAE"
+Invalid argument: -epicuserid=8d9361886e08400a94838c5594fcb732
+Invalid argument: -epiclocale=en
+Checking user folder
+Checking for C:\Users\kaloa\Documents\My Games
+Checking for Into The Breach data folder
+Final location for profile file: C:\Users\kaloa\Documents\My Games\Into The Breach\
+Attempting file write check to C:\Users\kaloa\Documents\My Games\Into The Breach\
+File write successful
+Initializing SDL...
+Into the Breach: 1.2.24 (5-28-2020)
+Initializing Video
+Creating Window...
+Creating OpenGL Context...
+Video Initialized
+Opengl version = 4.6.0 NVIDIA 441.20
+Using Opengl 2.0 rendering path
+Loading shader shadersOGL/material_color.vs
+Loading shader shadersOGL/vcolor.ps
+Loading shader shadersOGL/material_color.vs
+Loading shader shadersOGL/vcolor.ps (0x1)
+Loading shader shadersOGL/material_color.vs
+Loading shader shadersOGL/vcolor.ps (0x2)
+Loading shader shadersOGL/material_color.vs
+Loading shader shadersOGL/vcolor.ps (0x3)
+Shader program created.
+Loading shader shadersOGL/vcolor.vs
+Loading shader shadersOGL/vcolor.ps
+Loading shader shadersOGL/vcolor.vs
+Loading shader shadersOGL/vcolor.ps (0x1)
+Loading shader shadersOGL/vcolor.vs
+Loading shader shadersOGL/vcolor.ps (0x2)
+Loading shader shadersOGL/vcolor.vs
+Loading shader shadersOGL/vcolor.ps (0x3)
+Shader program created.
+Loading shader shadersOGL/texture.vs
+Loading shader shadersOGL/texture.ps
+Loading shader shadersOGL/texture.vs
+Loading shader shadersOGL/texture.ps (0x1)
+Loading shader shadersOGL/texture.vs
+Loading shader shadersOGL/texture.ps (0x2)
+Loading shader shadersOGL/texture.vs
+Loading shader shadersOGL/texture.ps (0x3)
+Shader program created.
+Loading shader shadersOGL/vcolor_texture.vs
+Loading shader shadersOGL/vcolor_texture.ps
+Loading shader shadersOGL/vcolor_texture.vs
+Loading shader shadersOGL/vcolor_texture.ps (0x1)
+Loading shader shadersOGL/vcolor_texture.vs
+Loading shader shadersOGL/vcolor_texture.ps (0x2)
+Loading shader shadersOGL/vcolor_texture.vs
+Loading shader shadersOGL/vcolor_texture.ps (0x3)
+Shader program created.
+Initializing Lua Environment
+Flushed stdout before initializing
+loading 101 scripts
+user/missionData.lua doesn't exist!
+Lua Initialized
+Setting language English
+Starting audio library...
+Retrieving resources...
+Opening the resource file... 
+Resource file accessed... 
+Loading resources...
+Testing first image img/achievements/Archive_A_1.png
+Completed image loading...img/achievements/Archive_A_1.png
+First render attempt...
+Starting frame...
+No Frame Buffer found
+Rendering Loading Bar...
+Drawing the Box...
+Drawing the Bar (2D Texture)...
+Swapping...
+Finished frame!
+Render complete...
+Loading font fonts/c&c.ttf (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_10.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_10_2x.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_12.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_12_2x.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_13.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_13_2x.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_14.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_14_2x.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_17.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_17_2x.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_18.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_18_2x.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_19.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_19_2x.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_24.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_24_2x.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_8.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_8_2x.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_Small.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_Small_2x.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_Warning.font (Scale: 1.0x)
+Loading font fonts/Justin13.ttf (Scale: 1.0x)
+Loading font fonts/Justin15.ttf (Scale: 1.0x)
+Loading font fonts/JustinFont10.ttf (Scale: 1.0x)
+Loading font fonts/JustinFont11.ttf (Scale: 1.0x)
+Loading font fonts/JustinFont11Bold.ttf (Scale: 1.0x)
+Loading font fonts/JustinFont12.ttf (Scale: 1.0x)
+Loading font fonts/JustinFont12Bold.ttf (Scale: 1.0x)
+Loading font fonts/JustinFont8.ttf (Scale: 1.0x)
+Loading font fonts/NunitoSans_Bold.ttf (Scale: 1.0x)
+Loading font fonts/NunitoSans_Regular.ttf (Scale: 1.0x)
+Loading font fonts/Roboto-Bold.ttf (Scale: 1.0x)
+Loading font fonts/Roboto-Regular.ttf (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_10.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_10_2x.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_12.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_12_2x.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_13.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_13_2x.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_14.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_14_2x.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_17.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_17_2x.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_18.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_18_2x.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_19.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_19_2x.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_24.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_24_2x.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_8.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_8_2x.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_Small.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_Small_2x.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_Warning.font (Scale: 1.0x)
+Fonts memory usage: 254 MB
+Resource Preload: 2695.139
+Found profile: profile_koko
+Mouse initialization...
+Loading map data...
+Initializing ImGui...
+Running Game!
+Generating world...
+Loading map file: sand_hole3
+Loading map file: sand0
+Loading map file: train4
+Starting Battle Music!
+Starting track = event:/music/sand/combat_western
+Already Spawning = 0
+Already Spawning = 0
+Already Spawning = 0
+Loading map file: sand1
+Starting Battle Music!
+Starting track = event:/music/sand/combat_western
+Already Spawning = 0
+Already Spawning = 0
+Starting track = event:/music/sand/combat_montage
+Loading map file: crosscrack7
+Loading map file: any13
+Starting Battle Music!
+Starting track = event:/music/sand/combat_eastwood
+Already Spawning = 0
+Already Spawning = 0
+Already Spawning = 0
+Loading map file: any32
+Starting Battle Music!
+Starting track = event:/music/sand/combat_eastwood
+Already Spawning = 0
+Already Spawning = 0
+Cannot spawn enemy in standard locations. Emergency placement engaged.
+Cannot spawn enemy in standard locations. Emergency placement engaged.
+Cannot spawn enemy in standard locations. Emergency placement engaged.
+Loading map file: any49
+Starting Battle Music!
+Starting track = event:/music/sand/combat_western
+Already Spawning = 0
+Already Spawning = 0
+Already Spawning = 0
+Stopping battle music for Menu Music
+Loading map file: acid0
+Loading map file: disposal20
+Loading map file: any10
