@@ -1,0 +1,41 @@
+(09:36:45.265) [Version] INFORMATION : 1.12, Build Date : 2016-11-16 21:23:26
+(09:36:45.444) [FNA] INFORMATION : IGLDevice: OpenGLDevice
+(09:36:45.452) [FNA] INFORMATION : OpenGL Device: GeForce GTX 960/PCIe/SSE2
+(09:36:45.458) [FNA] INFORMATION : OpenGL Driver: 4.6.0 NVIDIA 430.86
+(09:36:45.464) [FNA] INFORMATION : OpenGL Vendor: NVIDIA Corporation
+(09:36:45.470) [FNA] INFORMATION : MojoShader Profile: glsl120
+(09:36:45.491) [FNA] INFORMATION : Using EXT_swap_control_tear VSync!
+(09:36:45.608) [Instancing] INFORMATION : Hardware instancing is enabled
+(09:36:45.710) [FNA] INFORMATION : Using EXT_swap_control_tear VSync!
+(09:36:45.719) [SettingsManager] INFORMATION : Screen set to {{Width:1920 Height:1080 Format:Color}}
+(09:36:45.726) [SettingsManager] INFORMATION : Screen mode is : Fullscreen
+(09:36:45.792) [SettingsManager] INFORMATION : Backbuffer is 1920x1080
+(09:36:45.798) [SettingsManager] INFORMATION : VSync is on
+(09:36:45.805) [SettingsManager] INFORMATION : Multisample count is 0
+(09:36:46.349) [Threading] INFORMATION : Multithreading is enabled
+(09:36:47.425) [Intro] INFORMATION : First draw done!
+(09:36:49.832) [StaticPreloader] INFORMATION : SharedContentManager preloaded.
+(09:36:51.810) [StaticPreloader] INFORMATION : Music library initialized.
+(09:36:51.868) [StaticPreloader] INFORMATION : Volume levels loaded.
+(09:36:51.991) [StaticPreloader] INFORMATION : Animations filled.
+(09:36:52.000) [StaticPreloader] INFORMATION : Text scroll pre-initialized.
+(09:36:52.008) [StaticPreloader] INFORMATION : World map pre-initialized.
+(09:36:52.017) [StaticPreloader] INFORMATION : Pause menu pre-initialized.
+(09:36:52.503) [Intro] INFORMATION : Preloading complete.
+(09:39:00.257) [Intro] INFORMATION : Level load complete.
+(09:39:14.245) [Intro] INFORMATION : Intro is done and game is go!
+(09:39:14.462) [Achievements] INFORMATION : Achievement_02 awarded.
+(10:43:56.831) [Achievements] INFORMATION : Achievement_09 awarded.
+(10:52:59.736) [SoundService] WARNING : No such track or track is already muted : 'Mines ^ layer_five'
+(10:52:59.743) [SoundService] WARNING : No such track or track is already muted : 'Mines ^ layer_four'
+(10:52:59.749) [SoundService] WARNING : No such track or track is already muted : 'Mines ^ layer_three'
+(11:00:26.817) [SoundService] WARNING : No such track or track is already muted : 'Mines ^ layer_five'
+(11:00:26.824) [SoundService] WARNING : No such track or track is already muted : 'Mines ^ layer_four'
+(11:01:46.928) [Unhandled Exception] ERROR : System.NullReferenceException: Object reference not set to an instance of an object.
+   at FezEngine.Services.LevelMaterializer.CullPlanes()
+   at FezEngine.Services.LevelMaterializer.ForceCull()
+   at FezGame.Services.GameLevelManager.ChangeLevel(String levelName)
+   at FezGame.Components.Actions.EnterDoor.DoLoad(Boolean dummy)
+   at FezEngine.Tools.Worker`1.Act()
+   at FezEngine.Tools.PersistentThread.DoActualWork()
+   at Common.Logger.Try(Action action)

@@ -1,0 +1,43 @@
+(19:51:49.601) [Version] INFORMATION : 1.12, Build Date : 2016-11-16 21:23:26
+(19:51:49.798) [FNA] INFORMATION : IGLDevice: OpenGLDevice
+(19:51:49.810) [FNA] INFORMATION : OpenGL Device: GeForce GTX 960/PCIe/SSE2
+(19:51:49.820) [FNA] INFORMATION : OpenGL Driver: 4.6.0 NVIDIA 430.86
+(19:51:49.827) [FNA] INFORMATION : OpenGL Vendor: NVIDIA Corporation
+(19:51:49.836) [FNA] INFORMATION : MojoShader Profile: glsl120
+(19:51:49.853) [FNA] INFORMATION : Using EXT_swap_control_tear VSync!
+(19:51:49.969) [Instancing] INFORMATION : Hardware instancing is enabled
+(19:51:50.097) [FNA] INFORMATION : Using EXT_swap_control_tear VSync!
+(19:51:50.114) [SettingsManager] INFORMATION : Screen set to {{Width:1920 Height:1080 Format:Color}}
+(19:51:50.121) [SettingsManager] INFORMATION : Screen mode is : Fullscreen
+(19:51:50.127) [SettingsManager] INFORMATION : Backbuffer is 1920x1080
+(19:51:50.134) [SettingsManager] INFORMATION : VSync is on
+(19:51:50.140) [SettingsManager] INFORMATION : Multisample count is 0
+(19:51:50.901) [Threading] INFORMATION : Multithreading is enabled
+(19:51:52.137) [Intro] INFORMATION : First draw done!
+(19:51:54.584) [StaticPreloader] INFORMATION : SharedContentManager preloaded.
+(19:51:56.571) [StaticPreloader] INFORMATION : Music library initialized.
+(19:51:56.671) [StaticPreloader] INFORMATION : Volume levels loaded.
+(19:51:56.769) [StaticPreloader] INFORMATION : Animations filled.
+(19:51:56.776) [StaticPreloader] INFORMATION : Text scroll pre-initialized.
+(19:51:56.783) [StaticPreloader] INFORMATION : World map pre-initialized.
+(19:51:56.789) [StaticPreloader] INFORMATION : Pause menu pre-initialized.
+(19:51:57.214) [Intro] INFORMATION : Preloading complete.
+(19:56:11.543) [Intro] INFORMATION : Level load complete.
+(19:56:11.708) [Achievements] INFORMATION : Achievement_06 awarded.
+(19:56:11.731) [Achievements] INFORMATION : Achievement_07 awarded.
+(19:56:11.737) [Achievements] INFORMATION : Achievement_08 awarded.
+(19:56:11.794) [Achievements] INFORMATION : Achievement_09 awarded.
+(19:56:11.801) [Achievements] INFORMATION : Achievement_10 awarded.
+(19:56:11.807) [Achievements] INFORMATION : Achievement_11 awarded.
+(19:56:11.813) [Achievements] INFORMATION : Achievement_12 awarded.
+(19:56:18.840) [Intro] INFORMATION : Intro is done and game is go!
+(19:56:19.023) [Achievements] INFORMATION : Achievement_02 awarded.
+(20:04:58.209) [Intro] INFORMATION : Level load complete.
+(20:05:11.711) [Intro] INFORMATION : Intro is done and game is go!
+(20:09:20.850) [Achievements] INFORMATION : Achievement_03 awarded.
+(20:09:40.383) [Content] INFORMATION : Room DRUM does not have a map image!
+(20:09:44.621) [Intro] INFORMATION : Level load complete.
+(20:09:58.120) [Intro] INFORMATION : Intro is done and game is go!
+(20:14:26.410) [Intro] INFORMATION : Level load complete.
+(20:14:39.962) [Intro] INFORMATION : Intro is done and game is go!
+(21:03:11.968) [FEZ] INFORMATION : Exiting.

@@ -1,0 +1,38 @@
+(08:18:07.450) [Version] INFORMATION : 1.12, Build Date : 2016-11-16 21:23:26
+(08:18:07.638) [FNA] INFORMATION : IGLDevice: OpenGLDevice
+(08:18:07.650) [FNA] INFORMATION : OpenGL Device: GeForce GTX 960/PCIe/SSE2
+(08:18:07.658) [FNA] INFORMATION : OpenGL Driver: 4.6.0 NVIDIA 430.86
+(08:18:07.665) [FNA] INFORMATION : OpenGL Vendor: NVIDIA Corporation
+(08:18:07.671) [FNA] INFORMATION : MojoShader Profile: glsl120
+(08:18:07.697) [FNA] INFORMATION : Using EXT_swap_control_tear VSync!
+(08:18:07.867) [Instancing] INFORMATION : Hardware instancing is enabled
+(08:18:07.915) [FNA] INFORMATION : Using EXT_swap_control_tear VSync!
+(08:18:07.930) [SettingsManager] INFORMATION : Screen set to {{Width:1920 Height:1080 Format:Color}}
+(08:18:07.936) [SettingsManager] INFORMATION : Screen mode is : Fullscreen
+(08:18:07.943) [SettingsManager] INFORMATION : Backbuffer is 1920x1080
+(08:18:07.949) [SettingsManager] INFORMATION : VSync is on
+(08:18:07.956) [SettingsManager] INFORMATION : Multisample count is 0
+(08:18:08.860) [Threading] INFORMATION : Multithreading is enabled
+(08:18:09.985) [Intro] INFORMATION : First draw done!
+(08:18:12.476) [StaticPreloader] INFORMATION : SharedContentManager preloaded.
+(08:18:14.636) [StaticPreloader] INFORMATION : Music library initialized.
+(08:18:14.689) [StaticPreloader] INFORMATION : Volume levels loaded.
+(08:18:14.801) [StaticPreloader] INFORMATION : Animations filled.
+(08:18:14.808) [StaticPreloader] INFORMATION : Text scroll pre-initialized.
+(08:18:14.815) [StaticPreloader] INFORMATION : World map pre-initialized.
+(08:18:14.821) [StaticPreloader] INFORMATION : Pause menu pre-initialized.
+(08:18:15.210) [Intro] INFORMATION : Preloading complete.
+(08:18:35.647) [Intro] INFORMATION : Level load complete.
+(08:18:35.744) [Achievements] INFORMATION : Achievement_06 awarded.
+(08:18:35.751) [Achievements] INFORMATION : Achievement_07 awarded.
+(08:18:35.757) [Achievements] INFORMATION : Achievement_08 awarded.
+(08:18:35.763) [Achievements] INFORMATION : Achievement_09 awarded.
+(08:18:35.769) [Achievements] INFORMATION : Achievement_10 awarded.
+(08:18:35.775) [Achievements] INFORMATION : Achievement_11 awarded.
+(08:18:39.558) [Intro] INFORMATION : Intro is done and game is go!
+(08:18:39.758) [Achievements] INFORMATION : Achievement_02 awarded.
+(08:43:40.628) [SoundService] WARNING : No such track or track is already muted : 'CMYKave ^ fifths'
+(08:43:40.635) [SoundService] WARNING : No such track or track is already muted : 'CMYKave ^ others'
+(08:43:40.641) [SoundService] WARNING : No such track or track is already muted : 'CMYKave ^ bass'
+(10:12:14.882) [Achievements] INFORMATION : Achievement_12 awarded.
+(10:13:23.141) [FEZ] INFORMATION : Exiting.

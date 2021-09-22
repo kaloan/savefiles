@@ -1,0 +1,33 @@
+(22:09:36.580) [Version] INFORMATION : 1.12, Build Date : 2016-11-16 21:23:26
+(22:09:36.722) [FNA] INFORMATION : IGLDevice: OpenGLDevice
+(22:09:36.732) [FNA] INFORMATION : OpenGL Device: GeForce GTX 960/PCIe/SSE2
+(22:09:36.738) [FNA] INFORMATION : OpenGL Driver: 4.6.0 NVIDIA 430.86
+(22:09:36.747) [FNA] INFORMATION : OpenGL Vendor: NVIDIA Corporation
+(22:09:36.753) [FNA] INFORMATION : MojoShader Profile: glsl120
+(22:09:36.769) [FNA] INFORMATION : Using EXT_swap_control_tear VSync!
+(22:09:36.896) [Instancing] INFORMATION : Hardware instancing is enabled
+(22:09:36.989) [FNA] INFORMATION : Using EXT_swap_control_tear VSync!
+(22:09:37.052) [SettingsManager] INFORMATION : Screen set to {{Width:1920 Height:1080 Format:Color}}
+(22:09:37.059) [SettingsManager] INFORMATION : Screen mode is : Fullscreen
+(22:09:37.104) [SettingsManager] INFORMATION : Backbuffer is 1920x1080
+(22:09:37.110) [SettingsManager] INFORMATION : VSync is on
+(22:09:37.116) [SettingsManager] INFORMATION : Multisample count is 0
+(22:09:38.834) [Threading] INFORMATION : Multithreading is enabled
+(22:09:40.344) [Intro] INFORMATION : First draw done!
+(22:09:41.114) [StaticPreloader] INFORMATION : SharedContentManager preloaded.
+(22:09:41.253) [StaticPreloader] INFORMATION : Music library initialized.
+(22:09:41.323) [StaticPreloader] INFORMATION : Volume levels loaded.
+(22:09:41.405) [StaticPreloader] INFORMATION : Animations filled.
+(22:09:41.412) [StaticPreloader] INFORMATION : Text scroll pre-initialized.
+(22:09:41.418) [StaticPreloader] INFORMATION : World map pre-initialized.
+(22:09:41.424) [StaticPreloader] INFORMATION : Pause menu pre-initialized.
+(22:09:41.814) [Intro] INFORMATION : Preloading complete.
+(22:11:10.948) [Intro] INFORMATION : Level load complete.
+(22:11:24.101) [Intro] INFORMATION : Intro is done and game is go!
+(22:20:33.078) [Intro] INFORMATION : Level load complete.
+(22:20:46.634) [Intro] INFORMATION : Intro is done and game is go!
+(22:23:42.858) [FNA] WARNING : KEY/SCANCODE MISSING FROM SDL2->XNA DICTIONARY: 1095 SDL_SCANCODE_GRAVE
+(22:23:43.024) [FNA] WARNING : KEY/SCANCODE MISSING FROM SDL2->XNA DICTIONARY: 1095 SDL_SCANCODE_GRAVE
+(22:29:58.372) [Achievements] INFORMATION : Achievement_02 awarded.
+(22:31:41.338) [Content] WARNING : Null-named asset in content manager : VILLAGEVILLE_3D
+(22:57:16.149) [FEZ] INFORMATION : Exiting.

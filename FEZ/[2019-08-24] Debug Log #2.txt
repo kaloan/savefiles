@@ -1,0 +1,32 @@
+(12:53:11.488) [Version] INFORMATION : 1.12, Build Date : 2016-11-16 21:23:26
+(12:53:11.535) [FNA] INFORMATION : IGLDevice: OpenGLDevice
+(12:53:11.542) [FNA] INFORMATION : OpenGL Device: GeForce GTX 960/PCIe/SSE2
+(12:53:11.549) [FNA] INFORMATION : OpenGL Driver: 4.6.0 NVIDIA 430.86
+(12:53:11.555) [FNA] INFORMATION : OpenGL Vendor: NVIDIA Corporation
+(12:53:11.586) [FNA] INFORMATION : MojoShader Profile: glsl120
+(12:53:11.601) [FNA] INFORMATION : Using EXT_swap_control_tear VSync!
+(12:53:11.626) [Instancing] INFORMATION : Hardware instancing is enabled
+(12:53:11.656) [FNA] INFORMATION : Using EXT_swap_control_tear VSync!
+(12:53:11.773) [SettingsManager] INFORMATION : Screen set to {{Width:1920 Height:1080 Format:Color}}
+(12:53:11.779) [SettingsManager] INFORMATION : Screen mode is : Fullscreen
+(12:53:11.785) [SettingsManager] INFORMATION : Backbuffer is 1920x1080
+(12:53:11.792) [SettingsManager] INFORMATION : VSync is on
+(12:53:11.798) [SettingsManager] INFORMATION : Multisample count is 0
+(12:53:11.877) [Threading] INFORMATION : Multithreading is enabled
+(12:53:12.337) [Intro] INFORMATION : First draw done!
+(12:53:13.151) [StaticPreloader] INFORMATION : SharedContentManager preloaded.
+(12:53:13.278) [StaticPreloader] INFORMATION : Music library initialized.
+(12:53:13.294) [StaticPreloader] INFORMATION : Volume levels loaded.
+(12:53:13.347) [StaticPreloader] INFORMATION : Animations filled.
+(12:53:13.355) [StaticPreloader] INFORMATION : Text scroll pre-initialized.
+(12:53:13.362) [StaticPreloader] INFORMATION : World map pre-initialized.
+(12:53:13.384) [StaticPreloader] INFORMATION : Pause menu pre-initialized.
+(12:53:13.673) [Intro] INFORMATION : Preloading complete.
+(12:53:38.813) [Intro] INFORMATION : Level load complete.
+(12:53:39.054) [Achievements] INFORMATION : Achievement_09 awarded.
+(12:53:43.218) [Intro] INFORMATION : Intro is done and game is go!
+(12:53:43.385) [Achievements] INFORMATION : Achievement_02 awarded.
+(12:55:23.615) [Achievements] INFORMATION : Achievement_07 awarded.
+(13:30:11.018) [Content] WARNING : Null-named asset in content manager : WALL_VILLAGE
+(13:57:24.057) [Content] WARNING : Null-named asset in content manager : VILLAGEVILLE_3D
+(14:10:15.728) [FEZ] INFORMATION : Exiting.

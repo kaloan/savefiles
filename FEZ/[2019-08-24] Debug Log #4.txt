@@ -1,0 +1,34 @@
+(19:57:37.544) [Version] INFORMATION : 1.12, Build Date : 2016-11-16 21:23:26
+(19:57:37.700) [FNA] INFORMATION : IGLDevice: OpenGLDevice
+(19:57:37.712) [FNA] INFORMATION : OpenGL Device: GeForce GTX 960/PCIe/SSE2
+(19:57:37.718) [FNA] INFORMATION : OpenGL Driver: 4.6.0 NVIDIA 430.86
+(19:57:37.724) [FNA] INFORMATION : OpenGL Vendor: NVIDIA Corporation
+(19:57:37.729) [FNA] INFORMATION : MojoShader Profile: glsl120
+(19:57:37.747) [FNA] INFORMATION : Using EXT_swap_control_tear VSync!
+(19:57:37.890) [Instancing] INFORMATION : Hardware instancing is enabled
+(19:57:37.987) [FNA] INFORMATION : Using EXT_swap_control_tear VSync!
+(19:57:38.000) [SettingsManager] INFORMATION : Screen set to {{Width:1920 Height:1080 Format:Color}}
+(19:57:38.007) [SettingsManager] INFORMATION : Screen mode is : Fullscreen
+(19:57:38.012) [SettingsManager] INFORMATION : Backbuffer is 1920x1080
+(19:57:38.018) [SettingsManager] INFORMATION : VSync is on
+(19:57:38.024) [SettingsManager] INFORMATION : Multisample count is 0
+(19:57:38.992) [Threading] INFORMATION : Multithreading is enabled
+(19:57:41.172) [Intro] INFORMATION : First draw done!
+(19:57:43.512) [StaticPreloader] INFORMATION : SharedContentManager preloaded.
+(19:57:45.548) [StaticPreloader] INFORMATION : Music library initialized.
+(19:57:45.594) [StaticPreloader] INFORMATION : Volume levels loaded.
+(19:57:45.692) [StaticPreloader] INFORMATION : Animations filled.
+(19:57:45.699) [StaticPreloader] INFORMATION : Text scroll pre-initialized.
+(19:57:45.705) [StaticPreloader] INFORMATION : World map pre-initialized.
+(19:57:45.711) [StaticPreloader] INFORMATION : Pause menu pre-initialized.
+(19:57:46.133) [Intro] INFORMATION : Preloading complete.
+(19:58:09.726) [Intro] INFORMATION : Level load complete.
+(19:58:09.917) [Achievements] INFORMATION : Achievement_07 awarded.
+(19:58:09.924) [Achievements] INFORMATION : Achievement_09 awarded.
+(19:58:09.930) [Achievements] INFORMATION : Achievement_10 awarded.
+(19:58:09.936) [Achievements] INFORMATION : Achievement_11 awarded.
+(19:58:17.982) [Intro] INFORMATION : Intro is done and game is go!
+(19:58:18.081) [Achievements] INFORMATION : Achievement_02 awarded.
+(20:01:46.155) [Achievements] INFORMATION : Achievement_08 awarded.
+(20:37:02.396) [Achievements] INFORMATION : Achievement_06 awarded.
+(21:02:54.104) [FEZ] INFORMATION : Exiting.
