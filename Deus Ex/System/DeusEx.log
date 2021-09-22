@@ -1,0 +1,1919 @@
+Log: Log file open, 05/14/19 06:38:16
+Init: Name subsystem initialized
+Init: Detected: Microsoft Windows NT 6.2 (Build: 9200)
+Init: Version: 1100
+Init: Compiled: Jan 29 2001 16:45:52
+Init: Command line: 
+Init: Base directory: D:\Games\Steam\steamapps\common\Deus Ex\System\
+Init: Character set: Unicode
+Log: Bound to Window.dll
+Log: Bound to Core.dll
+Log: Bound to Extension.dll
+Log: Bound to Engine.dll
+Init: Object subsystem initialized
+Log: Cd Path: ..\GOTY_1\
+Init: Computer: DESKTOPGOFHAS2
+Init: User: kaloan
+Init: Memory total: Phys=4194303K Pagef=4194303K Virt=4194176K
+Init: Working set: 32000 / 159000
+Init: CPU Speed=2994.409214 MHz
+Init: CPU Page size=4096, Processors=16
+Init: CPU Detected: Unknown processor (AuthenticAMD)
+Init: CPU Features: CMov FPU RDTSC PAE MMX KNI
+Log: Deus Exe: version 8.1.0.0.
+Log: Deus Exe: Using User Documents File Manager.
+Log: Bound to DeusEx.dll
+Log: Bound to ConSys.dll
+Log: Loading: Package DeusEx
+Log: Loading: Package Core
+Log: Loading: Package Engine
+Log: Loading: Package Extension
+Log: Loading: Package DeusExCharacters
+Log: Loading: Package DeusExUI
+Log: Loading: Package DeusExItems
+Log: Loading: Package Effects
+Log: Bound to Fire.dll
+Log: Loading: Package Fire
+Log: Loading: Package ConSys
+Log: Loading: Package DeusExSounds
+Log: Loading: Package DeusExDeco
+Log: Loading: Package UBrowser
+Log: Loading: Package UWindow
+Log: Bound to IpDrv.dll
+Log: Loading: Package IpDrv
+Log: Bound to DeusExText.dll
+Log: Loading: Package DeusExText
+Log: Loading: Package Ambient
+Log: Loading: Package MoverSFX
+Log: Loading: Package IpServer
+Log: Loading: Package MPCharacters
+Init: Unreal engine initialized
+Log: Bound to WinDrv.dll
+Init: Mouse info: 6 10 1
+Init: Initializing DirectDraw
+Log: DirectDraw drivers:
+Log:    display (Primary Display Driver)
+Init: DirectDraw initialized successfully
+Init: Client initialized
+Log: Bound to Render.dll
+Log: Loading: Package Render
+Init: Lighting subsystem initialized
+Init: Rendering initialized
+Log: LoadMap: entry.dx
+Log: Loading: Package Entry
+Log: Loading: Package Title_Music
+Log: Game class is 'DeusExGameInfo'
+Log: Bringing Level Entry.MyLevel up for play (0)...
+ScriptLog: InitGame: 
+ScriptLog: Base Mutator is Entry.Mutator0
+Log: Browse: DX.dx?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing load, not loadgame
+Log: Current mission number is -1, next is -1
+Log: LoadMap: DX.dx?Name=Player?Class=DeusEx.JCDentonMale
+Log: Loading: Package DX
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package Render
+Log: Garbage: objects: 33603->33602; refs: 372156
+Log: Game class is 'DeusExGameInfo'
+Log: Bringing Level DX.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Name=Player?Class=DeusEx.JCDentonMale
+ScriptLog: Base Mutator is DX.Mutator1
+Init: Initialized moving brush tracker for Level DX.MyLevel
+ScriptLog: Login: Player
+Init: *** DEUS EX VERSION Mon Mar 19 12:06:14 2001 v1.112fm ***
+Log: Possessed PlayerPawn: JCDentonMale DX.JCDentonMale0
+ScriptLog: All inventory from Player is accepted
+Init: Input system initialized for WindowsViewport0
+Log: Opened viewport
+Log: Bound to D3D10Drv.dll
+Log: Initializing Direct3D 10 renderer.
+Log: Initializing Direct3D.
+Log: Bound to Galaxy.dll
+Init: Galaxy is using DirectSound
+Init: Galaxy initialized
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Init: Game engine initialized
+Log: Installing hook 'Free save space fix'.
+Log: Installing hook 'Widescreen subtitle fix'.
+DevMusic: Load music: Music Title_Music.Title_Music
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow DX.JCDentonMale0.DeusExRootWindow0.MenuMain0.MenuUIClientWindow0.MenuUIMenuButtonWindow2
+Log: Assigning Last Button Window to MenuUIListWindow DX.JCDentonMale0.DeusExRootWindow0.MenuScreenLoadGame0.MenuUIClientWindow1.MenuUIScrollAreaWindow0.ClipWindow0.MenuUIListWindow0
+Log: Tried to remove lastbuttonwindow descendant. MenuUIListWindow DX.JCDentonMale0.DeusExRootWindow0.MenuScreenLoadGame0.MenuUIClientWindow1.MenuUIScrollAreaWindow0.ClipWindow0.MenuUIListWindow0
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=383?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package DX
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_final.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_final
+Log: Loading: Package CoreTexMetal
+Log: Loading: Package CoreTexDetail
+Log: Loading: Package area51textures
+Log: Loading: Package Rocket
+Log: Loading: Package CoreTexGlass
+Log: Loading: Package CoreTexMisc
+Log: Loading: Package V_Com_Center
+Log: Loading: Package Constructor
+Log: Loading: Package OceanLab
+Log: Loading: Package Cmd_tunnels
+Log: Loading: Package CoreTexConcrete
+Log: Loading: Package CoreTexEarth
+Log: Loading: Package Area51_Music
+Init: Shut down moving brush tracker for Level DX.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DXFonts
+Log: Unloading: Package saveInfo
+Log: Garbage: objects: 38982->38039; refs: 692533
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_final.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Unregister music: Music Title_Music.Title_Music
+DevMusic: Load music: Music Area51_Music.Area51_Music
+ScriptLog: **** InitStateMachine() - 15_Area51_final.JCDentonMale2 started mission state machine for 15_AREA51_FINAL
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenInventory0.PersonaNavBarWindow0.PersonaButtonBarWindow0.PersonaNavButtonWindow6
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenInventory0.PersonaNavBarWindow0.PersonaButtonBarWindow0.PersonaNavButtonWindow6
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenHealth0.PersonaNavBarWindow1.PersonaButtonBarWindow3.PersonaNavButtonWindow14
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenHealth0.PersonaNavBarWindow1.PersonaButtonBarWindow3.PersonaNavButtonWindow14
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenAugmentations0.PersonaNavBarWindow2.PersonaButtonBarWindow6.PersonaNavButtonWindow22
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenAugmentations0.PersonaNavBarWindow2.PersonaButtonBarWindow6.PersonaNavButtonWindow22
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenSkills0.PersonaNavBarWindow3.PersonaButtonBarWindow10.PersonaNavButtonWindow32
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenSkills0.PersonaNavBarWindow3.PersonaButtonBarWindow10.PersonaNavButtonWindow32
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenAugmentations1.PersonaClientWindow4.PersonaAugmentationItemButton12
+Log: Assigning Last Button Window to PersonaActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenAugmentations1.PersonaClientWindow4.PersonaButtonBarWindow15.PersonaActionButtonWindow9
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenAugmentations1.PersonaClientWindow4.PersonaButtonBarWindow15.PersonaActionButtonWindow9
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenInventory1.PersonaNavBarWindow5.PersonaButtonBarWindow17.PersonaNavButtonWindow51
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenInventory1.PersonaNavBarWindow5.PersonaButtonBarWindow17.PersonaNavButtonWindow51
+Log: Assigning Last Button Window to PersonaHealthActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenHealth1.PersonaClientWindow6.PersonaHealthRegionWindow11.PersonaHealthActionButtonWindow11
+Log: Tried to remove lastbuttonwindow descendant. PersonaHealthActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenHealth1.PersonaClientWindow6.PersonaHealthRegionWindow11.PersonaHealthActionButtonWindow11
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenInventory2.PersonaNavBarWindow7.PersonaButtonBarWindow23.PersonaNavButtonWindow69
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenInventory2.PersonaNavBarWindow7.PersonaButtonBarWindow23.PersonaNavButtonWindow69
+Log: Assigning Last Button Window to PersonaHealthActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenHealth2.PersonaClientWindow8.PersonaHealthRegionWindow13.PersonaHealthActionButtonWindow13
+Log: Assigning Last Button Window to PersonaHealthActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenHealth2.PersonaClientWindow8.PersonaHealthRegionWindow16.PersonaHealthActionButtonWindow16
+Log: Assigning Last Button Window to PersonaClientWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenHealth2.PersonaClientWindow8
+Log: Assigning Last Button Window to PersonaHealthActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenHealth2.PersonaClientWindow8.PersonaHealthRegionWindow17.PersonaHealthActionButtonWindow17
+Log: Tried to remove lastbuttonwindow descendant. PersonaHealthActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.PersonaScreenHealth2.PersonaClientWindow8.PersonaHealthRegionWindow17.PersonaHealthActionButtonWindow17
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.MenuMain1.MenuUIClientWindow2.MenuUIMenuButtonWindow12
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.MenuScreenLoadGame1.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow1.MenuScreenLoadGame1.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=383?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 15_Area51_final
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_final.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_final
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConText
+Log: Unloading: Package DXFonts
+Log: Unloading: Package saveInfo
+Log: Garbage: objects: 46220->38045; refs: 692575
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_final.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_final.JCDentonMale2 started mission state machine for 15_AREA51_FINAL
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 15_Area51_final
+Log: Unloading: Package saveInfo
+Log: Save=13.768187
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Save=206.820078
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_final.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Loading: Package DXFonts
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=13.216038
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Save=205.940729
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_final.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow2.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow2.MenuUIActionButtonWindow7
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow2.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow2.MenuUIActionButtonWindow7
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-1?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_final.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_final
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 45515->38177; refs: 696890
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_final.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_final.JCDentonMale2 started mission state machine for 15_AREA51_FINAL
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 15_Area51_final
+Log: Unloading: Package saveInfo
+Log: Save=13.718224
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Save=213.406332
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_final.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.PersonaScreenInventory4.PersonaNavBarWindow10.PersonaButtonBarWindow32.PersonaNavButtonWindow96
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.PersonaScreenInventory4.PersonaNavBarWindow10.PersonaButtonBarWindow32.PersonaNavButtonWindow96
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.PersonaScreenHealth3.PersonaNavBarWindow11.PersonaButtonBarWindow35.PersonaNavButtonWindow104
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.PersonaScreenHealth3.PersonaNavBarWindow11.PersonaButtonBarWindow35.PersonaNavButtonWindow104
+Log: Assigning Last Button Window to PersonaClientWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.PersonaScreenAugmentations2.PersonaClientWindow12
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 15_Area51_final.JCDentonMale2.DeusExRootWindow3.PersonaScreenAugmentations2.PersonaClientWindow12.PersonaAugmentationItemButton24
+Log: Assigning Last Button Window to PersonaActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.PersonaScreenAugmentations2.PersonaClientWindow12.PersonaButtonBarWindow40.PersonaActionButtonWindow31
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.PersonaScreenAugmentations2.PersonaClientWindow12.PersonaButtonBarWindow40.PersonaActionButtonWindow31
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.PersonaScreenInventory5.PersonaNavBarWindow13.PersonaButtonBarWindow42.PersonaNavButtonWindow123
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.PersonaScreenInventory5.PersonaNavBarWindow13.PersonaButtonBarWindow42.PersonaNavButtonWindow123
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.PersonaScreenHealth4.PersonaNavBarWindow14.PersonaButtonBarWindow45.PersonaNavButtonWindow131
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.PersonaScreenHealth4.PersonaNavBarWindow14.PersonaButtonBarWindow45.PersonaNavButtonWindow131
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.PersonaScreenAugmentations3.PersonaNavBarWindow15.PersonaButtonBarWindow48.PersonaNavButtonWindow139
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.PersonaScreenAugmentations3.PersonaNavBarWindow15.PersonaButtonBarWindow48.PersonaNavButtonWindow139
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.PersonaScreenSkills1.PersonaNavBarWindow16.PersonaButtonBarWindow52.PersonaNavButtonWindow147
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.PersonaScreenSkills1.PersonaNavBarWindow16.PersonaButtonBarWindow52.PersonaNavButtonWindow147
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.MenuMain3.MenuUIClientWindow6.MenuUIMenuButtonWindow32
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.MenuScreenLoadGame2.MenuUIActionButtonBarWindow3.MenuUIActionButtonWindow9
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow3.MenuScreenLoadGame2.MenuUIActionButtonBarWindow3.MenuUIActionButtonWindow9
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-1?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_final.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_final
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 46593->38433; refs: 707592
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_final.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_final.JCDentonMale2 started mission state machine for 15_AREA51_FINAL
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.MenuMain4.MenuUIClientWindow8.MenuUIMenuButtonWindow41
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.MenuScreenSaveGame0.MenuUIActionButtonBarWindow4.MenuUIActionButtonWindow12
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.MenuScreenSaveGame0.MenuUIActionButtonBarWindow4.MenuUIActionButtonWindow12
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 15_Area51_final
+Log: Unloading: Package saveInfo
+Log: Save=13.889774
+Log: Moving '..\Save\Save0384\Save.tmp' to '..\Save\Save0384\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Save=207.119275
+Log: Moving '..\Save\Save0384\Save.tmp' to '..\Save\Save0384\15_Area51_final.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Assigning Last Button Window to PersonaInventoryItemButton 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenInventory6.PersonaClientWindow18.Window183.PersonaInventoryItemButton75
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenInventory6.PersonaNavBarWindow18.PersonaButtonBarWindow58.PersonaNavButtonWindow168
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenInventory6.PersonaNavBarWindow18.PersonaButtonBarWindow58.PersonaNavButtonWindow168
+Log: Assigning Last Button Window to PersonaNavBarWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenHealth5.PersonaNavBarWindow19
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenHealth5.PersonaNavBarWindow19.PersonaButtonBarWindow61.PersonaNavButtonWindow176
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenHealth5.PersonaNavBarWindow19.PersonaButtonBarWindow61.PersonaNavButtonWindow176
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenAugmentations4.PersonaClientWindow20.PersonaAugmentationItemButton48
+Log: Assigning Last Button Window to PersonaClientWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenAugmentations4.PersonaClientWindow20
+Log: Assigning Last Button Window to PersonaActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenAugmentations4.PersonaClientWindow20.PersonaButtonBarWindow66.PersonaActionButtonWindow50
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenAugmentations4.PersonaClientWindow20.PersonaButtonBarWindow66.PersonaActionButtonWindow50
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenInventory7.PersonaNavBarWindow21.PersonaButtonBarWindow68.PersonaNavButtonWindow195
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenInventory7.PersonaNavBarWindow21.PersonaButtonBarWindow68.PersonaNavButtonWindow195
+Log: Assigning Last Button Window to PersonaClientWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenHealth6.PersonaClientWindow22
+Log: Assigning Last Button Window to PersonaHealthActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenHealth6.PersonaClientWindow22.PersonaHealthRegionWindow41.PersonaHealthActionButtonWindow41
+Log: Tried to remove lastbuttonwindow descendant. PersonaHealthActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenHealth6.PersonaClientWindow22.PersonaHealthRegionWindow41.PersonaHealthActionButtonWindow41
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission15
+Log: Assigning Last Button Window to HUDKeypadButton 15_Area51_final.JCDentonMale2.DeusExRootWindow4.HUDKeypadWindow2.HUDKeypadButton34
+Log: Tried to remove lastbuttonwindow descendant. HUDKeypadButton 15_Area51_final.JCDentonMale2.DeusExRootWindow4.HUDKeypadWindow2.HUDKeypadButton34
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=14.289679
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Save=203.525137
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_final.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Assigning Last Button Window to PersonaNavBarWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenInventory8.PersonaNavBarWindow23
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenInventory8.PersonaNavBarWindow23.PersonaButtonBarWindow74.PersonaNavButtonWindow208
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenInventory8.PersonaNavBarWindow23.PersonaButtonBarWindow74.PersonaNavButtonWindow208
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenImages0.PersonaClientWindow24.PersonaScrollAreaWindow60.ClipWindow65.PersonaListWindow0
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow4.PersonaScreenImages0.PersonaClientWindow24.PersonaScrollAreaWindow60.ClipWindow65.PersonaListWindow0
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=15.469878
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Save=201.826191
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_final.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=10.431048
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Save=205.590817
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_final.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=14.104564
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Save=203.656472
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_final.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Loading: Package DeusExe
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=16.529072
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Save=204.789433
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_final.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Export travel for: Player
+Log: Browse: 15_Area51_page?Name=Player?Class=DeusEx.JCDentonMale#page_start
+Log: Doing load, not loadgame
+Log: Current mission number is 15, next is 15
+Log: Attempting to get player
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Save=200.880649
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\15_Area51_final.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+Log: LoadMap: 15_Area51_page?Name=Player?Class=DeusEx.JCDentonMale#page_start
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_page
+Log: Loading: Package MJ12_lab
+Log: Loading: Package HK_MJ12Lab
+Log: Loading: Package BobPage
+Log: Loading: Package G_Station
+Log: Loading: Package CoreTexTiles
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package CoreTexEarth
+Log: Unloading: Package CoreTexConcrete
+Log: Unloading: Package DeusExConAudioMission15
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExe
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 47104->36777; refs: 816214
+Log: Game class is 'DeusExGameInfo'
+Log: Bringing Level 15_Area51_page.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Name=Player?Class=DeusEx.JCDentonMale
+ScriptLog: Base Mutator is 15_Area51_page.Mutator2
+Log: Loading: Package DeusExConText
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_page.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_page.JCDentonMale1 started mission state machine for 15_AREA51_PAGE
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.MenuMain5.MenuUIClientWindow10.MenuUIMenuButtonWindow51
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUILoadSaveEditWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.MenuScreenSaveGame1.MenuUIClientWindow11.MenuUIScrollAreaWindow4.ClipWindow66.MenuUIListWindow4.ClipWindow67.MenuUILoadSaveEditWindow1
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.MenuScreenSaveGame1.MenuUIActionButtonBarWindow5.MenuUIActionButtonWindow15
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.MenuScreenSaveGame1.MenuUIActionButtonBarWindow5.MenuUIActionButtonWindow15
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 15_Area51_page
+Log: Unloading: Package saveInfo
+Log: Save=13.520245
+Log: Moving '..\Save\Save0385\Save.tmp' to '..\Save\Save0385\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=224.965714
+Log: Moving '..\Save\Save0385\Save.tmp' to '..\Save\Save0385\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenInventory9.PersonaNavBarWindow25.PersonaButtonBarWindow80.PersonaNavButtonWindow227
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenInventory9.PersonaNavBarWindow25.PersonaButtonBarWindow80.PersonaNavButtonWindow227
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenConversations0.PersonaNavBarWindow26.PersonaButtonBarWindow83.PersonaNavButtonWindow235
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenConversations0.PersonaNavBarWindow26.PersonaButtonBarWindow83.PersonaNavButtonWindow235
+Log: Assigning Last Button Window to PersonaInventoryItemButton 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenInventory10.PersonaClientWindow28.Window246.PersonaInventoryItemButton135
+Log: Assigning Last Button Window to PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenInventory10.PersonaClientWindow28.PersonaButtonBarWindow91.PersonaActionButtonWindow75
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenInventory10.PersonaClientWindow28.PersonaButtonBarWindow91.PersonaActionButtonWindow75
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=15.536492
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=221.921480
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.MenuMain6.MenuUIClientWindow12.MenuUIMenuButtonWindow61
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.MenuScreenSaveGame2.MenuUIActionButtonBarWindow6.MenuUIActionButtonWindow18
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.MenuScreenSaveGame2.MenuUIActionButtonBarWindow6.MenuUIActionButtonWindow18
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=16.349988
+Log: Moving '..\Save\Save0386\Save.tmp' to '..\Save\Save0386\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=234.493490
+Log: Moving '..\Save\Save0386\Save.tmp' to '..\Save\Save0386\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission15
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=15.285234
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=226.099637
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Assigning Last Button Window to PersonaInventoryItemButton 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenInventory11.PersonaClientWindow29.Window258.PersonaInventoryItemButton140
+Log: Assigning Last Button Window to PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenInventory11.PersonaClientWindow29.PersonaButtonBarWindow94.PersonaActionButtonWindow78
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenInventory11.PersonaClientWindow29.PersonaButtonBarWindow94.PersonaActionButtonWindow78
+Log: Assigning Last Button Window to PersonaInventoryItemButton 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenInventory12.PersonaClientWindow30.Window263.PersonaInventoryItemButton153
+Log: Assigning Last Button Window to PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenInventory12.PersonaClientWindow30.PersonaButtonBarWindow97.PersonaActionButtonWindow82
+Log: Assigning Last Button Window to PersonaInventoryItemButton 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenInventory12.PersonaClientWindow30.Window263.PersonaInventoryItemButton152
+Log: Assigning Last Button Window to PersonaInventoryItemButton 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenInventory12.PersonaClientWindow30.Window263.PersonaInventoryItemButton152
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenInventory12.PersonaClientWindow30.Window263.PersonaInventoryItemButton152
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=42.073467
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=230.837196
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenInventory13.PersonaNavBarWindow31.PersonaButtonBarWindow98.PersonaNavButtonWindow284
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenInventory13.PersonaNavBarWindow31.PersonaButtonBarWindow98.PersonaNavButtonWindow284
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenAugmentations5.PersonaNavBarWindow32.PersonaButtonBarWindow101.PersonaNavButtonWindow294
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenAugmentations5.PersonaNavBarWindow32.PersonaButtonBarWindow101.PersonaNavButtonWindow294
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenHealth7.PersonaNavBarWindow33.PersonaButtonBarWindow105.PersonaNavButtonWindow302
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenHealth7.PersonaNavBarWindow33.PersonaButtonBarWindow105.PersonaNavButtonWindow302
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenAugmentations6.PersonaNavBarWindow34.PersonaButtonBarWindow108.PersonaNavButtonWindow310
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenAugmentations6.PersonaNavBarWindow34.PersonaButtonBarWindow108.PersonaNavButtonWindow310
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenSkills2.PersonaNavBarWindow35.PersonaButtonBarWindow112.PersonaNavButtonWindow318
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenSkills2.PersonaNavBarWindow35.PersonaButtonBarWindow112.PersonaNavButtonWindow318
+Log: Assigning Last Button Window to PersonaScreenGoals 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenGoals1
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenGoals1.PersonaNavBarWindow36.PersonaButtonBarWindow115.PersonaNavButtonWindow326
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenGoals1.PersonaNavBarWindow36.PersonaButtonBarWindow115.PersonaNavButtonWindow326
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenConversations1.PersonaNavBarWindow37.PersonaButtonBarWindow118.PersonaNavButtonWindow334
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.PersonaScreenConversations1.PersonaNavBarWindow37.PersonaButtonBarWindow118.PersonaNavButtonWindow334
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=13.569687
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=227.278253
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+ScriptWarning: DeusExMover 15_Area51_page.DeusExMover32 (State Engine.Mover.TriggerControl:0031) Accessed None
+ScriptWarning: DeusExMover 15_Area51_page.DeusExMover16 (State Engine.Mover.TriggerControl:0031) Accessed None
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=15.522887
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=235.291807
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.MenuUIMessageBoxWindow1.MenuUIActionButtonBarWindow7.MenuUIActionButtonWindow21
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow5.MenuUIMessageBoxWindow1.MenuUIActionButtonBarWindow7.MenuUIActionButtonWindow21
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-1?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_page.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_page
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Warning: Type mismatch in Region of GameReplicationInfo: file 10, class 2
+Warning: Skipping 6 bytes of type 10
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConAudioMission15
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 46491->38455; refs: 854834
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_page.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_page.JCDentonMale1 started mission state machine for 15_AREA51_PAGE
+Log: Assigning Last Button Window to ComputerScreenHack 15_Area51_page.JCDentonMale1.DeusExRootWindow6.NetworkTerminalSecurity0.ComputerScreenHack0
+Log: Assigning Last Button Window to PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.NetworkTerminalSecurity0.ComputerScreenHack0.PersonaButtonBarWindow124.PersonaActionButtonWindow104
+Log: Assigning Last Button Window to MenuUIChoiceButton 15_Area51_page.JCDentonMale1.DeusExRootWindow6.NetworkTerminalSecurity0.ComputerScreenSpecialOptions0.ComputerUIScaleClientWindow0.MenuUIChoiceButton0
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.NetworkTerminalSecurity0.ComputerScreenSpecialOptions0.MenuUIActionButtonBarWindow9.MenuUIActionButtonWindow25
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.NetworkTerminalSecurity0.ComputerScreenSpecialOptions0.MenuUIActionButtonBarWindow9.MenuUIActionButtonWindow25
+Log: Assigning Last Button Window to ComputerSecurityChoice_Camera 15_Area51_page.JCDentonMale1.DeusExRootWindow6.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow18.ComputerSecurityChoice_Camera0
+Log: Assigning Last Button Window to MenuUIChoiceButton 15_Area51_page.JCDentonMale1.DeusExRootWindow6.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow18.ComputerSecurityChoice_Camera0.MenuUIChoiceButton1
+Log: Assigning Last Button Window to MenuUIChoiceButton 15_Area51_page.JCDentonMale1.DeusExRootWindow6.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow18.ComputerSecurityChoice_DoorAccess0.MenuUIChoiceButton2
+Log: Assigning Last Button Window to MenuUIChoiceButton 15_Area51_page.JCDentonMale1.DeusExRootWindow6.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow18.ComputerSecurityChoice_DoorOpen0.MenuUIChoiceButton3
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIActionButtonBarWindow10.MenuUIActionButtonWindow26
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIActionButtonBarWindow10.MenuUIActionButtonWindow26
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.MenuMain9.MenuUIClientWindow19.MenuUIMenuButtonWindow91
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUILoadSaveEditWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.MenuScreenSaveGame3.MenuUIClientWindow20.MenuUIScrollAreaWindow6.ClipWindow104.MenuUIListWindow6.ClipWindow105.MenuUILoadSaveEditWindow3
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.MenuScreenSaveGame3.MenuUIActionButtonBarWindow11.MenuUIActionButtonWindow29
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.MenuScreenSaveGame3.MenuUIActionButtonBarWindow11.MenuUIActionButtonWindow29
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 15_Area51_page
+Log: Unloading: Package saveInfo
+Log: Save=10.599342
+Log: Moving '..\Save\Save0387\Save.tmp' to '..\Save\Save0387\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=225.283586
+Log: Moving '..\Save\Save0387\Save.tmp' to '..\Save\Save0387\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=13.342714
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=223.930414
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission15
+Log: Assigning Last Button Window to PersonaNavBarWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenInventory14.PersonaNavBarWindow39
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenInventory14.PersonaNavBarWindow39.PersonaButtonBarWindow125.PersonaNavButtonWindow352
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenInventory14.PersonaNavBarWindow39.PersonaButtonBarWindow125.PersonaNavButtonWindow352
+Log: Assigning Last Button Window to PersonaNavBarWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenImages3.PersonaNavBarWindow40
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenImages3.PersonaNavBarWindow40.PersonaButtonBarWindow128.PersonaNavButtonWindow363
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenImages3.PersonaNavBarWindow40.PersonaButtonBarWindow128.PersonaNavButtonWindow363
+Log: Assigning Last Button Window to PersonaGoalTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenGoals2.PersonaClientWindow41.PersonaScrollAreaWindow97.ClipWindow110.TileWindow102.PersonaGoalItemWindow9.PersonaGoalTextWindow19
+Log: Assigning Last Button Window to PersonaGoalTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenGoals2.PersonaClientWindow41.PersonaScrollAreaWindow97.ClipWindow110.TileWindow102.PersonaGoalItemWindow10.PersonaGoalTextWindow21
+Log: Assigning Last Button Window to PersonaGoalTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenGoals2.PersonaClientWindow41.PersonaScrollAreaWindow97.ClipWindow110.TileWindow102.PersonaGoalItemWindow10.PersonaGoalTextWindow21
+Log: Assigning Last Button Window to TileWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenGoals2.PersonaClientWindow41.PersonaScrollAreaWindow97.ClipWindow110.TileWindow102
+Log: Assigning Last Button Window to PersonaGoalTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenGoals2.PersonaClientWindow41.PersonaScrollAreaWindow97.ClipWindow110.TileWindow102.PersonaGoalItemWindow10.PersonaGoalTextWindow21
+Log: Tried to remove lastbuttonwindow descendant. PersonaGoalTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenGoals2.PersonaClientWindow41.PersonaScrollAreaWindow97.ClipWindow110.TileWindow102.PersonaGoalItemWindow10.PersonaGoalTextWindow21
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.MenuMain11.MenuUIClientWindow22.MenuUIMenuButtonWindow111
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.MenuScreenSaveGame4.MenuUIClientWindow23.MenuUIScrollAreaWindow7.ClipWindow112.MenuUIListWindow7
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.MenuScreenSaveGame4.MenuUIActionButtonBarWindow12.MenuUIActionButtonWindow32
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.MenuUIMessageBoxWindow2.MenuUIActionButtonBarWindow13.MenuUIActionButtonWindow35
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.MenuUIMessageBoxWindow2.MenuUIActionButtonBarWindow13.MenuUIActionButtonWindow35
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=14.232602
+Log: Moving '..\Save\Save0387\Save.tmp' to '..\Save\Save0387\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=226.192670
+Log: Moving '..\Save\Save0387\Save.tmp' to '..\Save\Save0387\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenInventory15.PersonaNavBarWindow42.PersonaButtonBarWindow134.PersonaNavButtonWindow380
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenInventory15.PersonaNavBarWindow42.PersonaButtonBarWindow134.PersonaNavButtonWindow380
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenConversations2.PersonaNavBarWindow43.PersonaButtonBarWindow137.PersonaNavButtonWindow388
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenConversations2.PersonaNavBarWindow43.PersonaButtonBarWindow137.PersonaNavButtonWindow388
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenImages4.PersonaNavBarWindow44.PersonaButtonBarWindow140.PersonaNavButtonWindow399
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenImages4.PersonaNavBarWindow44.PersonaButtonBarWindow140.PersonaNavButtonWindow399
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenGoals3.PersonaNavBarWindow45.PersonaButtonBarWindow143.PersonaNavButtonWindow406
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenGoals3.PersonaNavBarWindow45.PersonaButtonBarWindow143.PersonaNavButtonWindow406
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenImages5.PersonaClientWindow46.PersonaScrollAreaWindow107.ClipWindow122.PersonaListWindow8
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenImages5.PersonaNavBarWindow46.PersonaButtonBarWindow146.PersonaNavButtonWindow416
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenImages5.PersonaNavBarWindow46.PersonaButtonBarWindow146.PersonaNavButtonWindow416
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenConversations3.PersonaNavBarWindow47.PersonaButtonBarWindow149.PersonaNavButtonWindow424
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenConversations3.PersonaNavBarWindow47.PersonaButtonBarWindow149.PersonaNavButtonWindow424
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenImages6.PersonaNavBarWindow48.PersonaButtonBarWindow152.PersonaNavButtonWindow435
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.PersonaScreenImages6.PersonaNavBarWindow48.PersonaButtonBarWindow152.PersonaNavButtonWindow435
+Log: Loading: Package DeusExe
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=20.826972
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=230.245223
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.MenuMain12.MenuUIClientWindow25.MenuUIMenuButtonWindow122
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.MenuScreenLoadGame3.MenuUIActionButtonBarWindow14.MenuUIActionButtonWindow37
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow6.MenuScreenLoadGame3.MenuUIActionButtonBarWindow14.MenuUIActionButtonWindow37
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-1?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_page.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_page
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExe
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConAudioMission15
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 46389->38076; refs: 838629
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_page.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_page.JCDentonMale1 started mission state machine for 15_AREA51_PAGE
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 15_Area51_page
+Log: Unloading: Package saveInfo
+Log: Save=13.837115
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=225.036916
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: FAILING FBJ: nc -112.186630 from odS 346.919783 and dS 459.106415 and dz -385.514160 success 0
+Log: FAILING FBJ: nc -112.186630 from odS 346.919783 and dS 459.106415 and dz -385.514160 success 0
+Log: FAILING FBJ: nc -605.625671 from odS 388.952120 and dS 994.577820 and dz -633.324707 success 0
+Log: FAILING FBJ: nc -605.566650 from odS 389.002106 and dS 994.568787 and dz -633.324707 success 0
+Log: FAILING FBJ: nc -591.280457 from odS 401.630719 and dS 992.911133 and dz -633.325684 success 0
+Log: FAILING FBJ: nc -591.331665 from odS 401.584578 and dS 992.916199 and dz -633.325195 success 0
+Log: FAILING FBJ: nc -592.051086 from odS 402.816035 and dS 994.867126 and dz -633.324219 success 0
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission15
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenInventory16.PersonaNavBarWindow50.PersonaButtonBarWindow158.PersonaNavButtonWindow454
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenInventory16.PersonaNavBarWindow50.PersonaButtonBarWindow158.PersonaNavButtonWindow454
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenSkills3.PersonaNavBarWindow51.PersonaButtonBarWindow161.PersonaNavButtonWindow462
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenSkills3.PersonaNavBarWindow51.PersonaButtonBarWindow161.PersonaNavButtonWindow462
+Log: Assigning Last Button Window to PersonaNavBarWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenInventory17.PersonaNavBarWindow53
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenInventory17.PersonaNavBarWindow53.PersonaButtonBarWindow167.PersonaNavButtonWindow479
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenInventory17.PersonaNavBarWindow53.PersonaButtonBarWindow167.PersonaNavButtonWindow479
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow123.ClipWindow139.PersonaListWindow11
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow123.ClipWindow139.PersonaListWindow11
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow123.ClipWindow139.PersonaListWindow11
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow123.ClipWindow139.PersonaListWindow11
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow123.ClipWindow139.PersonaListWindow11
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow123.ClipWindow139.PersonaListWindow11
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow123.ClipWindow139.PersonaListWindow11
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow123.ClipWindow139.PersonaListWindow11
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow123.ClipWindow139.PersonaListWindow11
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow123.ClipWindow139.PersonaListWindow11
+Log: Assigning Last Button Window to PersonaHeaderTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow122.ClipWindow138.TileWindow128.PersonaHeaderTextWindow170
+Log: Assigning Last Button Window to PersonaNormalTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow122.ClipWindow138.TileWindow128.PersonaNormalTextWindow262
+Log: Assigning Last Button Window to TileWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow122.ClipWindow138.TileWindow128
+Log: Assigning Last Button Window to PersonaHeaderTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow122.ClipWindow138.TileWindow128.PersonaHeaderTextWindow171
+Log: Assigning Last Button Window to PersonaNormalTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow122.ClipWindow138.TileWindow128.PersonaNormalTextWindow264
+Log: Assigning Last Button Window to PersonaHeaderTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow122.ClipWindow138.TileWindow128.PersonaHeaderTextWindow172
+Log: Assigning Last Button Window to TileWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow122.ClipWindow138.TileWindow128
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow123.ClipWindow139.PersonaListWindow11
+Log: Assigning Last Button Window to TileWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow122.ClipWindow138.TileWindow128
+Log: Tried to remove lastbuttonwindow descendant. TileWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.PersonaScreenConversations4.PersonaClientWindow54.PersonaScrollAreaWindow122.ClipWindow138.TileWindow128
+Log: Assigning Last Button Window to HUDKeypadButton 15_Area51_page.JCDentonMale1.DeusExRootWindow7.HUDKeypadWindow6.HUDKeypadButton78
+Log: Assigning Last Button Window to HUDKeypadButton 15_Area51_page.JCDentonMale1.DeusExRootWindow7.HUDKeypadWindow6.HUDKeypadButton78
+Log: Assigning Last Button Window to HUDKeypadButton 15_Area51_page.JCDentonMale1.DeusExRootWindow7.HUDKeypadWindow6.HUDKeypadButton78
+Log: Assigning Last Button Window to HUDKeypadButton 15_Area51_page.JCDentonMale1.DeusExRootWindow7.HUDKeypadWindow6.HUDKeypadButton78
+Log: Assigning Last Button Window to HUDKeypadButton 15_Area51_page.JCDentonMale1.DeusExRootWindow7.HUDKeypadWindow6.HUDKeypadButton73
+Log: Assigning Last Button Window to HUDKeypadButton 15_Area51_page.JCDentonMale1.DeusExRootWindow7.HUDKeypadWindow6.HUDKeypadButton75
+Log: Assigning Last Button Window to HUDKeypadButton 15_Area51_page.JCDentonMale1.DeusExRootWindow7.HUDKeypadWindow6.HUDKeypadButton74
+Log: Tried to remove lastbuttonwindow descendant. HUDKeypadButton 15_Area51_page.JCDentonMale1.DeusExRootWindow7.HUDKeypadWindow6.HUDKeypadButton74
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.MenuMain13.MenuUIClientWindow27.MenuUIMenuButtonWindow132
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.MenuScreenLoadGame4.MenuUIActionButtonBarWindow15.MenuUIActionButtonWindow40
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow7.MenuScreenLoadGame4.MenuUIActionButtonBarWindow15.MenuUIActionButtonWindow40
+ScriptWarning: DataLinkPlay 15_Area51_page.DataLinkPlay6 (Function DeusEx.DataLinkPlay.ProcessAction:0023) Accessed None
+ScriptWarning: DataLinkPlay 15_Area51_page.DataLinkPlay6 (Function DeusEx.ConPlayBase.TerminateConversation:0033) Accessed None
+ScriptWarning: DataLinkPlay 15_Area51_page.DataLinkPlay6 (Function DeusEx.ConPlayBase.TerminateConversation:0040) Accessed None
+ScriptWarning: DataLinkPlay 15_Area51_page.DataLinkPlay6 (Function DeusEx.ConPlayBase.TerminateConversation:0048) Attempt to assigned variable through None
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-1?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_page.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_page
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DXFonts
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioMission15
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 46422->38075; refs: 838386
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_page.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_page.JCDentonMale1 started mission state machine for 15_AREA51_PAGE
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission15
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 15_Area51_page
+Log: Unloading: Package saveInfo
+Log: Save=13.891918
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=229.067007
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow8.MenuMain14.MenuUIClientWindow29.MenuUIMenuButtonWindow141
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUILoadSaveEditWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow8.MenuScreenSaveGame5.MenuUIClientWindow30.MenuUIScrollAreaWindow10.ClipWindow141.MenuUIListWindow10.ClipWindow142.MenuUILoadSaveEditWindow5
+Log: Assigning Last Button Window to MenuScreenSaveGame 15_Area51_page.JCDentonMale1.DeusExRootWindow8.MenuScreenSaveGame5
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow8.MenuScreenSaveGame5.MenuUIActionButtonBarWindow16.MenuUIActionButtonWindow43
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow8.MenuScreenSaveGame5.MenuUIActionButtonBarWindow16.MenuUIActionButtonWindow43
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=15.841591
+Log: Moving '..\Save\Save0388\Save.tmp' to '..\Save\Save0388\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=227.970513
+Log: Moving '..\Save\Save0388\Save.tmp' to '..\Save\Save0388\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow8.MenuMain15.MenuUIClientWindow31.MenuUIMenuButtonWindow152
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow8.MenuScreenLoadGame5.MenuUIActionButtonBarWindow17.MenuUIActionButtonWindow46
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow8.MenuScreenLoadGame5.MenuUIActionButtonBarWindow17.MenuUIActionButtonWindow46
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=388?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_page.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_page
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConAudioMission15
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 46333->38078; refs: 838285
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_page.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_page.JCDentonMale1 started mission state machine for 15_AREA51_PAGE
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission15
+Log: Assigning Last Button Window to PersonaNavBarWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenInventory18.PersonaNavBarWindow55
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenInventory18.PersonaNavBarWindow55.PersonaButtonBarWindow173.PersonaNavButtonWindow498
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenInventory18.PersonaNavBarWindow55.PersonaButtonBarWindow173.PersonaNavButtonWindow498
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenGoals6.PersonaNavBarWindow56.PersonaButtonBarWindow176.PersonaNavButtonWindow506
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenGoals6.PersonaNavBarWindow56.PersonaButtonBarWindow176.PersonaNavButtonWindow506
+Log: Assigning Last Button Window to PersonaButtonBarWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenConversations5.PersonaNavBarWindow57.PersonaButtonBarWindow179
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenConversations5.PersonaNavBarWindow57.PersonaButtonBarWindow179.PersonaNavButtonWindow516
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenConversations5.PersonaNavBarWindow57.PersonaButtonBarWindow179.PersonaNavButtonWindow516
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenGoals7.PersonaNavBarWindow58.PersonaButtonBarWindow182.PersonaNavButtonWindow526
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenGoals7.PersonaNavBarWindow58.PersonaButtonBarWindow182.PersonaNavButtonWindow526
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenSkills4.PersonaNavBarWindow59.PersonaButtonBarWindow185.PersonaNavButtonWindow534
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenSkills4.PersonaNavBarWindow59.PersonaButtonBarWindow185.PersonaNavButtonWindow534
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenGoals8.PersonaNavBarWindow60.PersonaButtonBarWindow188.PersonaNavButtonWindow542
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenGoals8.PersonaNavBarWindow60.PersonaButtonBarWindow188.PersonaNavButtonWindow542
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenConversations6.PersonaNavBarWindow61.PersonaButtonBarWindow191.PersonaNavButtonWindow550
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenConversations6.PersonaNavBarWindow61.PersonaButtonBarWindow191.PersonaNavButtonWindow550
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenImages7.PersonaNavBarWindow62.PersonaButtonBarWindow194.PersonaNavButtonWindow562
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenImages7.PersonaNavBarWindow62.PersonaButtonBarWindow194.PersonaNavButtonWindow562
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenSkills5.PersonaNavBarWindow63.PersonaButtonBarWindow197.PersonaNavButtonWindow572
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenSkills5.PersonaNavBarWindow63.PersonaButtonBarWindow197.PersonaNavButtonWindow572
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenAugmentations7.PersonaNavBarWindow64.PersonaButtonBarWindow200.PersonaNavButtonWindow582
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenAugmentations7.PersonaNavBarWindow64.PersonaButtonBarWindow200.PersonaNavButtonWindow582
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenHealth8.PersonaNavBarWindow65.PersonaButtonBarWindow204.PersonaNavButtonWindow589
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenHealth8.PersonaNavBarWindow65.PersonaButtonBarWindow204.PersonaNavButtonWindow589
+Log: Assigning Last Button Window to PersonaButtonBarWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenSkills6.PersonaNavBarWindow66.PersonaButtonBarWindow207
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenSkills6.PersonaNavBarWindow66.PersonaButtonBarWindow207.PersonaNavButtonWindow597
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenSkills6.PersonaNavBarWindow66.PersonaButtonBarWindow207.PersonaNavButtonWindow597
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenGoals9.PersonaNavBarWindow67.PersonaButtonBarWindow210.PersonaNavButtonWindow605
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenGoals9.PersonaNavBarWindow67.PersonaButtonBarWindow210.PersonaNavButtonWindow605
+Log: Assigning Last Button Window to PersonaNavBarWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenGoals9.PersonaNavBarWindow67
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenGoals9.PersonaNavBarWindow67.PersonaButtonBarWindow210.PersonaNavButtonWindow604
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenGoals9.PersonaNavBarWindow67.PersonaButtonBarWindow210.PersonaNavButtonWindow604
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenImages8.PersonaNavBarWindow68.PersonaButtonBarWindow213.PersonaNavButtonWindow614
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenImages8.PersonaNavBarWindow68.PersonaButtonBarWindow213.PersonaNavButtonWindow614
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenConversations7.PersonaNavBarWindow69.PersonaButtonBarWindow216.PersonaNavButtonWindow622
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenConversations7.PersonaNavBarWindow69.PersonaButtonBarWindow216.PersonaNavButtonWindow622
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenImages9.PersonaClientWindow70.PersonaScrollAreaWindow151.ClipWindow171.PersonaListWindow17
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.PersonaScreenImages9.PersonaClientWindow70.PersonaScrollAreaWindow151.ClipWindow171.PersonaListWindow17
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.MenuMain17.MenuUIClientWindow34.MenuUIMenuButtonWindow172
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.MenuScreenLoadGame6.MenuUIActionButtonBarWindow18.MenuUIActionButtonWindow49
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow9.MenuScreenLoadGame6.MenuUIActionButtonBarWindow18.MenuUIActionButtonWindow49
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=388?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 15_Area51_page
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_page.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_page
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DXFonts
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioMission15
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 46342->38078; refs: 838285
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_page.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_page.JCDentonMale1 started mission state machine for 15_AREA51_PAGE
+Log: Assigning Last Button Window to PersonaNavBarWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow10.PersonaScreenInventory20.PersonaNavBarWindow72
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow10.PersonaScreenInventory20.PersonaNavBarWindow72.PersonaButtonBarWindow225.PersonaNavButtonWindow650
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow10.PersonaScreenInventory20.PersonaNavBarWindow72.PersonaButtonBarWindow225.PersonaNavButtonWindow650
+Log: Assigning Last Button Window to PersonaNavBarWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow10.PersonaScreenConversations8.PersonaNavBarWindow73
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow10.PersonaScreenConversations8.PersonaNavBarWindow73.PersonaButtonBarWindow228.PersonaNavButtonWindow658
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow10.PersonaScreenConversations8.PersonaNavBarWindow73.PersonaButtonBarWindow228.PersonaNavButtonWindow658
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow10.PersonaScreenImages10.PersonaNavBarWindow74.PersonaButtonBarWindow231.PersonaNavButtonWindow669
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow10.PersonaScreenImages10.PersonaNavBarWindow74.PersonaButtonBarWindow231.PersonaNavButtonWindow669
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow10.PersonaScreenImages10.PersonaClientWindow74.PersonaScrollAreaWindow160.ClipWindow181.PersonaListWindow19
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow10.PersonaScreenImages10.PersonaClientWindow74.PersonaScrollAreaWindow160.ClipWindow181.PersonaListWindow19
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 15_Area51_page
+Log: Unloading: Package saveInfo
+Log: Save=10.815144
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=230.837356
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission15
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow10.MenuMain18.MenuUIClientWindow36.MenuUIMenuButtonWindow182
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow10.MenuScreenLoadGame7.MenuUIActionButtonBarWindow19.MenuUIActionButtonWindow52
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow10.MenuScreenLoadGame7.MenuUIActionButtonBarWindow19.MenuUIActionButtonWindow52
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-1?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_page.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_page
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConAudioMission15
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 46257->38079; refs: 838291
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_page.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_page.JCDentonMale1 started mission state machine for 15_AREA51_PAGE
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow11.MenuMain19.MenuUIClientWindow38.MenuUIMenuButtonWindow192
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow11.MenuScreenLoadGame8.MenuUIActionButtonBarWindow20.MenuUIActionButtonWindow55
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow11.MenuScreenLoadGame8.MenuUIActionButtonBarWindow20.MenuUIActionButtonWindow55
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-1?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 15_Area51_page
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_page.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_page
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 46238->38079; refs: 838291
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_page.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_page.JCDentonMale1 started mission state machine for 15_AREA51_PAGE
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow12.MenuMain20.MenuUIClientWindow40.MenuUIMenuButtonWindow202
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow12.MenuScreenLoadGame9.MenuUIActionButtonBarWindow21.MenuUIActionButtonWindow58
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow12.MenuScreenLoadGame9.MenuUIActionButtonBarWindow21.MenuUIActionButtonWindow58
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-1?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 15_Area51_page
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_page.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_page
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 46208->38079; refs: 838291
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_page.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_page.JCDentonMale1 started mission state machine for 15_AREA51_PAGE
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow13.MenuMain21.MenuUIClientWindow42.MenuUIMenuButtonWindow212
+Log: Assigning Last Button Window to MenuUIListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow13.MenuScreenLoadGame10.MenuUIClientWindow43.MenuUIScrollAreaWindow16.ClipWindow185.MenuUIListWindow16
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow13.MenuScreenLoadGame10.MenuUIActionButtonBarWindow22.MenuUIActionButtonWindow61
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow13.MenuScreenLoadGame10.MenuUIActionButtonBarWindow22.MenuUIActionButtonWindow61
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=388?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 15_Area51_page
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_page.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_page
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 46216->38078; refs: 838285
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_page.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_page.JCDentonMale1 started mission state machine for 15_AREA51_PAGE
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission15
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow14.PersonaScreenInventory21.PersonaNavBarWindow75.PersonaButtonBarWindow234.PersonaNavButtonWindow681
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow14.PersonaScreenInventory21.PersonaNavBarWindow75.PersonaButtonBarWindow234.PersonaNavButtonWindow681
+Log: Assigning Last Button Window to PersonaHealthActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow14.PersonaScreenHealth9.PersonaClientWindow76.PersonaHealthRegionWindow55.PersonaHealthActionButtonWindow55
+Log: Tried to remove lastbuttonwindow descendant. PersonaHealthActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow14.PersonaScreenHealth9.PersonaClientWindow76.PersonaHealthRegionWindow55.PersonaHealthActionButtonWindow55
+Log: FAILING FBJ: nc -90.890976 from odS 355.025024 and dS 445.916016 and dz -385.514160 success 0
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 15_Area51_page
+Log: Unloading: Package saveInfo
+Log: Save=10.597859
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=241.194447
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=15.608637
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=232.538687
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow14.PersonaScreenInventory22.PersonaNavBarWindow77.PersonaButtonBarWindow240.PersonaNavButtonWindow699
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow14.PersonaScreenInventory22.PersonaNavBarWindow77.PersonaButtonBarWindow240.PersonaNavButtonWindow699
+Log: Assigning Last Button Window to PersonaHealthActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow14.PersonaScreenHealth10.PersonaClientWindow78.PersonaHealthRegionWindow63.PersonaHealthActionButtonWindow63
+Log: Tried to remove lastbuttonwindow descendant. PersonaHealthActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow14.PersonaScreenHealth10.PersonaClientWindow78.PersonaHealthRegionWindow63.PersonaHealthActionButtonWindow63
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=14.907841
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=234.450439
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=14.378294
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=230.135668
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=15.828917
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=228.492927
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Assigning Last Button Window to MenuUIClientWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow14.MenuUIMessageBoxWindow3.MenuUIClientWindow44
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow14.MenuUIMessageBoxWindow3.MenuUIActionButtonBarWindow23.MenuUIActionButtonWindow64
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow14.MenuUIMessageBoxWindow3.MenuUIActionButtonBarWindow23.MenuUIActionButtonWindow64
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-1?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_page.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_page
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioMission15
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 46596->38074; refs: 838097
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_page.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_page.JCDentonMale1 started mission state machine for 15_AREA51_PAGE
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow15.MenuUIMessageBoxWindow4.MenuUIActionButtonBarWindow24.MenuUIActionButtonWindow66
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow15.MenuUIMessageBoxWindow4.MenuUIActionButtonBarWindow24.MenuUIActionButtonWindow66
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-1?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 15_Area51_page
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_page.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_page
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 45534->38074; refs: 838097
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_page.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_page.JCDentonMale1 started mission state machine for 15_AREA51_PAGE
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 15_Area51_page
+Log: Unloading: Package saveInfo
+Log: Save=14.029795
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=232.439542
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=15.180018
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=233.523692
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=13.665997
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=230.078352
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission15
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow16.PersonaScreenInventory23.PersonaNavBarWindow79.PersonaButtonBarWindow246.PersonaNavButtonWindow717
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow16.PersonaScreenInventory23.PersonaNavBarWindow79.PersonaButtonBarWindow246.PersonaNavButtonWindow717
+Log: Assigning Last Button Window to PersonaHealthActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow16.PersonaScreenHealth11.PersonaClientWindow80.PersonaHealthRegionWindow67.PersonaHealthActionButtonWindow67
+Log: Tried to remove lastbuttonwindow descendant. PersonaHealthActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow16.PersonaScreenHealth11.PersonaClientWindow80.PersonaHealthRegionWindow67.PersonaHealthActionButtonWindow67
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow16.MenuMain23.MenuUIClientWindow47.MenuUIMenuButtonWindow232
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow16.MenuScreenLoadGame11.MenuUIActionButtonBarWindow25.MenuUIActionButtonWindow68
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow16.MenuScreenLoadGame11.MenuUIActionButtonBarWindow25.MenuUIActionButtonWindow68
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-1?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_page.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_page
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConAudioMission15
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DXFonts
+Log: Garbage: objects: 48026->38135; refs: 840827
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_page.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_page.JCDentonMale1 started mission state machine for 15_AREA51_PAGE
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenInventory24.PersonaNavBarWindow81.PersonaButtonBarWindow252.PersonaNavButtonWindow735
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenInventory24.PersonaNavBarWindow81.PersonaButtonBarWindow252.PersonaNavButtonWindow735
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenHealth12.PersonaNavBarWindow82.PersonaButtonBarWindow255.PersonaNavButtonWindow743
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenHealth12.PersonaNavBarWindow82.PersonaButtonBarWindow255.PersonaNavButtonWindow743
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenAugmentations8.PersonaNavBarWindow83.PersonaButtonBarWindow258.PersonaNavButtonWindow751
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenAugmentations8.PersonaNavBarWindow83.PersonaButtonBarWindow258.PersonaNavButtonWindow751
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenSkills7.PersonaNavBarWindow84.PersonaButtonBarWindow262.PersonaNavButtonWindow759
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenSkills7.PersonaNavBarWindow84.PersonaButtonBarWindow262.PersonaNavButtonWindow759
+Log: Assigning Last Button Window to PersonaButtonBarWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenGoals10.PersonaNavBarWindow85.PersonaButtonBarWindow265
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenGoals10.PersonaNavBarWindow85.PersonaButtonBarWindow265.PersonaNavButtonWindow767
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenGoals10.PersonaNavBarWindow85.PersonaButtonBarWindow265.PersonaNavButtonWindow767
+Log: Assigning Last Button Window to PersonaButtonBarWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenConversations9.PersonaNavBarWindow86.PersonaButtonBarWindow268
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenConversations9.PersonaNavBarWindow86.PersonaButtonBarWindow268.PersonaNavButtonWindow775
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenConversations9.PersonaNavBarWindow86.PersonaButtonBarWindow268.PersonaNavButtonWindow775
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenImages11.PersonaClientWindow87.PersonaScrollAreaWindow189.ClipWindow215.PersonaListWindow21
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenImages11.PersonaClientWindow87.PersonaScrollAreaWindow189.ClipWindow215.PersonaListWindow21
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission15
+Log: Assigning Last Button Window to PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.HUDRechargeWindow0.PersonaButtonBarWindow274.PersonaActionButtonWindow226
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.HUDRechargeWindow0.PersonaButtonBarWindow274.PersonaActionButtonWindow226
+Log: Assigning Last Button Window to PersonaNavBarWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenInventory25.PersonaNavBarWindow88
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenInventory25.PersonaNavBarWindow88.PersonaButtonBarWindow275.PersonaNavButtonWindow798
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenInventory25.PersonaNavBarWindow88.PersonaButtonBarWindow275.PersonaNavButtonWindow798
+Log: Assigning Last Button Window to PersonaHealthRegionWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenHealth13.PersonaClientWindow89.PersonaHealthRegionWindow79
+Log: Assigning Last Button Window to PersonaHealthActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenHealth13.PersonaClientWindow89.PersonaHealthRegionWindow79.PersonaHealthActionButtonWindow79
+Log: Tried to remove lastbuttonwindow descendant. PersonaHealthActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.PersonaScreenHealth13.PersonaClientWindow89.PersonaHealthRegionWindow79.PersonaHealthActionButtonWindow79
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.MenuMain25.MenuUIClientWindow50.MenuUIMenuButtonWindow252
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.MenuScreenLoadGame12.MenuUIActionButtonBarWindow26.MenuUIActionButtonWindow71
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow17.MenuScreenLoadGame12.MenuUIActionButtonBarWindow26.MenuUIActionButtonWindow71
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-1?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 15_Area51_page
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_page.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_page
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConAudioMission15
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DXFonts
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 46339->38135; refs: 840827
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_page.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_page.JCDentonMale1 started mission state machine for 15_AREA51_PAGE
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission15
+Log: Assigning Last Button Window to PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow18.HUDRechargeWindow1.PersonaButtonBarWindow281.PersonaActionButtonWindow233
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow18.HUDRechargeWindow1.PersonaButtonBarWindow281.PersonaActionButtonWindow233
+Log: Assigning Last Button Window to PersonaNavBarWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow18.PersonaScreenInventory26.PersonaNavBarWindow90
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow18.PersonaScreenInventory26.PersonaNavBarWindow90.PersonaButtonBarWindow282.PersonaNavButtonWindow816
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow18.PersonaScreenInventory26.PersonaNavBarWindow90.PersonaButtonBarWindow282.PersonaNavButtonWindow816
+Log: Assigning Last Button Window to PersonaHealthActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow18.PersonaScreenHealth14.PersonaClientWindow91.PersonaHealthRegionWindow85.PersonaHealthActionButtonWindow85
+Log: Tried to remove lastbuttonwindow descendant. PersonaHealthActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow18.PersonaScreenHealth14.PersonaClientWindow91.PersonaHealthRegionWindow85.PersonaHealthActionButtonWindow85
+Log: Loading: Package DXFonts
+ScriptWarning: LAM 15_Area51_page.LAM0 (Function DeusEx.ThrownProjectile.Flying.Explode:001F) Accessed None
+ScriptWarning: LAM 15_Area51_page.LAM0 (Function DeusEx.ThrownProjectile.Flying.Explode:00DA) Accessed None
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow18.MenuMain28.MenuUIClientWindow54.MenuUIMenuButtonWindow282
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow18.MenuScreenLoadGame13.MenuUIActionButtonBarWindow27.MenuUIActionButtonWindow74
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow18.MenuScreenLoadGame13.MenuUIActionButtonBarWindow27.MenuUIActionButtonWindow74
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-1?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 15_Area51_page
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_page.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_page
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConAudioMission15
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 47484->38135; refs: 840827
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_page.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_page.JCDentonMale1 started mission state machine for 15_AREA51_PAGE
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission15
+Log: Assigning Last Button Window to PersonaNavBarWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow19.PersonaScreenInventory27.PersonaNavBarWindow92
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow19.PersonaScreenInventory27.PersonaNavBarWindow92.PersonaButtonBarWindow288.PersonaNavButtonWindow834
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow19.PersonaScreenInventory27.PersonaNavBarWindow92.PersonaButtonBarWindow288.PersonaNavButtonWindow834
+Log: Assigning Last Button Window to PersonaHealthActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow19.PersonaScreenHealth15.PersonaClientWindow93.PersonaHealthRegionWindow91.PersonaHealthActionButtonWindow91
+Log: Tried to remove lastbuttonwindow descendant. PersonaHealthActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow19.PersonaScreenHealth15.PersonaClientWindow93.PersonaHealthRegionWindow91.PersonaHealthActionButtonWindow91
+Log: Assigning Last Button Window to PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow19.HUDRechargeWindow2.PersonaButtonBarWindow294.PersonaActionButtonWindow245
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow19.HUDRechargeWindow2.PersonaButtonBarWindow294.PersonaActionButtonWindow245
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow19.MenuMain30.MenuUIClientWindow57.MenuUIMenuButtonWindow301
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUILoadSaveEditWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow19.MenuScreenSaveGame6.MenuUIClientWindow58.MenuUIScrollAreaWindow20.ClipWindow233.MenuUIListWindow20.ClipWindow234.MenuUILoadSaveEditWindow6
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow19.MenuScreenSaveGame6.MenuUIActionButtonBarWindow28.MenuUIActionButtonWindow77
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow19.MenuScreenSaveGame6.MenuUIActionButtonBarWindow28.MenuUIActionButtonWindow77
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 15_Area51_page
+Log: Unloading: Package saveInfo
+Log: Save=11.943827
+Log: Moving '..\Save\Save0389\Save.tmp' to '..\Save\Save0389\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=234.062797
+Log: Moving '..\Save\Save0389\Save.tmp' to '..\Save\Save0389\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=16.618519
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=227.187885
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow19.MenuMain31.MenuUIClientWindow59.MenuUIMenuButtonWindow312
+Log: Assigning Last Button Window to MenuUIListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow19.MenuScreenLoadGame14.MenuUIClientWindow60.MenuUIScrollAreaWindow21.ClipWindow235.MenuUIListWindow21
+Log: Tried to remove lastbuttonwindow descendant. MenuUIListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow19.MenuScreenLoadGame14.MenuUIClientWindow60.MenuUIScrollAreaWindow21.ClipWindow235.MenuUIListWindow21
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-1?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_page.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_page
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConAudioMission15
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 47001->38079; refs: 837470
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_page.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_page.JCDentonMale1 started mission state machine for 15_AREA51_PAGE
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to PersonaInventoryItemButton 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenInventory28.PersonaClientWindow94.Window856.PersonaInventoryItemButton361
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenInventory28.PersonaNavBarWindow94.PersonaButtonBarWindow295.PersonaNavButtonWindow852
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenInventory28.PersonaNavBarWindow94.PersonaButtonBarWindow295.PersonaNavButtonWindow852
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenHealth16.PersonaNavBarWindow95.PersonaButtonBarWindow298.PersonaNavButtonWindow860
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenHealth16.PersonaNavBarWindow95.PersonaButtonBarWindow298.PersonaNavButtonWindow860
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenAugmentations9.PersonaClientWindow96.PersonaAugmentationItemButton113
+Log: Assigning Last Button Window to PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenAugmentations9.PersonaClientWindow96.PersonaButtonBarWindow303.PersonaActionButtonWindow251
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenAugmentations9.PersonaClientWindow96.PersonaButtonBarWindow303.PersonaActionButtonWindow251
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenInventory29.PersonaNavBarWindow97.PersonaButtonBarWindow305.PersonaNavButtonWindow876
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenInventory29.PersonaNavBarWindow97.PersonaButtonBarWindow305.PersonaNavButtonWindow876
+Log: Assigning Last Button Window to PersonaGoalTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenGoals11.PersonaClientWindow98.PersonaScrollAreaWindow216.ClipWindow247.TileWindow266.PersonaGoalItemWindow54.PersonaGoalTextWindow109
+Log: Assigning Last Button Window to PersonaGoalTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenGoals11.PersonaClientWindow98.PersonaScrollAreaWindow216.ClipWindow247.TileWindow266.PersonaGoalItemWindow55.PersonaGoalTextWindow111
+Log: Assigning Last Button Window to PersonaGoalTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenGoals11.PersonaClientWindow98.PersonaScrollAreaWindow216.ClipWindow247.TileWindow266.PersonaGoalItemWindow56.PersonaGoalTextWindow113
+Log: Assigning Last Button Window to PersonaGoalTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenGoals11.PersonaClientWindow98.PersonaScrollAreaWindow216.ClipWindow247.TileWindow266.PersonaGoalItemWindow58.PersonaGoalTextWindow117
+Log: Assigning Last Button Window to PersonaGoalTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenGoals11.PersonaClientWindow98.PersonaScrollAreaWindow216.ClipWindow247.TileWindow266.PersonaGoalItemWindow57.PersonaGoalTextWindow115
+Log: Assigning Last Button Window to PersonaGoalTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenGoals11.PersonaClientWindow98.PersonaScrollAreaWindow216.ClipWindow247.TileWindow266.PersonaGoalItemWindow57.PersonaGoalTextWindow115
+Log: Assigning Last Button Window to PersonaGoalTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenGoals11.PersonaClientWindow98.PersonaScrollAreaWindow216.ClipWindow247.TileWindow266.PersonaGoalItemWindow57.PersonaGoalTextWindow115
+Log: Assigning Last Button Window to PersonaGoalTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenGoals11.PersonaClientWindow98.PersonaScrollAreaWindow216.ClipWindow247.TileWindow266.PersonaGoalItemWindow58.PersonaGoalTextWindow117
+Log: Assigning Last Button Window to PersonaGoalTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenGoals11.PersonaClientWindow98.PersonaScrollAreaWindow216.ClipWindow247.TileWindow266.PersonaGoalItemWindow56.PersonaGoalTextWindow113
+Log: Tried to remove lastbuttonwindow descendant. PersonaGoalTextWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenGoals11.PersonaClientWindow98.PersonaScrollAreaWindow216.ClipWindow247.TileWindow266.PersonaGoalItemWindow56.PersonaGoalTextWindow113
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 15_Area51_page
+Log: Unloading: Package saveInfo
+Log: Save=11.627628
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=230.764370
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenInventory30.PersonaNavBarWindow99.PersonaButtonBarWindow311.PersonaNavButtonWindow893
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenInventory30.PersonaNavBarWindow99.PersonaButtonBarWindow311.PersonaNavButtonWindow893
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenConversations10.PersonaNavBarWindow100.PersonaButtonBarWindow314.PersonaNavButtonWindow901
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenConversations10.PersonaNavBarWindow100.PersonaButtonBarWindow314.PersonaNavButtonWindow901
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenImages12.PersonaClientWindow101.PersonaScrollAreaWindow223.ClipWindow254.PersonaListWindow23
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenImages12.PersonaClientWindow101.PersonaScrollAreaWindow223.ClipWindow254.PersonaListWindow23
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenImages12.PersonaClientWindow101.PersonaScrollAreaWindow223.ClipWindow254.PersonaListWindow23
+Log: Assigning Last Button Window to PersonaInventoryItemButton 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenInventory31.PersonaClientWindow102.Window890.PersonaInventoryItemButton408
+Log: Assigning Last Button Window to PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenInventory31.PersonaClientWindow102.PersonaButtonBarWindow322.PersonaActionButtonWindow271
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.PersonaScreenInventory31.PersonaClientWindow102.PersonaButtonBarWindow322.PersonaActionButtonWindow271
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to HUDRechargeWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.HUDRechargeWindow3
+Log: Assigning Last Button Window to PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.HUDRechargeWindow3.PersonaButtonBarWindow323.PersonaActionButtonWindow274
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.HUDRechargeWindow3.PersonaButtonBarWindow323.PersonaActionButtonWindow274
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.MenuMain33.MenuUIClientWindow62.MenuUIMenuButtonWindow331
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUILoadSaveEditWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.MenuScreenSaveGame7.MenuUIClientWindow63.MenuUIScrollAreaWindow22.ClipWindow258.MenuUIListWindow22.ClipWindow259.MenuUILoadSaveEditWindow7
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.MenuScreenSaveGame7.MenuUIActionButtonBarWindow30.MenuUIActionButtonWindow83
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.MenuScreenSaveGame7.MenuUIActionButtonBarWindow30.MenuUIActionButtonWindow83
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=43.728130
+Log: Moving '..\Save\Save0390\Save.tmp' to '..\Save\Save0390\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=244.037506
+Log: Moving '..\Save\Save0390\Save.tmp' to '..\Save\Save0390\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission15
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.MenuMain34.MenuUIClientWindow64.MenuUIMenuButtonWindow341
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIListWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.MenuScreenSaveGame8.MenuUIClientWindow65.MenuUIScrollAreaWindow23.ClipWindow260.MenuUIListWindow23
+Log: Assigning Last Button Window to MenuUILoadSaveEditWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.MenuScreenSaveGame8.MenuUIClientWindow65.MenuUIScrollAreaWindow23.ClipWindow260.MenuUIListWindow23.ClipWindow261.MenuUILoadSaveEditWindow8
+Log: Assigning Last Button Window to MenuScreenSaveGame 15_Area51_page.JCDentonMale1.DeusExRootWindow20.MenuScreenSaveGame8
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.MenuScreenSaveGame8.MenuUIActionButtonBarWindow31.MenuUIActionButtonWindow86
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_page.JCDentonMale1.DeusExRootWindow20.MenuScreenSaveGame8.MenuUIActionButtonBarWindow31.MenuUIActionButtonWindow86
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=27.608500
+Log: Moving '..\Save\Save0391\Save.tmp' to '..\Save\Save0391\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=229.300552
+Log: Moving '..\Save\Save0391\Save.tmp' to '..\Save\Save0391\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Export travel for: Player
+Log: Browse: 15_Area51_final?Name=Player?Class=DeusEx.JCDentonMale#final_end
+Log: Doing load, not loadgame
+Log: Current mission number is 15, next is 15
+Log: Attempting to get player
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Save=226.061977
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\15_Area51_page.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_page.MyLevel
+Log: LoadMap: ..\Save\Current\15_Area51_final.dxs?Name=Player?Class=DeusEx.JCDentonMale#final_end
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_final
+Log: Loading: Package CoreTexConcrete
+Log: Loading: Package CoreTexEarth
+Init: Shut down moving brush tracker for Level 15_Area51_page.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConAudioMission15
+Log: Unloading: Package DXFonts
+Log: Unloading: Package MJ12_lab
+Log: Unloading: Package HK_MJ12Lab
+Log: Unloading: Package BobPage
+Log: Unloading: Package G_Station
+Log: Unloading: Package CoreTexTiles
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 48750->37655; refs: 686253
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_final.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 15_Area51_final.JCDentonMale2 started mission state machine for 15_AREA51_FINAL
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.MenuMain35.MenuUIClientWindow66.MenuUIMenuButtonWindow351
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIListWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.MenuScreenSaveGame9.MenuUIClientWindow67.MenuUIScrollAreaWindow24.ClipWindow262.MenuUIListWindow24
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.MenuScreenSaveGame9.MenuUIActionButtonBarWindow32.MenuUIActionButtonWindow89
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.MenuUIMessageBoxWindow5.MenuUIActionButtonBarWindow33.MenuUIActionButtonWindow92
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.MenuUIMessageBoxWindow5.MenuUIActionButtonBarWindow33.MenuUIActionButtonWindow92
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 15_Area51_final
+Log: Unloading: Package saveInfo
+Log: Save=95.716596
+Log: Moving '..\Save\Save0391\Save.tmp' to '..\Save\Save0391\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Save=217.710834
+Log: Moving '..\Save\Save0391\Save.tmp' to '..\Save\Save0391\15_Area51_final.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenInventory32.PersonaNavBarWindow103.PersonaButtonBarWindow324.PersonaNavButtonWindow929
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenInventory32.PersonaNavBarWindow103.PersonaButtonBarWindow324.PersonaNavButtonWindow929
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenConversations11.PersonaNavBarWindow104.PersonaButtonBarWindow327.PersonaNavButtonWindow939
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenConversations11.PersonaNavBarWindow104.PersonaButtonBarWindow327.PersonaNavButtonWindow939
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenGoals12.PersonaNavBarWindow105.PersonaButtonBarWindow330.PersonaNavButtonWindow949
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenGoals12.PersonaNavBarWindow105.PersonaButtonBarWindow330.PersonaNavButtonWindow949
+Log: Assigning Last Button Window to PersonaNavBarWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenSkills8.PersonaNavBarWindow106
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenSkills8.PersonaNavBarWindow106.PersonaButtonBarWindow333.PersonaNavButtonWindow956
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenSkills8.PersonaNavBarWindow106.PersonaButtonBarWindow333.PersonaNavButtonWindow956
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenConversations12.PersonaNavBarWindow107.PersonaButtonBarWindow336.PersonaNavButtonWindow964
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenConversations12.PersonaNavBarWindow107.PersonaButtonBarWindow336.PersonaNavButtonWindow964
+Log: Assigning Last Button Window to PersonaListWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenImages13.PersonaClientWindow108.PersonaScrollAreaWindow237.ClipWindow274.PersonaListWindow26
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenImages13.PersonaClientWindow108.PersonaScrollAreaWindow237.ClipWindow274.PersonaListWindow26
+Log: Assigning Last Button Window to PersonaInventoryItemButton 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenInventory33.PersonaClientWindow109.Window950.PersonaInventoryItemButton434
+Log: Assigning Last Button Window to PersonaActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenInventory33.PersonaClientWindow109.PersonaButtonBarWindow344.PersonaActionButtonWindow292
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenInventory33.PersonaClientWindow109.PersonaButtonBarWindow344.PersonaActionButtonWindow292
+Log: Assigning Last Button Window to PersonaActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.HUDMedBotHealthScreen0.PersonaClientWindow110.PersonaButtonBarWindow347.PersonaActionButtonWindow294
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.HUDMedBotHealthScreen0.PersonaClientWindow110.PersonaButtonBarWindow347.PersonaActionButtonWindow294
+Log: Assigning Last Button Window to PersonaInventoryItemButton 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenInventory34.PersonaClientWindow111.Window957.PersonaInventoryItemButton447
+Log: Assigning Last Button Window to PersonaActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenInventory34.PersonaClientWindow111.PersonaButtonBarWindow350.PersonaActionButtonWindow297
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenInventory34.PersonaClientWindow111.PersonaButtonBarWindow350.PersonaActionButtonWindow297
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.MenuMain36.MenuUIClientWindow69.MenuUIMenuButtonWindow361
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUILoadSaveEditWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.MenuScreenSaveGame10.MenuUIClientWindow70.MenuUIScrollAreaWindow25.ClipWindow282.MenuUIListWindow25.ClipWindow283.MenuUILoadSaveEditWindow10
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.MenuScreenSaveGame10.MenuUIActionButtonBarWindow34.MenuUIActionButtonWindow94
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.MenuScreenSaveGame10.MenuUIActionButtonBarWindow34.MenuUIActionButtonWindow94
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=13.694339
+Log: Moving '..\Save\Save0392\Save.tmp' to '..\Save\Save0392\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Save=205.995371
+Log: Moving '..\Save\Save0392\Save.tmp' to '..\Save\Save0392\15_Area51_final.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission15
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=15.666555
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Save=197.699240
+Log: Moving '..\Save\QuickSave\Save.tmp' to '..\Save\QuickSave\15_Area51_final.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Assigning Last Button Window to PersonaInventoryItemButton 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenInventory35.PersonaClientWindow112.Window971.PersonaInventoryItemButton460
+Log: Assigning Last Button Window to PersonaActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenInventory35.PersonaClientWindow112.PersonaButtonBarWindow353.PersonaActionButtonWindow301
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenInventory35.PersonaClientWindow112.PersonaButtonBarWindow353.PersonaActionButtonWindow301
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenInventory36.PersonaNavBarWindow112.PersonaButtonBarWindow354.PersonaNavButtonWindow1017
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenInventory36.PersonaNavBarWindow112.PersonaButtonBarWindow354.PersonaNavButtonWindow1017
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenHealth17.PersonaNavBarWindow113.PersonaButtonBarWindow357.PersonaNavButtonWindow1025
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenHealth17.PersonaNavBarWindow113.PersonaButtonBarWindow357.PersonaNavButtonWindow1025
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenAugmentations10.PersonaNavBarWindow114.PersonaButtonBarWindow360.PersonaNavButtonWindow1033
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenAugmentations10.PersonaNavBarWindow114.PersonaButtonBarWindow360.PersonaNavButtonWindow1033
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenSkills9.PersonaNavBarWindow115.PersonaButtonBarWindow364.PersonaNavButtonWindow1041
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenSkills9.PersonaNavBarWindow115.PersonaButtonBarWindow364.PersonaNavButtonWindow1041
+Log: Assigning Last Button Window to PersonaNotesEditWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenGoals13.PersonaClientWindow117.PersonaScrollAreaWindow258.ClipWindow297.TileWindow301.PersonaNotesEditWindow1991
+Log: Tried to remove lastbuttonwindow descendant. PersonaNotesEditWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.PersonaScreenGoals13.PersonaClientWindow117.PersonaScrollAreaWindow258.ClipWindow297.TileWindow301.PersonaNotesEditWindow1991
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.MenuMain37.MenuUIClientWindow71.MenuUIMenuButtonWindow371
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIClientWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.MenuScreenSaveGame11.MenuUIClientWindow72
+Log: Assigning Last Button Window to MenuUILoadSaveEditWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.MenuScreenSaveGame11.MenuUIClientWindow72.MenuUIScrollAreaWindow26.ClipWindow298.MenuUIListWindow26.ClipWindow299.MenuUILoadSaveEditWindow11
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.MenuScreenSaveGame11.MenuUIActionButtonBarWindow35.MenuUIActionButtonWindow97
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.MenuScreenSaveGame11.MenuUIActionButtonBarWindow35.MenuUIActionButtonWindow97
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=14.751940
+Log: Moving '..\Save\Save0393\Save.tmp' to '..\Save\Save0393\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Save=206.531009
+Log: Moving '..\Save\Save0393\Save.tmp' to '..\Save\Save0393\15_Area51_final.dxs'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.MenuMain38.MenuUIClientWindow73.MenuUIMenuButtonWindow382
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.MenuScreenLoadGame15.MenuUIActionButtonBarWindow36.MenuUIActionButtonWindow100
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow21.MenuScreenLoadGame15.MenuUIActionButtonBarWindow36.MenuUIActionButtonWindow100
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=393?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\15_Area51_final.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 15_Area51_final
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConAudioMission15
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 46315->38045; refs: 692961
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 15_Area51_final.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission15'
+Init: Initialized moving brush tracker for Level 15_Area51_final.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package DeusExConAudioMission15
+ScriptLog: **** InitStateMachine() - 15_Area51_final.JCDentonMale2 started mission state machine for 15_AREA51_FINAL
+Log: Assigning Last Button Window to PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow22.PersonaScreenInventory37.PersonaNavBarWindow117.PersonaButtonBarWindow370.PersonaNavButtonWindow1062
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow22.PersonaScreenInventory37.PersonaNavBarWindow117.PersonaButtonBarWindow370.PersonaNavButtonWindow1062
+Log: Assigning Last Button Window to PersonaHealthActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow22.PersonaScreenHealth18.PersonaClientWindow119.PersonaHealthRegionWindow131.PersonaHealthActionButtonWindow131
+Log: Assigning Last Button Window to PersonaHealthActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow22.PersonaScreenHealth18.PersonaClientWindow119.PersonaHealthRegionWindow130.PersonaHealthActionButtonWindow130
+Log: Tried to remove lastbuttonwindow descendant. PersonaHealthActionButtonWindow 15_Area51_final.JCDentonMale2.DeusExRootWindow22.PersonaScreenHealth18.PersonaClientWindow119.PersonaHealthRegionWindow130.PersonaHealthActionButtonWindow130
+Log: Export travel for: Player
+Log: Browse: 99_Endgame1?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing load, not loadgame
+Log: Current mission number is 15, next is 99
+Log: Attempting to get player
+Log: Unloading: Package 15_Area51_final
+Log: LoadMap: 99_Endgame1?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 99_Endgame1
+Log: Loading: Package CoreTexStone
+Log: Loading: Package HK_MJ12Lab
+Log: Loading: Package BobPage
+Log: Loading: Package CoreTexTiles
+Log: Loading: Package Endgame1_Music
+Init: Shut down moving brush tracker for Level 15_Area51_final.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package Area51_Music
+Log: Unloading: Package CoreTexEarth
+DevMusic: Unregister music: Music Area51_Music.Area51_Music
+Log: Unloading: Package DeusExConAudioMission15
+Log: Unloading: Package CoreTexConcrete
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 45879->34961; refs: 451941
+Log: Game class is 'DeusExGameInfo'
+Log: Bringing Level 99_Endgame1.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Name=Player?Class=DeusEx.JCDentonMale
+ScriptLog: Base Mutator is 99_Endgame1.Mutator3
+Log: Loading: Package DeusExConText
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.MissionEndgame'
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 99_Endgame1.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+Init: Initialized moving brush tracker for Level 99_Endgame1.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music Endgame1_Music.Endgame1_Music
+ScriptLog: **** InitStateMachine() - 99_Endgame1.JCDentonMale2 started mission state machine for ENDGAME1
+Log: Loading: Package DeusExe
+Log: Loading: Package DeusExConAudioEndGame
+Log: Loading: Package Credits_Music
+DevMusic: Unregister music: Music Endgame1_Music.Endgame1_Music
+DevMusic: Load music: Music Credits_Music.Credits_Music
+Log: Assigning Last Button Window to Window 99_Endgame1.JCDentonMale2.DeusExRootWindow23.CreditsWindow0.Window1061
+Log: Tried to remove lastbuttonwindow descendant. Window 99_Endgame1.JCDentonMale2.DeusExRootWindow23.CreditsWindow0.Window1061
+Log: Export travel for: Player
+Log: Browse: dxonly?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing load, not loadgame
+Log: Current mission number is 99, next is -1
+Log: Unloading: Package 99_Endgame1
+Log: LoadMap: dxonly?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package dxonly
+Init: Shut down moving brush tracker for Level 99_Endgame1.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package area51textures
+Log: Unloading: Package Constructor
+Log: Unloading: Package Cmd_tunnels
+Log: Unloading: Package CoreTexGlass
+Log: Unloading: Package CoreTexMetal
+Log: Unloading: Package OceanLab
+Log: Unloading: Package CoreTexMisc
+Log: Unloading: Package Rocket
+Log: Unloading: Package V_Com_Center
+Log: Unloading: Package CoreTexDetail
+Log: Unloading: Package CoreTexStone
+Log: Unloading: Package HK_MJ12Lab
+Log: Unloading: Package BobPage
+Log: Unloading: Package CoreTexTiles
+Log: Unloading: Package Endgame1_Music
+Log: Unloading: Package Credits_Music
+Log: Unloading: Package DeusExe
+DevMusic: Unregister music: Music Credits_Music.Credits_Music
+Log: Unloading: Package DeusExConAudioEndGame
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 35934->33895; refs: 372656
+Log: Game class is 'DeusExGameInfo'
+Log: Bringing Level dxonly.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Name=Player?Class=DeusEx.JCDentonMale
+ScriptLog: Base Mutator is dxonly.Mutator4
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale dxonly.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+Init: Initialized moving brush tracker for Level dxonly.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music Title_Music.Title_Music
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow dxonly.JCDentonMale3.DeusExRootWindow24.MenuMain39.MenuUIClientWindow75.MenuUIMenuButtonWindow399
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow dxonly.JCDentonMale3.DeusExRootWindow24.MenuMain39.MenuUIClientWindow75.MenuUIMenuButtonWindow399
+Log: Assigning Last Button Window to MenuUIActionButtonWindow dxonly.JCDentonMale3.DeusExRootWindow24.MenuUIMessageBoxWindow6.MenuUIActionButtonBarWindow37.MenuUIActionButtonWindow103
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow dxonly.JCDentonMale3.DeusExRootWindow24.MenuUIMessageBoxWindow6.MenuUIActionButtonBarWindow37.MenuUIActionButtonWindow103
+Log: appRequestExit(0)
+Exit: Preparing to exit.
+Log: Purging garbage
+Log: Unbound to Window.dll
+Log: Unbound to Core.dll
+Log: Unbound to Extension.dll
+Log: Unbound to Engine.dll
+Log: Unbound to DeusEx.dll
+Log: Unbound to ConSys.dll
+Log: Unloading: Package DeusEx
+Log: Unloading: Package Core
+Log: Unloading: Package Engine
+Log: Unloading: Package Extension
+Log: Unloading: Package DeusExCharacters
+Log: Unloading: Package DeusExUI
+Log: Unloading: Package DeusExItems
+Log: Unloading: Package Effects
+Log: Unbound to Fire.dll
+Log: Unloading: Package Fire
+Log: Unloading: Package ConSys
+Log: Unloading: Package DeusExSounds
+Log: Unloading: Package DeusExDeco
+Log: Unloading: Package UBrowser
+Log: Unloading: Package UWindow
+Log: Unbound to IpDrv.dll
+Log: Unloading: Package IpDrv
+Log: Unbound to DeusExText.dll
+Log: Unloading: Package DeusExText
+Log: Unloading: Package Ambient
+Log: Unloading: Package MoverSFX
+Log: Unloading: Package IpServer
+Log: Unloading: Package MPCharacters
+Exit: Game engine shut down
+Log: Unbound to WinDrv.dll
+Log: DirectDraw End Mode
+Log: DirectDraw RestoreDisplayMode: DDERR_NOEXCLUSIVEMODE
+Log: Flushing cache
+Exit: DirectDraw released
+Exit: Windows client shut down
+Log: Unbound to Render.dll
+Exit: Lighting subsystem shut down
+Exit: Rendering shut down
+Log: Unloading: Package Entry
+Log: Unloading: Package Title_Music
+DevMusic: Unregister music: Music Title_Music.Title_Music
+Log: Direct3D 10 renderer exiting.
+Log: Uninit.
+Log: Bye.
+Log: Unbound to D3D10Drv.dll
+Log: Unbound to Galaxy.dll
+DevAudio: Galaxy SetViewport: NULL
+Exit: Galaxy shut down
+Log: Unloading: Package DXFonts
+Log: Unloading: Package dxonly
+Init: Shut down moving brush tracker for Level dxonly.MyLevel
+Log: Garbage: objects: 34383->0; refs: 372656
+Exit: Object subsystem successfully closed.
+Exit: Exiting.
+Uninitialized: Name subsystem shut down
+Uninitialized: Memory Allocation Status
+Uninitialized: Curr Memory  208.201M /  3.121M
+Uninitialized: Peak Memory  321.301M /  131.988M
+Uninitialized: Allocs         186 Current /  50709513 Total
+Uninitialized: Log file closed, 05/14/19 07:42:05
