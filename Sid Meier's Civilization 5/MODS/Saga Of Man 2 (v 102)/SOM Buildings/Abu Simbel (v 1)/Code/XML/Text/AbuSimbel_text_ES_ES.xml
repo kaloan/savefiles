@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_ES_ES>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_ABUSIMBEL">
+			<Text>Abu Simbel|Abu Simbel</Text>
+			<Gender>masculine|masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_ABUSIMBEL_HELP">
+			<Text>Contiene 2 espacios para Grandes obras de arte. +2 de Producción [ICON_PRODUCTION] por Grandes obras que se albergan en Abu Simbel, otras Grandes obras en la ciudad proporcionan +1 a Producción [ICON_PRODUCTION].</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_ABUSIMBEL_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Mi nombre es Ozymandias, rey de reyes: ¡Contemplad mis obras, oh poderosos, y desesperad!" [NEWLINE]- Percy Bysshe Shelley[NEWLINE][TAB]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_ABUSIMBEL_PEDIA">
+			<Text>Abu Simbel es un emplazamiento de interés arqueológico que se compone de templos egipcios ubicado en Nubia, al sur de Egipto. Está localizado en la ribera occidental del lago Nasser, a unos 231 km al suroeste de Asuán (como 300 km por carretera), próximo a su emplazamiento original. Los templos forman parte del Museo al Aire Libre de Nubia y Asuán, complejo que fue declarado Patrimonio de la Humanidad por la Unesco en 1979 con el nombre de "Monumentos de Nubia, desde Abu Simbel hasta File", conocidos como los "Monumentos nubios", que se extienden hasta File, cerca de Asuán.[NEWLINE][NEWLINE]Los templos fueron excavados en la roca (speos) durante el reinado del faraón Ramsés II en el siglo XIII a. C., como un monumento dedicado a dicho faraón y a su esposa Nefertari, para conmemorar su supuesta victoria en la batalla de Qadesh y mostrar su poder a sus vecinos nubios.[NEWLINE][NEWLINE]En 1968, el complejo fue reubicado en una colina artificial, construida en terrenos próximos situados sobre el nivel del futuro lago Nasser. El traslado de los templos fue necesario para evitar que quedaran sumergidos, tras la construcción de la presa de Asuán, por el embalse formado por las aguas del río Nilo. Abu Simbel sigue siendo una de las más importantes atracciones turísticas de Egipto.</Text>
+		</Row>
+	</Language_ES_ES>
+</GameData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="60667f8c-84cf-48eb-b9c0-5a98924a53e5" version="1">
+  <Properties>
+    <Name>AI no free tech</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>AI starts with tech no advantages</Teaser>
+    <Description>Simple mods that starts all players even in tech</Description>
+    <Authors>CleverAdvisor</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="56C19B8D380E4E99B1ECDA895596804D" import="0">No Free Tech.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>No Free Tech.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

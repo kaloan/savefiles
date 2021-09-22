@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_ORC_SLAVES</Type>
+			<DamageStates>1</DamageStates>
+			<Formation>LooseCivilian</Formation>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_ORC_SLAVES</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_HUMAN_SLAVE_ASIA</UnitMemberInfoType>
+			<NumMembers>2</NumMembers>
+		</Row>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_ORC_SLAVES</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_HUMAN_SLAVE_EUR</UnitMemberInfoType>
+			<NumMembers>2</NumMembers>
+		</Row>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_ORC_SLAVES</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_HUMAN_SLAVE_AF</UnitMemberInfoType>
+			<NumMembers>2</NumMembers>
+		</Row>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_ORC_SLAVES</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_HUMAN_SLAVE_ME</UnitMemberInfoType>
+			<NumMembers>2</NumMembers>
+		</Row>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_ORC_SLAVES</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_HUMAN_SLAVE_SA</UnitMemberInfoType>
+			<NumMembers>2</NumMembers>
+		</Row>
+		
+	</ArtDefine_UnitInfoMemberInfos>
+	<ArtDefine_UnitMemberInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_HUMAN_SLAVE_ASIA</Type>
+			<Scale>0.140000000596046</Scale>
+			<Model>Human_Slave_Asia.fxsxml</Model>
+			<MaterialTypeTag>CLOTH</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_HUMAN_SLAVE_EUR</Type>
+			<Scale>0.140000000596046</Scale>
+			<Model>Human_Slave_Eur.fxsxml</Model>
+			<MaterialTypeTag>CLOTH</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_HUMAN_SLAVE_AF</Type>
+			<Scale>0.140000000596046</Scale>
+			<Model>Human_Slave_Af.fxsxml</Model>
+			<MaterialTypeTag>CLOTH</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_HUMAN_SLAVE_ME</Type>
+			<Scale>0.140000000596046</Scale>
+			<Model>Human_Slave_ME.fxsxml</Model>
+			<MaterialTypeTag>CLOTH</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_HUMAN_SLAVE_SA</Type>
+			<Scale>0.140000000596046</Scale>
+			<Model>Human_Slave_SA.fxsxml</Model>
+			<MaterialTypeTag>CLOTH</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_DWARF_SLAVE</Type>
+			<Scale>0.10</Scale>
+			<!--0.140000000596046 is human scale/-->
+			<Model>Dwarf_Slave.fxsxml</Model>
+			<MaterialTypeTag>CLOTH</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_ELF_SLAVE</Type>
+			<Scale>0.12</Scale>
+			<!--0.140000000596046 is human scale/-->
+			<Model>Elf_Slave.fxsxml</Model>
+			<MaterialTypeTag>CLOTH</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_ORC_SLAVER</Type>
+			<Scale>1.40</Scale>
+			<!--Slaver unit is (0.140000000596046)x(9.3) for human scale/-->
+			<Model>Orc_Slaver.fxsxml</Model>
+			<MaterialTypeTag>BLUNT</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>BLUNT</MaterialTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberInfos>
+	<ArtDefine_UnitMemberCombats>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_HUMAN_SLAVE_ASIA</UnitMemberType>
+			<EnableActions>Idle Death BombardDefend Run</EnableActions>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_HUMAN_SLAVE_EUR</UnitMemberType>
+			<EnableActions>Idle Death BombardDefend Run</EnableActions>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_HUMAN_SLAVE_AF</UnitMemberType>
+			<EnableActions>Idle Death BombardDefend Run</EnableActions>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_HUMAN_SLAVE_ME</UnitMemberType>
+			<EnableActions>Idle Death BombardDefend Run</EnableActions>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_HUMAN_SLAVE_SA</UnitMemberType>
+			<EnableActions>Idle Death BombardDefend Run</EnableActions>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_DWARF_SLAVE</UnitMemberType>
+			<EnableActions>Idle Death BombardDefend Run</EnableActions>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_ELF_SLAVE</UnitMemberType>
+			<EnableActions>Idle Death BombardDefend Run</EnableActions>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_ORC_SLAVER</UnitMemberType>
+			<EnableActions>Idle Death BombardDefend Run</EnableActions>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+		</Row>
+	</ArtDefine_UnitMemberCombats>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_ORC_SLAVES</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>SV_Worker.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+</GameData>
+

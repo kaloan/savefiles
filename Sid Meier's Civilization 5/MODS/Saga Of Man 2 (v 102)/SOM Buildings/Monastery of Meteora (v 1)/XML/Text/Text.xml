@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/23/2013 6:40:49 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Resource tags-->
+		<Row Tag="TXT_KEY_RESOURCE_GREEKOLIVES">
+			<Text>Greek olives</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_GREEKOLIVES_TEXT">
+			<Text>Kalamata olives are named after the city of Kalamata in Messenia, southern Greece, near where they are grown. They are also grown in nearby Laconia. They are an almond-shaped, plump, dark purple olive, from a tree distinguished from the common olive by the size of its leaves, which grow to twice the size of other olive varieties. The trees are intolerant of cold and are susceptible to Verticillium wilt but are resistant to olive knot and to the Olive fruit fly.</Text>
+		</Row>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_METEORA">
+			<Text>Monastery of Meteora</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_METEORA_HELP">
+			<Text>Provides +3 [ICON_RES_GREEKOLIVES] Greek olives. City must be built next to a mountain. +1 [ICON_PEACE] Faith from forests. Gives a free monastery. Requires 5 [ICON_RES_TIMBER] Timber.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXR_KEY_WONDER_METEORA_QUOTE">
+            <Text>[NEWLINE]"In the Lord I take refuge; How can you say to my soul, 'Flee as a bird to your mountain'"[NEWLINE] - The Bible, Psalms 11:1[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_METEORA_PEDIA">
+			<Text>The Metéora is one of the largest and most important complexes of Eastern Orthodox monasteries in Greece, second only to Mount Athos. The six monasteries are built on natural sandstone rock pillars, at the northwestern edge of the Plain of Thessaly near the Pineios river and Pindus Mountains, in central Greece. The nearest town is Kalambaka. The Metéora is included on the UNESCO World Heritage List under criteria I, II, IV, V and VII.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

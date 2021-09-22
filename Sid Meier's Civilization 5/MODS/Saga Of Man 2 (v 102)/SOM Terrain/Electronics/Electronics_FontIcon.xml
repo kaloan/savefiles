@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/29/2016 9:26:00 PM -->
+<GameData>
+	<IconFontTextures>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_ELECTRONICS</IconFontTexture>
+			<IconFontTextureFile>Electronics_FontIcon</IconFontTextureFile>
+		</Row>
+	</IconFontTextures>
+	<IconFontMapping>
+		<Row>
+			<IconName>ICON_RES_ELECTRONICS</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_ELECTRONICS</IconFontTexture>
+			<IconMapping>1</IconMapping>
+		</Row>
+	</IconFontMapping>
+  
+</GameData>

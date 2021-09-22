@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/11/2015 7:35:27 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>MASS_PRODUCTION_TECH_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>ASSEMBLY_LINE_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MASS_PRODUCTION_TECH_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>ASSEMBLY_LINE_128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MASS_PRODUCTION_TECH_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>ASSEMBLY_LINE_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MASS_PRODUCTION_TECH_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>ASSEMBLY_LINE_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MASS_PRODUCTION_TECH_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>ASSEMBLY_LINE_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MASS_PRODUCTION_TECH_ATLAS</Atlas>
+			<IconSize>214</IconSize>
+			<Filename>ASSEMBLY_LINE_214.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+	</IconTextureAtlases>
+  
+</GameData>

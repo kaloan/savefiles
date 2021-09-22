@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/25/2013 11:03:23 PM -->
+<GameData>
+	<Resources>
+	<Row>
+		<Type>RESOURCE_SLAVES</Type>
+		<Happiness>2</Happiness>
+		<TechCityTrade>TECH_CONSTRUCTION</TechCityTrade>
+		<Description>TXT_KEY_RESOURCE_SLAVES</Description>
+		<Civilopedia>TXT_KEY_RESOURCE_SLAVES_DESC</Civilopedia>
+		<Help>TXT_KEY_RESOURCE_SLAVES_HELP</Help>
+		<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+		<IconString>[ICON_OCCUPIED]</IconString>
+		<PortraitIndex>6</PortraitIndex>
+		<IconAtlas>GEORGE_UNIT_ATLAS</IconAtlas>
+	</Row>
+	
+	</Resources>
+	
+	<!--<Resource_YieldChanges>
+		<Row>
+			<ResourceType>RESOURCE_SLAVES</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_SLAVES</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_SLAVES</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>-1</Yield>
+		</Row>
+	</Resource_YieldChanges>-->
+
+	<Resource_Flavors>
+		
+		<Row>
+			<ResourceType>RESOURCE_SLAVES</ResourceType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		
+	</Resource_Flavors>
+	
+	<Language_en_US>
+		
+		<Row Tag="TXT_KEY_RESOURCE_SLAVES">
+			<Text>Slave Deed</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_RESOURCE_SLAVES_HELP">
+			<Text>[ICON_OCCUPIED] Slave Deeds can be traded and are required to build the Slave unit. Slave Deeds are produced by the Slave Market. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SLAVES_DESC">
+			<Text>
+		        Slavery is a system under which people are treated as property to be bought and sold, and are forced to work. Slaves can be held against their will from the time of their capture, purchase or birth, and deprived of the right to leave, to refuse to work, or to demand compensation. Historically, slavery was institutionally recognized by many societies; in more recent times, slavery has been outlawed in most societies but continues through the practices of debt bondage, indentured servitude, serfdom, domestic servants kept in captivity, certain adoptions in which children are forced to work as slaves, child soldiers, and forced marriage. Slavery is illegal in every country in the world, but there are still an estimated 29.8 million slaves worldwide. Slavery predates written records and has existed in many cultures. Most slaves today are debt slaves, largely in South Asia, who are under debt bondage incurred by lenders, sometimes even for generations. Human trafficking is primarily used for forcing women and children into sex industries. In pre-industrial societies, slaves and their labour were economically extremely important to those who benefitted from them. Slaves and serfs made up around three-quarters of the world's population at the beginning of the 19th century. In modern mechanised societies, there is less need for sheer massive manpower; Norbert Wiener wrote that "mechanical labor has most of the economic properties of slave labor, though ... it does not involve the direct demoralizing effects of human cruelty."
+			</Text>
+		</Row>
+		
+	</Language_en_US>
+</GameData>

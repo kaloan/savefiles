@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/21/2014 12:20:11 AM -->
+<GameData>
+	<!-- Itanlian -->
+	<Language_IT_IT>
+		<Row Tag="TXT_KEY_UNIT_KCARRIER">
+			<Text>La classe Nimitz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_KCARRIER">
+			<Text>Carries up to 6 Aircraft, and has an increased rate of aircraft interception.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KCARRIER_STRATEGY">
+			<Text>The Supercarrier is a specialized vessel which carries fighter airplanes, bombers (but not stealth bombers), and atomic bombs. The Supercarrier itself is unable to attack, but the aircraft it carries make it the most powerful offensive weapon afloat. Defensively, the Supercarrier is much stronger than its predecessor, but should still be escorted by destroyers and submarines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KCARRIER_TEXT">
+			<Text>La classe Nimitz comprende tutte le dieci portaerei a propulsione nucleare attualmente in servizio con la US Navy. Prende il nome dell'ammiraglio Chester Nimitz, comandante delle forze statunitensi e alleate del Pacifico durante la seconda guerra mondiale.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KCARRIER">
+			<Text>Portaerei(6)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KCARRIER_HELP">
+			<Text>Portaerei(6)</Text>
+		</Row>
+	</Language_IT_IT>
+</GameData>

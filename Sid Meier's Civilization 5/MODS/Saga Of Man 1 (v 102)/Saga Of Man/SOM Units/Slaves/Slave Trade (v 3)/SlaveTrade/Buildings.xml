@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/16/2013 8:51:29 AM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SLAVEMARKET</Type>
+			<BuildingClass>BUILDINGCLASS_SLAVEMARKET</BuildingClass>
+			<Cost>100</Cost>
+			<PrereqTech>TECH_CONSTRUCTION</PrereqTech>
+			<ObsoleteTech>TECH_STEAM_POWER</ObsoleteTech>
+			<Help>Produces [ICON_OCCUPIED] Slave Deeds for trade. -2 [ICON_RESEARCH] Science.[NEWLINE][NEWLINE]+1 [ICON_INTERNATIONAL_TRADE] Trade Route.  </Help>
+			<Description>Slave Market</Description>
+				<Civilopedia>
+				Evidence of slavery predates written records, and has existed in many cultures. Prehistoric graves from about 8000 BC in Lower Egypt suggest that a Libyan people enslaved a San-like tribe. Slavery is rare among hunter-gatherer populations. Mass slavery also requires economic surpluses and a high population density to be viable. Due to these factors, the practice of slavery would have only proliferated after the invention of agriculture during the Neolithic Revolution about 11,000 years ago. In the earliest known records slavery is treated as an established institution. The Code of Hammurabi (ca. 1760 BC), for example, prescribed death for anyone who helped a slave to escape or who sheltered a fugitive. The Bible mentions slavery as an established institution. Slavery was known in almost every ancient civilization, and society, including Sumer, Ancient Egypt, Ancient China, the Akkadian Empire, Assyria, Ancient India, Ancient Greece, the Roman Empire, the Islamic Caliphate, the Hebrew kingdoms in Palestine, and the pre-Columbian civilizations of the Americas. Such institutions included debt-slavery, punishment for crime, the enslavement of prisoners of war, child abandonment, and the birth of slave children to slaves.
+			</Civilopedia>
+			<ArtDefineTag>ART_DEF_BUILDING_MARKET</ArtDefineTag>
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
+			<NumTradeRouteBonus>1</NumTradeRouteBonus>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>ATLAS_SLAVE_MARKET</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_PRISON</Type>
+			<BuildingClass>BUILDINGCLASS_PRISON</BuildingClass>
+			<Cost>100</Cost>
+			<GoldMaintenance>4</GoldMaintenance>
+			<PrereqTech>TECH_CONSTRUCTION</PrereqTech>
+			<Help>Eliminates extra [ICON_HAPPINESS_4] Unhappiness from an [ICON_OCCUPIED] Occupied City. </Help>
+			<Description>Prison</Description>
+			<Civilopedia>
+				The Romans were among the first to use prisons as a form of punishment, rather than simply for detention. A variety of existing structures were used to house prisoners, such as metal cages, basements of public buildings, and quarries. One of the most notable Roman prisons was the Mamertine Prison, established around 640 B.C. by Ancus Marcius. The Mamertime Prison was located within a sewer system beneath ancient Rome, and contained a large network of dungeons where prisoners were held in squalid conditions, contaminated with human waste. Forced labor on public works projects was also a common form of punishment. In many cases, citizens were sentenced to slavery, often in ergastula (a primitive form of prison where unruly slaves were chained to workbenches and performed hard labor).
+			</Civilopedia>
+			<ArtDefineTag>ART_DEF_BUILDING_MARKET</ArtDefineTag>
+			<NoOccupiedUnhappiness>true</NoOccupiedUnhappiness>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>ATLAS_PRISON</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Buildings>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SLAVEMARKET</Type>
+			<DefaultBuilding>BUILDING_SLAVEMARKET</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SLAVEMARKET</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_PRISON</Type>
+			<DefaultBuilding>BUILDING_PRISON</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_PRISON</Description>
+		</Row>
+	</BuildingClasses>
+	<Building_ResourceQuantity>
+		<Row>
+			<BuildingType>BUILDING_SLAVEMARKET</BuildingType>
+			<ResourceType>RESOURCE_SLAVES</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SLAVEMARKET</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SLAVEMARKET</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>-2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_SLAVEMARKET</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SLAVEMARKET</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SLAVEMARKET</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>-10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PRISON</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>150</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_SLAVEMARKET</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_PRISON</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+</GameData>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+
+	<Traits>
+		<Update>
+			<Where Type="TRAIT_WAYFINDING"/>
+			<Set ExtraEmbarkMoves="1"/>
+		</Update>
+	</Traits>
+
+	<Trait_FreePromotionUnitCombats>
+		<Update>
+			<Where TraitType="TRAIT_CONVERTS_SEA_BARBARIANS"/>
+			<Set PromotionType="PROMOTION_BARBARY_PIRATE"/>
+		</Update>
+	</Trait_FreePromotionUnitCombats>
+
+	<HandicapInfo_AIFreeTechs>
+		<Delete HandicapType="HANDICAP_DEITY" TechType="TECH_THE_WHEEL"/>
+		<Row>
+			<HandicapType>HANDICAP_DEITY</HandicapType>
+			<TechType>TECH_FISHING</TechType>
+		</Row>
+	</HandicapInfo_AIFreeTechs>
+
+	<AIEconomicStrategies>
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_EXPAND_TO_OTHER_CONTINENTS"/>
+			<Set TechPrereq="TECH_SAILING"/>
+		</Update>
+	</AIEconomicStrategies>
+
+</GameData>

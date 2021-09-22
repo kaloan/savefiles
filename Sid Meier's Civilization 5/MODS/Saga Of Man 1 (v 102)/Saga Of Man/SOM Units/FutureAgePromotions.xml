@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/20/2014 8:52:05 PM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_TARGETING_4</Type>
+			<Description>Railgun Pummel</Description>
+			<Help>+30% [ICON_STRENGTH] Combat Strength against [COLOR_POSITIVE_TEXT]Naval Units[ENDCOLOR]. +50% increase in ranged combat.</Help>
+			<TechPrereq>TECH_RAILGUN</TechPrereq>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PromotionPrereqOr1>PROMOTION_TARGETING_3</PromotionPrereqOr1>
+			<RangedAttackModifier>50</RangedAttackModifier>
+			<OrderPriority>1</OrderPriority>
+			<PortraitIndex>52</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_NAVAL</PediaType>
+			<PediaEntry>Railgun Pummel</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_COASTAL_RAIDER_4</Type>
+			<Description>Railgun Thunder</Description>
+			<TechPrereq>TECH_RAILGUN</TechPrereq>
+			<Help>+30% [ICON_STRENGTH] Combat Strength when attacking [COLOR_POSITIVE_TEXT]Cities[ENDCOLOR].</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PromotionPrereqOr1>PROMOTION_TARGETING_3</PromotionPrereqOr1>
+			<CityAttack>30</CityAttack>
+			<PortraitIndex>12</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_NAVAL</PediaType>
+			<PediaEntry>Railgun Thunder</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_BOARDING_PARTY_4</Type>
+			<Description>Railgun Smash</Description>
+			<TechPrereq>TECH_RAILGUN</TechPrereq>
+			<Help>+30% [ICON_STRENGTH] Combat Strength in melee attacks against [COLOR_POSITIVE_TEXT]Naval Units[ENDCOLOR].</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PromotionPrereqOr1>PROMOTION_BOARDING_PARTY_3</PromotionPrereqOr1>
+			<PortraitIndex>52</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_NAVAL</PediaType>
+			<PediaEntry>Railgun Smash</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_AIR_RANGE_2</Type>
+			<Description>Hypersonic</Description>
+			<Help>+10 operational range.</Help>
+			<TechPrereq>TECH_HYPERSONIC_TRAVEL</TechPrereq>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PromotionPrereqOr1>PROMOTION_INTERCEPTION_3</PromotionPrereqOr1>
+			<PromotionPrereqOr2>PROMOTION_DOGFIGHTING_3</PromotionPrereqOr2>
+			<PromotionPrereqOr3>PROMOTION_AIR_SIEGE_3</PromotionPrereqOr3>
+			<PromotionPrereqOr4>PROMOTION_BOMBARDMENT_3</PromotionPrereqOr4>
+			<PromotionPrereqOr5>PROMOTION_AIR_RANGE</PromotionPrereqOr5>
+			<OrderPriority>5</OrderPriority>
+			<RangeChange>10</RangeChange>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_AIR</PediaType>
+			<PediaEntry>Hypersonic</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_Domains>
+		<Row>
+			<PromotionType>PROMOTION_TARGETING_4</PromotionType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Modifier>30</Modifier>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_BOARDING_PARTY_4</PromotionType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Modifier>30</Modifier>
+		</Row>
+	</UnitPromotions_Domains>
+	<!--<UnitPromotions_UnitCombatMods>
+	<Row>
+		<PromotionType>PROMOTION_TARGETING_4</PromotionType>
+		<UnitCombatType>UNITCOMBAT_NAVALRANGED</UnitCombatType>
+		<Modifier>30</Modifier>
+	</Row>
+	<Row>
+		<PromotionType>PROMOTION_TARGETING_4</PromotionType>
+		<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		<Modifier>30</Modifier>
+	</Row>
+	</UnitPromotions_UnitCombatMods>-->
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_TARGETING_4</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_COASTAL_RAIDER_4</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_BOARDING_PARTY_4</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_AIR_RANGE_2</PromotionType>
+			<UnitCombatType>UNITCOMBAT_FIGHTER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_AIR_RANGE_2</PromotionType>
+			<UnitCombatType>UNITCOMBAT_BOMBER</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+</GameData>

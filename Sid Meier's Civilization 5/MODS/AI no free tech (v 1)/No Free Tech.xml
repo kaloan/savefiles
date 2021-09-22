@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/14/2012 8:39:12 AM -->
+<GameData>
+	<HandicapInfo_AIFreeTechs>
+	<Delete TechType="TECH_POTTERY" />
+		<Delete TechType="TECH_ARCHERY" />
+		<Delete TechType="TECH_MINING" />
+		<Delete TechType="TECH_ANIMAL_HUSBANDRY" />
+		<Delete TechType="TECH_THE_WHEEL" />
+    </HandicapInfo_AIFreeTechs>
+</GameData>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a4a8d2bb-cffd-4d8e-8893-d773f25b6fe1" version="9">
+  <Properties>
+    <Name>Artificial Unintelligence</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Improves Civilization 5's AI (Computer Players)</Teaser>
+    <Description>Improves Civilization 5's Artificial Intelligence (Computer Players). Nothing more, nothing less.
+
+This is the Full version of the mod: it contains both XML and DLL modifications. As a result, the mod is not compatible with mods that modify the game's DLL (note that this mod contains all modifications introduced by Ninakoru's Smart AI).
+
+Though the mod's scope is limited, the improved AI is immediately noticeable. From city placement to unit management, from choosing beliefs to voting on UN resolutions, from choosing ideologies to tech progression, from puppet-annex-raze logic to promotion choice, almost everything has been tweaked or overhauled in some way. The result is a much better AI, which, although still not without faults, can put up a much better fight without having to rely on bonuses.
+Diplomacy AI is the only real exception, staying relatively unchanged because it's fairly hard to troubleshoot.
+
+In its current state, the full version works only with Brave New World primarily because I have not had the time to port my changes over to older DLL versions. It's definitely doable, I just haven't had the time yet.
+The mod should be compatible with all other mods that do not change the DLL, as well as any and all non-expansion DLC's (though Mongolia does occasionally behave a bit oddly).
+
+Complete changelog is located in the mod's folder (browse to it via My Games\Sid Meier's Civilization 5\MODS\Artificial Unintelligence).
+
+Interested in the mod's development and/or source code? You can visit [url=http://forums.civfanatics.com/showthread.php?p=13524964]the mod's CivFanatics thread[/url]; the mod also has [url=https://github.com/DelnarErsike/Civ5-Artifical-Unintelligence]a GitHub page[/url] if you want to work with my source code (or just to have a quick look).</Description>
+    <Authors>Delnar_Ersike</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>8</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="0B3C6EBCB8B63FBF2ADD54A950F27175" import="0">Changelog.txt</File>
+    <File md5="5B84FFE29A8A24824577B6E6C5BFE1F4" import="1">CvGameCore_Expansion2.dll</File>
+    <File md5="5ED089C9F55D2655F82143B5221939E2" import="0">New_CIV5AICityStrategies.xml</File>
+    <File md5="1DB00ABCE528FEB9D9CC43ED5590CA0B" import="0">New_CIV5AIEconomicStrategies.xml</File>
+    <File md5="5CAD6559AC58C591DAF38F14EA159721" import="0">New_CIV5AIGrandStrategies.xml</File>
+    <File md5="D0EF07B33DD44C62BE582A7F9C57B513" import="0">New_CIV5AIMilitaryStrategies.xml</File>
+    <File md5="33DD94D2261378B2FCFB117C8AB735EE" import="0">New_CIV5CitySpecializations.xml</File>
+    <File md5="213BE276162225BF18C86CF9E4910FB5" import="0">New_CIV5Units.xml</File>
+    <File md5="092BB4E545570B92E46897D3AC06F2AA" import="0">New_GlobalAIDefines.xml</File>
+    <File md5="AAE42DBA92428F574923118F03826D13" import="0">New_CIV5MultiUnitFormations.xml</File>
+    <File md5="9A6C3FFC72E82B4A7F4BC1EB7D53151E" import="0">New_CIV5TacticalMoves.xml</File>
+    <File md5="F8214D92DE9959C40AB7384276BB6A91" import="0">New_GlobalDefines.xml</File>
+    <File md5="140CAE485AFCC60EE1DC4A34491E817F" import="0">New_GlobalDiplomacyAIDefines.xml</File>
+    <File md5="B8A9E91134E7C89440A0F95470D5E47B" import="1">zlib1.dll</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>New_GlobalDefines.xml</UpdateDatabase>
+      <UpdateDatabase>New_CIV5AICityStrategies.xml</UpdateDatabase>
+      <UpdateDatabase>New_CIV5AIEconomicStrategies.xml</UpdateDatabase>
+      <UpdateDatabase>New_CIV5AIGrandStrategies.xml</UpdateDatabase>
+      <UpdateDatabase>New_CIV5AIMilitaryStrategies.xml</UpdateDatabase>
+      <UpdateDatabase>New_CIV5CitySpecializations.xml</UpdateDatabase>
+      <UpdateDatabase>New_CIV5MultiUnitFormations.xml</UpdateDatabase>
+      <UpdateDatabase>New_CIV5TacticalMoves.xml</UpdateDatabase>
+      <UpdateDatabase>New_CIV5Units.xml</UpdateDatabase>
+      <UpdateDatabase>New_GlobalAIDefines.xml</UpdateDatabase>
+      <UpdateDatabase>New_GlobalDiplomacyAIDefines.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

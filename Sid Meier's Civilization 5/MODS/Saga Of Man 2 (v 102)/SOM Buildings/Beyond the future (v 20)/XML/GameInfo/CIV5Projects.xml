@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/9/2010 12:00:45 AM -->
+<GameData>
+	<Projects>
+		<Update>
+			<Set Cost="3000" />
+			<Where Type="PROJECT_APOLLO_PROGRAM" />
+		</Update>
+		<Update>
+			<Set TechPrereq="TECH_SPACE_MINING" />
+			<Where Type="PROJECT_APOLLO_PROGRAM" />
+		</Update>
+		<Update>
+			<Set IconAtlas="FUTURE_AGE_TECH_ATLAS" />
+			<Where Type="PROJECT_APOLLO_PROGRAM" />
+		</Update>
+		<Update>
+			<Set PortraitIndex="7" />
+			<Where Type="PROJECT_APOLLO_PROGRAM" />
+		</Update>
+		<Update>
+			<Set Description="TXT_KEY_PROJECT_MARS_MISSION" />
+			<Where Type="PROJECT_APOLLO_PROGRAM" />
+		</Update>
+		<!--<Update>
+			<Set Help="TXT_KEY_PROJECT_MARS_MISSION_HELP" />
+			<Where Type="PROJECT_APOLLO_PROGRAM" />
+		</Update>-->
+		<Update>
+			<Set Civilopedia="TXT_KEY_PROJECT_MARS_MISSION_PEDIA" />
+			<Where Type="PROJECT_APOLLO_PROGRAM" />
+		</Update>
+		<Update>
+			<Set Strategy="TXT_KEY_PROJECT_MARS_MISSION_STRATEGY" />
+			<Where Type="PROJECT_APOLLO_PROGRAM" />
+		</Update>
+		<!--
+		<Row>
+			<Type>PROJECT_APOLLO_PROGRAM</Type>
+			<Description>TXT_KEY_PROJECT_APOLLO_PROGRAM</Description>
+			<Help>TXT_KEY_PROJECT_APOLLO_PROGRAM_HELP</Help>
+			<Civilopedia>TXT_KEY_PROJECT_APOLLO_PROGRAM_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_PROJECT_APOLLO_PROGRAM_STRATEGY</Strategy>
+			<VictoryPrereq>VICTORY_SPACE_RACE</VictoryPrereq>
+			<TechPrereq>TECH_ROCKETRY</TechPrereq>
+			<MaxGlobalInstances>-1</MaxGlobalInstances>
+			<MaxTeamInstances>1</MaxTeamInstances>
+			<Cost>1200</Cost>
+			<IconAtlas>BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>33</PortraitIndex>
+		</Row>-->
+	</Projects>
+  
+</GameData>

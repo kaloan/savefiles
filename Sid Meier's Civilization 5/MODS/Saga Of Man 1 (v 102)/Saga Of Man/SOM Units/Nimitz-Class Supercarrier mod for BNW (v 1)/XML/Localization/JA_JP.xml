@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/21/2014 12:17:10 AM -->
+<GameData>
+	<!-- Japanese -->
+	<Language_JA_JP>
+		<Row Tag="TXT_KEY_UNIT_KCARRIER">
+			<Text>ニミッツ級航空母艦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_KCARRIER">
+			<Text>6航空機まで搬送し、航空機の迎撃率の増加を持っています。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KCARRIER_STRATEGY">
+			<Text>スーパーキャリアーは、戦闘機、爆撃機(しかしステルス爆撃機ではない)および原子爆弾を運ぶ専門の船です。 スーパーキャリアーはそれ自身攻撃することができません。しかし、それが運ぶ航空機はそれを浮いて最も強力な攻撃用兵器にします。防衛的に、スーパーキャリアーはその前任者よりはるかに強いが、駆逐艦と潜水艦によってまだ護衛されるべきです。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KCARRIER_TEXT">
+			<Text>アメリカ海軍の原子力空母の艦級である。世界で初めて量産された原子力空母の級（クラス）であり、40年以上の期間をかけて、順次に改正されつつ全10隻が建造された。世界最大の軍艦級としても知られる。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KCARRIER">
+			<Text>空母(6)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KCARRIER_HELP">
+			<Text>空母(6)</Text>
+		</Row>
+	</Language_JA_JP>
+</GameData>

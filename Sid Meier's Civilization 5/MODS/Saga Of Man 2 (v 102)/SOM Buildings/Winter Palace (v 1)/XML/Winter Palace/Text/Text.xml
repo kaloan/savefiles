@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/23/2013 2:39:58 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Resource tags-->
+		<Row Tag="TXT_KEY_RESOURCE_FABERGE">
+			<Text>Fabergé eggs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_FABERGE_TEXT">
+			<Text>A Fabergé egg is one of a limited number of jeweled eggs created by Peter Carl Fabergé and his company from 1885 to 1917. The most famous of the eggs are the ones made for the Russian Tsars Alexander III and Nicholas II as Easter gifts for their wives and mothers, often called the 'Imperial' Fabergé eggs. About 50 eggs were made, and 42 have survived. Another two were planned for Easter 1918, but because of the Russian Revolution were not delivered.</Text>
+		</Row>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_WINTERP">
+			<Text>Winter Palace</Text>
+		</Row>
+        <!-- Help tags -->
+	    <Row Tag="TXT_KEY_WONDER_WINTERP_HELP">
+			<Text>Contains 4 slots for art and artifacts. +1 [ICON_PRODUCTION] Production from Industrial Districts and +1 [ICON_CULTURE] Culture from Museums.[NEWLINE][NEWLINE]Produces +4 [ICON_RES_FABERGE] Fabergé eggs. </Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_WINTERP_QUOTE">
+			<Text>[NEWLINE]"Without God the world cannot be, without the Tsar the earth cannot hold."[NEWLINE] - Russian Folk saying[NEWLINE]</Text>
+		</Row>
+		<!-- Theming Tags -->
+		<Row Tag="TXT_KEY_WINTERP_THEMING_BONUS_HELP">
+			<Text>To maximize your bonus, make sure to have 2 great works of art and 2 artifacts, from different civilizations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_WINTERP">
+			<Text>Collection of The Tsar</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_WINTERP_PEDIA">
+			<Text>The Winter Palace in Saint Petersburg, Russia, was, from 1732 to 1917, the official residence of the Russian monarchs. Situated between the Palace Embankment and the Palace Square, adjacent to the site of Peter the Great's original Winter Palace, the present and fourth Winter Palace was built and altered almost continuously between the late 1730s and 1837, when it was severely damaged by fire and immediately rebuilt. The storming of the palace in 1917 as depicted in Soviet paintings and Eisenstein's 1927 film October became an iconic symbol of the Russian Revolution.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

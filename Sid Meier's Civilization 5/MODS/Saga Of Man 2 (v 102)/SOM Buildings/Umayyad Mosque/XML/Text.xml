@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/23/2013 9:05:50 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Resource tags-->
+		<Row Tag="TXT_KEY_RESOURCE_ARABESQUE">
+			<Text>Arabesque Panels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ARABESQUE_TEXT">
+			<Text>The arabesque is a form of artistic decoration consisting of "surface decorations based on rhythmic linear patterns of scrolling and interlacing foliage, tendrils" or plain lines, often combined with other elements. Within the very wide range of Eurasian decorative art that includes motifs matching this basic definition the term "arabesque" is used consistently as a technical term by art historians to describe only elements of the decoration found in two phases: Islamic art from about the 9th century onwards, and European decorative art from the Renaissance onwards.</Text>
+		</Row>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_UMAYYAD">
+			<Text>Umayyad Mosque</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_UMAYYAD_HELP">
+			<Text>Provides a free mosque in the city. Gives 2 [ICON_RES_ARABESQUE] Arabesque panels. 1 slot for an art or artifact. City must be a Holy City.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_UMAYYAD_QUOTE">
+			<Text>
+				[NEWLINE]"For me, a journey to Damascus is an amazing hunt from beginning to end, a slice through layers of history in search of treasure."[NEWLINE] - Tahir Shah[NEWLINE]
+			</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_UMAYYAD_PEDIA">
+			<Text>The Umayyad Mosque, also known as the Great Mosque of Damascus, located in the old city of Damascus, is one of the largest and oldest mosques in the world. It is considered by some Muslims to be the fourth-holiest place in Islam. After the Arab conquest of Damascus in 634, the mosque was built on the site of a Christian basilica dedicated to John the Baptist (Yahya). The mosque holds a shrine which today may still contain the head of John the Baptist, honored as a prophet by both Christians and Muslims alike, and is believed to be the place where Isa (Jesus) will return at the End of Days. The tomb of Saladin stands in a small garden adjoining the north wall of the mosque.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

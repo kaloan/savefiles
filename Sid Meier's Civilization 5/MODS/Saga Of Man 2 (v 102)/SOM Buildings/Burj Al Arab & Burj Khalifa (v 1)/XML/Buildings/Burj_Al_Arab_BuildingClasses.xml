@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/16/2013 10:50:25 AM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_BURJ_AL_ARAB</Type>
+			<DefaultBuilding>BUILDING_BURJ_AL_ARAB</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_BURJ_ARAB</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+</GameData>

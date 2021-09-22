@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/20/2014 11:55:23 PM -->
+<GameData>
+    <!-- Spanish -->
+	<Language_ES_ES>
+		<Row Tag="TXT_KEY_UNIT_KCARRIER">
+			<Text>La clase Nimitz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_KCARRIER">
+			<Text>Carries up to 6 Aircraft, and has an increased rate of aircraft interception.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KCARRIER_STRATEGY">
+			<Text>The Supercarrier is a specialized vessel which carries fighter airplanes, bombers (but not stealth bombers), and atomic bombs. The Supercarrier itself is unable to attack, but the aircraft it carries make it the most powerful offensive weapon afloat. Defensively, the Supercarrier is much stronger than its predecessor, but should still be escorted by destroyers and submarines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KCARRIER_TEXT">
+			<Text>La clase Nimitz es una serie de portaaviones de la Armada de los Estados Unidos, compuesta por 10 unidades. El tipo CVN significa que se trata de un portaaviones de propulsión nuclear. CV son las siglas en inglés de carrier vessel, o portaaviones, mientras que la N indica la propulsión nuclear. El primero de la clase fue el USS Nimitz (CVN-68), indicando el número 68 que se trata del portaaviones número sexagésimo octavo aprobado -que no construido, botado o puesto en servicio- por el congreso de los Estados Unidos. Los portaaviones de escolta tuvieron una clasificación diferente, la CVE. Ver las listas de portaaviones y portaaviones de escolta de los Estados Unidos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KCARRIER">
+			<Text>Portaaviones(6)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KCARRIER_HELP">
+			<Text>Portaaviones(6)</Text>
+		</Row>
+	</Language_ES_ES>
+</GameData>

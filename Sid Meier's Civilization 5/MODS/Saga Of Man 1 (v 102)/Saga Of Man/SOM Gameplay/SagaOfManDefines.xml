@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/30/2014 10:47:17 AM -->
+<GameData>
+	<Defines>
+		<Delete Name="MINOR_CIV_CONTACT_GOLD_OTHER"/>
+		<Delete Name="MINOR_CIV_CONTACT_GOLD_FIRST"/>
+		<Update>
+			<Set Value="1" />
+			<Where Name="CIRCUMNAVIGATE_FREE_MOVES" />
+		</Update>
+		<Update>
+			<Set Value="2000" />
+			<Where Name="MINOR_GOLD_GIFT_LARGE" />
+		</Update>
+		<Update>
+			<Set Value="1000" />
+			<Where Name="MINOR_GOLD_GIFT_MEDIUM" />
+		</Update>
+		<Update>
+			<Set Value="500" />
+			<Where Name="MINOR_GOLD_GIFT_SMALL" />
+		</Update>
+		<Update>
+			<Set Value="2000" />
+			<Where Name="MINOR_CIV_BUYOUT_COST" />
+		</Update>
+		<Update>
+			<Set Value="60" />
+			<Where Name="MINOR_FRIENDSHIP_FROM_TRADE_MISSION" />
+		</Update>
+		<Update>
+			<Set Value="50" />
+			<Where Name="MINOR_FRIENDSHIP_ANCHOR_MOD_PROTECTED" />
+		</Update>
+		<Update>
+		<Where Name="START_YEAR"/>
+		<Set Value="-10000"/>
+	</Update>
+		<!--		<Update>
+			<Where Name="CITY_STRENGTH_DEFAULT"/>
+			<Set Value="200"/>
+		</Update>	-->
+		<Update>
+			<Where Name="CITY_STRENGTH_HILL_CHANGE" />
+			<Set Value="0"/>
+		</Update>
+		<Update>
+			<Where Name="CITY_ATTACKING_DAMAGE_MOD" />
+			<Set Value="100"/>
+		</Update>
+		<Update>
+			<Where Name="CITY_ATTACK_RANGE" />
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="ATTACKING_CITY_MELEE_DAMAGE_MOD" />
+			<Set Value="200"/>
+		</Update>
+		<Update>
+			<Where Name="CITY_RANGED_ATTACK_STRENGTH_MULTIPLIER" />
+			<Set Value="50"/>
+		</Update>
+		<!--<Update>
+			<Where Name="CITY_MIN_SIZE_FOR_SETTLERS" />
+			<Set Value="5"/>
+		</Update>-->
+		<Update>
+			<Where Name="BARBARIAN_CITY_ATTACK_MODIFIER" />
+			<Set Value="-5"/>
+		</Update>
+		<Update>
+			<Where Name="BARBARIAN_CAMP_FIRST_TURN_PERCENT_OF_TARGET_TO_ADD" />
+			<Set Value="40"/>
+		</Update>
+		<Update>
+			<Where Name="BARBARIAN_CAMP_ODDS_OF_NEW_CAMP_SPAWNING" />
+			<Set Value="3"/>
+		</Update>
+		<Update>
+			<Where Name="BARBARIAN_CAMP_MINIMUM_DISTANCE_CAPITAL" />
+			<Set Value="4"/>
+		</Update>
+		<Update>
+			<Where Name="BARBARIAN_CAMP_MINIMUM_DISTANCE_ANOTHER_CAMP" />
+			<Set Value="5"/>
+		</Update>
+		<Update>
+			<Where Name="BARBARIAN_TECH_PERCENT" />
+			<Set Value="15"/>
+		</Update>
+		<Update>
+			<Where Name="BARBARIAN_MAX_XP_VALUE" />
+			<Set Value="60"/>
+		</Update>
+		<Update>
+			<Where Name="GOLD_FROM_BARBARIAN_CONVERSION" />
+			<Set Value="50"/>
+		</Update>
+		<Update>
+			<Where Name="RELIGION_MIN_FAITH_FIRST_PROPHET" />
+			<Set Value="400"/>
+		</Update>
+		<Update>
+			<Where Name="UNIT_UPGRADE_COST_MULTIPLIER_PER_ERA" />
+			<Set Value="0.5"/>
+		</Update>
+		<Update>
+			<Where Name="UNIT_MAINTENANCE_GAME_MULTIPLIER" />
+			<Set Value="16"/>
+		</Update>
+		
+	</Defines>
+	<Worlds>
+		<Update>
+			<Where Type ="WORLDSIZE_DUEL"/>
+			<Set NumCitiesTechCostMod="0"/>
+		</Update>
+		<Update>
+			<Where Type ="WORLDSIZE_TINY"/>
+			<Set NumCitiesTechCostMod="0"/>
+		</Update>
+		<Update>
+			<Where Type ="WORLDSIZE_SMALL"/>
+			<Set NumCitiesTechCostMod="0"/>
+		</Update>
+		<Update>
+			<Where Type ="WORLDSIZE_STANDARD"/>
+			<Set NumCitiesTechCostMod="0"/>
+		</Update>
+		<!--
+		<Update>
+			<Where Type ="WORLDSIZE_DUEL"/>
+			<Set NumCitiesUnhappinessPercent="0"/>
+		</Update>
+		<Update>
+			<Where Type ="WORLDSIZE_TINY"/>
+			<Set NumCitiesUnhappinessPercent="0"/>
+		</Update>
+		<Update>
+			<Where Type ="WORLDSIZE_SMALL"/>
+			<Set NumCitiesUnhappinessPercent="0"/>
+		</Update>
+		<Update>
+			<Where Type ="WORLDSIZE_STANDARD"/>
+			<Set NumCitiesUnhappinessPercent="0"/>
+		</Update>
+		<Update>
+			<Where Type ="WORLDSIZE_LARGE"/>
+			<Set NumCitiesUnhappinessPercent="0"/>
+		</Update>
+		<Update>
+			<Where Type ="WORLDSIZE_HUGE"/>
+			<Set NumCitiesUnhappinessPercent="0"/>
+		</Update>
+		<Update>
+			<Where Type ="WORLDSIZE_HUGE"/>
+			<Set NumCitiesPolicyCostMod="0"/>
+		</Update>
+		-->
+		<Update>
+			<Where Type ="WORLDSIZE_LARGE"/>
+			<Set NumCitiesTechCostMod="0"/>
+		</Update>
+		<Update>
+			<Where Type ="WORLDSIZE_HUGE"/>
+			<Set NumCitiesTechCostMod="0"/>
+		</Update>
+		
+	</Worlds>
+</GameData>

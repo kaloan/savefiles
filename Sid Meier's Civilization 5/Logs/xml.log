@@ -1,0 +1,54 @@
+[93040.406] *** SKIPPING Game Database Validation. ****
+[93040.406] You can enable it by setting 'ValidateGameDatabase = 1' in config.ini
+[93040.984] **** Validating Prefetch Process *****
+[93040.984] **** Validation Success *****
+[93040.984] SetGlobalActionInfo
+[93040.984] 
+-- SQLite Memory Statistics --
+Memory Usage:
+		[Cur]		[Max]
+Malloc:		6153584		71893744
+PageCache:	6		12
+LookAside:	0		0
+Scratch:	0		1
+
+Static Buffer Overflows:
+		[TooLarge]	[NoSpace]
+PageCache:	5738880		59266872
+Scratch:	0		0
+
+Largest Allocations:
+Malloc:		262144
+PageCache:	1172
+Scratch:	6640
+
+Prepared Statements:
+Current:		6
+------------------------------
+[93041.062] *** SKIPPING Game Database Validation. ****
+[93041.062] You can enable it by setting 'ValidateGameDatabase = 1' in config.ini
+[93041.593] **** Validating Prefetch Process *****
+[93041.593] **** Validation Success *****
+[93041.593] SetGlobalActionInfo
+[93041.593] 
+-- SQLite Memory Statistics --
+Memory Usage:
+		[Cur]		[Max]
+Malloc:		6154760		71893744
+PageCache:	6		12
+LookAside:	0		0
+Scratch:	0		1
+
+Static Buffer Overflows:
+		[TooLarge]	[NoSpace]
+PageCache:	5740056		59266872
+Scratch:	0		0
+
+Largest Allocations:
+Malloc:		262144
+PageCache:	1172
+Scratch:	6640
+
+Prepared Statements:
+Current:		6
+------------------------------

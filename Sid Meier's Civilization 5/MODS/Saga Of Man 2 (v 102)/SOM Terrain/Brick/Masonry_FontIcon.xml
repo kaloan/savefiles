@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2016 8:22:16 PM -->
+<GameData>
+	
+		<IconFontTextures>
+			<Row>
+				<IconFontTexture>ICON_FONT_TEXTURE_MASONRY</IconFontTexture>
+				<IconFontTextureFile>Masonry_FontIcon</IconFontTextureFile>
+			</Row>
+		</IconFontTextures>
+		<IconFontMapping>
+			<Row>
+				<IconName>ICON_RES_MASONRY</IconName>
+				<IconFontTexture>ICON_FONT_TEXTURE_MASONRY</IconFontTexture>
+				<IconMapping>1</IconMapping>
+			</Row>
+		</IconFontMapping>
+	
+  
+</GameData>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/19/2016 11:58:09 PM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_COMMISSARIAT</Type>
+			<BuildingClass>BUILDINGCLASS_CONSTABLE</BuildingClass>
+			<Cost>160</Cost>
+			<GoldMaintenance>1</GoldMaintenance>
+			<PrereqTech>TECH_BANKING</PrereqTech>
+			<Help>TXT_KEY_BUILDING_COMMISSARIAT_HELP</Help>
+			<Description>TXT_KEY_BUILDING_COMMISSARIAT</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_COMMISSARIAT_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_COMMISSARIAT_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<FoodKept>10</FoodKept>
+			<CultureRateModifier>15</CultureRateModifier>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>LENIN_COLOR_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_YieldChangesPerPop>
+		<Row>
+			<BuildingType>BUILDING_COMMISSARIAT</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>20</Yield>
+		</Row>
+	</Building_YieldChangesPerPop>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_COMMISSARIAT</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_COMMISSARIAT</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_COMMISSARIAT</BuildingType>
+			<FlavorType>FLAVOR_FOOD</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_COMMISSARIAT">
+			<Text>Commissariat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COMMISSARIAT_HELP">
+			<Text>Unique Building for the Bolsheviks. Replaces the Constabulary. Does not reduce enemy Spy effectiveness. +10% [ICON_FOOD] Food stored upon the birth of a new citizen. +1 [ICON_PRODUCTION] Production per every 5 Citizens. +15% [ICON_CULTURE] Culture in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_COMMISSARIAT_TEXT">
+			<Text>Commissariats were, historically, either buildings used for military administration or for resource allocation. Generally, the Bolsheviks utilized Commissariats of the second kind - though the former was known to crop up now and then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COMMISSARIAT_STRATEGY">
+			<Text>While the Commissariat loses the primary ability of the Constabulary it replaces, it instead fulfills a much different role. Now, the Commissariat retains some [ICON_FOOD] Food upon the birth of a new Citizen. Even more importantly, if you have 5 Citizens or more in a city, you can gain +1 [ICON_PRODUCTION] Production, and upon construction your city receives +15% of its [ICON_CULTURE] Culture output. This is especially useful for completing Social Policies to access the UA's bonuses.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/5/2016 9:26:19 AM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>ATLAS_WATERWORKS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>Waterworks_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_WATERWORKS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>Waterworks_128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_WATERWORKS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>Waterworks_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_WATERWORKS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>Waterworks_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_WATERWORKS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>Waterworks_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+  
+</GameData>

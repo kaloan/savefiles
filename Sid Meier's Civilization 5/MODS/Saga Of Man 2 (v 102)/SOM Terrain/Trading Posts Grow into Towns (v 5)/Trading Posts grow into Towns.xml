@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 22-Sep-14 00:35:20 -->
+<GameData>
+	<!-- Improvements -->
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_OUTDOOR_MARKET</Type>
+			<Description>Outdoor Market</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_OUTDOOR_MARKET_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_OUTDOOR_MARKET</ArtDefineTag>
+			<FreshWaterMakesValid>true</FreshWaterMakesValid>
+			<PillageGold>10</PillageGold>
+			<PortraitIndex>32</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		<Update>
+			<Where Type="IMPROVEMENT_TRADING_POST"/>
+			<Set DefenseModifier="5" FreshWaterMakesValid="true"/>
+		</Update>
+		<Row>
+			<Type>IMPROVEMENT_VILLAGE</Type>
+			<Description>Village</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_VILLAGE_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_VILLAGE</ArtDefineTag>
+			<FreshWaterMakesValid>true</FreshWaterMakesValid>
+			<PillageGold>30</PillageGold>
+			<DefenseModifier>10</DefenseModifier>
+			<PortraitIndex>32</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>IMPROVEMENT_VILLAGE_PROD_DUMMY</Type>
+			<Description>Village</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_VILLAGE_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_VILLAGE</ArtDefineTag>
+			<FreshWaterMakesValid>true</FreshWaterMakesValid>
+			<PillageGold>30</PillageGold>
+			<DefenseModifier>10</DefenseModifier>
+			<PortraitIndex>32</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+			<GraphicalOnly>true</GraphicalOnly>
+		</Row>
+		<Row>
+			<Type>IMPROVEMENT_TOWN</Type>
+			<Description>Town</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_TOWN_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_TOWN</ArtDefineTag>
+			<FreshWaterMakesValid>true</FreshWaterMakesValid>
+			<PillageGold>40</PillageGold>
+			<DefenseModifier>15</DefenseModifier>
+			<PortraitIndex>32</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+	</Improvements> 
+	
+	<!-- Locations -->
+	<Improvement_ValidTerrains>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OUTDOOR_MARKET</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OUTDOOR_MARKET</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OUTDOOR_MARKET</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OUTDOOR_MARKET</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<!-- Trading Post is unchanged: Grass, Plains, Tundra, Desert -->
+		<Row>
+			<ImprovementType>IMPROVEMENT_VILLAGE</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_VILLAGE</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_VILLAGE</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_VILLAGE</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TOWN</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TOWN</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TOWN</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TOWN</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+	</Improvement_ValidTerrains>
+
+	<Improvement_ValidFeatures>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OUTDOOR_MARKET</ImprovementType>
+			<FeatureType>FEATURE_FLOOD_PLAINS</FeatureType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OUTDOOR_MARKET</ImprovementType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OUTDOOR_MARKET</ImprovementType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OUTDOOR_MARKET</ImprovementType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TRADING_POST</ImprovementType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_VILLAGE</ImprovementType>
+			<FeatureType>FEATURE_FLOOD_PLAINS</FeatureType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_VILLAGE</ImprovementType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_VILLAGE</ImprovementType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_VILLAGE</ImprovementType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TOWN</ImprovementType>
+			<FeatureType>FEATURE_FLOOD_PLAINS</FeatureType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TOWN</ImprovementType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+		</Row>
+	</Improvement_ValidFeatures>
+
+	<!-- Yields -->
+	<Improvement_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OUTDOOR_MARKET</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Update>
+			<Where ImprovementType="IMPROVEMENT_TRADING_POST" YieldType="YIELD_GOLD"/>
+			<Set Yield="2"/>
+		</Update> 
+		<Row>
+			<ImprovementType>IMPROVEMENT_VILLAGE</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_VILLAGE</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>-1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_VILLAGE_PROD_DUMMY</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_VILLAGE_PROD_DUMMY</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>-1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TOWN</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TOWN</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>-2</Yield> <!-- Results in 4 total yield on Grassland and 6 on Jungle (+2 science) -->
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TOWN</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>-2</Yield> <!-- Results in 4 total yield on Plains, Forest, and Hill -->
+		</Row>
+	</Improvement_Yields>
+
+	<!-- Builds -->
+	<Builds>
+		<Row>
+			<Type>BUILD_OUTDOOR_MARKET</Type>
+			<PrereqTech>TECH_TRAPPING</PrereqTech>
+			<Time>600</Time>
+			<ImprovementType>IMPROVEMENT_OUTDOOR_MARKET</ImprovementType>
+			<Description>TXT_KEY_BUILD_OUTDOOR_MARKET</Description>
+			<Recommendation>TXT_KEY_BUILD_GOLD_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_T</HotKey>
+			<OrderPriority>95</OrderPriority>
+			<IconIndex>41</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS</IconAtlas>
+		</Row>
+
+		<Delete Type="BUILD_TRADING_POST"/>
+	</Builds>
+	
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_OUTDOOR_MARKET</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_OUTDOOR_MARKET</BuildType>
+		</Row>
+		<Delete BuildType="BUILD_TRADING_POST"/>
+	</Unit_Builds>
+
+	<!-- Tech & Policy Affects -->
+	<Improvement_TechYieldChanges>
+		<Delete ImprovementType="IMPROVEMENT_TRADING_POST"/>
+	</Improvement_TechYieldChanges>
+
+	<Policy_ImprovementYieldChanges>
+		<Update>
+			<Where PolicyType="POLICY_FREE_THOUGHT"/>
+			<Set ImprovementType="IMPROVEMENT_TOWN"/>
+		</Update>
+		<Update>
+			<Where PolicyType="POLICY_FREE_THOUGHT"/>
+			<Set Yield="2"/>
+		</Update>
+		<Delete PolicyType="POLICY_COMMERCE_FINISHER"/>
+		<Row>
+			<PolicyType>POLICY_COMMERCE_FINISHER</PolicyType>
+			<ImprovementType>IMPROVEMENT_TOWN</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Policy_ImprovementYieldChanges>
+	<Policy_SpecialistExtraYields>
+		<Delete PolicyType="POLICY_COMMERCE_FINISHER"/>
+	</Policy_SpecialistExtraYields>
+</GameData>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="118c9dfd-49a1-4273-8a48-2efd0a1c57a1" version="1">
+  <Properties>
+    <Name>Pan-American Highway Wonder</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]Pan-American Highway[ENDCOLOR] to the game as a wonder.</Teaser>
+    <Description>Spanning by some routes from the Arctic Ocean to Tierra del Fuego, the Pan-American Highway is a vast road network spanning Latin and North America. Originally concieved in the years before the outbreak of World War Two, and pioneered by an expedition from Detroit to Cape Horn - the first of its kind in a motor vehicle - a highway along the route was quickly sponsored and developed with aid from the United States and other countries along the route. The highway served numerous functions, acting as a land route to the Panama Canal during wartime and as a venue for the Carrera Panamericana road race during the 1950's. Additionally, the route served to foster cultural and political ties amongst its host states for the period soon after its completion, and was an integral factor in further developing the concept of Panamericanism. Available with Combustion, the Highway decreases the cost of roads and railroads by 25%, and increases tourism in the city by 4.</Description>
+    <Authors>Pouakai</Authors>
+    <SpecialThanks>JFD, Sukritact</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="9D3FC35424D788E4AB0440A8AEE8737A" import="1">Art/PanAM_128.dds</File>
+    <File md5="9771E3897CF6A9565152116279D6E7BD" import="1">Art/PanAM_256.dds</File>
+    <File md5="5B44E48FFC0C095551B4539F8D6961E0" import="1">Art/PanAM_45.dds</File>
+    <File md5="F8CCDCD58097FFF801CD36FD0632655E" import="1">Art/PanAM_64.dds</File>
+    <File md5="BE18DCAF70B9F3D9D4348CA05BB7B90A" import="1">Art/PanAM_80.dds</File>
+    <File md5="A9695D459A7C357ADD2E4FD353F09F64" import="1">Art/PanAM_Splash.dds</File>
+    <File md5="097472FAD100CEB4FFCF68243A409846" import="0">Lua/Building_FreePolicies.lua</File>
+    <File md5="6201BAF6FECBF1FA0BD923952E159500" import="0">Lua/Building_FreePolicies.sql</File>
+    <File md5="30821CC019AAF0118BA3EC8F8CBC99FE" import="0">XML/Buildings/PanAm_BuildingClasses.xml</File>
+    <File md5="FB6C9F8B54B4836D25949B6893AD5D8A" import="0">XML/Buildings/PanAm_Buildings.xml</File>
+    <File md5="A3A5E1644032854905DEFBC01F7588C1" import="0">XML/Civilizations/PanAm_Civilizations.xml</File>
+    <File md5="CFF229F78446278D84C487A2198C82C0" import="0">XML/GameInfo/PanAm_IconTextureAtlases.xml</File>
+    <File md5="029BCB5211332DBC1A7411F3DC5C13E3" import="0">XML/GameInfo/PanAm_Policies.xml</File>
+    <File md5="D6714377BDADA922BB21E452DAB6C4A3" import="0">XML/Text/PanAm_text_en_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Lua/Building_FreePolicies.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/PanAm_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/PanAm_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/PanAm_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/PanAm_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/PanAm_Policies.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/PanAm_text_en_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Building_FreePolicies.lua">
+      <Name>Building_FreePolicies</Name>
+      <Description>Allows a building to grant a certain policy</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

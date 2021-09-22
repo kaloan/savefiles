@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/3/2014 8:54:53 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BAHRI_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>valleyofkings256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BAHRI_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>valleyofkings128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BAHRI_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>valleyofkings64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BAHRI_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>valleyofkings80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BAHRI_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>valleyofkings45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

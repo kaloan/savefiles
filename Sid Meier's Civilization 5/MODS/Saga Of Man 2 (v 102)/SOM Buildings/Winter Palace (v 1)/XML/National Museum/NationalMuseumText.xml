@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/19/2014 12:26:15 AM -->
+<GameData>
+	<Language_en_US>
+        <!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_NATIONAL_MUSEUM">
+			<Text>National Museum</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_BUILDING_NATIONAL_MUSEUM_HELP">
+			<Text>+50% [ICON_CULTURE] in this City. Contains 3 slots for Artifacts.[NEWLINE][NEWLINE] Must have built a Museum in the City. The cost goes up the more cities there are in the empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NATIONAL_MUSEUM_STRATEGY">
+			<Text>This National Wonder increases the culture output of the city in which it is constructed in by 50%. It cannot be constructed unless the civilization has a Museum in the City.</Text>
+		</Row>
+        <!-- Theming Tags -->
+		<Row Tag="TXT_KEY_NATIONAL_MUSEUM_THEMING_BONUS_HELP">
+			<Text>To maximize the theming bonus, make sure to have artifacts that belong to unique eras from your civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_NATIONAL_MUSEUM">
+			<Text>Museum of National History</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_BUILDING_NATIONAL_MUSEUM_PEDIA">
+			<Text>A national museum is a museum maintained by a nation and its government. It usually displays its own country's artifacts. National museums are regarded as a source of instilling national pride and esteem. They are often located in the country's seat of government.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

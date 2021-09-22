@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/15/2013 1:01:02 PM -->
+<GameData>
+	<Language_EN_US>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_AMPHITHEATER"/>
+			<Set Text="Theatre"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_AMPHITHEATER_STRATEGY"/>
+			<Set Text="The Theatre increases the [ICON_CULTURE] Culture of a city, speeding the growth of its territory and the acquisition of Social Policies by the civilization. The city must contain a Monument (or a Stele) before the Theater can be constructed. Contains 1 slot for a Great Work of Writing."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_BUILDINGS_AMPHITHEATER_TEXT"/>
+			<Set Text="The Greeks invented theatre as it is known in the West today. The original theatres were open-air amphitheatres often constructed on the side of a hill. The audience sat on benches cut into the hill, while the performers worked on an open stage at the foot of the hill. Over time the stages moved indoors (especially in locations with risks of lots of inclement weather). A modern theatre still has a stage and seats for the audience, but it also includes sophisticated sound and lighting equipment, an orchestra pit, and an extensive backstage area for props and scenery. Still, an ancient theatre-goer would not be totally surprised by anything found within a modern theatre (except possibly the cost of the food and drinks sold during intermission)."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_COLOSSEUM"/>
+			<Set Text="Arena"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_COLOSSEUM_STRATEGY"/>
+			<Set Text="The Arena increases a civilization's [ICON_HAPPINESS_1] Happiness. It cannot provide more Happiness than there are [ICON_CITIZEN] Citizens in a city."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_BUILDINGS_COLISEUM_TEXT"/>
+			<Set Text="An Arena is an indoor or outdoor building designed for open-air sporting events, as well as theatrical performances and concerts. The term comes from the latin word 'harena' (sand), the central sandy area of an amphitheater. The ancient Romans in particular are known for the hundreds of amphitheatres they constructed, in which gladiatorial combat, exhibitions, and public executions were conducted."/>
+		</Update>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_DIONYSUS">
+			<Text>Theatre of Dionysus</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_DIONYSUS_HELP">
+			<Text>Contains a prebuilt Great Work of Literature in the Great Work Slot. Requires Liberty.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_BUILDING_DIONYSUS_QUOTE">
+			<Text>
+				[NEWLINE]"Theatre is nothing more than the desperate effort of mankind to give life a meaning."[NEWLINE] - Eduardo de Filippo[NEWLINE]
+			</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_DIONYSUS_TEXT">
+			<Text>The Theatre of Dionysus is situated in the Acropolis of Athens, and it is the most ancient stable theatre . Built in the V century B.C. near the shrine of Dionysus, for two centuries it was the center of greek theatre, because the most famous playwriters of the time (Aeschylus, for tragedy, for comedy) here their works during the celebrations for the god of wine and theatre, Dionysus. Sometimes it hosted also the Ekklesia (people's congress) of Athens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PERSIANI">
+			<Text>The Persians (Aeschylus)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_PERSIANI">
+			<Text>Mortal man must bear his lot of wo; afflictions rise many from sea, many from land, if life be haply measured through a lengthen'd course.
+			</Text>
+		</Row>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_FLAVIAN">
+			<Text>Flavian Amphitheatre</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_FLAVIAN_HELP">
+			<Text>Requires Liberty. Grants a free Arena in the city it is built.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_BUILDING_FLAVIAN_QUOTE">
+			<Text>
+				[NEWLINE]"Two things (the people) want anxiously: bread and circuses."[NEWLINE] - Juvenal[NEWLINE]
+			</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_FLAVIAN_TEXT">
+			<Text>The Flavian Amphitheatre, better known as the Colosseum (name gained for the presence of a colossal statue of Nero near the amphitheatre) is the biggest amphitheatre of the world, situated in the center of Rome. Having the capacity between 50.000 and 80.000 units, it is the most important Roman amphitheatre, and the most wonderful monument of ancient Rome. It was used for gladiatoral games as well as other public events as hunting shows, commemorations of historical battles and plays based on classical mythology.</Text>
+		</Row>
+	</Language_EN_US>
+</GameData>

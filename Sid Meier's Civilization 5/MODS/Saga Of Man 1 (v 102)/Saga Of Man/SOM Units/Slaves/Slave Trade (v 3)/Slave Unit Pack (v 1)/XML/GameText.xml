@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_SLAVE">
+			<Text>Slave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SLAVE_HELP">
+			<Text>A [ICON_GOLD] Maintenance free form of the Worker and very cheap. Requires 1 [ICON_OCCUPIED] Slave Deed.[NEWLINE][NEWLINE]An enemy Worker, Settler, Diplomat, Prophet, Inquisitor, or Missionary will become a Slave when captured. Can not construct unique improvements. Slaves become Workers when freed from their oppressor.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

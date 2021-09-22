@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/5/2014 8:34:18 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>ETEMENANKI_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>etemenanki256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ETEMENANKI_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>etemenanki128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ETEMENANKI_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>etemenanki64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ETEMENANKI_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>etemenanki80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ETEMENANKI_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>etemenanki45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

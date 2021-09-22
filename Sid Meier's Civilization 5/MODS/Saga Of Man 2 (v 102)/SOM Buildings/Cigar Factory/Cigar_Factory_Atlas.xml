@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/28/2016 9:30:21 AM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>ATLAS_CIGAR_FACTORY</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>cigar_factory_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_CIGAR_FACTORY</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>cigar_factory_128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_CIGAR_FACTORY</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>cigar_factory_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_CIGAR_FACTORY</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>cigar_factory_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_CIGAR_FACTORY</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>cigar_factory_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+  
+</GameData>

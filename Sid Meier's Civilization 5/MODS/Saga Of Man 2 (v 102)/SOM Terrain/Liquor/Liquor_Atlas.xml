@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/26/2016 5:19:03 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>LIQUOR_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>Liquor_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>LIQUOR_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>Liquor_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>LIQUOR_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>Liquor_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>LIQUOR_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>Liquor_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+
+	</IconTextureAtlases>
+  
+</GameData>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/5/2016 7:56:21 AM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>ATLAS_SEWER</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>Sewer_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_SEWER</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>Sewer_128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_SEWER</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>Sewer_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_SEWER</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>Sewer_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_SEWER</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>Sewer_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+
+
+</GameData>

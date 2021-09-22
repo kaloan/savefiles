@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/8/2015 7:44:56 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>ATLAS_WEAVER</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>Weaver_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_WEAVER</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>Weaver_128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_WEAVER</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>Weaver_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_WEAVER</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>Weaver_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_WEAVER</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>Weaver_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+
+
+</GameData>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/4/2015 10:53:06 AM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>FARM_INNOVATION_TECH_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>PLOUGH_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>FARM_INNOVATION_TECH_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>PLOUGH_128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>FARM_INNOVATION_TECH_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>PLOUGH_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>FARM_INNOVATION_TECH_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>PLOUGH_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>FARM_INNOVATION_TECH_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>PLOUGH_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>FARM_INNOVATION_TECH_ATLAS</Atlas>
+			<IconSize>214</IconSize>
+			<Filename>PLOUGH_214.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+	</IconTextureAtlases>
+  
+</GameData>

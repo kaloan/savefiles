@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/4/2014 1:07:38 AM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>ATLAS_LHC</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>LHC_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_LHC</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>LHC_128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_LHC</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>LHC_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_LHC</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>LHC_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_LHC</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>LHC_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

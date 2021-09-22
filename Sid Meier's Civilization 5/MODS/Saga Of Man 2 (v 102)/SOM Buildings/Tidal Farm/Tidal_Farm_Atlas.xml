@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/6/2016 11:18:48 AM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>ATLAS_TIDAL_FARM</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>Tidal Farm_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_TIDAL_FARM</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>Tidal Farm_128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_TIDAL_FARM</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>Tidal Farm_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_TIDAL_FARM</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>Tidal Farm_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_TIDAL_FARM</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>Tidal Farm_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+  
+</GameData>

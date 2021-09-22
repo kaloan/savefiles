@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Artisanix on 9/10/2013 12:14:33 AM -->
+<GameData>
+
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SKARABRAE</Type>
+			<BuildingClass>BUILDINGCLASS_SKARABRAE</BuildingClass>
+			<Description>TXT_KEY_BUILDING_SKARABRAE</Description>
+			<Civilopedia>TXT_KEY_WONDER_SKARABRAE_PEDIA</Civilopedia>
+			<Quote>TXT_KEY_WONDER_SKARABRAE_QUOTE</Quote>
+			<Help>TXT_KEY_WONDER_SKARABRAE_HELP</Help>
+			<Cost>185</Cost>
+			<PrereqTech>TECH_WATERCRAFT</PrereqTech>
+			<Water>true</Water>
+			<MaxStartEra>ERA_CLASSICAL</MaxStartEra>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>75</ConquestProb>
+			<IconAtlas>NW_ICONS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+			<WonderSplashImage>SkaraBrae_splash.dds</WonderSplashImage>
+		</Row>
+	</Buildings>
+	
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SKARABRAE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		
+	</Building_YieldChanges>
+	<!--<Building_LocalResourceOrs>
+		<Row>
+			<BuildingType>BUILDING_SKARABRAE</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SKARABRAE</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+	</Building_LocalResourceOrs>-->
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SKARABRAE</BuildingType>
+			<ResourceType>RESOURCE_FISH</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SKARABRAE</BuildingType>
+			<ResourceType>RESOURCE_CRAB</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	<Building_ResourceQuantityRequirements>
+		<Row>
+			<BuildingType>BUILDING_SKARABRAE</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_SKARABRAE</BuildingType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SKARABRAE</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+	</Building_Flavors>
+
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SKARABRAE</Type>
+			<DefaultBuilding>BUILDING_SKARABRAE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SKARABRAE</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_SKARABRAE</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_SKARABRAE</BuildingClassType>
+			<BuildingType/>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_SKARABRAE">
+			<Text>Skara Brae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SKARABRAE_HELP">
+			<Text>+1 [ICON_FOOD] Food with each [ICON_RES_FISH] Fish and [ICON_RES_CRAB] Crab improvement near the city.  Provides +2 [ICON_CULTURE] in the city in which it is built. City must be on the Coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SKARABRAE_QUOTE">
+			<Text>[NEWLINE]"No great thing is created suddenly."[NEWLINE] - Epictetus[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SKARABRAE_PEDIA">
+			<Text>
+				Skara Brae is a stone-built Neolithic settlement, located on the Bay of Skaill on the west coast of Mainland, the largest island in the Orkney archipelago of Scotland. It consists of eight clustered houses, and was occupied from roughly 3180 BC - 2500 BC.[NEWLINE][NEWLINE]Given the number of homes, it seems likely that no more than fifty people lived in Skara Brae at any given time. Apart from being makers and users of grooved ware, a distinctive style of pottery that appeared in northern Scotland not long before the establishment of the village, they were primarily pastorialists who raised cattle and sheep.
+			</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

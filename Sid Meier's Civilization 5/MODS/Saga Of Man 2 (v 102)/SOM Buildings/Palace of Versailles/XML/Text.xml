@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/21/2013 5:39:54 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_VERSAILLES">
+			<Text>Chateau of Versailles</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_VERSAILLES_HELP">
+			<Text>Contains 2 slots for Great Works of Art. [ICON_CULTURE] Culture is increased 20% empire-wide.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_VERSAILLES_QUOTE">
+			<Text>[NEWLINE]"Punctuality is the politeness of kings."[NEWLINE] - Louis XVIII[NEWLINE]</Text>
+		</Row>
+		<!-- Theming Tags -->
+		<Row Tag="TXT_KEY_VERSAILLES_THEMING_BONUS_HELP">
+			<Text>To maximize your bonus, make sure all Great Works are from the same player and same era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_VERSAILLES">
+			<Text>Art du Roi</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_VERSAILLES_PEDIA">
+			<Text>When the château was built, Versailles was a country village; today, however, it is a wealthy suburb of Paris, some 20 kilometres southwest of the French capital. The court of Versailles was the center of political power in France from 1682, when Louis XIV moved from Paris, until the royal family was forced to return to the capital in October 1789 after the beginning of the French Revolution. Versailles is therefore famous not only as a building, but as a symbol of the system of absolute monarchy of the Ancien Régime.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

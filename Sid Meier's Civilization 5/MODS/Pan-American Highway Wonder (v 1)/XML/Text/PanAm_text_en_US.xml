@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_PANAM">
+			<Text>Pan-American Highway</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_PANAM_HELP">
+			<Text>Maintenance paid on Roads and Railroads reduced by 25%.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_PANAM_QUOTE">
+			<Text>
+				[NEWLINE]"¡Viva el Panamericanismo!"[NEWLINE] - the Richardson Expedition[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_PANAM_PEDIA">
+			<Text>Spanning by some routes from the Arctic Ocean to Tierra del Fuego, the Pan-American Highway is a vast road network spanning Latin and North America. Originally concieved in the years before the outbreak of World War Two, and pioneered by an expedition from Detroit to Cape Horn - the first of its kind in a motor vehicle - a highway along the route was quickly sponsored and developed with aid from the United States and other countries along the route. The highway served numerous functions, acting as a land route to the Panama Canal during wartime and as a venue for the Carrera Panamericana road race during the 1950's. Additionally, the route served to foster cultural and political ties amongst its host states for the period soon after its completion, and was an integral factor in further developing the concept of Panamericanism. [NEWLINE][NEWLINE] At the start of the 1940's, much of the route the highway would eventually take was little more than dirt tracks, and in some places even this was a stretch. The three pioneers of the route, who drove a 1941 Plymouth sedan from Detroit to Cape Horn, frequently had to use local barges or pack animals to cross rivers and mountain tracks, as well as travel by sea in two locations when travel by land became impossible. Construction of the highway began in earnest following the Richardson expedition, with the first entire national portion of the highway completed by Mexico in 1950. Since this point, the extent of road from the southern US border with Mexico to Buenos Aires - claimed as the 'proper' route - has been finished in its entirety, with the exception of a small section in eastern Panama where the forest is too dense to construct a road, known as the Darien Gap. Calls to extent the route through this forest are common, yet are met with hesitance from local populations who fear such a route would open the primary forest to logging and endanger their way of life.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

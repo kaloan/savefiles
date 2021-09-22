@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/6/2016 9:03:43 PM -->
+<GameData>
+	<PolicyBranchTypes>
+		<Update>
+			<Where Type="POLICY_BRANCH_FREEDOM"/>
+			<Set FreePolicy="POLICY_FREEDOM_DUMMY"/>
+		</Update>
+		<Update>
+			<Where Type="POLICY_BRANCH_ORDER"/>
+			<Set FreePolicy="POLICY_ORDER_DUMMY"/>
+		</Update>
+		<Update>
+			<Where Type="POLICY_BRANCH_AUTOCRACY"/>
+			<Set FreePolicy="POLICY_AUTOCRACY_DUMMY"/>
+		</Update>
+	</PolicyBranchTypes>
+</GameData>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 25-Oct-14 16:15:09. Mod of Barathor's Natural Wonders Yields Mod -->
+<GameData>
+		<!-- All natural wonders now give a happiness bonus when within your borders.
+		 Most give a standard value of 2.  The Reef is two tiles and gives 1 per tile. -->
+		<Features>
+			<Update>
+				<Where Type="FEATURE_REEF"/>
+				<Set InBorderHappiness="1"/>
+			</Update>
+			<Update>
+				<Where Type="FEATURE_CRATER"/>
+				<Set InBorderHappiness="2"/>
+			</Update>
+			<Update>
+				<Where Type="FEATURE_FUJI"/>
+				<Set InBorderHappiness="2"/>
+			</Update>
+			<Update>
+				<Where Type="FEATURE_MESA"/>
+				<Set InBorderHappiness="2"/>
+			</Update>
+			<Update>
+				<Where Type="FEATURE_VOLCANO"/>
+				<Set InBorderHappiness="2"/>
+			</Update>
+			<Update>
+				<Where Type="FEATURE_GIBRALTAR"/>
+				<Set InBorderHappiness="2"/>
+			</Update>
+			<Update>
+				<Where Type="FEATURE_GEYSER"/>
+				<Set InBorderHappiness="2"/>
+			</Update>
+			<Update>
+				<Where Type="FEATURE_MT_SINAI"/>
+				<Set InBorderHappiness="2"/>
+			</Update>
+			<Update>
+				<Where Type="FEATURE_ULURU"/>
+				<Set InBorderHappiness="2"/>
+			</Update>
+			<Update>
+				<Where Type="FEATURE_POTOSI"/>
+				<Set InBorderHappiness="2" OccurrenceFrequency="10"/>
+			</Update>
+			<Update>
+				<Where Type="FEATURE_FOUNTAIN_YOUTH"/>
+				<Set InBorderHappiness="2" AdjacentUnitFreePromotion="NULL" Help="NULL"/>
+			</Update>
+			<Update>
+				<Where Type="FEATURE_EL_DORADO"/>
+				<Set InBorderHappiness="2" FirstFinderGold="0" Help="NULL"/>
+			</Update>
+			<!-- My BNW additions -->
+			<Update>
+				<Where Type="FEATURE_LAKE_VICTORIA"/>
+				<Set InBorderHappiness="2"/>
+			</Update>
+			<Update>
+				<Where Type="FEATURE_KILIMANJARO"/>
+				<Set InBorderHappiness="2"/>
+			</Update>
+			<Update>
+				<Where Type="FEATURE_SOLOMONS_MINES"/>
+				<Set InBorderHappiness="2"/>
+			</Update>
+		</Features>
+
+		<!-- All natural wonders are balanced around a target number of 8 total yields alongside the happiness boost.  
+		 The Reef is a bit less because it consists of 2 tiles (Though, is still more than simply half the yield
+		 total of a regular natural wonder since it takes an extra citizen to work both tiles). Science is at 1/2 value -->
+		<Feature_YieldChanges>
+			<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+			<Update>
+				<Where FeatureType="FEATURE_CRATER" YieldType="YIELD_SCIENCE"/>
+				<Set Yield="8"/>
+				<!-- +2 -->
+			</Update>
+			<Update>
+				<Where FeatureType="FEATURE_CRATER" YieldType="YIELD_GOLD"/>
+				<Set Yield="4"/>
+				<!-- +2 -->
+			</Update>
+			<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+			<Update>
+				<Where FeatureType="FEATURE_FUJI" YieldType="YIELD_FAITH"/>
+				<Set Yield="2"/>
+			</Update>
+			<Update>
+				<Where FeatureType="FEATURE_FUJI" YieldType="YIELD_CULTURE"/>
+				<Set Yield="6"/>
+			</Update>
+			<Delete FeatureType="FEATURE_FUJI" YieldType="YIELD_GOLD"/>
+			<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+			<Row FeatureType="FEATURE_MESA">
+				<YieldType>YIELD_CULTURE</YieldType>
+				<Yield>4</Yield>
+			</Row>
+			<Update>
+				<Where FeatureType="FEATURE_MESA" YieldType="YIELD_GOLD"/>
+				<Set Yield="2"/>
+			</Update>
+			<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+			<Row FeatureType="FEATURE_VOLCANO">
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>4</Yield>
+			</Row><!-- +4 -->
+			<Update>
+				<Where FeatureType="FEATURE_VOLCANO" YieldType="YIELD_SCIENCE"/>
+				<Set Yield="8"/>
+				<!-- +3 -->
+			</Update>
+			<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+			<Row FeatureType="FEATURE_GIBRALTAR">
+				<YieldType>YIELD_PRODUCTION</YieldType>
+				<Yield>2</Yield>
+			</Row>
+			<Update>
+				<Where FeatureType="FEATURE_GIBRALTAR" YieldType="YIELD_GOLD"/>
+				<Set Yield="4"/>
+			</Update>
+			<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+			<Row FeatureType="FEATURE_GEYSER">
+				<YieldType>YIELD_CULTURE</YieldType>
+				<Yield>2</Yield>
+			</Row>
+			<Row FeatureType="FEATURE_GEYSER">
+				<YieldType>YIELD_GOLD</YieldType>
+				<Yield>2</Yield>
+			</Row>
+			<Update>
+				<Where FeatureType="FEATURE_GEYSER" YieldType="YIELD_SCIENCE"/>
+				<Set Yield="8"/>
+				<!-- +4 -->
+			</Update>
+			<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+			<Row FeatureType="FEATURE_POTOSI">
+				<YieldType>YIELD_PRODUCTION</YieldType>
+				<Yield>2</Yield>
+			</Row>
+			<Update>
+				<Where FeatureType="FEATURE_POTOSI" YieldType="YIELD_GOLD"/>
+				<Set Yield="6"/>
+			</Update>
+			<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+			<Row FeatureType="FEATURE_SRI_PADA">
+				<YieldType>YIELD_CULTURE</YieldType>
+				<Yield>2</Yield>
+			</Row>
+			<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+			<Row FeatureType="FEATURE_MT_SINAI">
+				<YieldType>YIELD_CULTURE</YieldType>
+				<Yield>2</Yield>
+			</Row>
+			<Update>
+				<Where FeatureType="FEATURE_MT_SINAI" YieldType="YIELD_FAITH"/>
+				<Set Yield="6"/>
+			</Update>
+			<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+			<Row FeatureType="FEATURE_MT_KAILASH">
+				<YieldType>YIELD_CULTURE</YieldType>
+				<Yield>4</Yield>
+			</Row>
+			<Update>
+				<Where FeatureType="FEATURE_MT_KAILASH" YieldType="YIELD_FAITH"/>
+				<Set Yield="4"/>
+			</Update>
+			<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+			<Row FeatureType="FEATURE_ULURU">
+				<YieldType>YIELD_GOLD</YieldType>
+				<Yield>2</Yield>
+			</Row>
+			<Update>
+				<Where FeatureType="FEATURE_ULURU" YieldType="YIELD_FAITH"/>
+				<Set Yield="4"/>
+			</Update>
+			<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+			<Update>
+				<Where FeatureType="FEATURE_REEF" YieldType="YIELD_SCIENCE"/>
+				<Set Yield="4"/>
+				<!-- +1 -->
+			</Update>
+			<Update>
+				<Where FeatureType="FEATURE_REEF" YieldType="YIELD_GOLD"/>
+				<Set Yield="2"/>
+				<!-- +1 -->
+			</Update>
+			<Delete FeatureType="FEATURE_REEF" YieldType="YIELD_PRODUCTION"/>
+			<!-- Too many icons -->
+			<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+			<Row FeatureType="FEATURE_FOUNTAIN_YOUTH">
+				<YieldType>YIELD_FOOD</YieldType>
+				<Yield>4</Yield>
+			</Row>
+			<Row FeatureType="FEATURE_FOUNTAIN_YOUTH">
+				<YieldType>YIELD_SCIENCE</YieldType>
+				<Yield>4</Yield>
+			</Row>
+			<Row FeatureType="FEATURE_FOUNTAIN_YOUTH">
+				<YieldType>YIELD_CULTURE</YieldType>
+				<Yield>2</Yield>
+			</Row>
+			<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+			<Update>
+				<Where FeatureType="FEATURE_EL_DORADO" YieldType="YIELD_CULTURE"/>
+				<Set Yield="2"/>
+			</Update>
+			<Row FeatureType="FEATURE_EL_DORADO">
+				<YieldType>YIELD_GOLD</YieldType>
+				<Yield>4</Yield>
+			</Row>
+			<Row FeatureType="FEATURE_EL_DORADO">
+				<YieldType>YIELD_SCIENCE</YieldType>
+				<Yield>4</Yield>
+			</Row>
+			<!-- -2 culture and gold, +4 science, = 8 now-->
+			<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+			<Row FeatureType="FEATURE_SOLOMONS_MINES">
+				<YieldType>YIELD_GOLD</YieldType>
+				<Yield>2</Yield>
+			</Row>
+			<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+			<Row FeatureType="FEATURE_LAKE_VICTORIA">
+				<YieldType>YIELD_PRODUCTION</YieldType>
+				<Yield>1</Yield>
+			</Row>
+			<Row FeatureType="FEATURE_LAKE_VICTORIA">
+				<YieldType>YIELD_SCIENCE</YieldType>
+				<Yield>2</Yield>
+			</Row>
+			<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+			<Row FeatureType="FEATURE_KILIMANJARO">
+				<YieldType>YIELD_SCIENCE</YieldType>
+				<Yield>6</Yield>
+			</Row>
+		</Feature_YieldChanges>
+
+		<!-- Set occurrence frequency equal to all other natural wonders. -->
+		<Natural_Wonder_Placement>
+			<Update>
+				<Where NaturalWonderType="FEATURE_POTOSI"/>
+				<Set OccurrenceFrequency="10"/>
+			</Update>
+			<Update>
+				<Where NaturalWonderType="FEATURE_FOUNTAIN_YOUTH"/>
+				<Set OccurrenceFrequency="10"/>
+			</Update>
+			<Update>
+				<Where NaturalWonderType="FEATURE_EL_DORADO"/>
+				<Set OccurrenceFrequency="10"/>
+			</Update>
+		</Natural_Wonder_Placement>
+
+		<!-- With all the other changes, Mythic Wonders are no longer "mythic" -->
+		<Language_en_US>
+			<Update>
+				<Where Tag="TXT_KEY_FEATURE_FOUNTAIN_YOUTH"/>
+				<Set Text="Wakulla Springs"/>
+			</Update>
+			<Update>
+				<Where Tag="TXT_KEY_FEATURE_EL_DORADO"/>
+				<Set Text="Lost City"/>
+			</Update>
+		</Language_en_US>
+</GameData>

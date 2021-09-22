@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/22/2014 6:31:40 PM -->
+	<GameData>
+		<Unit_UniqueNames>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Janos Hunyadi</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Jan Sobieski</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Skandenberg</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Kutuzow</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Simon Bolivar</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Abu Bakr</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Norman Schwarzkopf</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Tran Hung Dao</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>David of Georgia</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Lady Trieu</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Nguyen Hue</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Saladin</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Jan Žižka</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Nurhaci</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Shivaji Bosle</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Stanislaw Koniecpolski</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Alp Arslan</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Charles Martel</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Lautaro</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Bagration</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Ranjit Singh</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Samudragupta</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Mihai Bravu</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Ahmad Shach Durrani</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Cochise</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Crazy Horse</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Mahmud of Ghazni</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Andreas Prokop</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Xu Da</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Robert Guiscard</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Jan Karol Chodkiewicz</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Tokugawa Ieyasu</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Piye</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Naresuan</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Josip Broz Tito</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Ran Min</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Huyana Capac</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Cyrus the Great</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Toussaint L’Ouverture</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Gelawdewos</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Nyazinga</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Sundiata</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>K'Abel</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Trung Vuong</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Gwaggaeto the Great</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Kanishka the Great</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Oz Beg Khan</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Amina</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Malik Akbar</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_GENERAL</UnitType>
+				<UniqueName>Hayam Wuruk</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+				<UniqueName>Cornelis Tromp</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+				<UniqueName>George of Antioch</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+				<UniqueName>Kanhoji Agre</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+				<UniqueName>Keumalahayati</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+				<UniqueName>Peter Tordenskjold</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+				<UniqueName>Gustav Horn</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+				<UniqueName>Pytheas</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+				<UniqueName>Xu Fu</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+				<UniqueName>Zhang Quian</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+				<UniqueName>Wang Dayuan</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+				<UniqueName>Ngo Quyen</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+				<UniqueName>Hong Bao</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+				<UniqueName>Hannu</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Muhammad Yunus</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Taiichi Ohno</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Jerry Jang</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Carlos Slim</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Li Ka-Shing</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Ibn Khaldun</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Osman Ali Khan</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Simon Iturri Patino</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Cosimo de Medici</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Musa of Mali</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Ingvar Kamprad</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Tenkaminen</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>al-Mustansir</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Nyatsimba-Mutota</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Suryavarman</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Shah Abbas</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Thomas Gresham</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Yoyoda Tatsugoro</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Osei Tutu</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Nathan Rotschild</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Howqua</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Cecil Rhodes</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>T.V.Soong</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Tippu Tip</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Haji Bolkiah</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Rumaliza</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Adrian van der Hoop</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Tanaka Shosuke</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_MERCHANT</UnitType>
+				<UniqueName>Scrooge McDuck</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Su Song</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Carlos paz de Araujo</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>al-Jazari</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Ibn Ma'RufF</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Visvesvaraya</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Abdus Salam</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Patricia Bath</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Yu Hao</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Senenmut</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Muzharul Islam</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Ken Yeang</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Sayyed Ali Shah</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>al-Ishafani</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Ghiyathuddin</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Krikor Balyan</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Koca Kasim Aga</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Tihanyi</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Mimar Sinan</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Anthemius of Tralles</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Ilya Prigogine</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Ximen Bao</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Mukesh Ambani</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Kankou Musou</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Maslama am-Majriti</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Tapputi</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Reza Ghadiri</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Gunadharma</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_ENGINEER</UnitType>
+				<UniqueName>Ibn-Lugman</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Brahmagupta</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Omar Chajjam</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>al-Shirazi</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Ulug-Beg</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>al-Marwazi</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>al Battani</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Ahmes</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>al-Haytham</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Janos Bolyali</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Leo Szilard</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Baudhayan</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Seki Takakazu</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Madhawa</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Florence Nightingale</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Lagadha</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Panini</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Yajnavalkya</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Chang Tschang</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>al-Biruni</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Qin Jiushao</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Sofia Vasilyevna</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Ramanujan</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Stefan Banach</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Shiing-Shen Chern</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Alexey Postknikov</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Pei Xiu</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Xu Xiake</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Shirley Jackson</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Chieng-Shiung Wu</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Aziz'ab'Saber</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Zofia Kielan-Jaworowska</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Juan Ignacio Molina</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Ramachandran</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Chandrasekhar</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Merit-Ptah</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Wang Zhenyi</UniqueName>
+			</Row>
+			<Row>
+				<UnitType>UNIT_SCIENTIST</UnitType>
+				<UniqueName>Ahmed Zewail</UniqueName>
+			</Row>
+		</Unit_UniqueNames>
+</GameData>

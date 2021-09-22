@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/6/2014 7:16:50 PM -->
+<GameData>
+	<Builds>
+		
+		<!--<Update>
+			<Where Type="BUILD_TERRACE_FARM" />
+			<Set Time="350" />
+		</Update>-->
+		<Update>
+			<Where Type="BUILD_MOAI" />
+			<Set PrereqTech="TECH_WATERCRAFT" />
+		</Update>
+		<!--<Update>
+			<Where Type="BUILD_POLDER" />
+			<Set Time="350" />
+		</Update>
+		<Update>
+			<Where Type="BUILD_BRAZILWOOD_CAMP" />
+			<Set Time="350" />
+		</Update>
+		<Update>
+			<Where Type="BUILD_KASBAH" />
+			<Set Time="400" />
+		</Update>
+		<Update>
+			<Where Type="BUILD_FEITORIA" />
+			<Set Time="400" />
+		</Update>
+		<Update>
+			<Where Type="BUILD_CHATEAU" />
+			<Set Time="400" />
+		</Update>-->
+		<Update>
+			<Where Type="BUILD_QUARRY" />
+			<Set PrereqTech="TECH_TOOLS" />
+		</Update>
+		<Update>
+			<Where Type="BUILD_PLANTATION" />
+			<Set PrereqTech="TECH_AGRICULTURE" />
+		</Update>
+		<Update>
+			<Where Type="BUILD_REMOVE_FOREST" />
+			<Set PrereqTech="TECH_AGRICULTURE" />
+		</Update>
+		<Update>
+			<Where Type="BUILD_CAMP" />
+			<Set PrereqTech="TECH_TOOLS" />
+		</Update>
+		<Update>
+			<Where Type="BUILD_FISHING_BOATS" />
+			<Set PrereqTech="TECH_WATERCRAFT" />
+		</Update>
+		<Update>
+			<Where Type="BUILD_ACADEMY" />
+			<Set PrereqTech="TECH_MATHEMATICS" />
+		</Update>
+		<Update>
+			<Where Type="BUILD_CUSTOMS_HOUSE" />
+			<Set PrereqTech="TECH_BANKING" />
+		</Update>
+		<Update>
+			<Where Type="BUILD_MANUFACTORY" />
+			<Set PrereqTech="TECH_STEAM_POWER" />
+		</Update>
+		<Update>
+			<Where Type="BUILD_CITADEL" />
+			<Set PrereqTech="TECH_METAL_CASTING" />
+		</Update>
+		<Update>
+			<Where Type="BUILD_FORT" />
+			<Set PrereqTech="TECH_ENGINEERING" />
+		</Update>
+		<Update>
+			<Where Type="BUILD_SCRUB_FALLOUT" />
+			<Set PrereqTech="TECH_ECOLOGY" />
+		</Update>
+		<Update>
+			<Where Type="BUILD_HOLY_SITE" />
+			<Set PrereqTech="TECH_CALENDAR" />
+		</Update>
+		<Update>
+			<Where Type="BUILD_LUMBERMILL" />
+			<Set PrereqTech="TECH_THE_WHEEL" />
+		</Update>
+	</Builds>
+	<BuildFeatures>
+		<Update>
+			<Where FeatureType="FEATURE_FOREST" />
+			<Set PrereqTech="TECH_AGRICULTURE" />
+		</Update>
+		
+		
+	</BuildFeatures>
+	<Improvements>
+		
+		<Update>
+			<Where Type="IMPROVEMENT_BARBARIAN_CAMP" />
+			<Set DefenseModifier="100" />
+		</Update>
+	</Improvements>
+	<Improvement_Yields>
+		<Update>
+			<Where ImprovementType="IMPROVEMENT_MANUFACTORY" />
+			<Set Yield="6" />
+		</Update>
+		
+		
+	</Improvement_Yields>
+	<Improvement_TechYieldChanges>
+		<Delete ImprovementType="IMPROVEMENT_MANUFACTORY"/>
+		<Delete ImprovementType="IMPROVEMENT_LUMBERMILL"/>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<TechType>TECH_OCEAN_MINING</TechType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OFFSHORE_PLATFORM</ImprovementType>
+			<TechType>TECH_OCEAN_MINING</TechType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<TechType>TECH_OCEAN_MINING</TechType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OFFSHORE_PLATFORM</ImprovementType>
+			<TechType>TECH_OCEAN_MINING</TechType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_QUARRY</ImprovementType>
+			<TechType>TECH_NUCLEAR_FUSION</TechType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<TechType>TECH_NUCLEAR_FUSION</TechType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MANUFACTORY</ImprovementType>
+			<TechType>TECH_NUCLEAR_FUSION</TechType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_LUMBERMILL</ImprovementType>
+			<TechType>TECH_RAILROAD</TechType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_LUMBERMILL</ImprovementType>
+			<TechType>TECH_NUCLEAR_FUSION</TechType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_KASBAH</ImprovementType>
+			<TechType>TECH_NUCLEAR_FUSION</TechType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4</ImprovementType>
+			<TechType>TECH_NUCLEAR_FUSION</TechType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+	</Improvement_TechYieldChanges>
+	<Terrain_Yields>
+		<Delete TerrainType="TERRAIN_GRASS"/>
+		<Delete TerrainType="TERRAIN_PLAINS"/>
+		<Delete TerrainType="TERRAIN_TUNDRA"/>
+		<Delete TerrainType="TERRAIN_OCEAN"/>
+	</Terrain_Yields>
+	<Terrain_RiverYieldChanges>
+		<Row>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Terrain_RiverYieldChanges>
+	<Terrain_HillsYieldChanges>
+		<Delete TerrainType="TERRAIN_GRASS"/>
+		<Delete TerrainType="TERRAIN_PLAINS"/>
+		<Delete TerrainType="TERRAIN_TUNDRA"/>
+		<Delete TerrainType="TERRAIN_DESERT"/>
+	</Terrain_HillsYieldChanges>
+	<Feature_YieldChanges>
+		<Delete FeatureType="TERRAIN_LAKE"/>
+		<Delete FeatureType="TERRAIN_JUNGLE"/>
+		<Delete FeatureType="TERRAIN_MARSH"/>
+		<Delete FeatureType="TERRAIN_OASIS"/>
+		<Delete FeatureType="TERRAIN_FLOOD_PLAINS"/>
+		<Row>
+			<FeatureType>FEATURE_LAKE</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_OASIS</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_FLOOD_PLAINS</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Feature_YieldChanges>
+	<Features>
+		<Update>
+			<Set TurnDamage="25"/>
+			<Where Type="FEATURE_FALLOUT"/>
+		</Update>
+	</Features>
+	<Improvement_TechNoFreshWaterYieldChanges>
+		
+	</Improvement_TechNoFreshWaterYieldChanges>
+	<Improvement_TechFreshWaterYieldChanges>
+		<Delete ImprovementType="IMPROVEMENT_FARM"/>
+		<Delete ImprovementType="IMPROVEMENT_TERRACE_FARM"/>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		
+		<Row>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TERRACE_FARM</ImprovementType>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		
+	</Improvement_TechFreshWaterYieldChanges>
+	<Improvement_ValidTerrains>
+		
+	</Improvement_ValidTerrains>
+	<Improvement_ResourceTypes>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOMS_HOUSE</ImprovementType>
+			<ResourceType>RESOURCE_SALTPETER</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOMS_HOUSE</ImprovementType>
+			<ResourceType>RESOURCE_COPPER2</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_ACADEMY</ImprovementType>
+			<ResourceType>RESOURCE_SALTPETER</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_ACADEMY</ImprovementType>
+			<ResourceType>RESOURCE_COPPER2</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
+			<ResourceType>RESOURCE_SALTPETER</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
+			<ResourceType>RESOURCE_COPPER2</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MANUFACTORY</ImprovementType>
+			<ResourceType>RESOURCE_SALTPETER</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MANUFACTORY</ImprovementType>
+			<ResourceType>RESOURCE_COPPER2</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<ResourceType>RESOURCE_SALTPETER</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<ResourceType>RESOURCE_COPPER2</ResourceType>
+		</Row>
+	</Improvement_ResourceTypes>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_CULTURE_GETTING_HEADING2_BODY"/>
+			<Set Text="Your civilization acquires Culture in a variety of ways:[NEWLINE]- Your Palace: Your palace (created when you build your first city) produces 1 Culture point per turn.[NEWLINE]- Abandoned Village: An abandoned village might give you a big dose of Culture.[NEWLINE]- Buildings: Certain buildings provide Culture. The monument is an early example.[NEWLINE]- Specialists: Specialists, particularly artists, writers, and musicians, generate Culture.[NEWLINE]- Wonders: Some wonders churn out culture. The Hermitage, Heroic Epic and National Epics are three national wonders that give you Culture, and there are plenty more to discover.[NEWLINE]- Social Policies and Tenets: Certain Social Policies and Ideological Tenets will increase your Culture output. The 'Aesthetics' branch has a number of policies targeted at Culture.[NEWLINE]- Great People: Great Artists, Writers, and Musicians can all create 'Great Works' that produce Culture and Tourism.[NEWLINE]- City-States: Some city-states give you Culture if your relations are friendly."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE4"/>
+			<Set Text="PLUNDERED ABANDONED VILLAGE"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_GOODY_HUT_PICKER_HELP"/>
+			<Set Text="May choose benefit when discovering Abandoned Villages."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_SUMMARY"/>
+			<Set Text="[ICON_PEACE] Faith is the currency which enables you to found a Pantheon, makes Great Prophets spawn and can be used to purchase religious units and buildings.[NEWLINE][NEWLINE]There are several sources for [ICON_PEACE] Faith points. There are buildings or wonders that award a certain amount of [ICON_PEACE] Faith per round if you build them in your cities. Some Natural Wonders can also generate it when they are being worked. You can find [ICON_PEACE] Faith in Abandoned Villages. If you befriend a religious city-state they will also contribute with regular gifts. And the last source of [ICON_PEACE] Faith is the tile improvement Holy Site that Great Prophets can erect on your lands."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_POP_RUINS_EXPLORED"/>
+			<Set Text="Abandoned Village Explored!"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_BODY"/>
+			<Set Text="Abandoned Villages hold secrets that may advance our civilization! [COLOR_ADVISOR_HIGHLIGHT_TEXT]Send a unit into an Abandoned Village[/COLOR] to see what it holds. "/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_ACTIVATE_BUTTON"/>
+			<Set Text="Find Abandoned Village"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_ADVISOR_TUTORIAL_1_INTRO_MOVEMENT_AND_EXPLORATION_BODY"/>
+			<Set Text="I am your science advisor. In this lesson I'll teach you how to move your units around the map. In the process you'll discover abandoned villages, Natural Wonders, and whole new continents!"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_GOAL_TUTORIAL_1_ANCIENT_RUINS"/>
+			<Set Text="Find all {1_Num} Abandoned Villages."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_GOAL_TUTORIAL_1_ANCIENT_RUINS_PROGRESS"/>
+			<Set Text="Explore all {1_Num} Abandoned Villages. ({2_Num} explored, {3_Num} remaining)"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_RECON"/>
+			<Set Text="We should continue exploring the world to discover abandoned villages, natural wonders, and other civilizations!"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BARBARIAN_ADV_QUEST"/>
+			<Set Text="What are barbarians and abandoned villages?"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BARBARIAN_ANCIENTRUINS_ADV_QUEST"/>
+			<Set Text="What are ancient ruins and what do they do?"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BARBARIAN_ANCIENTRUINS_HEADING2_BODY"/>
+			<Set Text="Abandoned Villages are the remnants of even earlier civilizations which rose and fell long before you came on the scene. Villages provide a random benefit to the civilization of the unit that first enters their tile. The village is destroyed when it is entered.[NEWLINE][NEWLINE]Villages are cool. Find as many as you can before other civs get to them!"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BARBARIAN_ANCIENTRUINS_HEADING2_TITLE"/>
+			<Set Text="Abandoned Village"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BARBARIAN_CULTURE_ADV_QUEST"/>
+			<Set Text="How can an abandoned village provide you with culture?"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BARBARIAN_CULTURE_HEADING4_TITLE"/>
+			<Set Text="Culture from Abandoned Village"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BARBARIAN_FREETECH_ADV_QUEST"/>
+			<Set Text="How can an abandoned village help you with technology?"/>
+		</Update>
+			<Update>
+				<Where Tag="TXT_KEY_BARBARIAN_HEADING1_BODY"/>
+				<Set Text="During the early portion of the game - say, the first 25 - 50 turns - much of your energy should be involved in exploring the world. During your exploration you will be encountering abandoned villages and barbarians. Abandoned Villages are good, barbarians are not."/>
+			</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BARBARIAN_HEADING1_TITLE"/>
+			<Set Text="Villages and Barbarians"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BARBARIAN_MAP_ADV_QUEST"/>
+			<Set Text="How can an abandoned village help you explore the map?"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BARBARIAN_RUINBENEFITS_ADV_QUEST"/>
+			<Set Text="What benefits can you get from an abandoned village?"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BARBARIAN_RUINBENEFITS_HEADING3_BODY"/>
+			<Set Text="Abandoned villages can provide a number of different benefits."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BARBARIAN_RUINBENEFITS_HEADING3_TITLE"/>
+			<Set Text="Village Benefits"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BARBARIAN_SURVIVORS_ADV_QUEST"/>
+			<Set Text="How can your cities gain population from an abandoned village?"/>
+		</Update>
+			<Update>
+				<Where Tag="TXT_KEY_BARBARIAN_TREASURE_ADV_QUEST"/>
+				<Set Text="How can an abandoned village provide you with gold?"/>
+			</Update>
+			<Update>
+				<Where Tag="TXT_KEY_BARBARIAN_TREASURE_HEADING4_BODY"/>
+				<Set Text="The village provides gold to your civilization!"/>
+			</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BARBARIAN_WEAPONS_ADV_QUEST"/>
+			<Set Text="How can an abandoned village upgrade one of your units?"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_IMPROVEMENTS_ANCIENTRUINS"/>
+			<Set Text="Abandoned Village"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_GOLD_ANCIENTRUINS_ADV_QUEST"/>
+			<Set Text="Can abandoned villages give you more gold?"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_GOLD_ANCIENTRUINS_HEADING3_BODY"/>
+			<Set Text="An abandoned village may provide gold when it is explored."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_GOLD_ANCIENTRUINS_HEADING3_TITLE"/>
+			<Set Text="Abandoned Village"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_IMPROVEMENT_GOODY_HUT_PEDIA"/>
+			<Set Text="Abandoned Villages are the remains of earlier long-dead civilizations. They are filled with valuable secrets - gold, maps, lost technologies and sometimes even survivors - awaiting discovery by the intrepid explorer. Rich rewards await those who first enter an Abandoned Village!"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ANCIENTRUINS_ADV_QUEST"/>
+			<Set Text="How can abandoned villages help research?"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ANCIENTRUINS_HEADING4_BODY"/>
+			<Set Text="Some abandoned ruins will give you new technology. This is not guaranteed, but it's another good reason to search them out and claim them before anybody else does."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ANCIENTRUINS_HEADING4_TITLE"/>
+			<Set Text="Abandoned Village"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_INCREASINGBEAKERS_HEADING3_BODY"/>
+			<Set Text="Here are some common ways you can speed up your research (or your acquisition of technology): discover abandoned villages, enter into research agreements with other civilizations, construct buildings and wonders that improve your research output, earn a great scientist, and develop the rationalism branch in the social policy tree."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TOPIC_BARBARIAN"/>
+			<Set Text="Abandoned Villages and Barbarians"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_GAME_CONCEPT_SECTION_19"/>
+			<Set Text="Abandoned Villages and Barbarians"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_OPSCREEN_NO_REWARD_POPUPS_TT"/>
+			<Set Text="Disables Reward Popups (Technology, Abandoned Villages, etc.)."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_NOTIFICATION_FOUND_GOODY_HUT"/>
+			<Set Text="You have discovered an Abandoned Village! Sending a Unit into the ruins may uncover hidden secrets!"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_NOTIFICATION_SUMMARY_FOUND_GOODY_HUT"/>
+			<Set Text="Village discovered"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_GAME_OPTION_NO_GOODY_HUTS"/>
+			<Set Text="No Abandoned Villages"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_GAME_OPTION_NO_GOODY_HUTS_HELP"/>
+			<Set Text="Abandoned Villages do not appear on the map."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_IMPROVEMENT_GOODY_HUT"/>
+			<Set Text="Abandoned Village"/>
+		</Update>
+		
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="66f38ce9-fc7b-448d-a7db-949d105b9b9f" version="4">
+  <Properties>
+    <Name>Zwei833's Renaissance Era Revised</Name>
+    <Teaser>Revise the military unit system of renaissance era.</Teaser>
+    <Description>Revise the military unit system of renaissance era.</Description>
+    <Authors>zwei833</Authors>
+    <SpecialThanks>JFD, Whoward69, Enginseer, taube, DJSHenninger, Nutty, sukritact, Pouakai, Bakuel, Hoop Thrower, Chrisy15</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's and Pouakai's Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Cities in Development" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+  </References>
+  <Blocks>
+    <Mod id="a9efbd84-c934-4e58-acb2-717a4cd70b93" minversion="0" maxversion="999" title="Gripsholm Wonder" />
+    <Mod id="faaf1e46-d2e9-4ddb-8abf-068acc4ebfdc" minversion="0" maxversion="999" title="GAIA for Civilization V" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="828b5b4b-7c62-4afb-a43f-034b596ef5e4" minversion="0" maxversion="999" title="Community Balance Patch - Compatibility Files" />
+    <Mod id="24923240-e4fb-4bf6-8f0e-6e5b6cf4d3c2" minversion="0" maxversion="999" title="Community Balance Patch - Compatibility Files (EUI)" />
+  </Blocks>
+  <Files>
+    <File md5="DDFF5127358A69F9C3D6E1F79A531547" import="1">Art/Graphics/2hswordsman/2hgs_black_diff.dds</File>
+    <File md5="D8BE541295FE2C8C101088DFFEED08A2" import="1">Art/Graphics/2hswordsman/2hgs_black_sref.dds</File>
+    <File md5="18EA9FE46D430F838258A251A498711A" import="1">Art/Graphics/2hswordsman/2hswordsman_black.fxsxml</File>
+    <File md5="6A88330D83403F350F5FEDEC39F7C1B7" import="1">Art/Graphics/2hswordsman/2hswordsman_black.gr2</File>
+    <File md5="4020A662D7DAD5FCDB43A10487F831F0" import="1">Art/Graphics/2hswordsman/2h_tercio_piquero_sref.dds</File>
+    <File md5="F7F6A7C7832E8130B2311A6DC641251C" import="1">Art/Graphics/2hswordsman/DBaro2nClay_gloss.dds</File>
+    <File md5="9A5E69D7340765F000790541CC6755AD" import="1">Art/Graphics/2hswordsman/DBaronClay.dds</File>
+    <File md5="0D26193EAE3D81B0A0D56747514E5DBF" import="1">Art/Graphics/Black Rider/confederate_cavalry_diff.dds</File>
+    <File md5="5153CC917DEC990CDB4F911F01B34859" import="1">Art/Graphics/Black Rider/confederate_cavalry_sref.dds</File>
+    <File md5="1D56F010221DF548FB1C48064665400A" import="1">Art/Graphics/Black Rider/cuirassier.fxsxml</File>
+    <File md5="6FF99A198ACFDAAE49E3F698FC19A2FD" import="1">Art/Graphics/Black Rider/cuirassier.gr2</File>
+    <File md5="A8009FEC37C92FB33C0C6B02503DB576" import="1">Art/Graphics/Black Rider/holyromancuirassier_128.dds</File>
+    <File md5="D27BD87725F7BA6E47A36245A2C337F8" import="1">Art/Graphics/Black Rider/JFD_MercBlackRiderUnitFlag_32.dds</File>
+    <File md5="38B3EE337A174D4AB9235BA48DC77927" import="1">Art/Graphics/Black Rider/newglossforimperialcuirassier.dds</File>
+    <File md5="1F2FA2FA377623CE141B7E7B00D42D86" import="1">Art/Graphics/Black Rider/sv_MercBlackRider.dds</File>
+    <File md5="2460FE162A5AF92E06CD03EC4ACF949D" import="1">Art/Graphics/free_company/eng_kn.dds</File>
+    <File md5="D0CF1C8D5F848CE90C6FFAF8C5F4C681" import="1">Art/Graphics/free_company/eng_kn_gloss.dds</File>
+    <File md5="514BE5FD691D97CC7AE26C0B08D777B4" import="1">Art/Graphics/free_company/free_company.dds</File>
+    <File md5="1AB11ABD9512F6E0908A5CBAC94C8F83" import="1">Art/Graphics/free_company/free_company.fxsxml</File>
+    <File md5="142F719DD4157938FD63AC133F72FA43" import="1">Art/Graphics/free_company/free_company.gr2</File>
+    <File md5="FEA2A8567FF8B7954C97E7FA088FB7AB" import="1">Art/Graphics/free_company/free_company_gloss.dds</File>
+    <File md5="0FAD69FDD9C47C4045F43D383D88496A" import="1">Art/Graphics/free_company/free_company_poleaxe.fxsxml</File>
+    <File md5="1287AF3F981B0ED91DD839273D19D1C4" import="1">Art/Graphics/free_company/free_company_poleaxe.gr2</File>
+    <File md5="4AAA86C3E77695ED6383AB94ACBC9206" import="1">Art/Graphics/RER_MUSKET/holyromanmusketman_gloss.dds</File>
+    <File md5="B2491231B875050C5F89DEEF11A98CA0" import="1">Art/Graphics/RER_MUSKET/hremm-tc.fxsxml</File>
+    <File md5="46CD13CC51F0D1B22F0AD71F85CC8C31" import="1">Art/Graphics/RER_MUSKET/hremm-tc.gr2</File>
+    <File md5="8117A426FA6CB4A378519D40BABB3D7D" import="1">Art/Graphics/RER_MUSKET/hremm128-tc.dds</File>
+    <File md5="54FFFA0FEB87F0AC8AF52E994CE3EDA1" import="1">Art/Graphics/RER_MUSKET/Streltsy_Black_Cap_diff.dds</File>
+    <File md5="3308998185E87E3CD4C60A0E039B0EF3" import="1">Art/Graphics/RER_MUSKET/Streltsy_sref.dds</File>
+    <File md5="131CA692BEE32D4198FAC079C7B569F9" import="1">Art/Graphics/RER_PIKE/pike_helm_diff.dds</File>
+    <File md5="3C1CE99FF2BFE1A47EF3A0A889C0A76F" import="1">Art/Graphics/RER_PIKE/pike_helm_sref.dds</File>
+    <File md5="EBCE0CD7F3071FFEB7EA63B8FF250985" import="1">Art/Graphics/RER_PIKE/RER_PIKE.fxsxml</File>
+    <File md5="7C457B3C1AE50E07BD210087FEF27EBF" import="1">Art/Graphics/RER_PIKE/RER_PIKE.gr2</File>
+    <File md5="B1EF918E9BDE8877909CFBBD03931279" import="1">Art/Graphics/RER_PIKE/RER_PIKE_diff.dds</File>
+    <File md5="D93107382406BC93F69CEACFE6679FBD" import="1">Art/Graphics/RER_PIKE/RER_PIKE_sref.dds</File>
+    <File md5="F3067567E5115EC50DBD41E53EBF9E0A" import="1">Art/Graphics/Rodeleros/Rodeleros.fxsxml</File>
+    <File md5="AD51F017E711C72740752281076E34FC" import="1">Art/Graphics/Rodeleros/Rodeleros.gr2</File>
+    <File md5="234F9456583691BE61E3CC7BC5940FAB" import="1">Art/Graphics/Rodeleros/Rodeleros_body.dds</File>
+    <File md5="5F0988A1F7282A32308938F752F9D5D7" import="1">Art/Graphics/Rodeleros/Rodeleros_body_gloss.dds</File>
+    <File md5="BDEA736CAE3BF3CDDEE6D623793C7B03" import="1">Art/Graphics/Rodeleros/Rodeleros_shield.dds</File>
+    <File md5="88860C79739274AFC251FA630973D0C3" import="1">Art/Graphics/Rodeleros/Rodeleros_shield_gloss.dds</File>
+    <File md5="630FF05F9A7D08517EC29BE411F41410" import="1">Art/Graphics/Terc/TER_PIKE_diff.dds</File>
+    <File md5="7151B191973CDBA2713C1CD1A1EBA93F" import="1">Art/Graphics/Terc/TER_PIKE_piquero.fxsxml</File>
+    <File md5="34351D1368AEB6685A4C2E468E4B7E72" import="1">Art/Graphics/Terc/TER_PIKE_piquero.gr2</File>
+    <File md5="55D2A7C187E45D58FB688D5FFDBCFD1F" import="1">Art/Graphics/Terc/TER_PIKE_sref.dds</File>
+    <File md5="447695836D843885AC0C6A5C9E85BE09" import="1">Art/IconAtlas/2HANDER_SV.dds</File>
+    <File md5="80FCCD168DA2DB7250B49CC02A21132C" import="1">Art/IconAtlas/FreeCompany_Flag.dds</File>
+    <File md5="51208B049F80BA68A767259564329C90" import="1">Art/IconAtlas/FreeCompany_SV.dds</File>
+    <File md5="EB5F4D2EEBD8E47788AC5269D861902F" import="1">Art/IconAtlas/JFD_DoppelsoldnerUnitFlag_32.dds</File>
+    <File md5="88660A6952D141496108A10558598C05" import="1">Art/IconAtlas/Landsknecht_Flag.dds</File>
+    <File md5="FE96BB4A1626EE4B306D907FF8D682C2" import="1">Art/IconAtlas/Landsknecht_SV.dds</File>
+    <File md5="36EE3B3FF5BD1F8C749A1F0ACD1BC0C2" import="1">Art/IconAtlas/RER_TECH_128.dds</File>
+    <File md5="78854C058A83AB0A591D4716ACC33B99" import="1">Art/IconAtlas/RER_TECH_256.dds</File>
+    <File md5="7EB471F95F392CE2043C01E3F733210F" import="1">Art/IconAtlas/RER_TECH_45.dds</File>
+    <File md5="75F8C772D1DBA522E7E32F161122D5CD" import="1">Art/IconAtlas/RER_TECH_64.dds</File>
+    <File md5="E857EDAFFF9D2C0ACFBF429880273AD5" import="1">Art/IconAtlas/RER_TECH_80.dds</File>
+    <File md5="BAE118EB0EA2A2C0EA4F1B9CA32D57E3" import="1">Art/IconAtlas/RER_UNITS_atlas_128.dds</File>
+    <File md5="3A50B0E89AE8A06A26E1964670CF146D" import="1">Art/IconAtlas/RER_UNITS_atlas_256.dds</File>
+    <File md5="8BE0A736A1278E4F825E35997B436336" import="1">Art/IconAtlas/RER_UNITS_atlas_45.dds</File>
+    <File md5="0C36DBF6F6D599D69BAEB2A4DB902C88" import="1">Art/IconAtlas/RER_UNITS_atlas_64.dds</File>
+    <File md5="3135D3F811C8A4650540C4FC18326602" import="1">Art/IconAtlas/RER_UNITS_atlas_80.dds</File>
+    <File md5="EE68F0A9D8F240D2293A256D0884DDAA" import="1">Art/IconAtlas/Rodeleros_Flag.dds</File>
+    <File md5="D127EA28EB9BC9AF20D550CCE769E52B" import="1">Art/IconAtlas/Rodeleros_SV.dds</File>
+    <File md5="3A99F865566D967FA2E5DC27566B2B0B" import="0">Art/RER_ArtDefines.sql</File>
+    <File md5="2360D5E9D60E700D23D1ABB1C7D4CDE1" import="0">Core/C15_RER_UnitChanges2.sql</File>
+    <File md5="B731878D00AEB77B283CE06D8882260B" import="0">Core/RER_GameDefines.sql</File>
+    <File md5="95FA0F67B9346F33463A0E3966486A60" import="0">Core/RER_GameText.xml</File>
+    <File md5="947D2F46D160268823E5406409D2A882" import="0">Core/RER_Master.sql</File>
+    <File md5="321C3DFBCD5CD092F96CE76C98A432D3" import="0">Core/RER_ModSupport.sql</File>
+    <File md5="A6BFAC5A08EEA670A257735C335F6D38" import="0">Core/RER_Promotions.sql</File>
+    <File md5="8A5715A2DE1022B8498125EEE243F724" import="0">Core/RER_Technologies.xml</File>
+    <File md5="DD56410B020199C09326806471F3E1C0" import="0">Core/RER_Units.xml</File>
+    <File md5="396ACA83CD43F8388A54748091EF3F33" import="0">Core/RER_Units_Alternates.sql</File>
+    <File md5="D957F7A84E57E70052C4EB07C7C7BC6D" import="1">Gripsholm_Wonder/Art/Gripsholm_icon128.dds</File>
+    <File md5="03E9F26331872C8B8E2939260A931255" import="1">Gripsholm_Wonder/Art/Gripsholm_icon256.dds</File>
+    <File md5="9BCB48E4EF78055D18DD3541A25B2296" import="1">Gripsholm_Wonder/Art/Gripsholm_icon45.dds</File>
+    <File md5="B5CD7C623B8561D30B32E1491A0BFA74" import="1">Gripsholm_Wonder/Art/Gripsholm_icon64.dds</File>
+    <File md5="FBCC01F9BC7631474B17F0BF951D00B3" import="1">Gripsholm_Wonder/Art/Gripsholm_icon80.dds</File>
+    <File md5="1EF22C207F2CE35277FF27F79FE676B3" import="1">Gripsholm_Wonder/Art/Gripsholm_splash.dds</File>
+    <File md5="12DE5743E8DB0D5CE26E8925B8326E52" import="0">Gripsholm_Wonder/XML/Buildings/Gripsholm_BuildingClasses.xml</File>
+    <File md5="0C67E503CB7EE0813AB8C64DFA6BE119" import="0">Gripsholm_Wonder/XML/Buildings/Gripsholm_Buildings.xml</File>
+    <File md5="30E35231A1CCBD8B174199E9942F6978" import="0">Gripsholm_Wonder/XML/Civilizations/Gripsholm_Civilizations.xml</File>
+    <File md5="710561BE6E9AB1176854A87E8DF39227" import="0">Gripsholm_Wonder/XML/GameInfo/Gripsholm_IconTextureAtlases.xml</File>
+    <File md5="80EC27B2E1653783EF5BCE7DE4CD172E" import="0">Gripsholm_Wonder/XML/Text/Gripsholm_text_EN_US.xml</File>
+    <File md5="3FD549E08567EB0B8038C3569C320537" import="0">ZWEI_RER_UserSettings.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>ZWEI_RER_UserSettings.sql</UpdateDatabase>
+      <UpdateDatabase>Art/RER_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RER_Master.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RER_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/RER_Technologies.xml</UpdateDatabase>
+      <UpdateDatabase>Core/RER_Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RER_Units.xml</UpdateDatabase>
+      <UpdateDatabase>Core/RER_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RER_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/C15_RER_UnitChanges2.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RER_Units_Alternates.sql</UpdateDatabase>
+      <UpdateDatabase>Gripsholm_Wonder/XML/Buildings/Gripsholm_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>Gripsholm_Wonder/XML/Buildings/Gripsholm_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Gripsholm_Wonder/XML/Civilizations/Gripsholm_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>Gripsholm_Wonder/XML/GameInfo/Gripsholm_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Gripsholm_Wonder/XML/Text/Gripsholm_text_EN_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

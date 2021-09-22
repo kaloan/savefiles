@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/1/2014 11:53:20 AM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_OCTOBER</Type>
+			<Description>TXT_KEY_TRAIT_OCTOBER</Description>
+			<ShortDescription>TXT_KEY_TRAIT_OCTOBER_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Leader_Traits>
+		<Row>
+			<LeaderType>LEADER_LENIN</LeaderType>
+			<TraitType>TRAIT_OCTOBER</TraitType>
+		</Row>
+	</Leader_Traits>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_OCTOBER">
+			<Text>Completing a Social Policy branch or adopting an Ideology yields +1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science to specific improvements, based on the adopted Policy or Ideology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_OCTOBER_SHORT">
+			<Text>Peace, Land, Bread</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

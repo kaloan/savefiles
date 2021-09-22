@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_PANAM</Type>
+			<DefaultBuilding>BUILDING_PANAM</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_PANAM</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+</GameData>

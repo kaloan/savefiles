@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Beliefs>
+		<!--Pantheon-->
+		
+		<Row>
+			<Type>BELIEF_ALMIGHTY_DOLLAR</Type>
+			<Description>1 [ICON_GOLD] in cities with 3+ [ICON_CITIZEN]</Description>
+			<ShortDescription>Almighty Dollar</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MinPopulation>3</MinPopulation>
+		</Row>
+		<Row>
+			<Type>BELIEF_ANIMALISM</Type>
+			<Description>2 [ICON_PEACE] from [ICON_RES_DEER] and [ICON_RES_FUR]</Description>
+			<ShortDescription>Animalism</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_HEAVENLY_BLESSINGS</Type>
+			<Description>2 [ICON_PEACE] from [ICON_RES_DYE] and [ICON_RES_SILK]</Description>
+			<ShortDescription>Heavenly Blessings</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_KINGS_DIVINITY</Type>
+			<Description>+2 [ICON_PEACE] and +1 [ICON_CULTURE] from each Castle</Description>
+			<ShortDescription>King's Divinity</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_NATURALISM</Type>
+			<Description>3 [ICON_RESEARCH] from Natural Wonders</Description>
+			<ShortDescription>Naturalism</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_NATURAL_SELECTION</Type>
+			<Description>1 [ICON_RESEARCH] in cities with 3+ [ICON_CITIZEN]</Description>
+			<ShortDescription>Natural Selection</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MinPopulation>3</MinPopulation>
+		</Row>
+		<Row>
+			<Type>BELIEF_VISION_QUEST</Type>
+			<Description>1 [ICON_PEACE] from Forest tiles</Description>
+			<ShortDescription>Vision Quest</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_WEAPONS_GODS</Type>
+			<Description>1 [ICON_CULTURE] and 2 [ICON_PEACE] from [ICON_RES_IRON]</Description>
+			<ShortDescription>Weapons of Our Gods</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<!--Founder-->
+		<Row>
+			<Type>BELIEF_GOD_LOVE</Type>
+			<Description>5 [ICON_HAPPINESS_1] when not at war</Description>
+			<ShortDescription>God is Love</ShortDescription>
+			<Founder>true</Founder>
+			<PlayerHappiness>5</PlayerHappiness>
+			<RequiresPeace>true</RequiresPeace>
+		</Row>
+		<Row>
+			<Type>BELIEF_JIHAD</Type>
+			<Description>+5% [ICON_CULTURE] Empire wide</Description>
+			<ShortDescription>Jihad</ShortDescription>
+			<Founder>true</Founder>
+			<PlayerCultureModifier>5</PlayerCultureModifier>
+		</Row>
+		<!--Follower-->
+		<Row>
+			<Type>BELIEF_LORDS_ARMY</Type>
+			<Description>1 [ICON_PEACE] from all military training buildings</Description>
+			<ShortDescription>Army of the Lord</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_AWE_GOD</Type>
+			<Description>50% more [ICON_PEACE] from Natural Wonders that already provide it</Description>
+			<ShortDescription>Awe of God</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_CEREMONIAL_LAW</Type>
+			<Description>1% [ICON_FOOD] per follower in city (Max 15%)</Description>
+			<ShortDescription>Ceremonial Law</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_CHURCH_CONTROL</Type>
+			<Description>2 [ICON_PEACE] from Banks and 3 [ICON_PEACE] from Public Schools</Description>
+			<ShortDescription>Church Control</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_CHURCH_INFLUENCE</Type>
+			<Description>+1 [ICON_PEACE] Faith and +3 [ICON_GOLD] Gold to each Cathedral, Mosque, Pagoda, and Monastery</Description>
+			<ShortDescription>Church Influence</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_CHURCH_TAX</Type>
+			<Description>1% [ICON_GOLD] per follower in city (Max 15%)</Description>
+			<ShortDescription>Church Tax</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_CREATIONISM</Type>
+			<Description>2 [ICON_PEACE] from Jungle tiles</Description>
+			<ShortDescription>Creationism</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_CRUSADER_TRAINING</Type>
+			<Description>1% [ICON_PRODUCTION] per follower in city (Max 15%)</Description>
+			<ShortDescription>Martyrdom</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_FAITH_PREACHING</Type>
+			<Description>2 [ICON_PEACE] and 1 [ICON_GOLD] in Cities with 4 Followers</Description>
+			<ShortDescription>Faith Preaching</ShortDescription>
+			<Follower>true</Follower>
+			<MinFollowers>4</MinFollowers>
+		</Row>
+		<Row>
+			<Type>BELIEF_GODS_WORKERS</Type>
+			<Description>+1 [ICON_FOOD] Food, [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science to each Cathedral, Mosque, Monestery, and Pagoda</Description>
+			<ShortDescription>God's Workers</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_HOLY_ANNIHILATION</Type>
+			<Description>Gain [ICON_PEACE] from winning battles</Description>
+			<ShortDescription>Holy Annihilation</ShortDescription>
+			<Follower>true</Follower>
+			<FaithFromKills>25</FaithFromKills>
+		</Row>
+		<Row>
+			<Type>BELIEF_HOLY_MESSAGE</Type>
+			<Description>5 [ICON_PEACE] from Stadiums and Broadcast Towers</Description>
+			<ShortDescription>Holy Message</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_GODS_INSTRUCTIONS</Type>
+			<Description>1 [ICON_RESEARCH] from Shrines and Holy Sites</Description>
+			<ShortDescription>Instructions of the Gods</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_INTELLIGENT_DESIGN</Type>
+			<Description>3 [ICON_PEACE] and 1 [ICON_RESEARCH] from [ICON_RES_STONE] (Limestone and Granite)</Description>
+			<ShortDescription>Intelligent Design</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_JUST_GOD</Type>
+			<Description>4 [ICON_HAPPINESS_1] and 1 [ICON_PRODUCTION] from Courthouses</Description>
+			<ShortDescription>Just God</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_MIND_IS_GOD</Type>
+			<Description>2 [ICON_RESEARCH] from Temples</Description>
+			<ShortDescription>Mind is God</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_MORAL_OBLIGATION</Type>
+			<Description>+3 [ICON_PEACE] Faith and +2 [ICON_FOOD] Food from each Cathedral, Mosque, Monestery, and Pagoda </Description>
+			<ShortDescription>Moral Obligation</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_MYTHICAL_LITERATURE</Type>
+			<Description>2 [ICON_PEACE] from Libraries</Description>
+			<ShortDescription>Mythical Literature</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_PASTORAL_TRAINING</Type>
+			<Description>3 [ICON_PEACE] from Universities</Description>
+			<ShortDescription>Pastoral Training</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_PROFITABLE_MISSION</Type>
+			<Description>1 [ICON_GOLD] from Shrines and Holy Sites</Description>
+			<ShortDescription>Profitable Mission</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_PROSPERITY_GOSPEL</Type>
+			<Description>2 [ICON_GOLD] from Temples</Description>
+			<ShortDescription>Prosperity Gospel</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_RELIGIOUS_KNOWLEDGE</Type>
+			<Description>5 [ICON_RESEARCH] and [ICON_PEACE] from National College</Description>
+			<ShortDescription>Religious Knowledge</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_RELIGIOUS_RELICS</Type>
+			<Description>4 [ICON_CULTURE] and 3 [ICON_PEACE] from Museums</Description>
+			<ShortDescription>Religious Relics</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_SCIENTIFIC_REASONING</Type>
+			<Description>50% more [ICON_RESEARCH] from Natural Wonders that already provide it</Description>
+			<ShortDescription>Scientific Reasoning</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_SERVANT_GOD</Type>
+			<Description>1 [ICON_CULTURE] and [ICON_PEACE] and 2 [ICON_PRODUCTION] from Hospitals</Description>
+			<ShortDescription>Servant God</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_EVOLUTION</Type>
+			<Description>2 [ICON_RESEARCH] from [ICON_RES_COW], [ICON_RES_DEER] and [ICON_RES_SHEEP]</Description>
+			<ShortDescription>Theory of Evolution</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_GREAT_COMMISSION</Type>
+			<Description>2 [ICON_PEACE] in cities with a [ICON_CONNECTED], plus 2 [ICON_PEACE] if the city has a Harbor</Description>
+			<ShortDescription>The Great Commission</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_GODS_WORD</Type>
+			<Description>1 [ICON_PEACE], [ICON_PRODUCTION], [ICON_HAPPINESS_1] from Barracks</Description>
+			<ShortDescription>To Spread God's Word</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<!--Enhancer-->
+		<Row>
+			<Type>BELIEF_ONE_TRUE_FAITH</Type>
+			<Description>+15% spread distance and +5% spread, Prophet and Missionary strength.  Prophets and Missionaries cost 10% less</Description>
+			<ShortDescription>One True Faith</ShortDescription>
+			<Enhancer>true</Enhancer>
+			<SpreadDistanceModifier>15</SpreadDistanceModifier>
+			<SpreadStrengthModifier>5</SpreadStrengthModifier>
+			<ProphetStrengthModifier>5</ProphetStrengthModifier>
+			<ProphetCostModifier>-10</ProphetCostModifier>
+			<MissionaryStrengthModifier>5</MissionaryStrengthModifier>
+			<MissionaryCostModifier>-10</MissionaryCostModifier>
+		</Row>
+		<!--<Row>
+			<Type>BELIEF_SACRED_ANIMALS</Type>
+			<Description>Animal resources provide Faith instead of Food.  Unlocks Vegan Resturant</Description>
+			<ShortDescription>Sacred Animals</ShortDescription>
+			<Follower>true</Follower>
+		</Row>-->
+	</Beliefs>
+	<!--<Belief_BuildingClassFaithPurchase>
+		<Row>
+			<BeliefType>BELIEF_CHURCH_INFLUENCE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_LOCAL_CHURCH_OFFICE</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GODS_WORKERS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MISSION_SITE</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MORAL_OBLIGATION</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_ORPHANAGE</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CRUSADER_TRAINING</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_CRUSADER_HALL</BuildingClassType>
+		</Row>
+	</Belief_BuildingClassFaithPurchase>-->
+	<Belief_BuildingClassYieldChanges>
+		<!--Pantheon-->
+		<Row>
+			<BeliefType>BELIEF_KINGS_DIVINITY</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_CASTLE</BuildingClassType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_KINGS_DIVINITY</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_CASTLE</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+		<!--Follower-->
+		<Row>
+			<BeliefType>BELIEF_CHURCH_INFLUENCE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PAGODA</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CHURCH_INFLUENCE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_CATHEDRAL</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CHURCH_INFLUENCE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MONASTERY</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CHURCH_INFLUENCE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MOSQUE</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CHURCH_INFLUENCE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PAGODA</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CHURCH_INFLUENCE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_CATHEDRAL</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CHURCH_INFLUENCE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MONASTERY</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CHURCH_INFLUENCE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MOSQUE</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		
+		<Row>
+			<BeliefType>BELIEF_GODS_WORKERS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PAGODA</BuildingClassType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GODS_WORKERS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_CATHEDRAL</BuildingClassType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GODS_WORKERS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MONASTERY</BuildingClassType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GODS_WORKERS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MOSQUE</BuildingClassType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GODS_WORKERS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PAGODA</BuildingClassType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GODS_WORKERS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_CATHEDRAL</BuildingClassType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GODS_WORKERS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MONASTERY</BuildingClassType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GODS_WORKERS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MOSQUE</BuildingClassType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GODS_WORKERS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PAGODA</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GODS_WORKERS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_CATHEDRAL</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GODS_WORKERS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MONASTERY</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GODS_WORKERS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MOSQUE</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_MORAL_OBLIGATION</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PAGODA</BuildingClassType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MORAL_OBLIGATION</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_CATHEDRAL</BuildingClassType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MORAL_OBLIGATION</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MONASTERY</BuildingClassType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MORAL_OBLIGATION</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MOSQUE</BuildingClassType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_MORAL_OBLIGATION</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PAGODA</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MORAL_OBLIGATION</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_CATHEDRAL</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MORAL_OBLIGATION</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MONASTERY</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MORAL_OBLIGATION</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MOSQUE</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		
+		<Row>
+			<BeliefType>BELIEF_LORDS_ARMY</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_ARMORY</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_LORDS_ARMY</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MILITARY_ACADEMY</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CHURCH_CONTROL</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_BANK</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CHURCH_CONTROL</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PUBLIC_SCHOOL</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_HOLY_MESSAGE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_STADIUM</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>5</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_HOLY_MESSAGE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_BROADCAST_TOWER</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>5</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GODS_INSTRUCTIONS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_JUST_GOD</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_COURTHOUSE</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MIND_IS_GOD</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_TEMPLE</BuildingClassType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MYTHICAL_LITERATURE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_PASTORAL_TRAINING</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_UNIVERSITY</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_PROFITABLE_MISSION</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_PROSPERITY_GOSPEL</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_TEMPLE</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RELIGIOUS_KNOWLEDGE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_NATIONAL_COLLEGE</BuildingClassType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>5</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RELIGIOUS_KNOWLEDGE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_NATIONAL_COLLEGE</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>5</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RELIGIOUS_RELICS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MUSEUM</BuildingClassType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<YieldChange>4</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RELIGIOUS_RELICS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MUSEUM</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_SERVANT_GOD</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_HOSPITAL</BuildingClassType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_SERVANT_GOD</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_HOSPITAL</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_SERVANT_GOD</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_HOSPITAL</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GREAT_COMMISSION</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_HARBOR</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GODS_WORD</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GODS_WORD</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+	</Belief_BuildingClassYieldChanges>
+	<Belief_BuildingClassHappiness>
+		<Row>
+			<BeliefType>BELIEF_JUST_GOD</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_COURTHOUSE</BuildingClassType>
+			<Happiness>4</Happiness>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GODS_WORD</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
+			<Happiness>1</Happiness>
+		</Row>
+	</Belief_BuildingClassHappiness>
+	<Belief_CityYieldChanges>
+		<!--Pantheon-->
+		<Row>
+			<BeliefType>BELIEF_ALMIGHTY_DOLLAR</BeliefType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_NATURAL_SELECTION</BeliefType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<!--Follower-->
+		<Row>
+			<BeliefType>BELIEF_FAITH_PREACHING</BeliefType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FAITH_PREACHING</BeliefType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Belief_CityYieldChanges>
+	<Belief_FeatureYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_CREATIONISM</BeliefType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_VISION_QUEST</BeliefType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Belief_FeatureYieldChanges>
+	<Belief_ImprovementYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_GODS_INSTRUCTIONS</BeliefType>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_PROFITABLE_MISSION</BeliefType>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Belief_ImprovementYieldChanges>
+	<Belief_MaxYieldModifierPerFollower>
+		<Row>
+			<BeliefType>BELIEF_CEREMONIAL_LAW</BeliefType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Max>15</Max>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CHURCH_TAX</BeliefType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Max>15</Max>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CRUSADER_TRAINING</BeliefType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Max>15</Max>
+		</Row>
+	</Belief_MaxYieldModifierPerFollower>
+	<Belief_ResourceYieldChanges>
+		<!--Pantheon-->
+		<Row>
+			<BeliefType>BELIEF_ANIMALISM</BeliefType>
+			<ResourceType>RESOURCE_DEER</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_ANIMALISM</BeliefType>
+			<ResourceType>RESOURCE_FUR</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_HEAVENLY_BLESSINGS</BeliefType>
+			<ResourceType>RESOURCE_DYE</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_HEAVENLY_BLESSINGS</BeliefType>
+			<ResourceType>RESOURCE_SILK</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_WEAPONS_GODS</BeliefType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_WEAPONS_GODS</BeliefType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<!--Follower-->
+		<Row>
+			<BeliefType>BELIEF_INTELLIGENT_DESIGN</BeliefType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_INTELLIGENT_DESIGN</BeliefType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_INTELLIGENT_DESIGN</BeliefType>
+			<ResourceType>RESOURCE_GRANITE</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_INTELLIGENT_DESIGN</BeliefType>
+			<ResourceType>RESOURCE_GRANITE</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_EVOLUTION</BeliefType>
+			<ResourceType>RESOURCE_COW</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_EVOLUTION</BeliefType>
+			<ResourceType>RESOURCE_SHEEP</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_EVOLUTION</BeliefType>
+			<ResourceType>RESOURCE_DEER</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Belief_ResourceYieldChanges>
+	<Belief_YieldChangeTradeRoute>
+		<Row>
+			<BeliefType>BELIEF_GREAT_COMMISSION</BeliefType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Belief_YieldChangeTradeRoute>
+	<Belief_YieldChangeNaturalWonder>
+		<Row>
+			<BeliefType>BELIEF_NATURALISM</BeliefType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+	</Belief_YieldChangeNaturalWonder>
+	<Belief_YieldModifierNaturalWonder>
+		<Row>
+			<BeliefType>BELIEF_AWE_GOD</BeliefType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>50</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_SCIENTIFIC_REASONING</BeliefType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>50</Yield>
+		</Row>
+	</Belief_YieldModifierNaturalWonder>
+</GameData>

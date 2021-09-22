@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/16/2014 8:28:00 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_PALISADE_WALL</Type>
+			<DefaultBuilding>BUILDING_PALISADE_WALL</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_PALISADE_WALL</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_POTTER</Type>
+			<DefaultBuilding>BUILDING_POTTER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_POTTER</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_SMELTER</Type>
+			<DefaultBuilding>BUILDING_SMELTER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SMELTER</Description>
+		</Row>
+	</BuildingClasses>
+</GameData>

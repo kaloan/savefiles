@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/24/2016 11:49:29 AM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>ATLAS_HIGHWAY</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>HIGHWAY_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_HIGHWAY</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>HIGHWAY_128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_HIGHWAY</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>HIGHWAY_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_HIGHWAY</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>HIGHWAY_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_HIGHWAY</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>HIGHWAY_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+  
+</GameData>

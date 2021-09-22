@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/3/2014 4:26:02 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BAGAN_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>bagan256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BAGAN_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>bagan128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BAGAN_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>bagan64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BAGAN_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>bagan80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BAGAN_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>bagan45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

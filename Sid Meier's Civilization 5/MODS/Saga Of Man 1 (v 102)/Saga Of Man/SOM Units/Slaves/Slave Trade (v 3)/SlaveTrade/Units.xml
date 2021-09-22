@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/26/2013 6:53:45 PM -->
+<GameData>
+	<UNITS>
+		<Row>
+			<Class>UNITCLASS_MODERN_WORKER</Class>
+			<Type>UNIT_MODERN_WORKER</Type>
+			<PrereqTech>TECH_STEAM_POWER</PrereqTech>
+			<Cost>1</Cost>
+			<Moves>2</Moves>
+			<Capture>UNITCLASS_POW</Capture>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_WORKER</DefaultUnitAI>
+			<Description>Modern Worker</Description>
+			<Civilopedia>TXT_KEY_CIV5_ANTIQUITY_WORKER_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_WORKER_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_WORKER</Help>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<WorkRate>50</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT__WORKER</UnitArtInfo>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+			<UnitFlagIconOffset>1</UnitFlagIconOffset>
+			<PortraitIndex>43</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_2</IconAtlas>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_POW</Class>
+			<Type>UNIT_POW</Type>
+			<PrereqTech>TECH_GLOBALIZATION</PrereqTech>
+			<NoMaintenance>true</NoMaintenance>
+			<Cost>1000</Cost>
+			<Moves>2</Moves>
+			<Capture>UNITCLASS_MODERN_WORKER</Capture>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_WORKER</DefaultUnitAI>
+			<Description>UncivilizedGuy</Description>
+			<Civilopedia>A useless human being.</Civilopedia>
+			<Help>Useless unit. Makes Masonry Strategic </Help>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<WorkRate>150</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT_ORC_SLAVES</UnitArtInfo>
+			<UnitFlagIconOffset>1</UnitFlagIconOffset>
+			<UnitFlagAtlas>CHAINS_UNIT_FLAG</UnitFlagAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+		</Row>
+		
+		<Update>
+			<Where Class="UNITCLASS_WORKER" />
+			<Set UnitArtInfoEraVariation="false" />
+		</Update>
+		<Update>
+			<Where Class="UNITCLASS_WORKER" />
+			<Set ObsoleteTech="TECH_STEAM_POWER" />
+		</Update>
+		
+	</UNITS>
+	<UnitClasses>
+		<Row>
+			<Type>UNITCLASS_MODERN_WORKER</Type>
+			<Description>TXT_KEY_UNIT_MODERN_WORKER</Description>
+			<DefaultUnit>UNIT_MODERN_WORKER</DefaultUnit>
+		</Row>
+		<Row>
+			<Type>UNITCLASS_POW</Type>
+			<Description>TXT_KEY_UNIT_POW</Description>
+			<DefaultUnit>UNIT_POW</DefaultUnit>
+		</Row>
+		
+	</UnitClasses>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<UnitAIType>UNITAI_WORKER</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_POW</UnitType>
+			<UnitAIType>UNITAI_WORKER</UnitAIType>
+		</Row>
+		
+	</Unit_AITypes>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_POW</UnitType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+	
+	</Unit_Flavors>
+	<Unit_Builds>
+		
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_BRAZILWOOD_CAMP</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_FEITORIA</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_KASBAH</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_CHATEAU</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_POLDER</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_MOAI</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_TERRACE_FARM</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_ROAD</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_RAILROAD</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_FARM</BuildType>
+		</Row>
+		
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_MINE</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_TRADING_POST</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_LUMBERMILL</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_PASTURE</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_CAMP</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_PLANTATION</BuildType>
+		</Row>
+	
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_QUARRY</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_WELL</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_FORT</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_REMOVE_JUNGLE</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_REMOVE_MARSH</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_REMOVE_FOREST</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_SCRUB_FALLOUT</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_REPAIR</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_REMOVE_ROUTE</BuildType>
+		</Row>
+
+		
+		
+	</Unit_Builds>
+	<!--<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<ResourceType>RESOURCE_SLAVES</ResourceType>
+		</Row>
+	</Unit_ResourceQuantityRequirements>-->
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_POW</UnitType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>500</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_POW</UnitType>
+			<ResourceType>RESOURCE_COPPER2</ResourceType>
+			<Cost>500</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_POW</UnitType>
+			<ResourceType>RESOURCE_SALTPETER</ResourceType>
+			<Cost>500</Cost>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+		<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<UnitClassType>UNITCLASS_MODERN_WORKER</UnitClassType>
+		</Row>
+			
+			<Row>
+				<UnitType>UNIT_SLAVE</UnitType>
+				<UnitClassType>UNITCLASS_MODERN_WORKER</UnitClassType>
+			</Row>
+			
+		</Unit_ClassUpgrades>
+	
+</GameData>

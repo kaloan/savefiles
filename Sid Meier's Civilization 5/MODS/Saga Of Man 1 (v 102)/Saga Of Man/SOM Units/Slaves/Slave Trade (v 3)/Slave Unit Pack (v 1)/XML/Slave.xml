@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_SLAVE</Class>
+			<Type>UNIT_SLAVE</Type>
+			<NoMaintenance>true</NoMaintenance>
+			<ObsoleteTech>TECH_MILITARY_SCIENCE</ObsoleteTech>
+			<Cost>1</Cost>
+			<Moves>2</Moves>
+			<Capture>UNITCLASS_SLAVE</Capture>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_WORKER</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_SLAVE</Description>
+			<Help>TXT_KEY_UNIT_SLAVE_HELP</Help>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<WorkRate>100</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT_ORC_SLAVES</UnitArtInfo>
+			<UnitFlagAtlas>CHAINS_UNIT_FLAG</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<PortraitIndex>6</PortraitIndex>
+			<IconAtlas>GEORGE_UNIT_ATLAS</IconAtlas>
+		</Row>
+		<Update>
+			<Set Capture="UNITCLASS_SLAVE"/>
+			<Where Type="UNIT_WORKER"/>
+		</Update>
+		<Update>
+			<Set Capture="UNITCLASS_SLAVE"/>
+			<Where Type="UNIT_SETTLER"/>
+		</Update>
+		<Update>
+			<Set Capture="UNITCLASS_SLAVE"/>
+			<Where Type="UNIT_PROPHET"/>
+		</Update>
+		<Update>
+			<Set Capture="UNITCLASS_SLAVE"/>
+			<Where Type="UNIT_MISSIONARY"/>
+		</Update>
+		<Update>
+			<Set Capture="UNITCLASS_SLAVE"/>
+			<Where Type="UNIT_INQUISITOR"/>
+		</Update>
+		<Update>
+			<Set Capture="UNITCLASS_ARTIST"/>
+			<Where Type="UNIT_ARTIST"/>
+		</Update>
+		<Update>
+			<Set Capture="UNITCLASS_ENGINEER"/>
+			<Where Type="UNIT_ENGINEER"/>
+		</Update>
+		<Update>
+			<Set Capture="UNITCLASS_MERCHANT"/>
+			<Where Type="UNIT_MERCHANT"/>
+		</Update>
+		<Update>
+			<Set Capture="UNITCLASS_SCIENTIST"/>
+			<Where Type="UNIT_SCIENTIST"/>
+		</Update>
+		<Update>
+			<Set Capture="UNITCLASS_WRITER"/>
+			<Where Type="UNIT_WRITER"/>
+		</Update>
+		<Update>
+			<Set Capture="UNITCLASS_MUSICIAN"/>
+			<Where Type="UNIT_MUSICIAN"/>
+		</Update>
+		
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<UnitAIType>UNITAI_WORKER</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<BuildType>BUILD_ROAD</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<BuildType>BUILD_RAILROAD</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<BuildType>BUILD_FARM</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<BuildType>BUILD_MINE</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<BuildType>BUILD_LUMBERMILL</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<BuildType>BUILD_PASTURE</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<BuildType>BUILD_CAMP</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<BuildType>BUILD_PLANTATION</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<BuildType>BUILD_QUARRY</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<BuildType>BUILD_FORT</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<BuildType>BUILD_REMOVE_JUNGLE</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<BuildType>BUILD_REMOVE_MARSH</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<BuildType>BUILD_REMOVE_FOREST</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<BuildType>BUILD_REPAIR</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<BuildType>BUILD_REMOVE_ROUTE</BuildType>
+		</Row>
+	</Unit_Builds>
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_SLAVE</UnitType>
+			<ResourceType>RESOURCE_SLAVES</ResourceType>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_SETTLER</UnitType>
+			<UnitClassType>UNITCLASS_WORKER</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+</GameData>

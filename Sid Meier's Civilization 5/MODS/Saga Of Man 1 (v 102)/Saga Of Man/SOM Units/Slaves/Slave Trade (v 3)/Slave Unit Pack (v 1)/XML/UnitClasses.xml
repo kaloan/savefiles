@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<UnitClasses>
+		<Row>
+			<Type>UNITCLASS_SLAVE</Type>
+			<Description>TXT_KEY_UNIT_SLAVE</Description>
+			<DefaultUnit>UNIT_SLAVE</DefaultUnit>
+		</Row>
+	</UnitClasses>
+</GameData>

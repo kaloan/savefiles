@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 13-Oct-14 3:43:15 -->
+<GameData>
+	<Language_en_US>
+		<!-- Improvements -->
+		<Row Tag="TXT_KEY_BUILD_OUTDOOR_MARKET">
+			<Text>Build an Outdoor Market</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_OUTDOOR_MARKET_TEXT">
+			<Text>Outdoor Markets are places where merchants and traders set up shop, sometimes only seasonally. Travelers and city folk come to purchase and trade food, weapons, whiskey, gold, and all of the other trappings of society. They generate wealth for a society.</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_IMPROVEMENTS_TRADING_POST_TEXT"/>
+			<Set Text="Trading Posts are small semi-permanenent settlements where merchants and traders gather to sell their wares. Travelers and city folk come to purchase and trade food, weapons, whiskey, gold, and all of the other trappings of society. They generate more wealth for a society than Outdoor Markets.[NEWLINE][NEWLINE]Trading Posts provide a small defensive bonus (5%) for units stationed in them."/>
+		</Update>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_VILLAGE_TEXT">
+			<Text>Villages are small settlements where people live who prefer the quietier country to hectic city. Travelers and city folk come to purchase and trade food, weapons, whiskey, gold, and all of the other trappings of society. They generate a larger amount of wealth for a society than Trading Posts.[NEWLINE][NEWLINE]Villages provide a small defensive bonus (10%) for units stationed in them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TOWN_TEXT">
+			<Text>Towns are moderately sized settlements where people live who prefer the quietier country to hectic city. Travelers and city folk come to purchase and trade food, weapons, whiskey, gold, and all of the other trappings of society. They can generate an even larger amount of wealth for a society than Villages.[NEWLINE][NEWLINE]Towns provide a small defensive bonus (15%) for units stationed in them.</Text>
+		</Row>
+
+		<!-- Techs -->
+		<Update>
+			<Where Tag="TXT_KEY_TECH_TRAPPING_HELP"/>
+			<Set Text="Allows Workers to contruct [COLOR_POSITIVE_TEXT]Camps[ENDCOLOR] on sources of [ICON_DEER] Deer, [ICON_IVORY] Ivory, [ICON_FUR] Fur, and [ICON_TRUFFLES] Truffles. Also allows Workers to construct the [COLOR_POSITIVE_TEXT]Outdoor Market[ENDCOLOR], which increases the [ICON_GOLD] Gold output of map tiles, eventually growing into lucrative Towns."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_GUILDS_HELP"/>
+			<Set Text="Allows your cities to convert [ICON_PRODUCTION] Production into [ICON_GOLD] Gold instead of working on units or buildings."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CURRENCY_HELP"/>
+			<Set Text="Allows you to build various [ICON_GOLD] Gold-boosting buildings like the [COLOR_POSITIVE_TEXT]Mint[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Market[ENDCOLOR]."/>
+		</Update>
+
+		<!-- Policies -->
+		<Update>
+			<Where Tag="TXT_KEY_POLICY_BRANCH_COMMERCE_HELP"/>
+			<Set Text="[COLOR_POSITIVE_TEXT]Commerce[ENDCOLOR] provides bonuses to empires focused on [ICON_GOLD] Gold.[NEWLINE][NEWLINE]Adopting Commerce will boost [ICON_GOLD] Gold output in [ICON_CAPITAL] Capital City by 25%. Unlocks building Big Ben.[NEWLINE][NEWLINE]Adopting all Policies in the Commerce tree will grant +2 [ICON_GOLD] Gold from every Town. It also allows the purchase of Great Merchants with [ICON_PEACE] Faith starting in the Industrial Era"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_POLICY_FREE_THOUGHT_HELP"/>
+			<Set Text="[COLOR_POSITIVE_TEXT]Free Thought[ENDCOLOR][NEWLINE]+2 [ICON_RESEARCH] Science from every Town and +17% [ICON_RESEARCH] Science from Universities."/>
+		</Update>
+	</Language_en_US>
+</GameData>

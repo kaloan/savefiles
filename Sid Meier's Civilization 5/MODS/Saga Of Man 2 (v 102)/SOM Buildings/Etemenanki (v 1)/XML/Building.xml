@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/5/2014 8:20:20 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_ETEMENANKI</Type>
+			<DefaultBuilding>BUILDING_ETEMENANKI</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ETEMENANKI</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_ETEMENANKI</Type>
+			<BuildingClass>BUILDINGCLASS_ETEMENANKI</BuildingClass>
+			<Description>TXT_KEY_BUILDING_ETEMENANKI</Description>
+			<Help>TXT_KEY_WONDER_ETEMENANKI_HELP</Help>
+			<Strategy>Add +2 [ICON_TOURISM] Tourism at Flight.</Strategy>
+			<Civilopedia>TXT_KEY_WONDER_ETEMENANKI_PEDIA</Civilopedia>
+			<Quote>TXT_KEY_WONDER_ETEMENANKI_QUOTE</Quote>
+			<Cost>185</Cost>
+			<!--<FaithCost>370</FaithCost>-->
+			<PrereqTech>TECH_MASONRY</PrereqTech>
+			<!--<UnlockedByBelief>true</UnlockedByBelief>-->
+			<EnhancedYieldTech>TECH_FLIGHT</EnhancedYieldTech>
+			<TechEnhancedTourism>2</TechEnhancedTourism>
+			<NearbyTerrainRequired>TERRAIN_DESERT</NearbyTerrainRequired>
+			<MaxStartEra>ERA_MEDIEVAL</MaxStartEra>
+			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+			<GreatPeopleRateChange>1</GreatPeopleRateChange>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<FreeBuildingThisCity>BUILDINGCLASS_TEMPLE</FreeBuildingThisCity>
+			<ConquestProb>75</ConquestProb>
+			<IconAtlas>ETEMENANKI_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<WonderSplashImage>etemenanki_splash.dds</WonderSplashImage>
+			<WonderSplashAnchor>C,B</WonderSplashAnchor>
+		</Row>
+	</Buildings>
+	<Building_FreeUnits>
+		<Row>
+			<BuildingType>BUILDING_ETEMENANKI</BuildingType>
+			<UnitType>UNIT_PROPHET</UnitType>
+			<NumUnits>1</NumUnits>
+		</Row>
+	</Building_FreeUnits>
+	<!--<Belief_BuildingClassYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_TEARS_OF_GODS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_ETEMENANKI</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+	</Belief_BuildingClassYieldChanges>-->
+	<!--<Belief_BuildingClassFaithPurchase>
+		<Row>
+			<BeliefType>BELIEF_TEARS_OF_GODS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_ETEMENANKI</BuildingClassType>
+		</Row>
+	</Belief_BuildingClassFaithPurchase>-->
+	<!--<Beliefs>
+		<Update>
+			<Where Type="BELIEF_TEARS_OF_GODS"/>
+			<Set  ShortDescription="Seven Lights of the Earth"/>
+		</Update>
+		<Row>
+			<Type>BELIEF_SEVEN_LIGHTS</Type>
+			<Description>Unlocks Etemenanki</Description>
+			<ShortDescription>Seven Lights of the Earth</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+	</Beliefs>-->
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_ETEMENANKI</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ETEMENANKI</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_ETEMENANKI</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ETEMENANKI</BuildingType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ETEMENANKI</BuildingType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_ETEMENANKI</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_ETEMENANKI</BuildingClassType>
+			<BuildingType/>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+</GameData>

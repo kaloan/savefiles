@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/3/2014 8:56:30 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_BAHRI">
+			<Text>Valley of Kings</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_BAHRI_HELP">
+			<Text>+1 [ICON_PRODUCTION] from river tiles. Gives a free temple. +6 [ICON_TOURISM] after globalization has been researched. City must on or near Desert and must be near a River.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_BAHRI_QUOTE">
+			<Text>[NEWLINE]" Now my heart turns this way and that, as I think what the people say. Those who shall see my monuments in years to come and who shall speak of what I have done."[NEWLINE] - Queen Hatshepsut[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_BAHRI_PEDIA">
+			<Text>The Valley of the Kings, is a valley in Egypt where, for a period of nearly 500 years from the 16th to 11th century BC, tombs were constructed for the Pharaohs and powerful nobles of the New Kingdom (the Eighteenth to the Twentieth Dynasties of Ancient Egypt). The valley stands on the west bank of the Nile, opposite Thebes (modern Luxor), within the heart of the Theban Necropolis. The wadi consists of two valleys, East Valley (where the majority of the royal tombs are situated) and West Valley.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

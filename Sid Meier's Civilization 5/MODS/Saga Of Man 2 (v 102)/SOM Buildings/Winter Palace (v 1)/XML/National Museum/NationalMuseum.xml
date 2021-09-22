@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/18/2014 11:52:06 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_NATIONAL_MUSEUM</Type>
+			<DefaultBuilding>BUILDING_NATIONAL_MUSEUM</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_NATIONAL_MUSEUM</Description>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+		<!-- Remove Hermitage Wonder-->
+		<Delete Type="BUILDINGCLASS_HERMITAGE"/>
+	</BuildingClasses>	
+	<Buildings>
+		<Row>
+			<Type>BUILDING_NATIONAL_MUSEUM</Type>
+			<BuildingClass>BUILDINGCLASS_NATIONAL_MUSEUM</BuildingClass>
+			<Cost>310</Cost>
+			<GoldMaintenance>10</GoldMaintenance>
+			<PrereqTech>TECH_BIOLOGY</PrereqTech>
+			<Help>TXT_KEY_BUILDING_NATIONAL_MUSEUM_HELP</Help>
+			<ThemingBonusHelp>TXT_KEY_NATIONAL_MUSEUM_THEMING_BONUS_HELP</ThemingBonusHelp>
+			<Description>TXT_KEY_BUILDING_NATIONAL_MUSEUM</Description>
+			<Civilopedia>TXT_KEY_BUILDING_NATIONAL_MUSEUM_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_NATIONAL_MUSEUM_STRATEGY</Strategy>
+			<NukeImmune>true</NukeImmune>
+			<NumCityCostMod>30</NumCityCostMod>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<CultureRateModifier>50</CultureRateModifier>
+			<GreatWorkSlotType>GREAT_WORK_SLOT_ART_ARTIFACT</GreatWorkSlotType>
+			<GreatWorkCount>3</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>NATIONAL_MUSEUM_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	    <!-- Remove Hermitage Wonder-->
+	    <Delete Type="BUILDING_HERMITAGE"/>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_NATIONAL_MUSEUM</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>	
+	<Building_PrereqBuildingClasses>
+		<Row>
+			<BuildingType>BUILDING_NATIONAL_MUSEUM</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_MUSEUM</BuildingClassType>
+			<NumBuildingNeeded>1</NumBuildingNeeded>
+		</Row>
+	</Building_PrereqBuildingClasses>	
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_NATIONAL_MUSEUM</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_MUSEUM</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<Building_ThemingBonuses>
+		<Row>
+			<BuildingType>BUILDING_NATIONAL_MUSEUM</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_NATIONAL_MUSEUM</Description>
+			<Bonus>3</Bonus>
+			<UniqueEras>true</UniqueEras>
+			<MustBeArtifact>true</MustBeArtifact>
+			<RequiresOwner>true</RequiresOwner>
+			<AIPriority>4</AIPriority>
+		</Row>
+	</Building_ThemingBonuses>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_NATIONAL_MUSEUM</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NATIONAL_MUSEUM</BuildingType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	</Building_Flavors>	
+</GameData>

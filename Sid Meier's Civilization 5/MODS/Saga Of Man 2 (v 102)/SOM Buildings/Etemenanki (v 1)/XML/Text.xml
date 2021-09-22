@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/5/2014 9:02:38 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_ETEMENANKI">
+			<Text>Etemenanki</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_ETEMENANKI_HELP">
+			<Text>Gives a free temple in the city. A free Great Prophet appears near the city in which it is built. City must be built on or next to Desert.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_ETEMENANKI_QUOTE">
+			<Text>[NEWLINE]"They said to each other, 'Come, let’s make bricks and bake them thoroughly.' They used brick instead of stone, and tar for mortar. Then they said, “Come, let us build ourselves a city, with a tower that reaches to the heavens, so that we may make a name for ourselves; otherwise we will be scattered over the face of the whole earth." - Genesis 11:1-9[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_ETEMENANKI_PEDIA">
+			<Text>Etemenanki, meaning "temple of the foundation of heaven and earth", was the name of a ziggurat dedicated to Marduk in the city of Babylon of the 6th century BCE Neo-Babylonian dynasty. Originally seven stories in height, little remains of it now save ruins. According to some modern scholars, the biblical story of the Tower of Babel was likely influenced by Etemenanki during the Babylonian captivity of the Hebrews.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

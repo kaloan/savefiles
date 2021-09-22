@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/19/2015 12:23:18 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_LASCAUX</Type>
+			<DefaultBuilding>BUILDING_LASCAUX</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_LASCAUX</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_LASCAUX</Type>
+			<BuildingClass>BUILDINGCLASS_LASCAUX</BuildingClass>
+			<Description>TXT_KEY_BUILDING_LASCAUX</Description>
+			<Help>TXT_KEY_WONDER_LASCAUX_HELP</Help>
+			<Civilopedia>TXT_KEY_WONDER_LASCAUX_PEDIA</Civilopedia>
+			<Quote>TXT_KEY_WONDER_LASCAUX_QUOTE</Quote>
+			<PrereqTech>TECH_TOOLS</PrereqTech>
+			<!--<UnlockedByBelief>true</UnlockedByBelief>-->
+			<Cost>150</Cost>
+			<MaxStartEra>ERA_CLASSICAL</MaxStartEra>
+			<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+			<GreatPeopleRateChange>1</GreatPeopleRateChange>
+			<GreatWorkSlotType>GREAT_WORK_SLOT_ART_ARTIFACT</GreatWorkSlotType>
+			<GreatWorkCount>1</GreatWorkCount>
+			<Strategy>Add +2 [ICON_TOURISM] Tourism at Flight.</Strategy>
+			<EnhancedYieldTech>TECH_FLIGHT</EnhancedYieldTech>
+			<TechEnhancedTourism>2</TechEnhancedTourism>
+			<Hill>true</Hill>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>100</ConquestProb>
+			<IconAtlas>ATLAS_LASCAUX</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<WonderSplashImage>LASCAUX_splash.dds</WonderSplashImage>
+			<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		</Row>
+	</Buildings>
+	
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_LASCAUX</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_LASCAUX</BuildingType>
+			<ResourceType>RESOURCE_DEER</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LASCAUX</BuildingType>
+			<ResourceType>RESOURCE_BISON</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LASCAUX</BuildingType>
+			<ResourceType>RESOURCE_FUR</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	<!--<Belief_BuildingClassYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_GODDESS_HUNT</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_LASCAUX</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+	</Belief_BuildingClassYieldChanges>
+	<Belief_BuildingClassFaithPurchase>
+		<Row>
+			<BeliefType>BELIEF_GODDESS_HUNT</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_LASCAUX</BuildingClassType>
+		</Row>
+	</Belief_BuildingClassFaithPurchase>
+	<Beliefs>
+		<Update>
+			<Where Type="BELIEF_GODDESS_HUNT"/>
+			<Set  ShortDescription="Ritual of the Hunt"/>
+		</Update>
+		<Row>
+			<Type>BELIEF_SUMMER_TRIANGLE</Type>
+			<Description>Unlocks Lascaux</Description>
+			<ShortDescription>Summer Triangle</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+	</Beliefs>-->
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_LASCAUX</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LASCAUX</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LASCAUX</BuildingType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_LASCAUX</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_LASCAUX</BuildingClassType>
+			<BuildingType/>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>ATLAS_LASCAUX</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>LASCAUX_icon256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_LASCAUX</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>LASCAUX_icon128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_LASCAUX</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>LASCAUX_icon64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_LASCAUX</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>LASCAUX_icon80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_LASCAUX</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>LASCAUX_icon45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_LASCAUX">
+			<Text>Lascaux</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_LASCAUX_HELP">
+			<Text>+2 [ICON_CULTURE] Culture. Includes 1 Great Work of Art slot. +1 [ICON_PEACE] Faith from Camps. City must be on a Hill.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_LASCAUX_QUOTE">
+			<Text>[NEWLINE]"...the animals will emerge out of darkness as you pass. Nothing stays still. Shadows nestle in the cavities; a flicker of light across pale protruding rock turns a hoof or raises a head. One shape recedes as another emerges, and everything lingers in the imagination."[NEWLINE] - Jane Brox[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_LASCAUX_PEDIA">
+			<Text>Lascaux (Lascaux Caves) is the setting of a complex of caves in southwestern France famous for its Paleolithic cave paintings. The original caves are located near the village of Montignac, in the department of Dordogne. They contain some of the best-known Upper Paleolithic art. These paintings are estimated to be 17,300 years old. They primarily consist of images of large animals, most of which are known from fossil evidence to have lived in the area at the time. In 1979, Lascaux was added to the UNESCO World Heritage Sites list along with other prehistoric sites in the Vézère valley.</Text>
+				</Row>
+	</Language_en_US>
+</GameData>

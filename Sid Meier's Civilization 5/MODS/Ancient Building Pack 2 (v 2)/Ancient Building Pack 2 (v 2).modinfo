@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="9cc21ab5-99b3-4d7c-9a5d-703e422d3498" version="2">
+  <Properties>
+    <Name>Ancient Building Pack 2</Name>
+    <Teaser>This mod adds an additional 3 buildings to the Ancient Era.</Teaser>
+    <Description>This mod adds an additional 3 buildings to the Ancient Era: Palisade Wall, Potter, and Smelter.
+
+The building yields are below.
+----------------------------------------------
+Palisade Wall:
+  +3 Defence
+  +25 City HP
+  Unlocked with Agriculture
+
+Potter:
+  +1 Production
+  +1 Gold
+  +1 Gold from Wine
+  1 Maintenance
+  Unlocked with Potter
+
+Smelter:
+  +1 Production
+  +1 Production from Copper and Iron
+  1 Maintenance
+  Unlocked with Bronze Working
+  City must have Copper or Iron</Description>
+    <Authors>thecrazyscotsman</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="B8DC6E53972E9605E6642E33A0139C41" import="1">Art/ANCIENT2_atlas_128.dds</File>
+    <File md5="FE325824FB1D4CE91A9BAECB0F838FAC" import="1">Art/ANCIENT2_atlas_256.dds</File>
+    <File md5="CD9658D480C122BE3F22887D6874D88E" import="1">Art/ANCIENT2_atlas_45.dds</File>
+    <File md5="060A2AE25D1140987B321DBE73BD7B4D" import="1">Art/ANCIENT2_atlas_64.dds</File>
+    <File md5="F84135128937CB0435F2029521AAA411" import="1">Art/ANCIENT2_atlas_80.dds</File>
+    <File md5="8D3F0BE34AC0AC78FED78B43B3AEA573" import="0">XML/AncientPack2_BuildingClasses.xml</File>
+    <File md5="4FAFDC3F969C62013FB22087CBC6AB8C" import="0">XML/AncientPack2_Buildings.xml</File>
+    <File md5="39EA66F0FBE2E835B102E04725AF586A" import="0">XML/AncientPack2_IconAtlases.xml</File>
+    <File md5="9C289B5892A122FD59D0C781536423BF" import="0">XML/AncientPack2_Text.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/AncientPack2_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AncientPack2_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AncientPack2_IconAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AncientPack2_Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

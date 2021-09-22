@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/16/2013 2:39:53 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- Jungle -> Rainforest -->
+		<Update>
+			<Where Tag="TXT_KEY_FEATURE_JUNGLE"/>
+			<Set Text="Rainforest"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_JUNGLE_HEADING3_TITLE"/>
+			<Set Text="Rainforest"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILD_REMOVE_JUNGLE"/>
+			<Set Text="Chop Down a [LINK=FEATURE_JUNGLE]Rainforest[\LINK]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_FEATURES_JUNGLE_TEXT"/>
+			<Set Text="Dark, forbidding, and deadly to the uninitiated, rainforests are a rich source of food and materials to those with the skill and knowledge to live within them. A growing civilization may be tempted to mine them or turn them into cropland. Military units situated in rainforests receive a significant defensive bonus."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_UNIVERSITY_HELP"/>
+			<Set Text="+2 [ICON_RESEARCH] Science from Rainforest tiles worked by this City.[NEWLINE][NEWLINE]City must have a Library."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_UNIVERSITY_STRATEGY"/>
+			<Set Text="The University is a Medieval-era building. It increases the [ICON_RESEARCH] Science output of the city, and it's even more effective if the city is near to rainforest tiles. The city must already have a Library (or Paper Maker) in order to construct a University."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_WORKERS_CLEARINGLAND_HEADING2_BODY"/>
+			<Set Text="Once their civilization has learned the mining technology, workers can remove forests from tiles. Once they have learned bronze working, they can remove rainforests. And once they have learned masonry, workers can drain wetlands. Once these features are removed, they are gone forever."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_WORKERS_TIMETOCLEARLAND_HEADING3_BODY"/>
+			<Set Text="Remove Forest: 3 Turns[NEWLINE]Remove Rainforest: 6 Turns[NEWLINE]Drain Wetland: 5 Turns"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_WORKERS_MINE_HEADING3_BODY"/>
+			<Set Text="The mine improvement is learned when your civilization acquires the mining tech. It can be used to increase the production output of many tiles, and it also unlocks a variety of resources. The mine is as important as farming.[NEWLINE]Technology Required: Mining[NEWLINE]May be Constructed: Only on Hill tiles. Mines increase a tile's output by 1 production.[NEWLINE]Duration of Construction: 5 Turns[NEWLINE]Forest: Mines may be constructed in forested tiles. The forest is removed when the mine is built. Total Construction Time: 9 Turns.[NEWLINE]Rainforest: Mines may be constructed in rainforest tiles once you learn the bronze working tech. The rainforest is removed when the mine is built. Total Construction Time: 12 Turns[NEWLINE]Wetlands: Mines may be constructed in wetlands tiles when you learn the masonry tech. The wetlands is removed when the mine is constructed. Total Construction Time: 11 Turns[NEWLINE]Resources Accessed: Mines unlock the iron, coal, aluminum, uranium, gems, gold and silver resources. See the individual resources' entries for details."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PEDIA_TERRAIN_HELP_TEXT"/>
+			<Set Text="In Civilization V, the world is made up of hexagonally-shaped &quot;tiles&quot; (also occasionally known as hexes and spaces). These tiles come in a variety of &quot;terrain types&quot; - desert, Prairie, grassland, hills and so forth - and many also include &quot;features&quot; like forests and rainforest. These elements help to determine the tile's usefulness to a nearby city as well as how easy or difficult it is to move through the tile. Also, a tile's terrain and features may have important effects upon any combat occurring there."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_OPSCREEN_AUTO_WORKERS_DONT_REMOVE_FEATURES_TT"/>
+			<Set Text="Automated workers don't remove features Like Forests, Rainforests, or Wetlands except when improving a strategic or luxury resource."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PEDIA_TERRAIN_FEATURES_HELP_TEXT"/>
+			<Set Text="Features are elements of terrain or vegetation that appear in a hex, atop the hex's terrain. (A grassland hex might have forest or wetland on it as well, for example.) Features modify a hex's productivity and might also alter the amount of &quot;movement points&quot; (MP) a unit expends when entering the hex. Features may also provide defensive combat bonuses or penalties to a unit occupying the hex."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_COMBAT_TERRAINBONUS_HEADING3_BODY"/>
+			<Set Text="Defending units get important bonuses for occupying forest, rainforest, or hill tiles. Attacking melee units are penalized if they attack an enemy across a river. Attacking units get bonuses when attacking from a hill.  See the section on Terrain for more details."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_FOOD_GRASSLAND_ADV_QUEST"/>
+			<Set Text="Do grasslands and rainforest tiles provide a good amount of food?"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_FOOD_GRASSLAND_HEADING4_TITLE"/>
+			<Set Text="Grassland and Rainforest"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_MOVEMENT_EXPENDINGPOINTS_HEADING3_BODY"/>
+			<Set Text="Units expend MPs to enter tiles. The terrain of the tile a unit is entering determines the MP cost of the move. It doesn't cost anything to leave your current tile; the MP cost is determined by the tile you're entering.[NEWLINE][NEWLINE]See the terrain rules for details on MP costs, but generally, open terrain like Grassland and Prairie costs 1 MP to enter, while Forest and Rainforest costs 2 and 3 respectively. It also expends all of a unit's MPs to cross a river (unless a road is there).[NEWLINE][NEWLINE]A unit can always move one tile if it has any MPs left. It doesn't matter how expensive the tile is; as long as the unit has something left, it can enter. Once the unit has expended all of its MPs, it must stop moving."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_BRONZE_WORKING_HELP"/>
+			<Set Text="Allows your Workers to [COLOR_POSITIVE_TEXT]Chop Rainforest[ENDCOLOR], clearing the map tile so other improvements can be constructed. Also allows you to build the [COLOR_POSITIVE_TEXT]Spearman[ENDCOLOR], a military unit strong against mounted enemies."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CALENDAR_HELP"/>
+			<Set Text="Allows Workers to construct [COLOR_POSITIVE_TEXT]Plantations[ENDCOLOR] on many Luxury Resources, which are extremely important for [ICON_FOOD] growth and [ICON_HAPPINESS_1] Happiness. (Note: Many resources require you to have chopped a forest or rainforest first, which requires other Technologies.)"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_HEADING1_BODY"/>
+			<Set Text="In Civilization V, the world is made up of hexagonally-shaped &quot;tiles&quot; (also occasionally known as hexes and spaces). These tiles come in a variety of &quot;terrain-types&quot; - desert, plains, grassland, hills and so forth - and many also include &quot;features&quot; like forests and rainforest. These elements help to determine the tile's usefulness to a nearby city as well as how easy or difficult it is to move through the tile. A tile's terrain and features may have important effects upon any combat occurring there."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_JUNGLE_ADV_QUEST"/>
+			<Set Text="What can you tell me about rainforests?"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_JUNGLE_HEADING3_BODY"/>
+			<Set Text="Dark, forbidding, and deadly to the uninitiated, rainforests are a rich source of food to those with the skill and knowledge to live within them. However, rainforests do not provide much in the way of materials, and a growing civilization may be tempted to mine them or turn them into cropland. However, military units situated in rainforests receive a significant defensive bonus. When chopped, Rainforest tiles become Prairie. [NEWLINE][NEWLINE]City Yield: 1 food, -1 production[NEWLINE]Movement Cost: 2[NEWLINE]Combat Modifier: 25% defensive bonus"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_BODY"/>
+			<Set Text="Rainforests slow down unit movement. Moving into a tile with a rainforest will often consume all of a unit's movement points. Rainforests block the view of objects behind them. Rainforests are often quite hot and humid, but that doesn't matter."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_DISPLAY"/>
+			<Set Text="Movement: Rainforests"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_ACTIVATE_BUTTON"/>
+			<Set Text="Find Rainforest"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_MAP_RAINFOREST_HELP"/>
+			<Set Text="A world almost completely covered in rainforest."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_MAP_AMAZON_HELP"/>
+			<Set Text="A region similar to the Amazon Rainforest of South America, but with random elements."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_MAP_OPTION_JUNGLE"/>
+			<Set Text="Rainforest"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_MAP_OPTION_NO_JUNGLES"/>
+			<Set Text="No Rainforests"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_JUNGLE"/>
+			<Set Text="Rainforest"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_JUNGLE_HELP"/>
+			<Set Text="An overgrown rainforest sprinkled with hills and forest."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_SHOCK_1_HELP"/>
+			<Set Text="+20% [ICON_STRENGTH] Combat Strength when fighting in [COLOR_POSITIVE_TEXT]OPEN[ENDCOLOR] Terrain. (NO Hills, Forest or Rainforest)."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_SHOCK_2_HELP"/>
+			<Set Text="+20% [ICON_STRENGTH] Combat Strength when fighting in [COLOR_POSITIVE_TEXT]OPEN[ENDCOLOR] Terrain. (NO Hills, Forest or Rainforest)."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_SHOCK_3_HELP"/>
+			<Set Text="+25% [ICON_STRENGTH] Combat Strength when fighting in [COLOR_POSITIVE_TEXT]OPEN[ENDCOLOR] Terrain. (NO Hills, Forest or Rainforest)."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_DRILL_1_HELP"/>
+			<Set Text="+20% [ICON_STRENGTH] Combat Strength when fighting in [COLOR_POSITIVE_TEXT]ROUGH[ENDCOLOR] Terrain. (Hills, Forest or Rainforest)."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_DRILL_2_HELP"/>
+			<Set Text="+20% [ICON_STRENGTH] Combat Strength when fighting in [COLOR_POSITIVE_TEXT]ROUGH[ENDCOLOR] Terrain. (Hills, Forest or Rainforest)."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_DRILL_3_HELP"/>
+			<Set Text="+25% [ICON_STRENGTH] Combat Strength when fighting in [COLOR_POSITIVE_TEXT]ROUGH[ENDCOLOR] Terrain. (Hills, Forest or Rainforest)."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_ACCURACY_1_HELP"/>
+			<Set Text="+20% [ICON_RANGE_STRENGTH] Ranged Combat Strength against Units in [COLOR_POSITIVE_TEXT]OPEN[ENDCOLOR] Terrain. (NO Hills, Forest or Rainforest)."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_ACCURACY_2_HELP"/>
+			<Set Text="+20% [ICON_RANGE_STRENGTH] Ranged Combat Strength against Units in [COLOR_POSITIVE_TEXT]OPEN[ENDCOLOR] Terrain. (NO Hills, Forest or Rainforest)."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_ACCURACY_3_HELP"/>
+			<Set Text="+25% [ICON_RANGE_STRENGTH] Ranged Combat Strength against Units in [COLOR_POSITIVE_TEXT]OPEN[ENDCOLOR] Terrain. (NO Hills, Forest or Rainforest)."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_BARRAGE_1_HELP"/>
+			<Set Text="+25% [ICON_RANGE_STRENGTH] Ranged Combat Strength against Units in [COLOR_POSITIVE_TEXT]ROUGH[ENDCOLOR] Terrain. (Hills, Forest or Rainforest)."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_BARRAGE_2_HELP"/>
+			<Set Text="+25% [ICON_RANGE_STRENGTH] Ranged Combat Strength against Units in [COLOR_POSITIVE_TEXT]ROUGH[ENDCOLOR] Terrain. (Hills, Forest or Rainforest)."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_BARRAGE_3_HELP"/>
+			<Set Text="+25% [ICON_RANGE_STRENGTH] Ranged Combat Strength against Units in [COLOR_POSITIVE_TEXT]ROUGH[ENDCOLOR] Terrain. (Hills, Forest or Rainforest)."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_WOODSMAN_HELP"/>
+			<Set Text="Double movement rate [COLOR_POSITIVE_TEXT]Through Forest and Rainforest[ENDCOLOR]."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_FOLIAGE_IMPASSABLE"/>
+			<Set Text="Cannot Enter Forest or Rainforest"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_MOHAWK"/>
+			<Set Text="Combat Bonus in Forest/Rainforest (25)"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_JAGUAR"/>
+			<Set Text="Combat Bonus in Rainforest only (50)"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_UNIT_HELP_MOHAWK_WARRIOR"/>
+			<Set Text="Strong, front-line land Unit of the Classical Era. Only the Iroquois may build it. This Unit receives a major bonus when fighting on Forest and Rainforest, unlike the Swordsman which it replaces."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_UNIT_HELP_JAGUAR"/>
+			<Set Text="Fairly weak early-game military Unit. Only the Aztecs may build it. This Unit fights more effectively in Rainforest and heals damage when it kills an enemy Unit, unlike the Warrior which it replaces."/>
+		</Update>
+		
+		<!-- Marsh -> Wetlands -->
+		<Update>
+			<Where Tag="TXT_KEY_FEATURE_MARSH"/>
+			<Set Text="Wetlands"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILD_REMOVE_MARSH"/>
+			<Set Text="Drain [LINK=FEATURE_MARSH]Wetlands[\LINK]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_FEATURES_HEADING_TEXT"/>
+			<Set Text="Features are elements of terrain or vegetation that appear in a hex, atop the hex's terrain. (A grassland hex might have forest or wetlands on it as well, for example.) Features modify a hex's productivity and might also alter the amount of &quot;movement points&quot; (MP) a unit expends when entering the hex. Features may also provide defensive combat bonuses or penalties to a unit occupying the hex."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_FEATURES_MARSH"/>
+			<Set Text="Wetlands"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_FEATURES_MARSH_TEXT"/>
+			<Set Text="Though rich in life, wetlands have little food to offer a growing civilization; they must be drained to make way for farms. Note that military units in wetlands receive a significant PENALTY when attacked."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_MASONRY_HELP"/>
+			<Set Text="Allows you to build [COLOR_POSITIVE_TEXT]Walls[ENDCOLOR], which greatly improve the defense of cities from attack. Also allows Workers to construct Quarries on [ICON_RES_MARBLE] [COLOR_POSITIVE_TEXT]Marble[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Drain Wetlands[ENDCOLOR], allowing other improvements to be constructed."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_FEATURES_HEADING2_BODY"/>
+			<Set Text="Features are elements of terrain or vegetation that appear in a hex, atop the hex's terrain. (A grassland hex might have forest or wetlands on it as well, for example.) Features modify a hex's productivity and might also alter the amount of &quot;movement points&quot; (MP) a unit expends when entering the hex. Features may also provide defensive combat bonuses or penalties to a unit occupying the hex."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_MARSH_ADV_QUEST"/>
+			<Set Text="What can you tell me about wetlands?"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_MARSH_HEADING3_BODY"/>
+			<Set Text="Though rich in life, wetlands have little food to offer a growing civilization; they must be drained to make way for farms. Note that military units in wetlands receive a significant PENALTY when attacked.[NEWLINE][NEWLINE]City Yield: 1 food[NEWLINE]Movement Cost: 2[NEWLINE]Combat Modifier: 15% defensive combat penalty"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_MARSH_HEADING3_TITLE"/>
+			<Set Text="Wetlands"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_BODY"/>
+			<Set Text="Wetlands slow down unit movement. Moving into a tile with wetlands will often consume all of a unit's movement points. Units have a difficult time defending when they are in wetlands, so be careful!"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_DISPLAY"/>
+			<Set Text="Movement: Wetlands"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_ACTIVATE_BUTTON"/>
+			<Set Text="Find Wetlands"/>
+		</Update>
+
+		<!-- Ice -> Ice Sheet 
+		<Update>
+			<Where Tag="TXT_KEY_FEATURE_ICE"/>
+			<Set Text="Ice Sheet"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_FEATURE_ICE_PEDIA"/>
+			<Set Text="Ice Sheets are impassable, except to air and submarine units. They provide nothing to cities."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_AIRPOWER_MOVEMENT_HEADING3_BODY"/>
+			<Set Text="Gunships can move over all terrain types including mountains and ice sheets, at a cost of 1 MP each. They can also move over coastal waters and deep water if they embark."/>
+		</Update>
+		
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_CAN_MOVE_IMPASSABLE"/>
+			<Set Text="May Enter Ice Sheet Tiles"/>
+		</Update>-->
+
+		<!-- Plains -> Prairie -->
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_PLAINS"/>
+			<Set Text="Prairie"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_PLAINS"/>
+			<Set Text="Prairie"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_PLAINS_HELP"/>
+			<Set Text="Small patches of mixed terrain sprinkled across a vast prairie."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_MAP_SCRIPT_SKIRMISH_TUNDRA_HELP"/>
+			<Set Text="A frigid landscape with only small pockets of more fertile prairie."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_MAP_SANDSTORM_HELP"/>
+			<Set Text="A harsh world composed primarily of desert with smaller patches of prairie and grassland."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_STONE_WORKS_HELP"/>
+			<Set Text="Each source of [ICON_RES_MARBLE] Marble and [ICON_RES_STONE] Stone worked by this City produce +1 [ICON_PRODUCTION] Production.[NEWLINE][NEWLINE]City must have at least one of these resources improved with a Quarry.[NEWLINE][NEWLINE]City must not be in prairie."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_STONE_WORKS_STRATEGY"/>
+			<Set Text="Stone Works can only be constructed in a city near an improved [ICON_RES_STONE] Stone or [ICON_RES_MARBLE] Marble resource. Stone Works increase a city's [ICON_PRODUCTION] production. The city must not be in prairie."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_IMPROVEMENTS_TITLE2_TEXT"/>
+			<Set Text="In some cases, you may have a choice of improvements to construct. For instance, in a prairies hex you could construct a farm to improve its food output, a mine to improve its productivity, or a trading post to improve its gold output. If the hex contains a resource, however, you can only construct the improvement that accesses that resource - you can't construct a farm atop a hex containing horses; you can only construct a pasture."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_TERRAIN_DESERT_TEXT5"/>
+			<Set Text="Flatlands Defensive Penalty: A unit on a grassland, prairie, desert, tundra or snow hex that doesn't have a forest on it or isn't fortified suffers an automatic -25% defensive penalty."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_TERRAIN_GRASSLAND_TEXT5"/>
+			<Set Text="Flatlands Defensive Penalty: A unit on a grassland, prairie, desert, tundra or snow hex that doesn't have a forest on it or isn't fortified suffers an automatic -25% defensive penalty."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_TERRAIN_PLAINS"/>
+			<Set Text="Prairie"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_TERRAIN_PLAINS_TEXT"/>
+			<Set Text="Prairies provide a mix of food and production to a nearby city. A city surrounded by prairies will grow more slowly than one in grassland, but it will be far more productive."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_TERRAIN_PLAINS_TEXT5"/>
+			<Set Text="Flatlands Defensive Penalty: A unit on a grassland, prairie, desert, tundra or snow hex that doesn't have a forest on it or isn't fortified suffers an automatic -25% defensive penalty."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_TERRAIN_SNOW_TEXT5"/>
+			<Set Text="Flatlands Defensive Penalty: A unit on a grassland, prairie, desert, tundra or polar desert hex that doesn't have a forest on it or isn't fortified suffers an automatic -25% defensive penalty."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_TERRAIN_TUNDRA_TEXT"/>
+			<Set Text="Tundra is the semi-frozen land found in the world's colder climates. It is less useful than prairie or grassland, but slightly better than desert. Nobody builds cities in the tundra unless they're desperate for resources - or they've got nowhere else to go."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_PLAINS_ADV_QUEST"/>
+			<Set Text="What can you tell me about prairie?"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_PLAINS_HEADING3_BODY"/>
+			<Set Text="Prairies provide a mix of food and production to a nearby city. A city surrounded by prairies will grow more slowly than one in grassland, but it will be far more productive. [NEWLINE][NEWLINE]City Yield: 1 food, 1 production[NEWLINE]Movement Cost: 1[NEWLINE]Combat Modifier: 10% defensive combat penalty"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_PLAINS_HEADING3_TITLE"/>
+			<Set Text="Prairie"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_TUNDRA_HEADING3_BODY"/>
+			<Set Text="Tundra is the semi-frozen land found in the world's colder climates. It is less useful than prairie or grassland, but slightly better than desert. Nobody builds cities in the tundra unless they're desperate for resources - or they've got nowhere else to go.[NEWLINE][NEWLINE]City Yield: 1 food[NEWLINE]Movement Cost: 1[NEWLINE]Combat Modifier: 10% defensive combat penalty"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_TYPES_HEADING2_BODY"/>
+			<Set Text="There are 9 basic terrain types in the game: shallows, desert, grassland, hills, mountain, depths, prairie, polar desert, tundra."/>
+		</Update>
+
+		<!-- Snow -> Ice Sheet -->
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_SNOW"/>
+			<Set Text="Ice Sheet"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_SPECIALTERRAIN_HILLS_TEXT"/>
+			<Set Text="Hills provide increased productivity to a nearby city. They also provide important combat bonuses to units stationed on the hills. This bonus is reduced if the type of the hill is in a desert or under an ice sheet."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_TERRAIN_SNOW"/>
+			<Set Text="Ice Sheet"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_TERRAIN_SNOW_TEXT"/>
+			<Set Text="Ice Sheet is quite unproductive, with no food or production benefit to a nearby city. Of course an Ice Sheet hex might contain a useful resource, but otherwise they're just cold and barren."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_SPECIALTERRAIN_SNOW"/>
+			<Set Text="Ice Sheet"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_SPECIALTERRAIN_SNOW_TEXT"/>
+			<Set Text="Ice Sheet, while passable, provides no benefits to your Civilization."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_SNOW_ADV_QUEST"/>
+			<Set Text="What can you tell me about ice sheets?"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_SNOW_HEADING3_BODY"/>
+			<Set Text="Ice Sheet is quite unproductive, with no food or production benefit to a nearby city. Of course an Ice Sheet hex might contain a useful resource, but otherwise they're just cold and barren.[NEWLINE][NEWLINE]City Yield: none[NEWLINE]Movement Cost: 1[NEWLINE]Combat Modifier: 10% defensive combat penalty"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_SNOW_HEADING3_TITLE"/>
+			<Set Text="Ice Sheet"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_WORKERS_DURATIONTOCONSTRUCT_HEADING3_BODY"/>
+			<Set Text="Each improvement type takes a certain amount of time. It will take longer to construct improvements in marathon games, and shorter in games started in later eras.[NEWLINE][NEWLINE]Terrain Modifiers: Improvements constructed in tundra and deserts will take 25% longer than the standard time to construct, while improvements constructed in ice sheets will take 50% longer."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_MAP_OPTION_IRRATIONAL_HELP"/>
+			<Set Text="Resources will be placed in irrational locations, such as Bananas on Ice Sheets."/>
+		</Update>
+		
+		<!-- Coast -> Shallows -->
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_COAST"/>
+			<Set Text="Shallows"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_TERRAIN_COAST"/>
+			<Set Text="Shallows"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_TERRAIN_COAST_TEXT"/>
+			<Set Text="Shallows are the ocean hexes directly adjacent to land. They provide food to a nearby city, but only if that civilization has the Sailing technology. Only naval units and &quot;embarked&quot; land units may enter shallows hexes."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_MOVEMENT_EMBARKING_HEADING3_BODY"/>
+			<Set Text="At the start of the game, your land units cannot enter any water tiles. However, once you've learned the Optics technology, you can earn the promotion that allows land units to &quot;embark&quot; and move into shallows tiles. To embark a unit, move the unit to a shallows tile and then click on the &quot;Embark&quot; Action. Once embarked, the unit must move into water. (Optics allows movement into shallows only. The later Astronomy tech allows embarked units to enter depths tiles.)[NEWLINE][NEWLINE]In the water the embarked unit is very slow and helpless. It is totally unable to fight, and any enemy naval vessel can easily destroy it. It's critical to accompany embarked land units with a strong naval defense.[NEWLINE][NEWLINE]When the unit is adjacent to a land tile, you can click on the &quot;Disembark&quot; action. The unit will then be able to return to dry land. Alternatively you can right-click on a land tile and the unit will disembark automatically."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_TERRAIN_COAST"/>
+			<Set Text="Generally, naval units follow the same rules as land units, except that they move in the water rather than on land. Early naval units are often limited to coastal waters (Shallows) (those adjacent to land tiles) and coastal cities. Eventually, you'll produce naval units that can enter deep ocean tiles (Depths), and thus explore the world. Naval units generally cannot enter ice tiles (except for submarines, which can go under 'em)."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_COAST_ADV_QUEST"/>
+			<Set Text="What can you tell me about shallows?"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_COAST_HEADING3_BODY"/>
+			<Set Text="Shallows are shallower sea or ocean hexes directly adjacent to land. They provide food to a nearby city. If that civilization has the Sailing technology, then there are additional benefits. Only naval units and &quot;embarked&quot; land units may enter coastal hexes. Shallows can be worked without Sailing.[NEWLINE][NEWLINE]City Yield: 1 food[NEWLINE]Movement Cost: 1[NEWLINE]Combat Modifier: 0"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_COAST_HEADING3_TITLE"/>
+			<Set Text="Shallows"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_UNIT_GALLEY_STRATEGY"/>
+			<Set Text="The Galley is a Barbarian unit which remains in shallows hexes, looking for embarked units to destroy. It is far weaker than any other naval units, but can be dangerous in packs. A ranged unit, the Galley can annoy cities and units near the coast."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_LIGHTHOUSE_HELP"/>
+			<Set Text="+1 [ICON_FOOD] Food from Shallows and Depths Tiles.[NEWLINE][NEWLINE]Each source of [ICON_RES_FISH] Fish worked by this City produces +1 [ICON_FOOD] Food.[NEWLINE][NEWLINE]City must be built on the coast.[NEWLINE][NEWLINE]+1 [ICON_INTERNATIONAL_TRADE] Trade Route."/>
+		</Update>
+
+		<!-- Ocean -> Depths -->
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_OCEAN"/>
+			<Set Text="Depths"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_ABLTY_OCEAN_EMBARK_STRING"/>
+			<Set Text="Allows embarked units to enter Depths hexes"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_ALLOWS_CROSSING_OCEANS"/>
+			<Set Text="Allows embarked units to enter Depths hexes"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_ALLWATER_EMBARKATION"/>
+			<Set Text="Embarkation with Shallows and Depths Movement"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_ALLWATER_EMBARKATION_HELP"/>
+			<Set Text="Can embark onto [COLOR_POSITIVE_TEXT]Water Tiles[ENDCOLOR]. Embarked units can enter Shallows and Depths and have +1 Sight."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE_ASTRO_HELP"/>
+			<Set Text="Cannot Enter Depths Until Astronomy."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE"/>
+			<Set Text="Cannot Enter Depths."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_UNIT_HELP_IRONCLAD"/>
+			<Set Text="More powerful than Frigates, these Units pay for their strength by being slower and unable to enter Depths tiles."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_IMPROVEMENTS_OFFSHOREPLATFORM_TEXT"/>
+			<Set Text="The offshore platform is an important late-game improvement as it provides access to the highly-prized oil resource, but only when that resource is in the water (workers construct wells to access oil that is on land). Work boats are consumed when they construct an offshore platform."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_TERRAIN_OCEAN"/>
+			<Set Text="Depths"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_TERRAIN_OCEAN_TEXT"/>
+			<Set Text="Depths are deep-water hexes. They provide food to a city once the city has the technology to access them."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_MOVEMENT_ILLEGAL_HEADING2_BODY"/>
+			<Set Text="Certain tiles cannot be entered by certain units. A naval unit can't enter a non-city land tile, for example, and a land unit cannot enter a mountain tile or a water tile. If a unit can't enter a tile, you won't be able to order it to move there. Sometimes a move is revealed as illegal during a unit's move. If that is the case, the unit will stop when it discovers the illegality and wait for new orders."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_MOVEMENT_NAVAL_HEADING2_BODY"/>
+			<Set Text="Generally, naval units follow the same rules as land units, except that they move in the water rather than on land. Early naval units are often limited to Shallows (those adjacent to land tiles) and coastal cities. Eventually, you'll produce naval units that can enter Depths tiles, and thus explore the world. Naval units generally cannot enter Ice Sheet tiles (except for submarines, which can go under 'em)."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ASTRONOMY_HELP"/>
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]Caravel[ENDCOLOR], the first Naval Unit capable of exploring the world's oceans. Also allows embarked land units to enter Depths tiles."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_OCEAN_ADV_QUEST"/>
+			<Set Text="What can you tell me about Depths?"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_OCEAN_HEADING3_BODY"/>
+			<Set Text="Depths are deep-water hexes. They provide food to a city once the city has the technology to access them.[NEWLINE][NEWLINE]City Yield: 1 food[NEWLINE]Movement Cost: 1[NEWLINE]Combat Modifier: none"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TERRAIN_OCEAN_HEADING3_TITLE"/>
+			<Set Text="Depths"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_UNIT_CARAVEL_STRATEGY"/>
+			<Set Text="The Caravel is a significant upgrade to a civilization's naval power. A Ranged unit, it is stronger and faster than a Trireme, and it can enter Depths hexes. The Caravel has a huge sight radius, making it the eyes and ears of the mid-game navy. This sight bonus is lost if the Caravel is upgraded to a Destroyer."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_UNIT_WORK_BOAT_STRATEGY"/>
+			<Set Text="This unit can only be constructed in coastal cities. Use work boats to improve water resources - fish, whales, oil, etc. The work boat is consumed when it constructs the improvement. Work boats can't enter Depths hexes until Astronomy is discovered. Work boats cannot engage in combat."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_PEDIA_PROMOTION_OCEAN_IMPASSABLE"/>
+			<Set Text="Cannot Enter Depths"/>
+		</Update>
+	</Language_en_US>
+</GameData>

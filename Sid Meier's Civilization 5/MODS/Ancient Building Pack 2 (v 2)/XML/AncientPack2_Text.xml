@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/16/2014 8:30:05 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Description Tags-->
+		<Row Tag="TXT_KEY_BUILDING_PALISADE_WALL">
+			<Text>Palisade Wall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POTTER">
+			<Text>Potter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SMELTER">
+			<Text>Smelter</Text>
+		</Row>
+		<!-- Help Tags-->
+		<Row Tag="TXT_KEY_BUILDING_PALISADE_WALL_HELP">
+			<Text>+3 Defence and +25 City HP.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POTTER_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production and +1 [ICON_GOLD] Gold. +1 [ICON_GOLD] Gold from Wine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SMELTER_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production. +1 [ICON_PRODUCTION] from Iron and Copper.[NEWLINE][NEWLINE]Must have a source of Iron or Copper.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WALLS_HELP">
+			<Text>Requires a Palisade Wall.</Text>
+		</Row>
+		<!-- Pedia Tags-->
+		<Row Tag="TXT_KEY_BUILDING_PALISADE_WALL_PEDIA">
+			<Text>Both the Greeks and Romans created palisades to protect their military camps. The Roman historian Livy describes the Greek method as being inferior to that of the Romans during the Second Macedonian War. The Greek stakes were too large to be easily carried, and were spaced too far apart. This made it easy for enemies to uproot them and create a large enough gap in which to enter. In contrast, the Romans used smaller and easier to carry stakes which were placed closer together, making them more difficult to uproot.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POTTER_PEDIA">
+			<Text>Pottery originates during the Neolithic period. Ceramic objects like the Gravettian culture Venus of Dolní Věstonice figurine discovered in the Czech Republic date back to 29,000–25,000 BC, and pottery vessels discovered in Jiangxi, China date back to 20,000 BP. Early Neolithic pottery has also been found in Jomon Japan (10,500 BC), the Russian Far East (14,000 BC), Sub-Saharan Africa and South America.[NEWLINE][NEWLINE]Pottery is made by forming a clay body into objects of a required shape and heating them to high temperatures in a kiln which removes all the water from the clay, which induces reactions that lead to permanent changes including increasing their strength and hardening and setting their shape. A clay body can be decorated before or after firing. Prior to some shaping processes, clay must be prepared. Kneading helps to ensure an even moisture content throughout the body. Air trapped within the clay body needs to be removed. This is called de-airing and can be accomplished by a machine called a vacuum pug or manually by wedging. Wedging can also help produce an even moisture content. Once a clay body has been kneaded and de-aired or wedged, it is shaped by a variety of techniques. After shaping it is dried and then fired.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SMELTER_PEDIA">
+			<Text>In the Old World, humans learned to smelt metals in prehistoric times, more than 8000 years ago. The discovery and use of the "useful" metals — copper and bronze at first, then iron a few millennia later — had an enormous impact on human society. The impact was so pervasive that scholars traditionally divide ancient history into Stone Age, Bronze Age, and Iron Age. In the Americas, pre-Inca civilizations of the central Andes in Peru had mastered the smelting of copper and silver at least six centuries before the first Europeans arrived in the 16th century.[NEWLINE][NEWLINE]--Wikipedia</Text>
+		</Row>
+		<!-- Strategy Tags-->
+		<Row Tag="TXT_KEY_BUILDING_PALISADE_WALL_STRATEGY">
+			<Text>The Palisade Wall is the earliest defensive structure, unlocked with Agriculture, and is required for building other Defensive structures.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POTTER_STRATEGY">
+			<Text>The Potter is an early multi-purpose building that provides gold and production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SMELTER_STRATEGY">
+			<Text>The Smelter is the earliest production building.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

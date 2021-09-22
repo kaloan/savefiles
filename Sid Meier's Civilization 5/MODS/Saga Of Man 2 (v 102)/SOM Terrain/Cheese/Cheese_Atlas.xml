@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/27/2016 2:41:19 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>CHEESE_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>Cheese_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CHEESE_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>Cheese_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CHEESE_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>Cheese_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CHEESE_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>Cheese_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+
+	</IconTextureAtlases>
+  
+</GameData>

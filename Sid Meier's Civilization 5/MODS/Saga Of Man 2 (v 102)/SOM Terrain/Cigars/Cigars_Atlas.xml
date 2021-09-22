@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/27/2016 1:51:28 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>CIGARS_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>Cigars_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIGARS_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>Cigars_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIGARS_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>Cigars_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIGARS_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>Cigars_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+
+	</IconTextureAtlases>
+  
+</GameData>

@@ -1,0 +1,49 @@
+This mod adds a unique version of the Galley to the game that civs can build (I was tempted to rename them Biremes).  Galleys have been reverted to a ranged unit and will upgrade to Galleasses.  This addition fleshes-out the naval part of the game a bit more and provides for some interesting naval conflicts similar to the ones on land involving ranged/melee.  Build Galleys to support your land forces near the water or your front line of Triremes.
+
+Triremes have been pushed a tech further down the tree to Optics and are similar to Horsemen in strength.  They're now a bit more dangerous and can pose a serious threat to your coastal cities if you're caught unprepared.  I feel having them available a little later and making them stronger makes for better timing for war after the initial establishment of your empire.
+
+To balance these stronger versions of early naval units and to spread-out the bonuses gained from these techs, I added the Fishing tech to the game as an additional prereq tech to Sailing.  Also, embarkation has been pushed a tech earlier to Sailing, though as said earlier, there's an additional prereq tech, so the discount isn't as much.  Also, I wanted to give Galleys more "play things" to shoot at and keep them busy, so with the waters as dangerous as they are now, I felt it was fine to make embarking a little bit earlier.
+
+Also, because of the slightly earlier embarkation, I gave Polynesia a little bit of love and gave them an additional benefit of +1 embarked movement to their unique trait, which was slightly underwhelming to begin with.
+
+Dromons now replace Galleys and Quinqeremes still replace Triremes.  Both of been adjusted to suit changes.  I removed the +50 vs. Naval from Dromons as it was harder to balance around it and instead gave it a unique promotion that I created called Greek Fire (+20% vs. Naval).  It remains on the unit thru upgrades and gives the Byzantine's unique a bit more permanence throughout the game instead of a fleeting one.  Its strengths have also been increased.
+
+The Quinquereme still gets a pretty nice boost to strength, but I didn't want to make it TOO high, since Triremes were already pretty strong, especially that early.  So, again, to add a little more permanence to the civ's unique bonus, I added the Mobility promotion to them to make up for the lost strength.  This is also somewhat fitting, since these ships had a stronger system of rowers to propel the ship over Triremes.
+
+Read the change list below (or within the mod folder) for more details and bug fixes included in this mod.
+
+CHANGE LIST:
+
+Galley: Buildable by civs. Reverted back to a ranged unit (unit AI adjusted to suit), ranged strength 9 and combat strength 8, production cost increased from 40 to 56, upgrades to Galleasses. (changes apply to barbarian galleys as well, they've returned to haunt you!)
+
+Dromon: Unitclass changed from Trireme to Galley. Stats based off of Galley modifications. Ranged strength increased from 9 to 11 (+22%) and combat strength increased from 8 to 10 (+25%) and gains new unique promotion: Greek Fire (+20% vs. Naval) which is retained thru upgrades.
+
+Greek Fire: New unique promotion with new art included.  I wanted give the Dromon a new promotion which it could retain and gain benefits from as it upgrades. 50% vs. Naval was too much to retain and balance the new unit around.
+
+Trireme: Increased strength from 10 to 12, cost increased from 45 to 75 (similar to a Horsemen, just like Caravels strength/cost are similar to Knights), available at Optics instead of Sailing.
+
+Quinquereme: Stats based off of Trireme modifications. Unique strength set to 15 (+25%) and gains the Mobility promotion (+1 movement) which is retained thru upgrades (I believe it had a stronger rowing system over the trireme, after all).
+
+Galleass: Decreased combat strength from 16 to 15 to better match ranged/combat ratio of other ranged naval units. Can now be obtained by upgrading Galleys.
+
+Turtle Ship: Decreased combat strength from 36 (+80%) to 30 (+50%), movement reduced from 4 to 3, and may now enter ocean.  Basically, it's a big, fat Caravel that's slow and can't see very far; you'll probably still want it to stick around for defense instead of heavy exploration.  But, at least now, you have the option and it's more flexible.  (I was also really tempted to rebalance it further and give it some type of "Feared Dragon" promotion which gives adjacent enemies -10%)
+
+Privateer:  Prize Ships promotion is lost upon upgrading (to Destroyers).
+
+Ironclad:  Increased movement from 3 to 4 and removed the promotion which granted double movement in coast. (this also fixes a bug where this unit could gain "ludicrous speeds" with simple movement bonuses; a single +1 movement from any source makes these clunky things faster than a missile cruiser on the coast!  English Ironclads? <shudder>)
+
+Workboat:  Movement reduced from 4 to 3 to match all other early sail ships.
+
+Fishing:  New technology.  Workboats and Sea Improvements have been moved from Sailing to Fishing. This additional tech as a prereq balances the early acquisition of Sailing/Optics with their stronger naval units. (flavor values adjusted to suit, AI's receive this tech for free on Deity instead of The Wheel)
+
+Sailing:  Embarking moved from Optics to Sailing, now requires Fishing along with Pottery. (flavor values adjusted to suit, AI strategy "expand to other continents" set from Optics to Sailing to suit)
+
+Optics:  Base research cost increased from 85 to 105 to match other techs in the column.  Flavor values adjusted to suit changes.  (fixed a small bug and moved the misplaced wonder flavor from Sailing to Optics to represent its Great Lighthouse)
+
+Embarking:  Units can embark at Sailing now instead of Optics which has a total beeline cost of 125 beakers instead of default game's 175 beakers. If kept at Optics within this mod, it would've cost 230 beakers.
+
+Wayfinding: Added an additional bonus of +1 embarked movement for Polynesia. (a little buff since the existing trait is a little underwhelming and because all civs can embark onto coast a earlier, also sorta fits well since most ocean embarkation is performed at a movement of 3 with Astronomy)
+
+Ottomans:  The modification to Prize Ships also affected the Ottomans.  So a unique promotion was created for them with the same effect, Barbary Pirate, and includes new art.
+
+Civilopedia:  All affected text polished-up and adjusted to suit changes.

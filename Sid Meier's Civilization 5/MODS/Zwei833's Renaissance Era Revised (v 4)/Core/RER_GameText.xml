@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_2HANDER">
+			<Text>Two-Handed Swordsman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_2HANDER_TEXT">
+			<Text>Renaissance two-handed swords are monstrous weapons, longer and larger than even the medieval great swords, with a hilt of over a foot and a blade that measures nearly five feet in length, taller than some people. They are primarily in use during the early decades of the 16th century. These swords represent the final stage in the trend of increasing size that started in the 14th century. They can be used to fight against pike formations and cut off pike heads.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_2HANDER_STRATEGY">
+			<Text>Two-Handed Swordsman is much stronger than the Longswordsman, and gains a devastating combat bonus against Spearmen, Pikemen, Tercio and Landsknecht.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_2HANDER">
+			<Text>Early Renaissance Era melee unit. +50% [ICON_WAR] Attack against Spearmen, Pikemen and Tercio.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_2HANDER">
+			<Text>Two Hander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_2HANDER_HELP">
+			<Text>+50% [ICON_WAR] Attack vs Spearmen, Pikemen and Tercio.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RODELEROS">
+			<Text>Rodelero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RODELEROS_TEXT">
+			<Text>Rodeleros ("shield bearers"), also called espadachines ("swordsmen") and colloquially known as "Sword and Buckler Men", were Spanish troops in the early 16th (and again briefly in the 17th) century, equipped with steel shields or bucklers known as rodela and swords (usually of the side-sword type). Originally conceived as an Italian attempt to revive the legionary swordsman, they were adopted by the Spanish and used with great efficiency in the Italian Wars during the 1510s and 1520s, but discontinued in the 1530s. When the Spanish adopted the colunella (the first of the mixed pike and shot formations), they used small groups of sword and buckler men to break the deadlock of the push of pike, as the Swiss and Germans used halberdiers, comparable to the role of the German Doppelsöldner during the same period. At the Battle of Ravenna in 1512, they proved to be deadly at this tactic; however, when facing a fresh, well ordered pike square, they were vulnerable, as at the Battle of Seminara. They were also very vulnerable to attack by cavalry. As battlefield tactics evolved during the early 16th century, the Spanish ultimately concluded that the vulnerability of the rodeleros on the battlefield outweighed their strengths, and they were dropped as a troop type when the Spanish infantry were reorganized into tercios in the 1530s.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RODELEROS_STRATEGY">
+			<Text>This infantry unit replaces the Two-Handed Swordsman for Spain. Unlike the Two-Handed Swordsman, it has less bouns vs Spearmen, Pikemen and Tercio but also has a bouns vs range units and gun units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_RODELEROS">
+			<Text>Early Renaissance Era melee unit raplace Two-Handed Swordsman. +25% [ICON_WAR] Attack against Spearmen, Pikemen and Tercio, +25% [ICON_WAR] Attack vs range units and gun units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RODELEROS">
+			<Text>Rodeleros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RODELEROS_HELP">
+			<Text>+25% [ICON_WAR] Attack vs Spearmen, Pikemen and Tercio, +25% [ICON_WAR] Attack vs range units and gun units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RER_LARGEWEAPON">
+			<Text>Large Cold Arms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RER_LARGEWEAPON_DESC">
+			<Text>From around 1300 to 1500, in concert with improved armour, innovative sword designs evolved more and more rapidly. The main transition was the lengthening of the grip, allowing two-handed use, and a longer blade. By 1400, this type of sword, at the time called langes Schwert (longsword) or spadone, was common, and a number of 15th- and 16th-century Fechtbücher offering instructions on their use survive.In the 16th century, the large zweihänder was used by the elite German and Swiss mercenaries known as doppelsöldners. Zweihänder, literally translated, means two-hander. The zweihänder possesses a long blade, as well as a huge guard for protection. It is estimated that some zweihänder swords were over 6 feet (1.8 m) long, the gigantic blade length was perfectly designed for manipulating and pushing away enemy pole-arms, which were major weapons around this time, in both Germany and Eastern Europe.[NEWLINE][NEWLINE]Another large weapon during Renaissance era is halberd, which is a two-handed pole weapon that came to prominent use during the 14th and 15th centuries. The word halberd may come from the German words Halm (staff), and Barte (axe). In modern-day German, the weapon is called a Hellebarde. The halberd consists of an axe blade topped with a spike mounted on a long shaft. It always has a hook or thorn on the back side of the axe blade for grappling mounted combatants. It is very similar to certain forms of the voulge in design and usage. The halberd was usually 1.5 to 1.8 metres (5 to 6 feet) long.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RER_LARGEWEAPON_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Two-handed Swordsman[ENDCOLOR] and purchase [COLOR_POSITIVE_TEXT]Landsknecht[ENDCOLOR] in cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RER_LARGEWEAPON_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Suddenly, as the the Italian pikemen began to approach, about 300 picked young men who are called "the forlorn hope" issued forth from each flank of the infantry body and with their great swords which they wielded with both hands began to chop up those enormous pikes with such boldness that nearly all those pikemen."[NEWLINE][TAB][TAB] - Paolo Giovio[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RER_PIKE_AND_SHOT">
+			<Text>Pike and Shot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RER_PIKE_AND_SHOT_DESC">
+			<Text>Pike and shot is a historical infantry combat formation, that is generally considered evolved in the period from the Italian Wars to the evolution of the bayonet in the late seventeenth century. The infantry formations of the period were a mix of pike and early firearms ("shot"), either arquebusiers or musketeers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RER_PIKE_AND_SHOT_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Tercio[ENDCOLOR], the most powerful infantry of the Renaissance Era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RER_PIKE_AND_SHOT_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"That upon seeing you armed of fulminant rays,[NEWLINE]Alas Jupiter, your valorous right hand,[NEWLINE]think I that the giants have returned to this land."[NEWLINE][TAB][TAB] - Francisco de Quevedo. To Phillipe III[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RER_METALLURGY_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Reiter[ENDCOLOR], a fast mounted unit in Renasissnece era, and the [COLOR_POSITIVE_TEXT]Arsenal[ENDCOLOR], which boosts City defense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_REITER">
+			<Text>Reiter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_REITER_TEXT">
+			<Text>Reiters were a type of cavalry, which appeared in the armies of Western Europe in the 16th century in place of the outmoded lance-armed knights, at the same time that cuirassiers and dragoons began to attain typological distinction from other kinds of cavalry. The Reiters raised firearms to the status of primary weapons, as opposed to earlier Western European heavy cavalry which primarily relied upon mêlée weapons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_REITER_STRATEGY">
+			<Text>The Renaissance Era cavalry unit, the Reiter has an increased strength over the medieval Knight while moving at the same speed.  It is vulnerable to anti-mounted units such as Landsknehcts and Tercios.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_REITER">
+			<Text>Fast Renaissance Era mounted Unit.  Vulnerable to Tercios.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RER_MUSKETMAN_STRATEGY">
+			<Text>The Musketman is the first gunpowder based ranged unit of the game. While its range decreases to just one, the melee strength of the unit remains the same, allowing it to defend just as well as it attacks while suffering no damage when attacking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_RER_MUSKETMAN">
+			<Text>Primary ranged unit of the Renaissance era which must be adjacent to attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RER_TERCIO_STRATEGY">
+			<Text>The most powerful front-line unit of the Renaissance Era, upgrading from and significantly outclassing the Pikeman.  The Tercio also have a bouns vs cavalry units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_RER_TERCIO">
+			<Text>Primary melee unit and the most powerful infantry unit of the Renaissance Era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FREE_COMAPANY">
+			<Text>Free Company</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_FREE_COMAPANY">
+			<Text>Specialized in defeating cavalry Units.[NEWLINE][NEWLINE]May only be purchased with [ICON_GOLD] Gold. Can move immediately after purchase.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FREE_COMAPANY_STRATEGY">
+			<Text>The Free Company is as powerful as the Pikeman. These units may not be built; they must be purchased with gold. May move immediately after purchase.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FREE_COMAPANY_TEXT">
+			<Text>A free company was a late medieval army of mercenaries acting independently of any government, and thus "free". They regularly made a living by plunder when they were not employed; in France they were the routiers and écorcheurs who operated outside the highly structured law of arms. The term "free company" is most applied to those companies of soldiers which formed after the Peace of Brétigny during the Hundred Years' War and were active mainly in France, but it has been applied to other companies, such as the Catalan Grand Company and companies that worked elsewhere, such as in Italy and the Holy Roman Empire.</Text>
+		</Row>
+		<!--MERC_FREECOMAPANY-->
+		<Row Tag="TXT_KEY_UNIT_MERC_FREE_COMAPANY_STRATEGY">
+			<Text>The Free Company is a Mercenary unit only available through the 'Free Company' Mercenary Contract. The Free Company has a number of bonuses related to pillaging tiles and sacking cities. These units create a cheap army that can provide a nice return on their investment if sent rampaging across enemy territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MERC_HELP_FREE_COMAPANY">
+			<Text>This unit can pillage without using any [ICON_MOVES] movement points. Steals [ICON_GOLD] gold when attacking a city. Unlocked through Mercenary Contract, these units may not be built; they must be purchased through gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONTRACT_JFD_FREE_COMPANY_DESC">
+			<Text>Free Company</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONTRACT_JFD_FREE_COMPANY_ADJ">
+			<Text>Free Company</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONTRACT_JFD_FREE_COMPANY_TEXT">
+			<Text>A company of full-time Mercenaries, especially good at plunder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_FREE_COMPANY_HELP">
+			<Text>Steals [ICON_GOLD] Gold equal to 100% of the damage inflicted on a city.</Text>
+		</Row>
+		<!--POLICIES-->
+		<Row Tag="TXT_KEY_POLICY_RER_MERCENARY_ARMY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Mercenary Army[ENDCOLOR][NEWLINE]Allows the purchasing of Free Company and Landsknechts.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/5/2016 12:08:03 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>ATLAS_SMOKEHOUSE</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>Smokehouse_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_SMOKEHOUSE</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>Smokehouse_128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_SMOKEHOUSE</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>Smokehouse_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_SMOKEHOUSE</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>Smokehouse_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_SMOKEHOUSE</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>Smokehouse_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+
+
+</GameData>

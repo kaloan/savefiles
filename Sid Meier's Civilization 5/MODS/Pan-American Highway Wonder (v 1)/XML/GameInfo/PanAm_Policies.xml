@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/26/2011 8:41:05 AM -->
+<GameData>
+	<Policy>
+		<Row>
+			<Type>POLICY_PANAM</Type>
+			<Description>TXT_KEY_POLICY_PANAM</Description>
+			<RouteGoldMaintenanceMod>-25</RouteGoldMaintenanceMod>
+		</Row>
+	</Policy>
+</GameData>

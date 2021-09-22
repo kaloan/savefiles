@@ -1,0 +1,2642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/26/2014 6:11:29 PM -->
+<GameData>
+	<Technologies>
+		<Delete Type="TECH_TRAPPING"/>
+		<Delete Type="TECH_OPTICS"/>
+		<Delete Type="TECH_CHIVALRY"/>
+		<Delete Type="TECH_AGRICULTURE"/>
+		
+		<Update>
+			<Where Type="TECH_ANIMAL_HUSBANDRY"/>
+			<Set GridY="5"  Cost="30" Help="A Prehistoric Technology "  />
+		</Update>
+		<Update>
+			<Where Type="TECH_POTTERY"/>
+			<Set Help="A Prehistoric Technology " GridX="2" GridY="2" Cost="60"  />
+		</Update>
+		<Update>
+			<Where Type="TECH_ARCHERY"/>
+			<Set Description="Warfare" Help="A Prehistoric Technology" Cost="30" GridY="8"  Civilopedia="Early war was influenced by the development of bows, maces, and slings. The bow seems to have been the most important weapon in early warfare, in that it enabled attacks to be launched with far less risk to the attacker when compared to the risk involved in mêlée combat. While there are no cave paintings of battles between men armed with clubs, the development of the bow is concurrent with the first known depictions of organized warfare consisting of clear illustrations of two or more groups of men attacking each other. These figures are arrayed in lines and columns with a distinctly garbed leader at the front. Some paintings even portray still-recognizable tactics like flankings and envelopments. Warfare originated independently in other parts of the world as late as 4,000 years ago."   />
+		</Update>
+		<Update>
+			<Where Type="TECH_MINING"/>
+			<Set GridY="7" Help="A Prehistoric Technology" Cost="30" />
+		</Update>
+		<Update>
+			<Where Type="TECH_SAILING"/>
+			<Set Help="A Prehistoric Technology "  Cost="60" />
+		</Update>
+		<Update>
+			<Where Type="TECH_CALENDAR"/>
+			<Set Help="An Ancient Technology " GridX="4" GridY="3" Era="ERA_CLASSICAL" Cost="120" />
+		</Update>
+		<Update>
+			<Where Type="TECH_THE_WHEEL"/>
+			<Set  GridY="5" Help="A Prehistoric Technology " Cost="60"  />
+		</Update>
+		<Update>
+			<Where Type="TECH_MASONRY"/>
+			<Set GridY="7"  Help="A Prehistoric Technology " Cost="60" />
+		</Update>
+		<Update>
+			<Where Type="TECH_BRONZE_WORKING"/>
+			<Set GridY="8" Help="A Prehistoric Technology " Cost="60" />
+		</Update>
+		<Update>
+			<Where Type="TECH_WRITING"/>
+			<Set GridX="3" GridY="5"  Help="The key to the Ancient Age " Cost="120"    />
+		</Update>
+		<Update>
+			<Where Type="TECH_HORSEBACK_RIDING"/>
+			<Set Help="An Ancient Technology " GridX="4" Cost="120" />
+		</Update>
+		<Update>
+			<Where Type="TECH_MATHEMATICS"/>
+			<Set Help="An Ancient Technology " GridX="4" GridY="6" Cost="120" />
+		</Update>
+		<Update>
+			<Where Type="TECH_CONSTRUCTION"/>
+			<Set Help="An Ancient Technology " GridX="4" GridY="7" Cost="120" />
+		</Update>
+		<Update>
+			<Where Type="TECH_IRON_WORKING"/>
+			<Set Help="An Ancient Technology " GridX="4" GridY="8" Cost="120"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_PHILOSOPHY"/>
+			<Set Cost="240"  GridX="5" GridY="2" Help="An Ancient Technology "  />
+		</Update>
+		<Update>
+			<Where Type="TECH_DRAMA"/>
+			<Set Cost="240" GridX="5" GridY="3" Help="An Ancient Technology "  />
+		</Update>
+		<Update>
+			<Where Type="TECH_CURRENCY"/>
+			<Set Cost="240"  Help="An Ancient Technology "  GridX="5" GridY="4" OpenBordersTradingAllowed="true"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_ENGINEERING"/>
+			<Set Cost="240" GridX="5" GridY="6" Help="An Ancient Technology "    />
+		</Update>
+		<Update>
+			<Where Type="TECH_METAL_CASTING"/>
+			<Set GridX="5" GridY="8" Era="ERA_CLASSICAL" Help="An Ancient Technology " Cost="240" IconAtlas="TECH_ATLAS_1" PortraitIndex="33"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_THEOLOGY"/>
+			<Set  Cost="480" GridX="7" Help="A Postclassical Technology "/>
+		</Update>
+		<Update>
+			<Where Type="TECH_GUILDS"/>
+			<Set  Cost="480" GridX="7" GridY="5" Help="A Postclassical Technology " />
+		</Update>
+		<Update>
+			<Where Type="TECH_MACHINERY"/>
+			<Set GridX="7" GridY="7" Help="A Postclassical Technology " Cost="480"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_STEEL"/>
+			<Set  GridX="7" Cost="480" Help="A Postclassical Technology " DefensivePactTradingAllowed="true"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_COMPASS"/>
+			<Set  Cost="960" GridX="8" Help="A Postclassical Technology "/>
+		</Update>
+		<Update>
+			<Where Type="TECH_EDUCATION"/>
+			<Set Cost="960" GridX="8" GridY="3" Help="A Postclassical Technology "/>
+		</Update>
+		<Update>
+			<Where Type="TECH_BANKING"/>
+			<Set  GridX="8"  Cost="960" Help="A Postclassical Technology " Era="ERA_MEDIEVAL"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_GUNPOWDER"/>
+			<Set  GridX="8" GridY="8" Cost="960" Era="ERA_MEDIEVAL" Help="A Postclassical Technology " />
+		</Update>
+		<Update>
+			<Where Type="TECH_ARCHITECTURE"/>
+			<Set  GridX="10" GridY="2" Help="An Early Modern Technology " Cost="1920"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_NAVIGATION"/>
+			<Set  GridX="10" GridY="0"  Cost="1920" Help="An Early Modern Technology " EmbarkedAllWaterPassage="true"  IconAtlas="TECH_ATLAS_DLC_02" PortraitIndex="1"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_ASTRONOMY"/>
+			<Set GridX="10" GridY="4" Cost="1920" Help="An Early Modern Technology " EmbarkedAllWaterPassage="false"  />
+		</Update>
+		<Update>
+			<Where Type="TECH_PRINTING_PRESS"/>
+			<Set GridX="9" GridY="5" Help="The key to the Early Modern Age "  Cost="1920" Era="ERA_MEDIEVAL"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_METALLURGY"/>
+			<Set  GridX="10" GridY="8" Help="An Early Modern Technology " Cost="1920" IconAtlas="TECH_ATLAS_DLC_02" PortraitIndex="4"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_ACOUSTICS"/>
+			<Set  GridX="11" GridY="2" Help="An Early Modern Technology " Cost="3840"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_PHYSICS"/>
+			<Set GridX="11" GridY="4" Help="An Early Modern Technology " Era="ERA_RENAISSANCE" Cost="3840"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_ECONOMICS"/>
+			<Set GridX="13" GridY="4" Cost="5760" Help="A Mid Modern Technology " Era="ERA_INDUSTRIAL"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_CHEMISTRY"/>
+			<Set GridX="11" GridY="8" Cost="3840" Help="An Early Modern Technology " />
+		</Update>
+		<Update>
+			<Where Type="TECH_STEAM_POWER"/>
+			<Set  GridX="12" Cost="5760" Help="The key to the Mid Modern Age " Era="ERA_RENAISSANCE"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_ARCHAEOLOGY"/>
+			<Set GridX="13" GridY="2" Cost="5760" Help="A Mid Modern Technology "/>
+		</Update>
+		<Update>
+			<Where Type="TECH_SCIENTIFIC_THEORY"/>
+			<Set  GridX="10" GridY="6" Cost="3840" Description="Scientific Method" Help="An Early Modern Technology " Era="ERA_RENAISSANCE"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_RIFLING"/>
+			<Set GridX="13" GridY="8" Cost="5760" Help="A Mid Modern Technology "/>
+		</Update>
+		<Update>
+			<Where Type="TECH_MILITARY_SCIENCE"/>
+			<Set  GridX="13" GridY="6" Cost="5760" Help="A Mid Modern Technology " />
+		</Update>
+		<Update>
+			<Where Type="TECH_BIOLOGY"/>
+			<Set GridX="14" GridY="1" Help="A Mid Modern Technology "  Cost="8640" />
+		</Update>
+		<Update>
+			<Where Type="TECH_INDUSTRIALIZATION"/>
+			<Set  GridX="14" GridY="7" Cost="8640" Help="A Mid Modern Technology " Description="Replaceable Parts" PortraitIndex="49"
+			IconAtlas="TECH_ATLAS_1" 
+			Civilopedia="TXT_KEY_TECH_REPLACEABLE_PARTS_DESC"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_RAILROAD"/>
+			<Set  GridX="15"  GridY="4" Help="The key to the Late Modern Age " Era="ERA_INDUSTRIAL" Cost="10800" />
+		</Update>
+		<Update>
+			<Where Type="TECH_REFRIGERATION"/>
+			<Set  Help="A Late Modern Technology" GridX="16" GridY="2" Cost="10800" />
+		</Update>
+		<Update>
+			<Where Type="TECH_ELECTRICITY"/>
+			<Set  GridX="16" GridY="4" Help="A Late Modern Technology " Cost="10800" Description="Electromagnetism" Era="ERA_MODERN"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_FERTILIZER"/>
+			<Set  GridX="14" GridY="3" Help="A Mid Modern Technology " Cost="8640" Era="ERA_INDUSTRIAL"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_COMBUSTION"/>
+			<Set  GridX="16"  Help="A Late Modern Technology " Cost="10800" />
+		</Update>
+		<Update>
+			<Where Type="TECH_DYNAMITE"/>
+			<Set  GridX="16"   Help="A Late Modern Technology" Cost="10800" Era="ERA_MODERN"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_RADIO"/>
+			<Set  GridX="17"  GridY="5" Cost="13500" Help="A Late Modern Technology" />
+		</Update>
+		<Update>
+			<Where Type="TECH_REPLACEABLE_PARTS"/>
+			<Set  GridX="17" GridY="4" Cost="13500" Help="A Late Modern Technology"  Description="Mass Production" PortraitIndex="0"
+			IconAtlas="MASS_PRODUCTION_TECH_ATLAS" Civilopedia="Prerequisites of a world filled with mass production were interchangeable parts, machine tools and power, especially in the form of electricity. Some of the organizational management concepts needed to create 20th-century mass production, such as scientific management, had been pioneered by other engineers (most of whom are not famous, but Frederick Winslow Taylor is one of the well-known ones), whose work would later be synthesized into fields such as industrial engineering, manufacturing engineering, operations research, and management consultancy. Although after leaving the Henry Ford Company which was rebranded as Cadillac and later was awarded the Dewar Trophy in 1908 for creating interchangeable mass-produced precision engine parts, Henry Ford downplayed the role of Taylorism in the development of mass production at his company. However, Ford management performed time studies and experiments to mechanize their factory processes, focusing on minimizing worker movements. The difference is that while Taylor focused mostly on efficiency of the worker, Ford also substituted for labor by using machines, thoughtfully arranged, wherever possible. The United States Department of War sponsored the development of interchangeable parts for guns produced at the arsenals at Springfield, Massachusetts and Harpers Ferry, Virginia (now West Virginia) in the early decades of the 19th century, finally achieving reliable interchangeability by about 1850. This period coincided with the development of machine tools, with the armories designing and building many of their own. Some of the methods employed were a system of gauges for checking dimensions of the various parts and jigs and fixtures for guiding the machine tools and properly holding and aligning the work pieces. This system came to be known as armory practice or the American system of manufacturing, which spread throughout New England aided by skilled mechanics from the armories who were instrumental in transferring the technology to the sewing machines manufacturers and other industries such as machine tools, harvesting machines and bicycles. Singer Manufacturing Co., at one time the largest sewing machine manufacturer, did not achieve interchangeable parts until the late 1880s, around the same time Cyrus McCormick adopted modern manufacturing practices in making harvesting machines. Mass production benefited from the development of materials such as inexpensive steel, high strength steel and plastics. Machining of metals was greatly enhanced with high speed steel and later very hard materials such as tungsten carbide for cutting edges. Fabrication using steel components was aided by the development of electric welding and stamped steel parts, both which appeared in industry in about 1890. Plastics such as polyethylene, polystyrene and polyvinyl chloride (PVC) can be easily formed into shapes by extrusion, blow molding or injection molding, resulting in very low cost manufacture of consumer products, plastic piping, containers and parts."/>
+			</Update>
+		<Update>
+			<Where Type="TECH_BALLISTICS"/>
+			<Set GridX="17" GridY="8" Help="A Late Modern Technology " Cost="13500" />
+		</Update>
+		<Update>
+			<Where Type="TECH_FLIGHT"/>
+			<Set  GridX="17" GridY="7" Help="A Late Modern Technology " Cost="13500"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_ATOMIC_THEORY"/>
+			<Set GridX="17" GridY="3" Help="A Late Modern Technology " Cost="13500" Era="ERA_MODERN" Description="E=mc2" Civilopedia="At the end of the 19th century, physics had evolved to the point at which classical mechanics could cope with highly complex problems involving macroscopic situations; thermodynamics and kinetic theory were well established; geometrical and physical optics could be understood in terms of electromagnetic waves; and the conservation laws for energy and momentum (and mass) were widely accepted. So profound were these and other developments that it was generally accepted that all the important laws of physics had been discovered and that, henceforth, research would be concerned with clearing up minor problems and particularly with improvements of method and measurement. However, around 1900 serious doubts arose about the completeness of the classical theories—the triumph of the Maxwell theories, for example, was undermined by inadequacies that had already begun to appear—and their inability to explain certain physical phenomena, such as the energy distribution in blackbody radiation and the photoelectric effect, while some of the theoretical formulations led to paradoxes when pushed to the limit. Prominent physicists such as Hendrik Lorentz, Emil Cohn, Ernst Wiechert and Wilhelm Wien believed that some modification of the Maxwell equations might provide the basis for all physical laws. These shortcomings of classical physics were never to be resolved and new ideas were required. At the beginning of the 20th century a major revolution shook the world of physics, which led to a new era, generally referred to as modern physics." />
+		</Update>
+		<Update>
+			<Where Type="TECH_PENICILIN"/>
+			<Set  GridX="17" GridY="2" Help="A Late Modern Technology " Cost="13500" Era="ERA_MODERN"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_PLASTIC"/>
+			<Set  GridX="18" GridY="4" Help="A Late Modern Technology " Cost="15000" Era="ERA_MODERN" />
+		</Update>
+		<Update>
+			<Where Type="TECH_NUCLEAR_FISSION"/>
+			<Set  GridX="19"  GridY="5" Help="The key to the Contemporary Age " Cost="15000" Era="ERA_MODERN"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_ELECTRONICS"/>
+			<Set  GridX="18"  GridY="5" Help="A Late Modern Technology " Cost="15000" Era="ERA_MODERN"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_RADAR"/>
+			<Set  GridX="18" GridY="6" Help="A Late Modern Technology " Cost="15000" Era="ERA_MODERN"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_ROCKETRY"/>
+			<Set  GridX="18" GridY="7" Help="A Late Modern Technology " Cost="15000" Era="ERA_MODERN"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_COMBINED_ARMS"/>
+			<Set GridX="18" GridY="8" Help="A Late Modern Technology "  Cost="15000" Era="ERA_MODERN"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_SATELLITES"/>
+			<Set  GridX="20" GridY="7" Help="A Contemporary Technology " Cost="16000" Era="ERA_POSTMODERN"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_ECOLOGY"/>
+			<Set GridX="20"  GridY="2" Help="A Contemporary Technology " Cost="16000" />
+		</Update>
+		<Update>
+			<Where Type="TECH_COMPUTERS"/>
+			<Set GridX="20"  GridY="3" Help="A Contemporary Technology " Cost="16000" />
+		</Update>
+		<Update>
+			<Where Type="TECH_TELECOM"/>
+			<Set  GridX="20"  GridY="4" Cost="16000" Help="A Contemporary Technology " Era="ERA_POSTMODERN" Description="Modern Conveniences" PortraitIndex="0" 
+			IconAtlas="APPLIANCES_TECH_ATLAS" Quote="[NEWLINE][NEWLINE]I have a greater appreciation for kitchen appliances, having played one.[NEWLINE][NEWLINE]- Anthony Daniels[NEWLINE]" Civilopedia="In 1889, architect and author Louis. H. Gibson defined modern conveniences as 'those arrangements and appliances which make it possible for people to live comfortably in a larger house, without seriously increasing the cares which they had in a smaller one'. The supposition is that at that time if a family lived in a smaller home, they would have less furniture, appliances and other goods to take care of, and as a result the family's lifestyle and housekeeping would be relatively easy. If, on the other hand, a family moved into a larger home the increase area and furnishings would be much more difficult to manage without labor-saving devices. The homes of the 20th century are much bigger than the homes of our family members from the 19th century, both in terms of square footage and number of rooms. Homes built at the beginning of the 21st century have 2-3 times more rooms than homes at the turn of the 20th century. In terms of square footage, new homes built in 2000 are 50% larger than a home built in the 1960s. The 20th century also enjoyed a proliferation of home appliances like washing machines, dryers, dishwashers, microwave ovens, frost-free refrigerators, water heaters, air conditioning, vacuum cleaners, and irons. Electricity and innovative electronics products including stereo equipment, color television, answering machine, and video cassette recorders also facilitated modern life."/>
+		</Update>
+		<Update>
+			<Where Type="TECH_LASERS"/>
+			<Set  GridX="20" GridY="6" Cost="16000" Help="A Contemporary Technology " Era="ERA_POSTMODERN" />
+		</Update>
+		<Update>
+			<Where Type="TECH_INTERNET"/>
+			<Set  GridX="22" GridY="5" Cost="18000" Help="The key to the Future... " Era="ERA_POSTMODERN" ExtraVotesPerDiplomat="1"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_ADVANCED_BALLISTICS"/>
+			<Set GridX="21"  GridY="8" Cost="17000" Help="A Contemporary Technology " Era="ERA_POSTMODERN"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_STEALTH"/>
+			<Set  GridX="21" GridY="7" Cost="17000" Help="A Contemporary Technology " Era="ERA_POSTMODERN"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_PARTICLE_PHYSICS"/>
+			<Set  GridX="21" GridY="3" Cost="17000" Help="A Contemporary Technology " Era="ERA_POSTMODERN" />
+		</Update>
+		<Update>
+			<Where Type="TECH_ROBOTICS"/>
+			<Set  GridX="21" GridY="4" Cost="17000" Help="A Contemporary Technology " Era="ERA_POSTMODERN" />
+		</Update>
+		<Update>
+			<Where Type="TECH_MOBILE_TACTICS"/>
+			<Set GridX="21"  GridY="6" Cost="17000" Help="A Contemporary Technology " Era="ERA_POSTMODERN" />
+		</Update>
+		<Update>
+			<Where Type="TECH_NUCLEAR_FUSION"/>
+			<Set GridX="24"  GridY="3" Help="A Future Technology " Cost="18000"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_NANOTECHNOLOGY"/>
+			<Set GridX="23"  GridY="5" Help="A Future Technology " Cost="18000" />
+		</Update>
+		<Update>
+			<Where Type="TECH_GLOBALIZATION"/>
+			<Set GridX="25"  GridY="5" Cost="18000" Help="Repeating Technology. " Repeat="true" ExtraVotesPerDiplomat="0"/>
+		</Update>
+	
+		<Update>
+			<Where Type="TECH_ANIMAL_HUSBANDRY"/>
+			<Set InternationalTradeRoutesChange="0"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_SAILING"/>
+			<Set InternationalTradeRoutesChange="0"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_ENGINEERING"/>
+			<Set InternationalTradeRoutesChange="0"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_COMPASS"/>
+			<Set InternationalTradeRoutesChange="0"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_BANKING"/>
+			<Set InternationalTradeRoutesChange="0"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_BIOLOGY"/>
+			<Set InternationalTradeRoutesChange="0"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_RAILROAD"/>
+			<Set InternationalTradeRoutesChange="0"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_PENICILIN"/>
+			<Set InternationalTradeRoutesChange="0"/>
+		</Update>
+		<Row>
+			<ID>0</ID>
+			<Type>TECH_TOOLS</Type>
+			<Cost>5</Cost>
+			<Description>Paleolithic Tech</Description>
+			<Civilopedia>The use of tools by early humans was partly a process of discovery and of evolution. Early humans evolved from a species of foraging hominids which were already bipedal, with a brain mass approximately one third of modern humans. Tool use remained relatively unchanged for most of early human history. Approximately 50,000 years ago, the use of tools and complex set of behaviors emerged, believed by many archaeologists to be connected to the emergence of fully modern language. The discovery and utilization of fire, a simple energy source with many profound uses, was a turning point in the technological evolution of humankind. The exact date of its discovery is not known; evidence of burnt animal bones at the Cradle of Humankind suggests that the domestication of fire occurred before 1,000,000 BC; scholarly consensus indicates that Homo erectus had controlled fire by between 500,000 BC and 400,000 BC. Fire, fueled with wood and charcoal, allowed early humans to cook their food to increase its digestibility, improving its nutrient value and broadening the number of foods that could be eaten. Other technological advances made during the Paleolithic era were clothing and shelter; the adoption of both technologies cannot be dated exactly, but they were a key to humanity's progress. As the Paleolithic era progressed, dwellings became more sophisticated and more elaborate; as early as 380,000 BC, humans were constructing temporary wood huts. Clothing, adapted from the fur and hides of hunted animals, helped humanity expand into colder regions; humans began to migrate out of Africa by 200,000 BC and into other continents, such as Eurasia.</Civilopedia>
+			<Help>And so it all begins...</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>0</GridX>
+			<GridY>5</GridY>
+			<Quote>[NEWLINE][TAB][TAB]Doo-Doo.. Ca-Ca? Shit![NEWLINE][TAB][TAB]  - Caveman (The Movie).[NEWLINE][TAB]</Quote>
+			<!--<PortraitIndex>0</PortraitIndex>-->
+			<!--<IconAtlas>PALEOLITHIC_TECH_ATLAS</IconAtlas>-->
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_DLC_03</IconAtlas>
+		</Row>
+		
+		<Row>
+			<Type>TECH_AGRICULTURE</Type>
+			<Cost>30</Cost>
+			<Description>TXT_KEY_TECH_AGRICULTURE_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_AGRICULTURE_DESC</Civilopedia>
+			<Help>A Prehistoric Technology</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>false</GoodyTech>
+			<GridX>1</GridX>
+			<GridY>4</GridY>
+			<Quote>TXT_KEY_TECH_AGRICULTURE_QUOTE</Quote>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_WORSHIP</Type>
+			<Cost>30</Cost>
+			<Description>Worship</Description>
+			<Civilopedia>
+				The origin of religion is uncertain. There are a number of theories regarding the subsequent origins of organized religious practices. According to anthropologists John Monaghan and Peter Just, 'Many of the great world religions appear to have begun as revitalization movements of some sort, as the vision of a charismatic prophet fires the imaginations of people seeking a more comprehensive answer to their problems than they feel is provided by everyday beliefs. Charismatic individuals have emerged at many times and places in the world. It seems that the key to long-term success – and many movements come and go with little long-term effect – has relatively little to do with the prophets, who appear with surprising regularity, but more to do with the development of a group of supporters who are able to institutionalize the movement.' The development of religion has taken different forms in different cultures. Some religions place an emphasis on belief, while others emphasize practice. Some religions focus on the subjective experience of the religious individual, while others consider the activities of the religious community to be most important. Some religions claim to be universal, believing their laws and cosmology to be binding for everyone, while others are intended to be practiced only by a closely defined or localized group. In many places religion has been associated with public institutions such as education, hospitals, the family, government, and political hierarchies.
+			</Civilopedia>
+			<Help>A Prehistoric Technology</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>false</GoodyTech>
+			<GridX>1</GridX>
+			<GridY>2</GridY>
+			<Quote>
+				[NEWLINE][TAB][TAB]Just as no one can be forced into belief, so no one can be forced into unbelief.[NEWLINE][TAB][TAB]  -  Sigmund Freud.[NEWLINE][TAB]
+			</Quote>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_DLC_03</IconAtlas>
+		</Row>
+		<Row>
+			<Type>TECH_TRAPPING</Type>
+			<Cost>60</Cost>
+			<Description>Trade</Description>
+			<Civilopedia>
+				Trade is the transfer of the ownership of goods or services from one person or entity to another in exchange for other goods or services or for money. Trade is sometimes loosely called commerce or financial transaction or barter. A network that allows trade is called a market. The original form of trade was barter, the direct exchange of goods and services for other goods and services. Later one side of the barter was precious metals. Modern traders instead generally negotiate through a medium of exchange, such as money. As a result, buying can be separated from selling, or earning. The invention of money (and later credit, paper money and non-physical money) greatly simplified and promoted trade. Trade between two traders is called bilateral trade, while trade between more than two traders is called multilateral trade. Trade exists for man due to specialization and division of labor, in which most people concentrate on a small aspect of production, trading for other products. Trade exists between regions because different regions have a comparative advantage in the production of some trad-able commodity, or because different regions size allows for the benefits of mass production. As such, trade at market prices between locations benefits both locations.
+			</Civilopedia>
+			<Help>A Prehistoric Technology</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>2</GridX>
+			<GridY>4</GridY>
+			<Quote>
+				[NEWLINE][TAB][TAB]I have never known much good done by those who affected to trade for the public good.[NEWLINE][TAB][TAB]- Adam Smith[NEWLINE][NEWLINE]
+			</Quote>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>TRADE_TECH_ATLAS</IconAtlas>
+			<!--</AudioIntro>
+			</AudioIntroHeader>-->
+		</Row>
+		<Row>
+			<Type>TECH_WATERCRAFT</Type>
+			<Cost>30</Cost>
+			<Description>Watercraft</Description>
+			<Civilopedia>Dugouts are the oldest type of boats that archaeologists have found, and boats have served as transportation since the earliest times. Circumstantial evidence, such as the early settlement of Australia over 40,000 years ago, findings in Crete dated 130,000 years ago, and findings in Flores dated to 900,000 years ago, suggest that boats have been used since prehistoric times. The earliest boats are thought to have been logboats, and the oldest boats found by archaeological excavation date from around 7,000–10,000 years ago. The oldest recovered boat in the world is the Pesse canoe, a dugout made from the hollowed tree trunk of a Pinus sylvestris and constructed somewhere between 8200 and 7600 BC. This canoe is exhibited in the Drents Museum in Assen, Netherlands. Other very old dugout boats have also been recovered. A 7,000 year-old seagoing reed boat has been found in Kuwait. Boats were used between 4000 and 3000 BC in Sumer, ancient Egypt and in the Indian Ocean.</Civilopedia>
+			<Help>A Prehistoric Technology</Help>
+            <Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>false</GoodyTech>
+			<GridX>1</GridX>
+			<GridY>0</GridY>
+			<Quote>
+				[NEWLINE][TAB][TAB]We may have all come on different ships, but we're in the same boat now.[NEWLINE][TAB][TAB] - Martin Luther King, Jr.[NEWLINE][NEWLINE]
+			</Quote>
+			<PortraitIndex>4</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_DLC_03</IconAtlas>
+		</Row>
+		<!--<Row>
+			<Type>TECH_PAPER</Type>
+			<Cost>84</Cost>
+			<Description>Paper</Description>
+			<Help> 1</Help>
+			<Era>ERA_CLASSICAL</Era>
+			<Trade>true</Trade>
+			<Civilopedia>
+				Paper was invented in ancient China during the Han Dynasty (206 BC – 220 AD) and spread slowly to the west via the Silk Road. Papermaking and manufacturing in Europe was started by Muslims living on the Iberian Peninsula, (today's Portugal and Spain) and Sicily in the 10th century, and slowly spread to Italy and Southern France reaching Germany by 1400. Earlier, other paper-like materials were in use including papyrus, parchment, palm leaves and vellum, but all of these were derived from raw materials which were expensive or in limited supply, or required extensive hand-processing to produce a satisfactory finish. Paper, being made from wood or rags, could be produced anywhere, and once large scale production techniques had been developed it could be manufactured in almost any quantity at moderate cost. In medieval Europe, the hitherto handcraft of papermaking was mechanized by the use of waterpower, the first water papermill in the Iberian Peninsula having been built in the Portuguese city of Leiria in 1411, and other processes. The rapid expansion of European paper production was truly enhanced by the invention of the printing press and the beginning of the Printing Revolution in the 15th century.
+			</Civilopedia>
+			<GoodyTech>false</GoodyTech>
+			<GridX>3</GridX>
+			<GridY>2</GridY>
+			<Quote>
+				[NEWLINE][TAB][TAB]The visionary starts with a clean sheet of paper, and re-imagines the world.[NEWLINE][TAB][TAB]  -  Malcolm Gladwell[NEWLINE][TAB]
+			</Quote>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>EXPANSION_SCEN_TECH_ATLAS</IconAtlas>
+		</Row>
+		<Update>
+			<Where Type="TECH_PAPER"/>
+			<Set Help=" "/>
+		</Update>-->
+		<Row>
+			<Type>TECH_OPTICS</Type>
+			<Cost>240</Cost>
+			<Description>Cartography</Description>
+			<Civilopedia>
+				The earliest known map is a matter of some debate, both because the definition of 'map' is not sharp and because some artifacts speculated to be maps might actually be something else. A wall painting, which may depict the ancient Anatolian city of Çatalhöyük (previously known as Catal Huyuk or Çatal Hüyük), has been dated to the late 7th millennium BCE. Other known maps of the ancient world include the Minoan 'House of the Admiral' wall painting from c. 1600 BCE, showing a seaside community in an oblique perspective and an engraved map of the holy Babylonian city of Nippur, from the Kassite period (14th – 12th centuries BCE). The oldest surviving world maps are the Babylonian world maps from the 9th century BCE. One shows Babylon on the Euphrates, surrounded by a circular landmass showing Assyria, Urartu and several cities, in turn surrounded by a "bitter river" (Oceanus), with seven islands arranged around it. Another depicts Babylon as being further north from the center of the world. The ancient Greeks and Romans created maps, beginning at latest with Anaximander in the 6th century BC. In the 2nd century AD, Ptolemy produced his treatise on cartography, Geographia. This contained Ptolemy's world map – the world then known to Western society (Ecumene). As early as the 8th century, Arab scholars were translating the works of the Greek geographers into Arabic. In ancient China, geographical literature spans back to the 5th century BC. The oldest extant Chinese maps come from the State of Qin, dated back to the 4th century BC, during the Warring States period. In the book of the Xin Yi Xiang Fa Yao, published in 1092 by the Chinese scientist Su Song, a star map on the equidistant cylindrical projection. Although this method of charting seems to have existed in China even prior to this publication and scientist, the greatest significance of the star maps by Su Song is that they represent the oldest existent star maps in printed form. Early forms of cartography of India included the locations of the Pole star and other constellations of use. These charts may have been in use by the beginning of the Common Era for purposes of navigation.
+			</Civilopedia>
+			<Help>An Ancient Technology</Help>
+			<Era>ERA_CLASSICAL</Era>
+			<AllowsEmbarking>true</AllowsEmbarking>
+			<Trade>true</Trade>
+			<GridX>5</GridX>
+			<GridY>0</GridY>
+			<Quote>
+				[NEWLINE][TAB][TAB]Wars of nations are fought to change maps. But wars of poverty are fought to map change.[NEWLINE][TAB][TAB] - Muhammad Ali[NEWLINE][NEWLINE]
+			</Quote>
+			<PortraitIndex>29</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<!--<AudioIntro>AS2D_TECH_OPTICS</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_OPTICS</AudioIntroHeader>-->
+		</Row>
+		<Row>
+			<Type>TECH_OPTICS2</Type>
+			<Cost>960</Cost>
+			<Description>TXT_KEY_TECH_OPTICS_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_OPTICS_DESC</Civilopedia>
+			<Help>A Postclassical Technology</Help>
+			<Era>ERA_MEDIEVAL</Era>
+			<Trade>true</Trade>
+			<GridX>8</GridX>
+			<GridY>1</GridY>
+			<Quote>TXT_KEY_TECH_OPTICS_QUOTE</Quote>
+			<PortraitIndex>18</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_OPTICS</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_OPTICS</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_CHIVALRY</Type>
+			<Cost>480</Cost>
+			<Description>National Identity</Description>
+			<Civilopedia>
+				A national identity of the English as the people or ethnic group native to England developed in the Middle Ages arguably beginning with the unification of the Kingdom of England in the 10th century, but explicitly in the 11th century after the Norman Conquest, when Englishry came to be the status of the subject indigenous population. The national identity of most citizens of a state or nation tends to strengthen when the country or nation is threatened militarily, economically or culturally—or when the nation has in fact been totally taken over by an alien empire, as in the case of Poland, which remained totally partitioned among Russia, Prussia (subsequently, Germany) and Austria in the years 1795-1918. Indeed, the formation of nations and sovereign states — whether by fission or by fusion — has historically been promoted by common external threats. A sense of belonging to a nation may strengthen when an external threat becomes clearer, causing individuals to seek to unite with fellow-countrymen for mutual protection against the common threat. An example is the development of Taiwanese identity (versus Chinese identity), which strengthened after the Republic of China (ROC) became known internationally as 'Taiwan' after losing its UN Seat, and particularly starting in the late 1990s when it became clear that 'China' (People's Republic of China) threatens Taiwan militarily and to 'conquer and unite' Taiwan, especially in the face of increased popular support for Taiwan independence and tries to affect Taiwan's politics through 'missile tests' and media rhetoric. Although the official country name is 'Republic of China' and its residents have been taught that their country is 'China' and self-references in the educational system, textbooks, and school public announcements refer to students as 'we Chinese...' in the 1980s and 1990s, growing numbers of adults in the 2000s started identifying themselves as 'Taiwanese' in the face of hostile Chinese stance and military threat in the 2000s and the Pan-Green Coalition's promotion of Taiwanese identity.
+			</Civilopedia>
+			<Help>A Postclassical Technology</Help>
+			<Era>ERA_MEDIEVAL</Era>
+			<Trade>true</Trade>
+			<GridX>7</GridX>
+			<GridY>3</GridY>
+			<Quote>TXT_KEY_TECH_CHIVALRY_QUOTE</Quote>
+			<PortraitIndex>7</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_DLC_02</IconAtlas>
+		</Row>
+		<Delete Type="TECH_CIVIL_SERVICE"/>
+		<Row>
+			<Type>TECH_CIVIL_SERVICE</Type>
+			<Cost>480</Cost>
+			<Description>Farm Innovations</Description>
+			<Civilopedia>
+				The Middle Ages saw significant improvements in the agricultural techniques and technology. During this time period, monasteries spread throughout Europe and became important centers for the collection of knowledge related to agriculture and forestry. The manorial system, which existed under different names throughout Europe and Asia, allowed large landowners significant control over both their land and its laborers, in the form of peasants or serfs. During the medieval period, the Arab world was critical in the exchange of crops and technology between the European, Asia and African continents. Besides transporting numerous crops, they introduced the concept of summer irrigation to Europe and developed the beginnings of the plantation system of sugarcane growing through the use of slaves for intensive cultivation. Population continued to increase along with land use. From 100 BC to 1600 AD, methane emissions, produced by domesticated animals and rice growing, increased substantially. By 900 AD in Europe, developments in iron smelting allowed for increased production, leading to developments in the production of agricultural implements such as ploughs, hand tools and horse shoes. The plough was significantly improved, developing into the mouldboard plough, capable of turning over the heavy, wet soils of northern Europe. This led to the clearing of forests in that area and a significant increase in agricultural production, which in turn led to an increase in population. A similar plough, which may have developed independently, was also found in China as early as the 9th century. At the same time, farmers in Europe moved from a two field crop rotation to a three field crop rotation in which one field of three was left fallow every year. This resulted in increased productivity and nutrition, as the change in rotations led to different crops being planted, including legumes such as peas, lentils and beans. Inventions such as improved horse harnesses and the whippletree also changed methods of cultivation. Watermills were initially developed by the Romans, but were improved throughout the Middle Ages, along with windmills, and used to grind grains into flour, cut wood and process flax and wool, among other uses.
+			</Civilopedia>
+			<Help>The key to the Postclassical Age</Help>
+			<Era>ERA_CLASSICAL</Era>
+			<Trade>true</Trade>
+			<GridX>6</GridX>
+			<GridY>5</GridY>
+			<Quote>
+				Farming looks mighty easy when your plow is a pencil and you're a thousand miles from the corn field.[NEWLINE][NEWLINE]- Dwight D. Eisenhower
+			</Quote>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>FARM_INNOVATION_TECH_ATLAS</IconAtlas>
+		</Row>
+		<!--<Row>
+			<Type>TECH_FARM_INNOVATIONS</Type>
+			<Cost>183</Cost>
+			<Description>Farm Innovations</Description>
+			<Civilopedia>
+				The Middle Ages saw significant improvements in the agricultural techniques and technology. During this time period, monasteries spread throughout Europe and became important centers for the collection of knowledge related to agriculture and forestry. The manorial system, which existed under different names throughout Europe and Asia, allowed large landowners significant control over both their land and its laborers, in the form of peasants or serfs. During the medieval period, the Arab world was critical in the exchange of crops and technology between the European, Asia and African continents. Besides transporting numerous crops, they introduced the concept of summer irrigation to Europe and developed the beginnings of the plantation system of sugarcane growing through the use of slaves for intensive cultivation. Population continued to increase along with land use. From 100 BC to 1600 AD, methane emissions, produced by domesticated animals and rice growing, increased substantially. By 900 AD in Europe, developments in iron smelting allowed for increased production, leading to developments in the production of agricultural implements such as ploughs, hand tools and horse shoes. The plough was significantly improved, developing into the mouldboard plough, capable of turning over the heavy, wet soils of northern Europe. This led to the clearing of forests in that area and a significant increase in agricultural production, which in turn led to an increase in population. A similar plough, which may have developed independently, was also found in China as early as the 9th century. At the same time, farmers in Europe moved from a two field crop rotation to a three field crop rotation in which one field of three was left fallow every year. This resulted in increased productivity and nutrition, as the change in rotations led to different crops being planted, including legumes such as peas, lentils and beans. Inventions such as improved horse harnesses and the whippletree also changed methods of cultivation. Watermills were initially developed by the Romans, but were improved throughout the Middle Ages, along with windmills, and used to grind grains into flour, cut wood and process flax and wool, among other uses.
+			</Civilopedia>
+			<Help> </Help>
+			<Era>ERA_MEDIEVAL</Era>
+			<Trade>true</Trade>
+			<GridX>5</GridX>
+			<GridY>4</GridY>
+			<Quote>
+				Farming looks mighty easy when your plow is a pencil and you're a thousand miles from the corn field.[NEWLINE][NEWLINE]- Dwight D. Eisenhower
+			</Quote>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>FARM_INNOVATION_TECH_ATLAS</IconAtlas>
+		</Row>
+		<Update>
+			<Where Type="TECH_FARM_INNOVATIONS"/>
+			<Set Help=" "/>
+		</Update>-->
+		<Row>
+			<Type>TECH_TELEGRAPH</Type>
+			<Cost>10800</Cost>
+			<Description>Telecommunication</Description>
+			<Civilopedia>
+				Experiments on communication with electricity, initially unsuccessful, started in about 1726. Scientists of including Laplace, Ampère, and Gauss were involved. A practical electrical telegraph was proposed in January 1837 by William Fothergill Cooke, who considered it an improvement on the existing 'electromagnetic telegraph'; an improved five-needle, six-wire system developed in partnership with Charles Wheatstone entered commercial use in 1838. Early telegraphs used several wires connected to a number of indicator needles. Businessman Samuel F.B. Morse and physicist Joseph Henry of the United States developed their own, simpler version of the electrical telegraph, independently. Morse successfully demonstrated this system on 2 September 1837. Morse's most important technical contribution to this telegraph was the simple and highly efficient Morse Code co-developed with his associate Alfred Vail, which was an important advance over Wheatstone's more complicated and expensive system, and required just two wires. The communications efficiency of the Morse Code preceded that of the Huffman code in digital communications by over 100 years, but Morse and Vail developed the code purely empirically, with shorter codes for more frequent letters. The first permanent transatlantic telegraph cable was successfully completed on 27 July 1866, allowing transatlantic electrical communication for the first time. An earlier transatlantic cable had operated for a few months in 1859, and among other things, it carried messages of greeting back and forth between President James Buchanan of the United States and Queen Victoria of the United Kingdom. However that first transatlantic cable soon failed, and the project to lay a replacement line was delayed for five years by the American Civil War. The first transatlantic telephone cable (which incorporated hundreds of electronic amplifiers) was not operational until 1956, only six years before the first commercial telecommunications satellite, Telstar, was launched into space. The conventional telephone now in use worldwide was first patented by Alexander Graham Bell in March 1876. That first patent by Bell was the master patent of the telephone, from which all other patents for electric telephone devices and features flowed. Credit for the invention of the electric telephone has been frequently disputed, and new controversies over the issue have arisen from time-to-time. As with other great inventions such as radio, television, the light bulb, and the digital computer, there were several inventors who did pioneering experimental work on voice transmission over a wire, who then improved on each other's ideas. However, the key innovators were Alexander Graham Bell and Gardiner Greene Hubbard, who created the first telephone company, the Bell Telephone Company in the United States, which later evolved into American Telephone and Telegraph (ATandT), at times the world's largest phone company. The first commercial telephone services were set up in 1878 and 1879 on both sides of the Atlantic in the cities of New Haven, Connecticut, and London, England.
+			</Civilopedia>
+			<Help>A Late Modern Technology</Help>
+			<Era>ERA_MODERN</Era>
+			<Trade>true</Trade>
+			<GridX>16</GridX>
+			<GridY>5</GridY>
+			<Quote>TXT_KEY_TECH_TELEGRAPH_QUOTE</Quote>
+			<PortraitIndex>51</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_TELEGRAPH</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_TELEGRAPH</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_MASS_MEDIA</Type>
+			<Cost>8640</Cost>
+			<Description>TXT_KEY_TECH_MASS_MEDIA_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_MASS_MEDIA_DESC</Civilopedia>
+			<Help>A Mid Modern Technology</Help>
+			<Era>ERA_INDUSTRIAL</Era>
+			<Trade>true</Trade>
+			<GridX>14</GridX>
+			<GridY>5</GridY>
+			<Quote>TXT_KEY_TECH_MASS_MEDIA_QUOTE</Quote>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_MASS_MEDIA</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_MASS_MEDIA</AudioIntroHeader>
+		</Row>
+		<Delete Type="TECH_FUTURE_TECH"/>
+		<Row>
+			<Type>TECH_FUTURE_TECH</Type>
+			<Cost>18000</Cost>
+			<Description>A.I.</Description>
+			<Civilopedia>
+				If research into Artificial Intelligence produced sufficiently intelligent software, it might be able to reprogram and improve itself. The improved software would be even better at improving itself, leading to recursive self-improvement. The new intelligence could thus increase exponentially and dramatically surpass humans. Science fiction writer Vernor Vinge named this scenario 'singularity'. Technological singularity is when accelerating progress in technologies will cause a runaway effect wherein artificial intelligence will exceed human intellectual capacity and control, thus radically changing or even ending civilization. Because the capabilities of such an intelligence may be impossible to comprehend, the technological singularity is an occurrence beyond which events are unpredictable or even unfathomable. Ray Kurzweil has used Moore's law (which describes the relentless exponential improvement in digital technology) to calculate that desktop computers will have the same processing power as human brains by the year 2029, and predicts that the singularity will occur in 2045.
+			</Civilopedia>
+			<Help>A Future Technology</Help>
+			<Era>ERA_FUTURE</Era>
+			<Repeat>false</Repeat>
+			<Trade>true</Trade>
+			<GridX>24</GridX>
+			<GridY>4</GridY>
+			<Quote>
+				[NEWLINE][TAB][TAB]Artificial intelligence will reach human levels by around 2029. Follow that out further to, say, 2045, we will have multiplied the intelligence, the human biological machine intelligence of our civilization a billion-fold.[NEWLINE][TAB][TAB] - Ray Kurzweil[NEWLINE][NEWLINE]
+			</Quote>
+			<PortraitIndex>10</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_2</IconAtlas>
+		</Row>
+	</Technologies>
+	<Technology_PrereqTechs>
+		<Delete TechType="TECH_IRON_WORKING"/>
+		<Delete TechType="TECH_CONSTRUCTION"/>
+		<Delete TechType="TECH_MATHEMATICS"/>
+		<Delete TechType="TECH_HORSEBACK_RIDING"/>
+		<Delete TechType="TECH_CALENDAR"/>
+		<Delete TechType="TECH_ARCHERY"/>
+		<Delete TechType="TECH_ANIMAL_HUSBANDRY"/>
+		<Delete TechType="TECH_MINING"/>
+		<Delete TechType="TECH_THEOLOGY"/>
+		<Delete TechType="TECH_GUILDS"/>
+		<Delete TechType="TECH_CHIVALRY"/>
+		<Delete TechType="TECH_STEEL"/>
+		<Delete TechType="TECH_EDUCATION"/>
+		<Delete TechType="TECH_CHEMISTRY"/>
+		<Delete TechType="TECH_MILITARY_SCIENCE"/>
+		<Delete TechType="TECH_COMPASS"/>
+		<Delete TechType="TECH_BANKING"/>
+		<Delete TechType="TECH_NAVIGATION"/>
+		<Delete TechType="TECH_ARCHAEOLOGY"/>
+		<Delete TechType="TECH_ECONOMICS"/>
+		<Delete TechType="TECH_ACOUSTICS"/>
+		<Delete TechType="TECH_METALLURGY"/>
+		<Delete TechType="TECH_ELECTRICITY"/>
+		<Delete TechType="TECH_STEAM_POWER"/>
+		<Delete TechType="TECH_INDUSTRIALIZATION"/>
+		<Delete TechType="TECH_RIFLING"/>
+		<Delete TechType="TECH_RAILROAD"/>
+		<Delete TechType="TECH_TELECOM"/>
+		<Delete TechType="TECH_DYNAMITE"/>
+		<Delete TechType="TECH_REFRIGERATION"/>
+		<Delete TechType="TECH_FERTILIZER"/>
+		<Delete TechType="TECH_REPLACEABLE_PARTS"/>
+		<Delete TechType="TECH_ATOMIC_THEORY"/>
+		<Delete TechType="TECH_RADIO"/>
+		<Delete TechType="TECH_PLASTIC"/>
+		<Delete TechType="TECH_NUCLEAR_FISSION"/>
+		<Delete TechType="TECH_ELECTRONICS"/>
+		<Delete TechType="TECH_PENICILIN"/>
+		<Delete TechType="TECH_RADAR"/>
+		<Delete TechType="TECH_BALLISTICS"/>
+		<Delete TechType="TECH_COMBINED_ARMS"/>
+		<Delete TechType="TECH_LASERS"/>
+		<Delete TechType="TECH_SATELLITES"/>
+		<Delete TechType="TECH_ECOLOGY"/>
+		<Delete TechType="TECH_COMPUTERS"/>
+		<Delete TechType="TECH_ROCKETRY"/>
+		<Delete TechType="TECH_ROBOTICS"/>
+		<Delete TechType="TECH_MOBILE_TACTICS"/>
+		<Delete TechType="TECH_GLOBALIZATION"/>
+		<Delete TechType="TECH_ADVANCED_BALLISTICS"/>
+		<Delete TechType="TECH_STEALTH"/>
+		<Delete TechType="TECH_PARTICLE_PHYSICS"/>
+		<Delete TechType="TECH_THE_WHEEL"/>
+		<Delete TechType="TECH_SAILING"/>
+		<Delete TechType="TECH_PHILOSOPHY"/>
+		<Delete TechType="TECH_DRAMA"/>
+		<Delete TechType="TECH_METAL_CASTING"/>
+		<Delete TechType="TECH_IRON_WORKING"/>
+		<Delete TechType="TECH_MACHINERY"/>
+		<Delete TechType="TECH_GUNPOWDER"/>
+		<Delete TechType="TECH_PHYSICS"/>
+		<Delete TechType="TECH_METALLURGY"/>
+		<Delete TechType="TECH_CHEMISTRY"/>
+		<Delete TechType="TECH_RIFLING"/>
+		<Delete TechType="TECH_MILITARY_SCIENCE"/>
+		<Delete TechType="TECH_CHIVALRY"/>
+		<Delete TechType="TECH_BANKING"/>
+		<Delete TechType="TECH_ECONOMICS"/>
+		<Delete TechType="TECH_PRINTING_PRESS"/>
+		<Delete TechType="TECH_ASTRONOMY"/>
+		<Delete TechType="TECH_COMPASS"/>
+		<Delete TechType="TECH_CIVIL_SERVICE"/>
+		<Delete TechType="TECH_ARCHITECTURE"/>
+		<Delete TechType="TECH_ACOUSTICS"/>
+		<Delete TechType="TECH_ARCHAEOLOGY"/>
+		<Delete TechType="TECH_NAVIGATION"/>
+		<Delete TechType="TECH_PENICILIN"/>
+		<Delete TechType="TECH_ELECTRICITY"/>
+		<Delete TechType="TECH_RADIO"/>
+		<Delete TechType="TECH_PLASTIC"/>
+		<Delete TechType="TECH_INDUSTRIALIZATION"/>
+		<Delete TechType="TECH_STEAM_POWER"/>
+		<Delete TechType="TECH_SCIENTIFIC_THEORY"/>
+		<Delete TechType="TECH_REPLACEABLE_PARTS"/>
+		<Delete TechType="TECH_REFRIGERATION"/>
+		<Delete TechType="TECH_FLIGHT"/>
+		<Delete TechType="TECH_RAILROAD"/>
+		<Delete TechType="TECH_COMBUSTION"/>
+		<Delete TechType="TECH_DYNAMITE"/>
+		<Delete TechType="TECH_ELECTRONICS"/>
+		<Delete TechType="TECH_BALLISTICS"/>
+		<Delete TechType="TECH_ATOMIC_THEORY"/>
+		<Delete TechType="TECH_RADAR"/>
+		<Delete TechType="TECH_COMBINED_ARMS"/>
+		<Delete TechType="TECH_TELEGRAPH"/>
+		<Delete TechType="TECH_MASS_MEDIA"/>
+		<Delete TechType="TECH_BIOLOGY"/>
+		<Delete TechType="TECH_ROCKETRY"/>
+		<Delete TechType="TECH_NUCLEAR_FISSION"/>
+		<Delete TechType="TECH_COMPUTERS"/>
+		<Delete TechType="TECH_MOBILE_TACTICS"/>
+		<Delete TechType="TECH_TELECOM"/>
+		<Delete TechType="TECH_ADVANCED_BALLISTICS"/>
+		<Delete TechType="TECH_ROBOTICS"/>
+		<Delete TechType="TECH_GLOBALIZATION"/>
+		<Delete TechType="TECH_PARTICLE_PHYSICS"/>
+		<Delete TechType="TECH_NUCLEAR_FUSION"/>
+		<Delete TechType="TECH_STEALTH"/>
+		<Delete TechType="TECH_LASERS"/>
+		<Delete TechType="TECH_INTERNET"/>
+		<Delete TechType="TECH_SATELLITES"/>
+		<Delete TechType="TECH_ECOLOGY"/>
+		<Delete TechType="TECH_NANOTECHNOLOGY"/>
+		<Delete TechType="TECH_FUTURE_TECH"/>
+		
+		<Row>
+			<TechType>TECH_SAILING</TechType>
+			<PrereqTech>TECH_WATERCRAFT</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_POTTERY</TechType>
+			<PrereqTech>TECH_WORSHIP</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_TRAPPING</TechType>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_THE_WHEEL</TechType>
+			<PrereqTech>TECH_ANIMAL_HUSBANDRY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_BRONZE_WORKING</TechType>
+			<PrereqTech>TECH_ARCHERY</PrereqTech>
+		</Row>
+		<!--<Row>
+			<TechType>TECH_PAPER</TechType>
+			<PrereqTech>TECH_WRITING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PAPER</TechType>
+			<PrereqTech>TECH_CALENDAR</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PAPER</TechType>
+			<PrereqTech>TECH_TRAPPING</PrereqTech>
+		</Row>-->
+		<Row>
+			<TechType>TECH_WRITING</TechType>
+			<PrereqTech>TECH_TRAPPING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_WRITING</TechType>
+			<PrereqTech>TECH_THE_WHEEL</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_WRITING</TechType>
+			<PrereqTech>TECH_MASONRY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_WRITING</TechType>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PHILOSOPHY</TechType>
+			<PrereqTech>TECH_CALENDAR</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_DRAMA</TechType>
+			<PrereqTech>TECH_CALENDAR</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_METAL_CASTING</TechType>
+			<PrereqTech>TECH_IRON_WORKING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_METAL_CASTING</TechType>
+			<PrereqTech>TECH_CONSTRUCTION</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PHYSICS</TechType>
+			<PrereqTech>TECH_ASTRONOMY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_GUNPOWDER</TechType>
+			<PrereqTech>TECH_MACHINERY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_GUNPOWDER</TechType>
+			<PrereqTech>TECH_STEEL</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_CHEMISTRY</TechType>
+			<PrereqTech>TECH_METALLURGY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_EDUCATION</TechType>
+			<PrereqTech>TECH_CHIVALRY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_EDUCATION</TechType>
+			<PrereqTech>TECH_THEOLOGY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_EDUCATION</TechType>
+			<PrereqTech>TECH_GUILDS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_BANKING</TechType>
+			<PrereqTech>TECH_GUILDS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_BANKING</TechType>
+			<PrereqTech>TECH_MACHINERY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_NAVIGATION</TechType>
+			<PrereqTech>TECH_COMPASS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PRINTING_PRESS</TechType>
+			<PrereqTech>TECH_BANKING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PRINTING_PRESS</TechType>
+			<PrereqTech>TECH_OPTICS2</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PRINTING_PRESS</TechType>
+			<PrereqTech>TECH_GUNPOWDER</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_COMPASS</TechType>
+			<PrereqTech>TECH_THEOLOGY</PrereqTech>
+		</Row>
+		
+		<Row>
+			<TechType>TECH_COMPASS</TechType>
+			<PrereqTech>TECH_OPTICS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_OPTICS2</TechType>
+			<PrereqTech>TECH_THEOLOGY</PrereqTech>
+		</Row>
+		<!--<Row>
+			<TechType>TECH_FARM_INNOVATIONS</TechType>
+			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
+		</Row>-->
+		<Row>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+			<PrereqTech>TECH_CURRENCY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+			<PrereqTech>TECH_PHILOSOPHY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+			<PrereqTech>TECH_DRAMA</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+			<PrereqTech>TECH_ENGINEERING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+			<PrereqTech>TECH_METAL_CASTING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_CURRENCY</TechType>
+			<PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_CURRENCY</TechType>
+			<PrereqTech>TECH_CALENDAR</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PRINTING_PRESS</TechType>
+			<PrereqTech>TECH_EDUCATION</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ACOUSTICS</TechType>
+			<PrereqTech>TECH_ARCHITECTURE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PHYSICS</TechType>
+			<PrereqTech>TECH_SCIENTIFIC_THEORY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_STEAM_POWER</TechType>
+			<PrereqTech>TECH_PHYSICS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_FERTILIZER</TechType>
+			<PrereqTech>TECH_ECONOMICS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_STEAM_POWER</TechType>
+			<PrereqTech>TECH_CHEMISTRY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_STEAM_POWER</TechType>
+			<PrereqTech>TECH_ACOUSTICS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_BIOLOGY</TechType>
+			<PrereqTech>TECH_ARCHAEOLOGY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_INDUSTRIALIZATION</TechType>
+			<PrereqTech>TECH_RIFLING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_INDUSTRIALIZATION</TechType>
+			<PrereqTech>TECH_MILITARY_SCIENCE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_MASS_MEDIA</TechType>
+			<PrereqTech>TECH_ECONOMICS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_MASS_MEDIA</TechType>
+			<PrereqTech>TECH_MILITARY_SCIENCE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_CHEMISTRY</TechType>
+			<PrereqTech>TECH_SCIENTIFIC_THEORY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RAILROAD</TechType>
+			<PrereqTech>TECH_BIOLOGY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RAILROAD</TechType>
+			<PrereqTech>TECH_FERTILIZER</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RAILROAD</TechType>
+			<PrereqTech>TECH_INDUSTRIALIZATION</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RAILROAD</TechType>
+			<PrereqTech>TECH_MASS_MEDIA</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_REPLACEABLE_PARTS</TechType>
+			<PrereqTech>TECH_ELECTRICITY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RADIO</TechType>
+			<PrereqTech>TECH_ELECTRICITY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RADIO</TechType>
+			<PrereqTech>TECH_TELEGRAPH</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_BALLISTICS</TechType>
+			<PrereqTech>TECH_DYNAMITE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_FLIGHT</TechType>
+			<PrereqTech>TECH_COMBUSTION</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PENICILIN</TechType>
+			<PrereqTech>TECH_REFRIGERATION</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ATOMIC_THEORY</TechType>
+			<PrereqTech>TECH_REFRIGERATION</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ATOMIC_THEORY</TechType>
+			<PrereqTech>TECH_ELECTRICITY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ROCKETRY</TechType>
+			<PrereqTech>TECH_FLIGHT</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_COMBINED_ARMS</TechType>
+			<PrereqTech>TECH_BALLISTICS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_COMBINED_ARMS</TechType>
+			<PrereqTech>TECH_FLIGHT</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ELECTRONICS</TechType>
+			<PrereqTech>TECH_RADIO</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ELECTRONICS</TechType>
+			<PrereqTech>TECH_REPLACEABLE_PARTS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RADAR</TechType>
+			<PrereqTech>TECH_RADIO</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RADAR</TechType>
+			<PrereqTech>TECH_FLIGHT</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_NUCLEAR_FISSION</TechType>
+			<PrereqTech>TECH_ATOMIC_THEORY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_NUCLEAR_FISSION</TechType>
+			<PrereqTech>TECH_PLASTIC</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_NUCLEAR_FISSION</TechType>
+			<PrereqTech>TECH_ELECTRONICS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_NUCLEAR_FISSION</TechType>
+			<PrereqTech>TECH_RADAR</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_NUCLEAR_FISSION</TechType>
+			<PrereqTech>TECH_ROCKETRY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_NUCLEAR_FISSION</TechType>
+			<PrereqTech>TECH_COMBINED_ARMS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_NUCLEAR_FISSION</TechType>
+			<PrereqTech>TECH_PENICILIN</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PLASTIC</TechType>
+			<PrereqTech>TECH_REPLACEABLE_PARTS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_INTERNET</TechType>
+			<PrereqTech>TECH_GENETIC_ENGINEERING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_INTERNET</TechType>
+			<PrereqTech>TECH_PARTICLE_PHYSICS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_INTERNET</TechType>
+			<PrereqTech>TECH_ROBOTICS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_INTERNET</TechType>
+			<PrereqTech>TECH_MOBILE_TACTICS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_INTERNET</TechType>
+			<PrereqTech>TECH_STEALTH</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_INTERNET</TechType>
+			<PrereqTech>TECH_ADVANCED_BALLISTICS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_GENETIC_ENGINEERING</TechType>
+			<PrereqTech>TECH_ECOLOGY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ROBOTICS</TechType>
+			<PrereqTech>TECH_COMPUTERS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ROBOTICS</TechType>
+			<PrereqTech>TECH_TELECOM</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_GLOBALIZATION</TechType>
+			<PrereqTech>TECH_NUCLEAR_FUSION</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_GLOBALIZATION</TechType>
+			<PrereqTech>TECH_HYDROPONICS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_GLOBALIZATION</TechType>
+			<PrereqTech>TECH_NEUROTECHNOLOGY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_GLOBALIZATION</TechType>
+			<PrereqTech>TECH_FUTURE_TECH</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_GLOBALIZATION</TechType>
+			<PrereqTech>TECH_RAILGUN</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_GLOBALIZATION</TechType>
+			<PrereqTech>TECH_HYPERSONIC_TRAVEL</PrereqTech>
+		</Row>
+		<!--<Row>
+			<TechType>TECH_GLOBALIZATION</TechType>
+			<PrereqTech>TECH_OCEAN_MINING</PrereqTech>
+		</Row>-->
+		<Row>
+			<TechType>TECH_NUCLEAR_FUSION</TechType>
+			<PrereqTech>TECH_SPACE_MINING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ADVANCED_BALLISTICS</TechType>
+			<PrereqTech>TECH_SATELLITES</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_MOBILE_TACTICS</TechType>
+			<PrereqTech>TECH_SATELLITES</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_STEALTH</TechType>
+			<PrereqTech>TECH_SATELLITES</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_MOBILE_TACTICS</TechType>
+			<PrereqTech>TECH_LASERS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PARTICLE_PHYSICS</TechType>
+			<PrereqTech>TECH_COMPUTERS</PrereqTech>
+		</Row>
+
+		<Row>
+			<TechType>TECH_PARTICLE_PHYSICS</TechType>
+			<PrereqTech>TECH_ECOLOGY</PrereqTech>
+		</Row>
+	</Technology_PrereqTechs>
+
+	<Technology_ORPrereqTechs>
+		<Row>
+			<TechType>TECH_WATERCRAFT</TechType>
+			<PrereqTech>TECH_TOOLS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ARCHERY</TechType>
+			<PrereqTech>TECH_TOOLS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+			<PrereqTech>TECH_TOOLS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_MINING</TechType>
+			<PrereqTech>TECH_TOOLS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_WORSHIP</TechType>
+			<PrereqTech>TECH_TOOLS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_IRON_WORKING</TechType>
+			<PrereqTech>TECH_WRITING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_CONSTRUCTION</TechType>
+			<PrereqTech>TECH_WRITING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_HORSEBACK_RIDING</TechType>
+			<PrereqTech>TECH_WRITING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_CALENDAR</TechType>
+			<PrereqTech>TECH_WRITING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_MATHEMATICS</TechType>
+			<PrereqTech>TECH_WRITING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_OPTICS</TechType>
+			<PrereqTech>TECH_WRITING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_CHIVALRY</TechType>
+			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_GUILDS</TechType>
+			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_THEOLOGY</TechType>
+			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_MACHINERY</TechType>
+			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_STEEL</TechType>
+			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_NAVIGATION</TechType>
+			<PrereqTech>TECH_PRINTING_PRESS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ARCHITECTURE</TechType>
+			<PrereqTech>TECH_PRINTING_PRESS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ASTRONOMY</TechType>
+			<PrereqTech>TECH_PRINTING_PRESS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_METALLURGY</TechType>
+			<PrereqTech>TECH_PRINTING_PRESS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ARCHAEOLOGY</TechType>
+			<PrereqTech>TECH_STEAM_POWER</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_SCIENTIFIC_THEORY</TechType>
+			<PrereqTech>TECH_PRINTING_PRESS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RIFLING</TechType>
+			<PrereqTech>TECH_STEAM_POWER</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_MILITARY_SCIENCE</TechType>
+			<PrereqTech>TECH_STEAM_POWER</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ECONOMICS</TechType>
+			<PrereqTech>TECH_STEAM_POWER</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_COMBUSTION</TechType>
+			<PrereqTech>TECH_RAILROAD</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_REFRIGERATION</TechType>
+			<PrereqTech>TECH_RAILROAD</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ELECTRICITY</TechType>
+			<PrereqTech>TECH_RAILROAD</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_TELEGRAPH</TechType>
+			<PrereqTech>TECH_RAILROAD</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_DYNAMITE</TechType>
+			<PrereqTech>TECH_RAILROAD</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ECOLOGY</TechType>
+			<PrereqTech>TECH_NUCLEAR_FISSION</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_COMPUTERS</TechType>
+			<PrereqTech>TECH_NUCLEAR_FISSION</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_TELECOM</TechType>
+			<PrereqTech>TECH_NUCLEAR_FISSION</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_LASERS</TechType>
+			<PrereqTech>TECH_NUCLEAR_FISSION</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_SATELLITES</TechType>
+			<PrereqTech>TECH_NUCLEAR_FISSION</PrereqTech>
+		</Row>
+	</Technology_ORPrereqTechs>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_AMERICA</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ARABIA</CivilizationType>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_AZTEC</CivilizationType>
+			<TechType>TECH_ARCHERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CHINA</CivilizationType>
+			<TechType>TECH_ARCHERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_EGYPT</CivilizationType>
+			<TechType>TECH_MINING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_WATERCRAFT</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_MINING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_ARCHERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GREECE</CivilizationType>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_INDIA</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IROQUOIS</CivilizationType>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_JAPAN</CivilizationType>
+			<TechType>TECH_WATERCRAFT</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_OTTOMAN</CivilizationType>
+			<TechType>TECH_WATERCRAFT</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PERSIA</CivilizationType>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ROME</CivilizationType>
+			<TechType>TECH_MINING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_MINING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SIAM</CivilizationType>
+			<TechType>TECH_WORSHIP</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SONGHAI</CivilizationType>
+			<TechType>TECH_ARCHERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_AUSTRIA</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BYZANTIUM</CivilizationType>
+			<TechType>TECH_WORSHIP</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType>
+			<TechType>TECH_WATERCRAFT</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CELTS</CivilizationType>
+			<TechType>TECH_WORSHIP</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType>
+			<TechType>TECH_WORSHIP</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_HUNS</CivilizationType>
+			<TechType>TECH_ARCHERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MAYA</CivilizationType>
+			<TechType>TECH_WORSHIP</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NETHERLANDS</CivilizationType>
+			<TechType>TECH_WATERCRAFT</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SPAIN</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ASSYRIA</CivilizationType>
+			<TechType>TECH_ARCHERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BRAZIL</CivilizationType>
+			<TechType>TECH_MINING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_INDONESIA</CivilizationType>
+			<TechType>TECH_WORSHIP</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MOROCCO</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_POLAND</CivilizationType>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PORTUGAL</CivilizationType>
+			<TechType>TECH_WATERCRAFT</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SHOSHONE</CivilizationType>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VENICE</CivilizationType>
+			<TechType>TECH_WATERCRAFT</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ZULU</CivilizationType>
+			<TechType>TECH_ARCHERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONGOL</CivilizationType>
+			<TechType>TECH_ARCHERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_INCA</CivilizationType>
+			<TechType>TECH_MINING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_POLYNESIA</CivilizationType>
+			<TechType>TECH_WATERCRAFT</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENMARK</CivilizationType>
+			<TechType>TECH_WATERCRAFT</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KOREA</CivilizationType>
+			<TechType>TECH_WATERCRAFT</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BABYLON</CivilizationType>
+			<TechType>TECH_ARCHERY</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Technology_Flavors>
+		<Delete TechType="TECH_ANIMAL_HUSBANDRY"/>
+		<Delete TechType="TECH_TRAPPING"/>
+		<Delete TechType="TECH_HORSEBACK_RIDING"/>
+		<Delete TechType="TECH_CURRENCY"/>
+		<Delete TechType="TECH_CONSTRUCTION"/>
+		<Delete TechType="TECH_THE_WHEEL"/>
+		<Delete TechType="TECH_MASONRY"/>
+		<Delete TechType="TECH_PHILOSOPHY"/>
+		<Delete TechType="TECH_ARCHERY"/>
+		<Delete TechType="TECH_MATHEMATICS"/>
+		<Delete TechType="TECH_MASONRY"/>
+		<Delete TechType="TECH_BRONZE_WORKING"/>
+		<Delete TechType="TECH_IRON_WORKING"/>
+		<Delete TechType="TECH_SAILING"/>
+		<Delete TechType="TECH_OPTICS"/>
+		<Delete TechType="TECH_WRITING"/>
+		<Delete TechType="TECH_EDUCATION"/>
+		<Delete TechType="TECH_METAL_CASTING"/>
+		<Delete TechType="TECH_GUILDS"/>
+		<Delete TechType="TECH_CIVIL_SERVICE"/>
+		<Delete TechType="TECH_METALLURGY"/>
+		<Delete TechType="TECH_GUNPOWDER"/>
+		<Delete TechType="TECH_CHEMISTRY"/>
+		<Delete TechType="TECH_PHYSICS"/>
+		<Delete TechType="TECH_ECONOMICS"/>
+		<Delete TechType="TECH_PRINTING_PRESS"/>
+		<Delete TechType="TECH_ASTRONOMY"/>
+		<Delete TechType="TECH_ELECTRICITY"/>
+		<Delete TechType="TECH_DYNAMITE"/>
+		<Delete TechType="TECH_REFRIGERATION"/>
+		<Delete TechType="TECH_ELECTRONICS"/>
+		<Delete TechType="TECH_REPLACEABLE_PARTS"/>
+		<Delete TechType="TECH_INDUSTRIALIZATION"/>
+		<Delete TechType="TECH_MOBILE_TACTICS"/>
+		<Delete TechType="TECH_ROCKETRY"/>
+		<Delete TechType="TECH_GLOBALIZATION"/>
+		<Delete TechType="TECH_NUCLEAR_FUSION"/>
+		<Delete TechType="TECH_PLASTIC"/>
+		<Delete TechType="TECH_TELECOM"/>
+		<Row>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		
+		<!--STABLE-->
+		<Row>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<!--STABLE-->
+		
+		<!--CARAVAN
+		<Row>
+			<TechType>TECH_TRAPPING</TechType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		CARAVAN-->
+        <!--MARKET
+		<Row>
+			<TechType>TECH_TRAPPING</TechType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		MARKET-->
+		
+		<!--STONE WORKS-->
+		<Row>
+			<TechType>TECH_MASONRY</TechType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<!--STONE WORKS-->
+		
+		<Row>
+			<TechType>TECH_TRAPPING</TechType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>18</Flavor>
+		</Row>
+		
+		<!--CAMP-->
+		<Row>
+			<TechType>TECH_ARCHERY</TechType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_ARCHERY</TechType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<!--CAMP-->
+		
+		<Row>
+			<TechType>TECH_ARCHERY</TechType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_ARCHERY</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		
+		<!--CIRCUS-->
+		<Row>
+			<TechType>TECH_HORSEBACK_RIDING</TechType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<!--CIRCUS-->
+		
+		<Row>
+			<TechType>TECH_HORSEBACK_RIDING</TechType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_HORSEBACK_RIDING</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+
+		<!--STONEHENGE-->
+		<Row>
+			<TechType>TECH_POTTERY</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<!--STONEHENGE-->
+
+		<Row>
+			<TechType>TECH_WORSHIP</TechType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_WORSHIP</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		
+		<Row>
+			<TechType>TECH_CURRENCY</TechType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_CURRENCY</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		
+		<!--ARTEMIS
+		<Row>
+			<TechType>TECH_CONSTRUCTION</TechType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		ARTEMIS-->
+
+		<Row>
+			<TechType>TECH_CONSTRUCTION</TechType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_CONSTRUCTION</TechType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_CONSTRUCTION</TechType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_CONSTRUCTION</TechType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_CONSTRUCTION</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_CONSTRUCTION</TechType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		
+		<Row>
+			<TechType>TECH_THE_WHEEL</TechType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_THE_WHEEL</TechType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_THE_WHEEL</TechType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_THE_WHEEL</TechType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		
+        <!--WATERMILL-->
+		<Row>
+			<TechType>TECH_MATHEMATICS</TechType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<!--WATERMILL-->
+
+		<Row>
+			<TechType>TECH_MATHEMATICS</TechType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_MATHEMATICS</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_MATHEMATICS</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		
+		<Row>
+			<TechType>TECH_MASONRY</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_MASONRY</TechType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_MASONRY</TechType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_MASONRY</TechType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		
+		<Row>
+			<TechType>TECH_EDUCATION</TechType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>12</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_EDUCATION</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_EDUCATION</TechType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+
+		<!--HALICARNASSUS
+		<Row>
+			<TechType>TECH_PHILOSOPHY</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		HALICARNASSUS-->
+		
+		<Row>
+			<TechType>TECH_PHILOSOPHY</TechType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_PHILOSOPHY</TechType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_PHILOSOPHY</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		
+		<!--GREAT LIBRARY
+		<Row>
+			<TechType>TECH_PAPER</TechType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_PAPER</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		GREAT LIBRARY-->
+		
+		<Row>
+			<TechType>TECH_BRONZE_WORKING</TechType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_BRONZE_WORKING</TechType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		
+		<Row>
+			<TechType>TECH_IRON_WORKING</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>12</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_IRON_WORKING</TechType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_IRON_WORKING</TechType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		
+		<!--TRIREME
+		<Row>
+			<TechType>TECH_OPTICS</TechType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>-->
+		<Row>
+			<TechType>TECH_OPTICS</TechType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<!--TRIREME-->
+
+		<Row>
+			<TechType>TECH_OPTICS</TechType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_OPTICS</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_OPTICS</TechType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_OPTICS</TechType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_OPTICS</TechType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_OPTICS</TechType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_OPTICS</TechType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+
+		<Row>
+			<TechType>TECH_WATERCRAFT</TechType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		
+		<Row>
+			<TechType>TECH_SAILING</TechType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_SAILING</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_SAILING</TechType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_SAILING</TechType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_SAILING</TechType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+
+		<Row>
+			<TechType>TECH_WRITING</TechType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_WRITING</TechType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_WRITING</TechType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		
+		<Row>
+			<TechType>TECH_METAL_CASTING</TechType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_METAL_CASTING</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_METAL_CASTING</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_METAL_CASTING</TechType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_METAL_CASTING</TechType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+
+		<Row>
+			<TechType>TECH_COMBUSTION</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		
+		<Row>
+			<TechType>TECH_COMBUSTION</TechType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+
+		<!--MILITARY BASE-->
+		<Row>
+			<TechType>TECH_COMBUSTION</TechType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<!--MILITARY BASE-->
+		
+		<!--<Row>
+			<TechType>TECH_COMPASS</TechType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_COMPASS</TechType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_COMPASS</TechType>
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>-->
+		
+        <!--GALLEASS-->
+		<!--<Row>
+			<TechType>TECH_OPTICS2</TechType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>-->
+		<!--GALLEASS-->
+		
+		<!--DEFENSIVE PACT-->
+		<Row>
+			<TechType>TECH_STEEL</TechType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<!--DEFENSIVE PACT-->
+
+		<!--OPEN BORDERS-->
+		<Row>
+			<TechType>TECH_WRITING</TechType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<!--OPEN BORDERS-->
+
+		
+		
+		<Row>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+
+		<!--NATIONAL TREASURY-->
+		<Row>
+			<TechType>TECH_NAVIGATION</TechType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<!--NATIONAL TREASURY-->
+
+		<!--CARAVEL-->
+		<Row>
+			<TechType>TECH_NAVIGATION</TechType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_NAVIGATION</TechType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_NAVIGATION</TechType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_NAVIGATION</TechType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<!--CARAVEL-->
+		
+		<Row>
+			<TechType>TECH_NAVIGATION</TechType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+        
+		<!--FRIGATE-->
+		<Row>
+			<TechType>TECH_ARCHITECTURE</TechType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<!--FRIGATE-->
+		
+		<!--CROSSBOWMAN-->
+		<Row>
+			<TechType>TECH_GUILDS</TechType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_GUILDS</TechType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<!--CROSSBOWMAN-->
+		
+		<!--WORKSHOP-->
+		<Row>
+			<TechType>TECH_GUILDS</TechType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<!--WORKSHOP-->
+		
+		<Row>
+			<TechType>TECH_GUILDS</TechType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_GUILDS</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+
+		<!--TREBUCHET-->
+		<Row>
+			<TechType>TECH_MACHINERY</TechType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_MACHINERY</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<!--TREBUCHET-->
+		
+		
+		<Row>
+			<TechType>TECH_MACHINERY</TechType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		
+		<!--IRONWORKS-->
+		<Row>
+			<TechType>TECH_INDUSTRIALIZATION</TechType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<!--IRONWORKS-->
+		
+		<Row>
+			<TechType>TECH_REPLACEABLE_PARTS</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_REPLACEABLE_PARTS</TechType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_REPLACEABLE_PARTS</TechType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_REPLACEABLE_PARTS</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<!--WINDMILL-->
+		<Row>
+			<TechType>TECH_MACHINERY</TechType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<!--WINDMILL-->
+		
+		<!--NOTRE DAME-->
+		<Row>
+			<TechType>TECH_MACHINERY</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<!--NOTRE DAME-->
+		
+        <!--MUSKETMAN-->
+		<Row>
+			<TechType>TECH_METALLURGY</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<!--<Row>
+			<TechType>TECH_METALLURGY</TechType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>-->
+		<!--MUSKETMAN-->
+		
+		<Row>
+			<TechType>TECH_METALLURGY</TechType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_METALLURGY</TechType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+
+		<Row>
+			<TechType>TECH_ASTRONOMY</TechType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		
+		<!--CANNON-->
+		<Row>
+			<TechType>TECH_GUNPOWDER</TechType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<!--<Row>
+			<TechType>TECH_GUNPOWDER</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_GUNPOWDER</TechType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>-->
+		<!--CANNON-->
+		
+		<Row>
+			<TechType>TECH_GUNPOWDER</TechType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>12</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_GUNPOWDER</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_GUNPOWDER</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+
+		<!--PIKEMAN-->
+		<Row>
+			<TechType>TECH_PHYSICS</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_PHYSICS</TechType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<!--PIKEMAN-->
+		<!--PISA-->
+		<Row>
+			<TechType>TECH_PHYSICS</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_PHYSICS</TechType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<!--PISA-->
+		
+		<!--NATIONAL COLLEGE-->
+		<Row>
+			<TechType>TECH_OPTICS2</TechType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_OPTICS2</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<!--NATIONAL COLLEGE-->
+		
+		<Row>
+			<TechType>TECH_OPTICS2</TechType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		
+		<Row>
+			<TechType>TECH_ECONOMICS</TechType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>12</Flavor>
+		</Row>
+
+		<!--PRIVATEER-->
+		<Row>
+			<TechType>TECH_ECONOMICS</TechType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<!--PRIVATEER-->
+		
+        <!--ZOO-->
+		<Row>
+			<TechType>TECH_RIFLING</TechType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>12</Flavor>
+		</Row>
+		<!--ZOO-->
+
+		<Row>
+			<TechType>TECH_PRINTING_PRESS</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_PRINTING_PRESS</TechType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		
+		<Row>
+			<TechType>TECH_MASS_MEDIA</TechType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_MASS_MEDIA</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		
+		<!--STOCK MARKET-->
+		<Row>
+			<TechType>TECH_TELEGRAPH</TechType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<!--STOCK MARKET-->
+		
+		<Row>
+			<TechType>TECH_TELEGRAPH</TechType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_TELEGRAPH</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		
+		<Row>
+			<TechType>TECH_ELECTRICITY</TechType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+
+		<!--ARTILLERY-->
+		<Row>
+			<TechType>TECH_SCIENTIFIC_THEORY</TechType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>12</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_SCIENTIFIC_THEORY</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_SCIENTIFIC_THEORY</TechType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<!--ARTILLERY-->
+		
+		<!--SUBMARINE-->
+		<Row>
+			<TechType>TECH_RADIO</TechType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_RADIO</TechType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_RADIO</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<!--SUBMARINE-->
+
+
+		<Row>
+			<TechType>TECH_REFRIGERATION</TechType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_REFRIGERATION</TechType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_REFRIGERATION</TechType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+
+		<!--BATTLESHIP-->
+		<Row>
+			<TechType>TECH_DYNAMITE</TechType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_DYNAMITE</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<!--BATTLESHIP-->
+
+		<Row>
+			<TechType>TECH_DYNAMITE</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+
+		<Row>
+			<TechType>TECH_ELECTRONICS</TechType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_ELECTRONICS</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_ELECTRONICS</TechType>
+			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		
+		<!--FACTORY-->
+		<Row>
+			<TechType>TECH_STEAM_POWER</TechType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<!--FACTORY-->
+		
+		<Row>
+			<TechType>TECH_ROCKETRY</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_ROCKETRY</TechType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_ROCKETRY</TechType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+        
+		<!--MOBILE SAM-->
+		<Row>
+			<TechType>TECH_MOBILE_TACTICS</TechType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<!--<Row>
+			<TechType>TECH_MOBILE_TACTICS</TechType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>-->
+		<!--MOBILE SAM-->
+
+		<Row>
+			<TechType>TECH_MOBILE_TACTICS</TechType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_MOBILE_TACTICS</TechType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+
+		<Row>
+			<TechType>TECH_FUTURE_TECH</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_FUTURE_TECH</TechType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+
+		<Row>
+			<TechType>TECH_INTERNET</TechType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+		
+		<Row>
+			<TechType>TECH_PLASTIC</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_PLASTIC</TechType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+
+		<Row>
+			<TechType>TECH_PARTICLE_PHYSICS</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		
+		<Row>
+			<TechType>TECH_COMPUTERS</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+
+		<Row>
+			<TechType>TECH_TELECOM</TechType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_TELECOM</TechType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+	</Technology_Flavors>
+	<Technology_TradeRouteDomainExtraRange>
+			<Row>
+				<TechType>TECH_NUCLEAR_FUSION</TechType>
+				<DomainType>DOMAIN_LAND</DomainType>
+				<Range>50</Range>
+			</Row>
+			<Row>
+				<TechType>TECH_NUCLEAR_FUSION</TechType>
+				<DomainType>DOMAIN_LAND</DomainType>
+				<Range>50</Range>
+			</Row>
+	</Technology_TradeRouteDomainExtraRange>
+	<Buildings>
+		<Update>
+		<Where Type="BUILDING_GRAVEYARD"/>
+		<Set EnhancedYieldTech="1"/>
+		</Update>	
+	</Buildings>
+	<Language_en_US>
+		<!--<Delete Tag="TXT_KEY_ADDITIONAL_INTERNATIONAL_TRADE_ROUTE"/>-->
+		<Delete Tag="TXT_KEY_TRAIT_SUPER_CITY_STATE"/>
+		<!--<Row Tag="TXT_KEY_ADDITIONAL_INTERNATIONAL_TRADE_ROUTE">
+			<Text>Allows the establishment of trade routes.</Text>
+		</Row>-->
+		<Row Tag="TXT_KEY_TRAIT_SUPER_CITY_STATE">
+			<Text>Cannot gain settlers nor annex cities. Double the normal number of trade routes available. A Merchant of Venice appears after researching Cartography. May purchase in puppeted cities.</Text>
+		</Row>
+		<Replace Tag="TXT_KEY_DIPLO_OPEN_BORDERS_NO_TECH">
+			<Text>[NEWLINE][NEWLINE]Neither player yet has the Technology to trade this item (Currency).</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_DIPLOMACY_OPENBORDERS_HEADING3_BODY">
+			<Text>Once you or another civ have discovered Currency, you can enter into an Open Borders agreement with any civ where you have established an Embassy. (City-States can't make Open Borders agreements.) While an Open Borders agreement is in effect, the other civ's units can enter your territory without automatically triggering war. If the agreement is mutual, either civ's units can enter the other's territory freely; however it doesn't have to be mutual: one civ can grant another Open Borders without automatically receiving it in return.[NEWLINE][NEWLINE]An Open Borders agreement lasts for 20 turns. When 20 turns have passed, the agreement must be renegotiated or it lapses.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_FEATURES_RIVER_TEXT">
+			<Text>Rivers are sources of fresh water, allowing the construction of farms on adjacent hills and tundra. Farms next to fresh water receive an additional +1 food when the Farm Innovations technology is researched. Units expend all of their movement points when crossing rivers. This is true even if the tiles are connected by roads, until the civilization learns the Engineering technology. Finally, units receive a -20% penalty when they are attacking across a river.</Text>
+		</Replace>
+	</Language_en_US>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>TECH_ATLAS_DLC_03</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>TechnologyAtlas256_Polynesia.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TECH_ATLAS_DLC_03</Atlas>
+			<IconSize>214</IconSize>
+			<Filename>TechnologyAtlas214_Polynesia.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TECH_ATLAS_DLC_03</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>TechnologyAtlas128_Polynesia.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TECH_ATLAS_DLC_03</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>TechnologyAtlas80_Polynesia.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TECH_ATLAS_DLC_03</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>TechnologyAtlas64_Polynesia.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TECH_ATLAS_DLC_03</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>TechnologyAtlas45_Polynesia.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>TECH_ATLAS_DLC_02</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>TechnologyAtlas256_DLC_02.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TECH_ATLAS_DLC_02</Atlas>
+			<IconSize>214</IconSize>
+			<Filename>TechnologyAtlas214_DLC_02.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TECH_ATLAS_DLC_02</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>TechnologyAtlas128_DLC_02.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TECH_ATLAS_DLC_02</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>TechnologyAtlas80_DLC_02.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TECH_ATLAS_DLC_02</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>TechnologyAtlas64_DLC_02.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TECH_ATLAS_2</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>TechnologyAtlas45_DLC_02.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

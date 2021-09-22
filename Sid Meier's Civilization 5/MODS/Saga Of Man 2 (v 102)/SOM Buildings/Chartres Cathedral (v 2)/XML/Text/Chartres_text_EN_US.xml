@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_CHARTRES">
+			<Text>Chartres Cathedral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHARTRES_DUMMY">
+			<Text>Chartres Cathedral Dummy: +1[ICON_PEACE] Faith</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_CHARTRES_HELP">
+			<Text>Gain 10% of the [ICON_PEACE] Faith of all cities sending a Trade Route to this City. Trade routes other players make to this City generate an extra +1 [ICON_GOLD] Gold for the City owner and +1 [ICON_GOLD] Gold for the Trade Route owner. Requires 5 [ICON_RES_TIMBER] Timber.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_CHARTRES_INFO">
+			<Text>You gain 10% of the [ICON_PEACE] Faith of all cities sending a Trade Route to this City (the final sum is rounded up).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_CHARTRES_PER_CITY">
+			<Text>[NEWLINE]+{1_Num}[ICON_PEACE] Faith from {2_City}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_CHARTRES_TOTAL">
+			<Text>[NEWLINE]+{1_Num}[ICON_PEACE] Faith (rounded up from +{2_Num}[ICON_PEACE] Faith)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_CHARTRES_NO_FAITH_YIELDING_ROUTES">
+			<Text>[NEWLINE]No pilgrims are coming in with your Trade Routes.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_CHARTRES_QUOTE">
+			<Text>
+				[NEWLINE]"The pursuit of peace resembles the building of a great cathedral. It is the work of a generation. In concept it requires a master-architect; in execution, the labors of many."[NEWLINE] - Hubert H. Humphrey[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_CHARTRES_PEDIA">
+			<Text>The Cathedral Basilica of Our Lady of Chartres is a medieval Roman Rite Catholic church in Chartres in France. The building is one of the best examples of French Gothic architecture and is a World Heritage Site. The current cathedral is the the fifth in the town’s history as it became a bishopric in the 4th century, the current structure had begun construction after a fire ruined the previous structure in 1194. Since the 12th century the cathedral is a popular site for Christian pilgrims and visitors, all to see the building’s infamous relic - the Sancta Camisa, a tunic said to be worn by the Virgin Mary during the birth of Christ. During the Middle Ages the cathedral was also a cathedral school, Bishop Fulbert in the 11th century established Chartres as a leading school in Europe. By the new century the status of the cathedral was on the wane as the University of Paris grew into prominence and the emphasis of the cathedral moved away from education.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,17 @@
+
+<GameData>
+	<UnitPromotions>
+	<Row>
+		<Type>PROMOTION_SUPER_CARRIER</Type>
+		<Description>TXT_KEY_KCARRIER</Description>
+		<Help>TXT_KEY_PROMOTION_KCARRIER_HELP</Help>
+		<Sound>AS2D_IF_LEVELUP</Sound>
+		<PortraitIndex>59</PortraitIndex>
+		<IconAtlas>ABILITY_ATLAS</IconAtlas>
+		<PediaType>PEDIA_ATTRIBUTES</PediaType>
+		<CannotBeChosen>true</CannotBeChosen>
+		<PediaEntry>TXT_KEY_KCARRIER</PediaEntry>
+		<CargoChange>6</CargoChange>
+	</Row>
+	</UnitPromotions>
+</GameData>

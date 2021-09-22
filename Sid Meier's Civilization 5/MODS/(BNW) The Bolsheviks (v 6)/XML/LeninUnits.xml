@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_BOLSHEVIK">
+			<Text>Red Infantry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BOLSHEVIK">
+			<Text>Unique Unit for the Bolsheviks. Replaces the Great War Infantry. Weaker (46 Combat Strength vs 50). +25% Attack bonus on Railroads. Starts with the Patriotic War promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_BOLSHEVIK_TEXT">
+			<Text>Red Infantry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOLSHEVIK_STRATEGY">
+			<Text>Though it comes late in the game, the Red Infantry can be plenty useful for holding off invasions. The Red Infantry gains a combat bonus while fighting on Railroad tiles, so a good means of keeping your units strong is to plop them on any tile with a Railroad. You may wish to also send a Worker with the Red Infantry in case you need to repair any pillaged Railroad tiles.</Text>
+		</Row>
+	</Language_en_US>
+</GameData

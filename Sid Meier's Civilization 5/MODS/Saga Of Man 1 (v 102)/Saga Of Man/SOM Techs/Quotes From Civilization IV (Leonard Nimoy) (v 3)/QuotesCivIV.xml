@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Alti-Blue on 17/01/2013 00:25:58 -->
+<GameData>
+<!-- English -->
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ACOUSTICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'If music be the food of love, play on.'[NEWLINE][TAB][TAB]  - William Shakespeare[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_AGRICULTURE_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Oh farmers, pray that your summers be wet and your winters clear.'[NEWLINE][TAB][TAB]  - Virgil[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Blessed shall be the fruit of thy cattle, the increase of thy kine, and the flocks of thy sheep.'[NEWLINE][TAB][TAB]  - The Bible, Deut. 28:4[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ARCHERY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Do not throw the arrow which will return against you.'[NEWLINE][TAB][TAB]  - Kurdish Proverb[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ASTRONOMY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Astronomy compels the soul to look upwards and leads us from this world to another.'[NEWLINE][TAB][TAB]  - Plato[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_BANKING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Banking establishments are more dangerous than standing armies.'[NEWLINE][TAB][TAB]  - Thomas Jefferson[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_BIOLOGY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'It is not the strongest of the species that survive, but the one most responsive to change.'[NEWLINE][TAB][TAB]  - Charles Darwin[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_BRONZE_WORKING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'It is entirely seemly for a young man killed in battle to lie mangled by the bronze spear. In his death all things appear fair.'[NEWLINE][TAB][TAB]  - Homer[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CALENDAR_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'For everything there is a season and a time for every purpose under heaven.'[NEWLINE][TAB][TAB]  - Ecclesiastes[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CHEMISTRY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Chemistry means the difference between poverty and starvation and the abundant life.'[NEWLINE][TAB][TAB]  - Robert Brent[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CHIVALRY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.'[NEWLINE][TAB][TAB]  - Sun-Tzu[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CIVIL_SERVICE_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'The bureaucracy is expanding to meet the needs of the expanding bureaucracy'[NEWLINE][TAB][TAB]  - Unknown[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_COMBUSTION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Everything in life is somewhere else, and you get there in a car.'[NEWLINE][TAB][TAB]  - E. B. White[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_COMPASS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'The wisest men follow their own direction.'[NEWLINE][TAB][TAB]  - Euripides[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_COMPUTERS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Never trust a computer you can`t throw out a window.'[NEWLINE][TAB][TAB]  - Steve Wozniak[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CONSTRUCTION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'And on the pedestal these words appear: 'My name is Ozymandias, king of kings: Look on my works, ye Mighty, and despair!' Nothing beside remains.'[NEWLINE][TAB][TAB]  - Percy Bysshe Shelley[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CURRENCY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Everything is worth what its purchaser will pay for it.'[NEWLINE][TAB][TAB]  - Publius Syrus[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_DYNAMITE_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Artillery adds dignity to what would otherwise be a vulgar brawl.'[NEWLINE][TAB][TAB]  - Frederick the Great[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ECOLOGY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'We do not inherit the earth from our ancestors, we borrow it from our children'[NEWLINE][TAB][TAB]  - Native American Song[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ECONOMICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Compound interest is the most powerful force in the universe.'[NEWLINE][TAB][TAB]  - Albert Einstein[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_EDUCATION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'There is no wealth like knowledge, no poverty like ignorance.'[NEWLINE][TAB][TAB]  - Ali ibn Abi-Talib[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ELECTRICITY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'We will make electricity so cheap that only the rich will burn candles.'[NEWLINE][TAB][TAB]  - Thomas Edison[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ENGINEERING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.'[NEWLINE][TAB][TAB]  - Antoine de Saint-Exupry[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_FLIGHT_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'For once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return.'[NEWLINE][TAB][TAB]  - Leonardo Da Vinci[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_FUTURE_TECH_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'The future will be better tomorrow.'[NEWLINE][TAB][TAB]  - Dan Quayle[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_GUNPOWDER_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'You can get more of what you want with a kind word and a gun than you can with just a kind word.'[NEWLINE][TAB][TAB]  - Al Capone[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_HORSEBACK_RIDING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'If you speak the truth, have a foot in the stirrup.'[NEWLINE][TAB][TAB]  - Turkish proverb[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_IRON_WORKING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'You should hammer your iron when it is glowing hot.'[NEWLINE][TAB][TAB]  - Publius Syrus[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_MACHINERY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'A god from the machine.'[NEWLINE][TAB][TAB]  - Menander[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_MASONRY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'It is from their foes, not their friends, that cities learn the lesson of building high walls.'[NEWLINE][TAB][TAB]  - Aristophanes[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_MATHEMATICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'If in other sciences we should arrive at certainty without doubt and truth without error, it behooves us to place the foundations of knowledge in mathematics.'[NEWLINE][TAB][TAB]  - Roger Bacon[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_METAL_CASTING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'And them that take the sword shall perish by the sword.'[NEWLINE][TAB][TAB]  - The Bible, Matthew[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_MINING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'The man who moves a mountain begins by carrying away small stones.'[NEWLINE][TAB][TAB]  - Confucius[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_NUCLEAR_FISSION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'If the radiance of a thousand suns were to burst at once into the sky, that would be like the splendor of the Mighty One... I am become Death, the Shatterer of Worlds.'[NEWLINE][TAB][TAB]  - J. Robert Oppenheimer, quoting 'The Bhagavad Gita'[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_NUCLEAR_FUSION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Any sufficiently advanced technology is indistinguishable from magic.'[NEWLINE][TAB][TAB]  - Arthur C. Clarke[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_OPTICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'One doesn`t discover new lands without losing sight of the shore.'[NEWLINE][TAB][TAB]  - Andre Gide[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_PENICLLIN_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'As to diseases make a habit of two things - to help, or at least, to do no harm.'[NEWLINE][TAB][TAB]  - Hippocrates[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_PHILOSOPHY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'I have gained this by philosophy: that I do without being commanded what others do only from fear of the law.'[NEWLINE][TAB][TAB]  - Aristotle[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_PHYSICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'To every action there is always opposed an equal reaction.'[NEWLINE][TAB][TAB]  - Isaac Newton[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_PLASTICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'I just want to say one word to you. Just one word: plastics.'[NEWLINE][TAB][TAB]  - Calder Willingham, The Graduate[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_POTTERY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Hath not the potter power over the clay, to make one vessel unto honor, and another unto dishonor?'[NEWLINE][TAB][TAB]  - The Bible, Romans[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_PRINTING_PRESS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'What gunpowder did for war, the printing press has done for the mind.'[NEWLINE][TAB][TAB]  - Wendell Phillips[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_RADIO_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Then one fine mornin` she puts on a New York station. You know her life was saved by Rock `n` Roll.'[NEWLINE][TAB][TAB]  - The Velvet Underground, 'Rock And Roll'[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_RAILROAD_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'I fooled you, I fooled you, I got pig iron, I got pig iron, I got all pig iron.'[NEWLINE][TAB][TAB]  - Lonnie Donegan, 'Rock Island Line'[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_REFRIGERATION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Tell me what you eat, and I will tell you what you are.'[NEWLINE][TAB][TAB]  - Anthelme Brillat-Savarin[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'The whole is more than the sum of its parts.'[NEWLINE][TAB][TAB]  - Aristotle[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_RIFLING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Political power grows out of the barrel of a gun.'[NEWLINE][TAB][TAB]  - Mao Zedong[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ROBOTICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'The real problem is not whether machines think, but whether men do.'[NEWLINE][TAB][TAB]  - B.F. Skinner[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ROCKETRY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'The Earth is the cradle of the mind, but one cannot eternally live in a cradle.'[NEWLINE][TAB][TAB]  - Konstantin E. Tsiolkovsky[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_SAILING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'You can`t direct the wind, but you can adjust your sails.'[NEWLINE][TAB][TAB]  - Unknown[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_SATELLITES_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Beep...beep...beep...beep...'[NEWLINE][TAB][TAB]  - Sputnik I[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_SCIENTIFIC_THEORY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has intended us to forgo their use.'[NEWLINE][TAB][TAB]  - Galileo Galilei[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_STEAM_POWER_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'You would make a ship sail against the winds and currents by lighting a bon-fire under her deck? I have no time for such nonsense.'[NEWLINE][TAB][TAB]  - Napoleon, on Robert Fulton's Steamship[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_STEEL_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Before that steam drill shall beat me down, I`ll die with my hammer in my hand.'[NEWLINE][TAB][TAB]  - from 'John Henry, the Steel-Driving Man'[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_THE_WHEEL_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Put your shoulder to the wheel.'[NEWLINE][TAB][TAB]  - Aesop[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_THEOLOGY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Two cities have been formed by two loves: the earthly by the love of self; the heavenly by the love of God.'[NEWLINE][TAB][TAB]  - St. Augustine[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_TRAPPING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'If you chase two rabbits, you will lose them both.'[NEWLINE][TAB][TAB]  - Native American Saying[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_WRITING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'True glory consists in doing what deserves to be written; in writing what deserves to be read.'[NEWLINE][TAB][TAB]  - Pliny the Elder[NEWLINE][TAB]"/>
+		</Update>
+	</Language_en_US>
+<!-- French -->
+	<Language_fr_FR>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ACOUSTICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Si la musique nourrit l`amour, alors jouez !'[NEWLINE][TAB][TAB]  - William Shakespeare[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_AGRICULTURE_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Oh, paysan, prie afin que tes étés soient humides et tes hivers secs.'[NEWLINE][TAB][TAB]  - Virgile[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'B&#233;nis seront le fruit de ton b&#233;tail, le fruit de tes entrailles et la laine de tes brebis.'[NEWLINE][TAB][TAB]  - La Bible, Deut&#233;ronome 28:4[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ARCHERY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Ne lance pas la fl&#232;che qui se retournera contre toi !'[NEWLINE][TAB][TAB]  - Proverbe kurde[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ASTRONOMY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'L`astronomie oblige l`&#226;me &#224; se tourner vers les cieux et nous guide de ce monde vers un autre.'[NEWLINE][TAB][TAB]  - Platon[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_BANKING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Les &#233;tablissements bancaires sont plus dangereux qu`une arm&#233;e en campagne.'[NEWLINE][TAB][TAB]  - Thomas Jefferson[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_BIOLOGY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Ce n`est pas l`esp&#232;ce la plus puissante qui survit mais celle qui s`adapte le mieux au changement.'[NEWLINE][TAB][TAB]  - Charles Darwin[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_BRONZE_WORKING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Un jeune homme tomb&#233; dans la bataille peut afficher la pointe d`airain fich&#233;e dans son corps car rien ne choque chez un mort.'[NEWLINE][TAB][TAB]  - Hom&#232;re[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CALENDAR_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'A toute chose sa saison, et &#224; toute affaire sous les cieux, son temps.'[NEWLINE][TAB][TAB]  - Le livre de l`Eccl&#233;siaste[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CHEMISTRY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'La chimie est ce qui s&#233;pare la pauvret&#233; et la famine de l`abondance.'[NEWLINE][TAB][TAB]  - Robert Brent[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CHIVALRY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Le vainqueur triomphe avant m&#234;me de partir &#224; la guerre, le vaincu part &#224; la guerre puis r&#234;ve de triomphe.'[NEWLINE][TAB][TAB]  - Sun-Tzu[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CIVIL_SERVICE_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'La bureaucratie grandit pour r&#233;pondre aux besoins croissants de la bureaucratie grandissante.'[NEWLINE][TAB][TAB]  - Inconnu[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_COMBUSTION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Dans la vie, tout est ailleurs, et on ne peut y aller qu`en voiture !'[NEWLINE][TAB][TAB]  - E. B. White[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_COMPASS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'L`homme avis&#233; suit sa propre direction.'[NEWLINE][TAB][TAB]  - Euripide[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_COMPUTERS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'M&#233;fiez-vous d`un ordinateur que vous ne pouvez pas jeter par la fen&#234;tre.'[NEWLINE][TAB][TAB]  - Steve Wozniak[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CONSTRUCTION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Et sur le pi&#233;destal apparaissent ces mots : Je suis Ozymandias, le Roi des Rois ; contemple mon oeuvre, &#212; Tout-puissant, et d&#233;sesp&#232;re !'[NEWLINE][TAB][TAB]  - Percy Bysshe Shelley[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CURRENCY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Toute chose a la valeur que son acqu&#233;reur est pr&#234;t &#224; payer.'[NEWLINE][TAB][TAB]  - Publius Syrus[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_DYNAMITE_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'L`artillerie conf&#232;re un peu de dignit&#233; &#224; ce qui ne serait que vulgaire bagarre !'[NEWLINE][TAB][TAB]  - Fr&#233;d&#233;ric le Grand[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ECOLOGY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Nous n`h&#233;ritons pas de la Terre de nos anc&#234;tres, nous l`empruntons &#224; nos enfants.'[NEWLINE][TAB][TAB]  - Chant am&#233;rindien[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ECONOMICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Les int&#233;r&#234;ts compos&#233;s sont la plus grande force de tout l`univers.'[NEWLINE][TAB][TAB]  - Albert Einstein[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_EDUCATION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Il n`existe plus grande richesse que le savoir, plus grande pauvret&#233; que l`ignorance.'[NEWLINE][TAB][TAB]  - Ali ibn Abi Talib[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ELECTRICITY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'L`&#233;lectricit&#233; sera si bon march&#233; que seuls les riches s`&#233;claireront encore &#224; la bougie.'[NEWLINE][TAB][TAB]  - Thomas Edison[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ENGINEERING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'La perfection est atteinte non pas parce qu`il n`y a plus rien &#224; ajouter, mais lorsqu`il n`y a plus rien &#224; retirer.'[NEWLINE][TAB][TAB]  - Antoine de Saint-Exup&#233;ry[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_FLIGHT_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Car lorsque vous aurez go&#251;t&#233; aux beaut&#233;s du vol, vous parcourrez la Terre les yeux tourn&#233;s vers le ciel, car vous y serez all&#233; et qu`il vous tardera d`y revenir.'[NEWLINE][TAB][TAB]  - L&#233;onard de Vinci[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_FUTURE_TECH_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Le futur sera meilleur demain !'[NEWLINE][TAB][TAB]  - Dan Quayle[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_GUNPOWDER_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'On obtient plus en demandant poliment une arme &#224; la main qu`en demandant juste poliment.'[NEWLINE][TAB][TAB]  - Al Capone[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_HORSEBACK_RIDING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Si tu dis vrai, mets le pied &#224; l`&#233;trier.'[NEWLINE][TAB][TAB]  - Proverbe turc[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_IRON_WORKING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Il faut battre le fer tant qu`il est chaud.'[NEWLINE][TAB][TAB]  - Publius Syrus[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_MACHINERY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'La machine a enfant&#233; un DIEU.'[NEWLINE][TAB][TAB]  - Menander[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_MASONRY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Ce sont leurs ennemis et non leurs amis qui ont enseign&#233; aux cit&#233;s &#224; b&#226;tir de hautes murailles !'[NEWLINE][TAB][TAB]  - Aristophane[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_MATHEMATICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'La science vise une certitude qui ne souffre aucun doute, une v&#233;rit&#233; qui ne souffre aucune erreur, les math&#233;matiques s`imposent donc comme les fondations de toute science.'[NEWLINE][TAB][TAB]  - Roger Bacon[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_METAL_CASTING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Et ceux qui auront v&#233;cu par l`&#233;p&#233;e p&#233;riront par l`&#233;p&#233;e.'[NEWLINE][TAB][TAB]  - La Bible, Matthieu[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_MINING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'L`homme qui déplace une montagne commence par les petites pierres.'[NEWLINE][TAB][TAB]  - Confucius[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_NUCLEAR_FISSION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Si la splendeur de mille soleils &#233;clatait &#224; la fois dans les cieux, cela serait comparable au rayonnement du grand Etre... Je suis devenu la Mort, le destructeur des mondes.'[NEWLINE][TAB][TAB]  - J. Robert Oppenheimer, citant la Bhagavad Gita[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_NUCLEAR_FUSION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Une technologie suffisamment sophistiqu&#233;e ne peut &#234;tre distingu&#233;e de la magie.'[NEWLINE][TAB][TAB]  - Arthur C. Clarke[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_OPTICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Ne d&#233;couvre de nouvelles terres, que celui qui sait quitter tout rivage.'[NEWLINE][TAB][TAB]  - Andr&#233; Gide[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_PENICLLIN_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Il faut s`exercer, dans le domaine des maladies, &#224; deux choses : &#234;tre utile, sinon ne pas nuire.'[NEWLINE][TAB][TAB]  - Hippocrate[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_PHILOSOPHY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'La philosophie m`a appris ceci : ce que je fais sans que l`on me l`ordonne, les autres le font par crainte de la loi.'[NEWLINE][TAB][TAB]  - Aristote[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_PHYSICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'A chaque action correspond une r&#233;action &#233;gale.'[NEWLINE][TAB][TAB]  - Isaac Newton[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_PLASTICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Je ne vous dirai qu`un mot, un seul mot : plastique.'[NEWLINE][TAB][TAB]  - Calder Willingham, Le Laur&#233;at[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_POTTERY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Le potier n`a-t-il pas pouvoir sur l`argile pour faire de la m&#234;me masse un vase &#224; honneur et un autre &#224; d&#233;shonneur ?'[NEWLINE][TAB][TAB]  - La Bible, Ep&#238;tre aux Romains[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_PRINTING_PRESS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'La presse &#233;crite a chang&#233; l`esprit comme la poudre &#224; canon a chang&#233; la guerre.'[NEWLINE][TAB][TAB]  - Wendell Phillips[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_RADIO_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Et un matin, elle &#233;couta une station de New York, et sa vie fut sauv&#233;e par le Rock`n`roll !'[NEWLINE][TAB][TAB]  - The Velvet Underground (Rock And Roll)[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_RAILROAD_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Je t`ai roul&#233;, je t`ai roul&#233;, je t`ai roul&#233;, j`ai eu la fonte, j`ai eu la fonte, j`ai eu la fonte.'[NEWLINE][TAB][TAB]  - Chanson de Lonnie Donegan (Rock Island Line)[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_REFRIGERATION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Dis-moi ce que tu manges et je te dirai qui tu es !'[NEWLINE][TAB][TAB]  - Anthelme Brillat-Savarin[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'La totalit&#233; est plus que la somme des parties.'[NEWLINE][TAB][TAB]  - Aristote[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_RIFLING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Le pouvoir politique sort du canon d`un fusil.'[NEWLINE][TAB][TAB]  - Mao Ts&#233;-Tung[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ROBOTICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'La vraie question n`est pas de savoir si les machines pensent mais si les humains pensent.'[NEWLINE][TAB][TAB]  - B.F. Skinner[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ROCKETRY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'La Terre est le berceau de l`humanit&#233;, mais qui veut passer sa vie enti&#232;re dans un berceau ?'[NEWLINE][TAB][TAB]  - Konstantin Tsiolkovsky[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_SAILING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'On ne peut pas faire tourner le vent, mais on peut faire tourner ses voiles.'[NEWLINE][TAB][TAB]  - Inconnu[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_SATELLITES_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Bip... bip... bip... bip...'[NEWLINE][TAB][TAB]  - Spoutnik I[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_SCIENTIFIC_THEORY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'J`ai du mal &#224; croire que le m&#234;me Dieu qui nous a dot&#233;s d`esprit, de raison et d`intelligence puisse vouloir que nous y renoncions.'[NEWLINE][TAB][TAB]  - Galil&#233;e[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_STEAM_POWER_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Vous feriez avancer un navire contre vents et courants en allumant un brasier sous le pont ? Je n`ai pas de temps &#224; perdre avec de telles inepties.'[NEWLINE][TAB][TAB]  - Napol&#233;on parlant du bateau &#224; vapeur de Robert Fulton[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_STEEL_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Je mourrai le marteau &#224; la main avant que la machine &#224; vapeur ne me batte.'[NEWLINE][TAB][TAB]  - Chanson de John Henry (Steel-Driving Man)[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_THE_WHEEL_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'La roue de la fortune tourne plus vite que celle du moulin.'[NEWLINE][TAB][TAB]  - Miguel de Cervant&#232;s[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_THEOLOGY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Deux amours ont fait deux cit&#233;s : l`amour de soi, la cit&#233; terrestre ; l`amour de Dieu, la cit&#233; c&#233;leste.'[NEWLINE][TAB][TAB]  - Saint-Augustin[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_TRAPPING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Chasse deux li&#232;vres &#224; la fois et tu n`en attraperas aucun.'[NEWLINE][TAB][TAB]  - Proverbe am&#233;rindien[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_WRITING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'La gloire s`acquiert en accomplissant ce qui m&#233;rite d`&#234;tre &#233;crit et en &#233;crivant ce qui m&#233;rite d`&#234;tre lu.'[NEWLINE][TAB][TAB]  - Pline l`Ancien[NEWLINE][TAB]"/>
+		</Update>
+	</Language_fr_FR>
+<!-- German -->
+	<Language_de_DE>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ACOUSTICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Wenn Musik die Nahrung der Liebe ist, so spielt fort.'[NEWLINE][TAB][TAB]  - William Shakespeare[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_AGRICULTURE_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Nassen Sommer kann auch der Herbst nicht trocknen.'[NEWLINE][TAB][TAB]  - Bauernregel[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Gesegnet wird sein der Ertrag deines Ackers und die Jungtiere deines Viehs, deiner Rinder und deiner Schafe.'[NEWLINE][TAB][TAB]  - Die Bibel, Deut. 28:4[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ARCHERY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Schie&#223;e keinen Pfeil, der zu dir zur&#252;ckkehren k&#246;nnte.'[NEWLINE][TAB][TAB]  - Kurdisches Sprichwort[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ASTRONOMY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Die Astronomie zwingt die Seele, nach oben zu schauen, und f&#252;hrt sie in eine andere Welt.'[NEWLINE][TAB][TAB]  - Plato[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_BANKING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Banken sind gef&#228;hrlicher als stehende Armeen.'[NEWLINE][TAB][TAB]  - Thomas Jefferson[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_BIOLOGY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Nicht die st&#228;rksten Spezies werden &#252;berleben, sondern jene, die sich Ver&#228;nderungen am besten anpassen k&#246;nnen.'[NEWLINE][TAB][TAB]  - Charles Darwin[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_BRONZE_WORKING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'So mancher J&#252;ngling f&#228;llt in der Schlacht, zermalmt von bronzenem Speer. Im Tode so scheint sein Schicksal vollbracht.'[NEWLINE][TAB][TAB]  - Homer[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CALENDAR_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'F&#252;r alles gibt es eine Stunde. Und f&#252;r jedes Vorhaben unter dem Himmel eine Zeit.'[NEWLINE][TAB][TAB]  - Ekklesiastes[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CHEMISTRY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Die Chemie macht den Unterschied zwischen Armut und Hunger und einem Leben im &#220;berfluss.'[NEWLINE][TAB][TAB]  - Robert Brent[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CHIVALRY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Der General, der eine Schlacht gewinnt, stellt vor dem Kampf viele Berechnungen an. Der General, der verliert, stellt vorher kaum Berechnungen an.'[NEWLINE][TAB][TAB]  - Sun-Tzu[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CIVIL_SERVICE_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Die B&#252;rokratie wurde erfunden, um die Bed&#252;rfnisse der B&#252;rokratie zu stillen.'[NEWLINE][TAB][TAB]  - Unbekannt[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_COMBUSTION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Im Leben ist alles irgendwo anders. Und hin kommt man mit dem Auto.'[NEWLINE][TAB][TAB]  - E. B. White[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_COMPASS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Ein weiser Mann folgt nur sich selbst.'[NEWLINE][TAB][TAB]  - Euripides[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_COMPUTERS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Vertraue keinem Computer, den du nicht aus dem Fenster werfen kannst.'[NEWLINE][TAB][TAB]  - Steve Wozniak[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CONSTRUCTION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Und auf dem Sockel erscheinen folgende Worte: Mein Name ist Ozymandias, K&#246;nig der K&#246;nige: Betrachtet mein Werk, ihr M&#228;chtigen, und verzweifelt!'[NEWLINE][TAB][TAB]  - Percy Bysshe Shelley[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_CURRENCY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Jedes Ding ist wert, was der K&#228;ufer daf&#252;r zahlen will.'[NEWLINE][TAB][TAB]  - Publius Syrus[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_DYNAMITE_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Die Artillerie verleiht einem vulg&#228;ren Gemetzel W&#252;rde.'[NEWLINE][TAB][TAB]  - Friedrich der Gro&#223;e[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ECOLOGY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Wir haben die Erde nicht von unseren Vorfahren geerbt, sondern von unseren Kindern geliehen.'[NEWLINE][TAB][TAB]  - Indianerlied[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ECONOMICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Der Zinseszins war die gr&#246;&#223;te Erfindung des menschlichen Denkens.'[NEWLINE][TAB][TAB]  - Albert Einstein[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_EDUCATION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Wissen ist der gr&#246;&#223;te Reichtum und Ignoranz zeugt von Armut.'[NEWLINE][TAB][TAB]  - Ali ibn Abi-Talib[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ELECTRICITY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Wir machen die Elektrizit&#228;t so billig, dass nur noch die Reichen Kerzen benutzen!'[NEWLINE][TAB][TAB]  - Thomas Edison[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ENGINEERING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Perfektion ist nicht dann erreicht, wenn es nichts mehr hinzuzuf&#252;gen gibt, sondern wenn man nichts mehr weglassen kann.'[NEWLINE][TAB][TAB]  - Antoine de Saint-Exup&#233;ry[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_FLIGHT_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Wenn du einmal das Fliegen empfunden hast, wirst du f&#252;r immer auf der Erde wandeln mit deinen Augen himmelw&#228;rts gerichtet, denn dort bist du gewesen und dort wird es dich immer wieder hinziehen.'[NEWLINE][TAB][TAB]  - Leonardo Da Vinci[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_FUTURE_TECH_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Morgen wird die Zukunft besser sein.'[NEWLINE][TAB][TAB]  - Dan Quayle[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_GUNPOWDER_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Wenn du etwas wirklich willst, musst du deinen Worten mit einer Waffe Nachdruck verleihen.'[NEWLINE][TAB][TAB]  - Al Capone[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_HORSEBACK_RIDING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Wer die Wahrheit spricht, sollte besser einen Fu&#223; im Steigb&#252;gel haben.'[NEWLINE][TAB][TAB]  - Arabisches Sprichwort[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_IRON_WORKING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Man muss das Eisen schmieden, solange es hei&#223; ist.'[NEWLINE][TAB][TAB]  - Publius Syrus[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_MACHINERY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Deus ex machina.'[NEWLINE][TAB][TAB]  - Menander[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_MASONRY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Nicht von ihren Freunden, sondern von ihren Feinden lernen St&#228;dte, hohe Mauern zu bauen.'[NEWLINE][TAB][TAB]  - Aristophanes[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_MATHEMATICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Nur mithilfe der Mathematik kann man wirklich wissen, denn in jeder Wissenschaft ist nur so viel an Wahrheit enthalten, wie in ihr Mathematik steckt.'[NEWLINE][TAB][TAB]  - Roger Bacon[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_METAL_CASTING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Wer das Schwert nimmt, der soll durchs Schwert umkommen.'[NEWLINE][TAB][TAB]  - Die Bibel, Matth&#228;us[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_MINING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Der Mann, der den Berg abtrug, war derselbe, der anfing, kleine Steine wegzutragen.'[NEWLINE][TAB][TAB]  - Konfuzius[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_NUCLEAR_FISSION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Wenn das Licht von tausend Sonnen am Himmel pl&#246;tzlich br&#228;ch` hervor, zu gleicher Zeit - das w&#228;re gleich dem Glanze des Herrlichen ... Ich bin der Tod, der alles raubt, Ersch&#252;tterer der Welten.'[NEWLINE][TAB][TAB]  - J. Robert Oppenheimer, Zitat aus der 'Bhagavad Gita'[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_NUCLEAR_FUSION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Jede fortgeschrittene Technologie ist anfangs von Magie nicht zu unterscheiden.'[NEWLINE][TAB][TAB]  - Arthur C. Clarke[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_OPTICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Man kann keine neuen L&#228;nder entdecken, ohne die K&#252;ste aus den Augen zu verlieren.'[NEWLINE][TAB][TAB]  - Andr&#233; Gide[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_PENICLLIN_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Was Krankheiten betrifft, so hat man zwei M&#246;glichkeiten: zu heilen oder wenigstens nicht zu schaden.'[NEWLINE][TAB][TAB]  - Hippokrates[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_PHILOSOPHY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Dies habe ich durch Philosophie gewonnen. Dass ich tue, ohne befohlen zu werden, was andere nur aus Furcht vor dem Gesetz tun.'[NEWLINE][TAB][TAB]  - Aristoteles[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_PHYSICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Jede Aktion erzeugt gleichzeitig eine Reaktion.'[NEWLINE][TAB][TAB]  - Isaac Newton[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_PLASTICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Ich sage nur ein Wort. Nur ein einziges Wort: Plastik!'[NEWLINE][TAB][TAB]  - Calder Willingham, Die Reifepr&#252;fung[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_POTTERY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Hat nicht ein T&#246;pfer Macht &#252;ber den Ton, aus demselben Klumpen ein Gef&#228;&#223; zu ehrenvollem und ein anderes zu nicht ehrenvollem Gebrauch zu machen?'[NEWLINE][TAB][TAB]  - Die Bibel, R&#246;mer[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_PRINTING_PRESS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Was das Schie&#223;pulver f&#252;r den Krieg war, ist die Druckerpresse f&#252;r den Geist.'[NEWLINE][TAB][TAB]  - Wendell Phillips[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_RADIO_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Es gibt in allen Funkh&#228;usern Leute, die nichts zu tun haben, aber das richtig gehetzt.'[NEWLINE][TAB][TAB]  - Robert Lembke[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_RAILROAD_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Eine Eisenbahn besteht zu 95% aus Menschen und zu 5% aus Eisen.'[NEWLINE][TAB][TAB]  - Adam Smith[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_REFRIGERATION_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Der Mensch ist, was er isst.'[NEWLINE][TAB][TAB]  - Anthelme Brillat-Savarin[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Das Ganze ist gr&#246;&#223;er als die Summe seiner Teile.'[NEWLINE][TAB][TAB]  - Aristoteles[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_RIFLING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Alle politische Macht r&#252;hrt von einem Gewehrlauf.'[NEWLINE][TAB][TAB]  - Mao Tsetung[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ROBOTICS_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Das eigentliche Problem ist nicht, ob Maschinen denken k&#246;nnen, sondern ob Menschen es k&#246;nnen.'[NEWLINE][TAB][TAB]  - B.F. Skinner[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ROCKETRY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Die Erde ist die Wiege der Menschheit, aber welches Kind bleibt schon ewig in seiner Wiege.'[NEWLINE][TAB][TAB]  - Konstantin E. Ciolkowski[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_SAILING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Den Wind vermagst du nicht zu lenken, deine Segel wohl.'[NEWLINE][TAB][TAB]  - Unbekannt[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_SATELLITES_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Beep...beep...beep...beep...'[NEWLINE][TAB][TAB]  - Sputnik I.[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_SCIENTIFIC_THEORY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Ich f&#252;hle mich nicht zu dem Glauben verpflichtet, dass derselbe Gott, der uns mit Sinnen, Vernunft und Verstand ausgestattet hat, von uns verlangt, dieselben nicht zu benutzen.'[NEWLINE][TAB][TAB]  - Galileo Galilei[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_STEAM_POWER_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Was veranlasst Sie zu der Annahme, dass ein Schiff gegen den Wind und gegen die Str&#246;mung segeln k&#246;nnte, wenn man nur ein Feuer unter Deck anz&#252;nde? Ich habe keine Zeit, mir so einen Unsinn anzuh&#246;ren.'[NEWLINE][TAB][TAB]  - Napoleon &#252;ber Robert Fultons Dampfschiff[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_STEEL_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Wenn dieser Dampfbohrer mich schl&#228;gt, sterbe ich mit dem Hammer in der Hand.'[NEWLINE][TAB][TAB]  - Aus 'John Henry, Steel-Driving Man'[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_THE_WHEEL_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Das Rad der Zeit l&#228;sst sich nicht zur&#252;ckdrehen.'[NEWLINE][TAB][TAB]  - Sprichwort[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_THEOLOGY_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Es gibt zwei St&#228;dte auf der Welt. Die eine ist auf der Liebe zu sich selbst, die andere auf der Liebe zu Gott errichtet.'[NEWLINE][TAB][TAB]  - Augustinus[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_TRAPPING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Der, der zwei Hasen jagt, l&#228;sst einen zur&#252;ck und verliert den anderen.'[NEWLINE][TAB][TAB]  - Indianisches Sprichwort[NEWLINE][TAB]"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_WRITING_QUOTE"/>
+			<Set Text="[NEWLINE][TAB][TAB]'Gl&#252;cklich sind jene, die Taten vollbringen, die es wert sind, aufgezeichnet zu werden, oder Schriften verfassen, die es wert sind, gelesen zu werden.'[NEWLINE][TAB][TAB]  - Plinius der &#196;ltere[NEWLINE][TAB]"/>
+		</Update>
+	</Language_de_DE>
+<!-- Italian -->
+	<Language_it_IT>
+
+	</Language_it_IT>
+<!-- Spanish -->
+	<Language_es_ES>
+
+	</Language_es_ES>
+</GameData>

@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/8/2014 5:50:52 PM -->
+<GameData>
+	<Resources>
+	
+		
+		
+		<Row>
+			<Type>RESOURCE_BRONZE</Type>
+			<TechCityTrade>TECH_BRONZE_WORKING</TechCityTrade>
+			<TechObsolete>TECH_MILITARY_SCIENCE</TechObsolete>
+			<Description>Bronze</Description>
+			<Civilopedia>
+				The discovery of bronze enabled people to create metal objects which were harder and more durable than previously possible. Bronze tools, weapons, armor, and building materials such as decorative tiles were harder and more durable than their stone and copper (Chalcolithic) predecessors. Initially, bronze was made out of copper and arsenic, forming arsenic bronze, or from naturally or artificially mixed ores of copper and arsenic. It was only later that tin was used, becoming the major non-copper ingredient of bronze in the late 3rd millennium BC. Tin bronze was superior to arsenic bronze in that the alloying process could be more easily controlled, and the resulting alloy was stronger and easier to cast. Also, unlike arsenic, tin is not toxic. The earliest tin-alloy bronze dates to 4500 BCE in a Vinča culture site in Pločnik (Serbia). Other early examples date to the late 4th millennium BC in Susa (Iran) and some ancient sites in China, Luristan (Iran) and Mesopotamia (Iraq). Ores of copper and the far rarer tin are not often found together (exceptions include one ancient site in Thailand and one in Iran), so serious bronze work has always involved trade. Tin sources and trade in ancient times had a major influence on the development of cultures. In Europe, a major source of tin was England's deposits of ore in Cornwall, which were traded as far as Phoenicia in the Eastern Mediterranean.
+			</Civilopedia>
+			<Help>[ICON_TROPHY_BRONZE] Bronze is required for Ancient warfare. Produced by the Bloomery. Goes obsolete at Military Science.</Help>
+			<ResourceClassType>RESOURCECLASS_RUSH</ResourceClassType>
+			<IconString>[ICON_TROPHY_BRONZE]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>BRONZE_RESOURCE_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_GUNPOWDER</Type>
+			<TechCityTrade>TECH_GUNPOWDER</TechCityTrade>
+			<Description>Propellant</Description>
+			<Civilopedia>
+				In ballistics and pyrotechnics, a propellant is a generic name for chemicals used for propelling projectiles from guns and other firearms. Solid propellants are usually made from low-explosive materials, but may include high-explosive chemical ingredients that are diluted and burned in a controlled way (deflagration) rather than detonation. The controlled burning of the propellant composition usually produces thrust by gas pressure and can accelerate a projectile, rocket, or other vehicle. In this sense, common or well-known propellants include, for firearms, artillery, and solid-propellant rockets: Gunpowder (black powder), Nitrocellulose-based powders, Cordite, Ballistite, and Smokeless powders. In firearm ballistics, propellants fill the interior of an ammunition cartridge or the chamber of a gun or cannon, leading to the expulsion of a bullet or shell. Explosives can be placed in a sealed tube and act as a deflagrant low explosive charge in mining and demolition, to produce a low velocity heave effect (gas pressure blasting).
+			</Civilopedia>
+			<Help>[ICON_RES_MANPOWER] Propellant is required for mid to late game units. Produced by the Powder Mill and the Explosives Factory.</Help>
+			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
+			<IconString>[ICON_RES_MANPOWER]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>PROPELLANT_RESOURCE_ATLAS</IconAtlas>
+		</Row>
+		<!--<Row>
+			<Type>RESOURCE_PROPELLANT</Type>
+			<TechCityTrade>TECH_PROPELLANT</TechCityTrade>
+			<Description>Propellant</Description>
+			<Civilopedia>
+				In ballistics and pyrotechnics, a propellant is a generic name for chemicals used for propelling projectiles from guns and other firearms. Solid propellants are usually made from low-explosive materials, but may include high-explosive chemical ingredients that are diluted and burned in a controlled way (deflagration) rather than detonation. The controlled burning of the propellant composition usually produces thrust by gas pressure and can accelerate a projectile, rocket, or other vehicle. In this sense, common or well-known propellants include, for firearms, artillery, and solid-propellant rockets: Gunpowder (black powder), Nitrocellulose-based powders, Cordite, Ballistite, and Smokeless powders. In firearm ballistics, propellants fill the interior of an ammunition cartridge or the chamber of a gun or cannon, leading to the expulsion of a bullet or shell. Explosives can be placed in a sealed tube and act as a deflagrant low explosive charge in mining and demolition, to produce a low velocity heave effect (gas pressure blasting).
+			</Civilopedia>
+			<Help>[ICON_RES_MANPOWER] Propellants are required for late game units.</Help>
+			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
+			<IconString>[ICON_RANGE_STRENGTH]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>PROPELLANT_RESOURCE_ATLAS</IconAtlas>
+		</Row>-->
+		<Row>
+			<Type>RESOURCE_COMPOSITES</Type>
+			<TechCityTrade>TECH_PLASTIC</TechCityTrade>
+			<Description>Composites</Description>
+			<Civilopedia>
+				Composite armour is a type of vehicle armour consisting of layers of different material such as metals, plastics, ceramics or air. Most composite armours are lighter than their all-metal equivalent, but instead occupy a larger volume for the same resistance to penetration. It is possible to design composite armour stronger, lighter and less voluminous than traditional armour, but the cost is often prohibitively high, restricting its use to especially vulnerable parts of a vehicle. Its primary purpose is to help defeat high explosive anti-tank (HEAT) rounds. HEAT had posed a serious threat to armoured vehicles since its introduction in World War II. Lightweight and small, HEAT rounds could nevertheless penetrate hundreds of millimetres of the hardest steel armours. The capability of most materials for defeating HEAT follows the 'density law', which states that the penetration of shaped charge jets is proportional to the square root of the shaped charge liner density (typically copper) divided by the square root of the target density. On a weight basis, lighter targets are more advantageous than heavier targets, but using large quantities of lightweight materials has obvious disadvantages in terms of mechanical layout. Certain materials have an optimal compromise in terms of density that makes them particularly useful in this role.
+			</Civilopedia>
+			<Help>[ICON_STRENGTH] Composites are needed for late game units. Produced by the Military Research Facility.</Help>
+			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
+			<IconString>[ICON_STRENGTH]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>COMPOSITES_RESOURCE_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_MASONRY</Type>
+			<Description>Masonry</Description>
+			<Civilopedia>
+				The common materials of masonry construction are brick, building stone such as marble, granite, travertine, and limestone, cast stone, concrete block, glass block, and cob. Masonry is generally a highly durable form of construction. However, the materials used, the quality of the mortar and workmanship, and the pattern in which the units are assembled can significantly affect the durability of the overall masonry construction. A person who constructs masonry is called a mason or bricklayer.
+			</Civilopedia>
+			<Help>[ICON_RES_MASONRY] Masonry is the key ingredient required to build most world wonders. Produced by the Stone Works and the Concrete Plant. </Help>
+			<ResourceClassType>RESOURCECLASS_RUSH</ResourceClassType>
+			<IconString>[ICON_RES_MASONRY]</IconString>
+			<PortraitIndex>6</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_TEXTILES</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>Textiles</Description>
+			<Help>Produced by the Textile Industry</Help>
+			<Civilopedia>
+				The exchange of luxury textiles was predominant on the Silk Road, a series of ancient trade and cultural transmission routes that were central to cultural interaction through regions of the Asian continent connecting East and West by linking traders, merchants, pilgrims, monks, soldiers, nomads and urban dwellers from China to the Mediterranean Sea during various periods of time. The trade route was initiated around 114 BC by the Han Dynasty, although earlier trade across the continents had already existed. Geographically, the Silk Road or Silk Route is an interconnected series of ancient trade routes in China, with Asia Minor and the Mediterranean extending over 8,000 km (5,000 mi) on land and sea. Trade on the Silk Road was a significant factor in the development of the great civilizations of China, Egypt, Mesopotamia, Persia, the Indian subcontinent, and Rome, and helped to lay the foundations for the modern world.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_SILK]</IconString>
+			<PortraitIndex>18</PortraitIndex>
+			<IconAtlas>RESOURCE_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_LEATHER</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>Leather</Description>
+			<Help>Produced by the Leather Industry</Help>
+			<Civilopedia>
+				Leather is a durable and flexible material created by tanning animal rawhide and skin, often cattle hide. It can be produced at manufacturing scales ranging from cottage industry to heavy industry.[NEWLINE][NEWLINE]People use leather to make various goods—including clothing (e.g., shoes, hats, jackets, skirts, trousers, and belts), bookbinding, leather wallpaper, and as a furniture covering. It is produced in a wide variety of types and styles, decorated by a wide range of techniques.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_LEATHER]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>LEATHER_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_PERFUME</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>Perfume</Description>
+			<Help>Produced by the Perfume Industry</Help>
+			<Civilopedia>
+				Perfume is a mixture of fragrant essential oils or aroma compounds, fixatives and solvents - used to give the human body, animals, food, objects, and living-spaces 'a pleasant scent'.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_PERFUME]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>PERFUME_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_POTTERY</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>Pottery</Description>
+			<Help>Produced by the Pottery Industry</Help>
+			<Civilopedia>
+				Pottery originated before the Neolithic period, with ceramic objects like the Gravettian culture Venus of Dolni Vestonice figurine discovered in the Czech Republic date back to 29,000–25,000 BC, and pottery vessels that were discovered in Jiangxi, China, which date back to 18,000 BC. Early Neolithic pottery have been found in places such as Jomon Japan (10,500 BC), the Russian Far East (14,000 BC), Sub-Saharan Africa and South America.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_POTTERY]</IconString>
+			<PortraitIndex>4</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_GLASS</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>Glass</Description>
+			<Help>Produced by the Glass Industry</Help>
+			<Civilopedia>
+				Naturally occurring glass, especially the volcanic glass obsidian, has been used by many Stone Age societies across the globe for the production of sharp cutting tools and, due to its limited source areas, was extensively traded. But in general, archaeological evidence suggests that the first true glass was made in coastal north Syria, Mesopotamia or ancient Egypt. The earliest known glass objects, of the mid third millennium BCE, were beads, perhaps initially created as accidental by-products of metal-working (slags) or during the production of faience, a pre-glass vitreous material made by a process similar to glazing.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_GLASS]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>GLASS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_ORG_OIL</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>Organic Oils</Description>
+			<Help>Produced by the Oil Mill</Help>
+			<Civilopedia>
+				Organic oils are produced in remarkable diversity by plants, animals, and other organisms through natural metabolic processes. Lipid is the scientific term for the fatty acids, steroids and similar chemicals often found in the oils produced by living things, while oil refers to an overall mixture of chemicals. Organic oils may also contain chemicals other than lipids, including proteins, waxes (class of compounds with oil-like properties that are solid at common temperatures) and alkaloids.[NEWLINE][NEWLINE]Applications of Organic Oils include cooking, cosmetics, rituals, paint, heat transfer, lubrication, and fuel.[NEWLINE][NEWLINE]Examples of Organic Oils are whale oil, lard, olive oil, sunflower oil and vegetable oil.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_ORG_OIL]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>ORG_OIL_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_LIQUOR</Type>
+			<TechCityTrade>TECH_CHIVALRY</TechCityTrade>
+			<Description>Liquor</Description>
+			<Help>Produced by the Distillery</Help>
+			<Civilopedia>
+				Organic oils are produced in remarkable diversity by plants, animals, and other organisms through natural metabolic processes. Lipid is the scientific term for the fatty acids, steroids and similar chemicals often found in the oils produced by living things, while oil refers to an overall mixture of chemicals. Organic oils may also contain chemicals other than lipids, including proteins, waxes (class of compounds with oil-like properties that are solid at common temperatures) and alkaloids.[NEWLINE][NEWLINE]Applications of Organic Oils include cooking, cosmetics, rituals, paint, heat transfer, lubrication, and fuel.[NEWLINE][NEWLINE]Examples of Organic Oils are whale oil, lard, olive oil, sunflower oil and vegetable oil.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_LIQUOR]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>LIQUOR_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_PAPER</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>Paper</Description>
+			<Help>Produced by the Paper Mill</Help>
+			<Civilopedia>
+				Paper was invented in ancient china during the Han dynasty (206 BC – 220 AD) and spread slowly to the west via the Silk Road, arriving in the Muslim world in the 8th century and spreading west from there. Papermaking and manufacturing in Europe was started by Muslims living on the Iberian Peninsula (today's Portugal and Spain) and Sicily in the 10th century, and slowly spread to Italy and Southern France, reaching Germany by 1400. Earlier, other paper-like materials were in use, including papyrus, parchment, palm leaves, and vellum, but all of these were derived from materials which were expensive or in limited supply, or required extensive hand-processing to produce a satisfactory finish. Paper, being made from wood or rags, could be produced anywhere, and once large scale production techniques had been developed it could be manufactured in almost any quantity at moderate cost. In ancient china , the mortar and pestle method was primarily used for papermaking. The Muslim world improved upon papermaking with the use of human/animal-powered papermills and trip hammers. In medieval Europe, papermaking was mechanized by the use of waterpower, the first water papermill in the Iberian Peninsula having been built in the Portuguese city of Leiria in 1411, and other processes. The rapid expansion of European paper production was truly enhanced by the invention of the printing press and the beginning of the Printing Revolution in the 15th century.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_PAPER]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>PAPER_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_BOOKS</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>Literature</Description>
+			<Help>Produced by the Publishing Industry</Help>
+			<Civilopedia>
+				Had nothing occurred to change literature in the 15th century but the Renaissance, the break with medieval approaches would have been clear enough. The 15th century, however, also brought Johann Gutenberg and his invention of the printing press, an innovation (for Europe, at least) that would change literature forever. Texts were no longer precious and expensive to produce—they could be cheaply and rapidly put into the marketplace. Literacy went from the prized possession of the select few to a much broader section of the population (though by no means universal). As a result, much about literature in Europe was radically altered in the two centuries following Gutenberg's unveiling of the printing press in 1455.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_BOOKS]</IconString>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>EXPANSION_SCEN_TECH_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_CIGARS</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>Cigars</Description>
+			<Help>Produced by the Cigar Industry</Help>
+			<Civilopedia>
+				A cigar is a tightly-rolled bundle of dried and fermented tobacco leaf, rolled in a series of types and sizes, that is ignited so that its smoke may be drawn into the mouth.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_CIGARS]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIGARS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_CHEESE</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>Cheese</Description>
+			<Help>Produced by the Dairy Industry</Help>
+			<Civilopedia>
+				Until its modern spread along with European culture, cheese was nearly unheard of in east Asian cultures, in the pre-Columbian Americas, and only had limited use in sub-Mediterranean Africa, mainly being widespread and popular only in Europe, the Middle East, the Indian subcontinent, and areas influenced by those cultures. But with the spread, first of European imperialism, and later of Euro-American culture and food, cheese has gradually become known and increasingly popular worldwide, though still rarely considered a part of local ethnic cuisines outside Europe, the Middle East, the Indian subcontinent, and the Americas.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_CHEESE]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CHEESE_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_CHEMICALS</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>Chemicals</Description>
+			<Help>Produced by the Chemical Industry</Help>
+			<Civilopedia>
+				One of the first chemicals to be produced in large amounts through industrial process was sulfuric acid. In 1736, the pharmacist Joshua Ward developed a process for its production that involved heating saltpeter and allowing the sulfur to oxidize and combine with water. It was the first practical production of sulfuric acid on a large scale. John Roebuck and Samuel Garbett were the first to establish a large-scale factory in Prestonpans in 1749, which used leaden condensing chambers for the manufacture of sulfuric acid.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_CHEMICALS]</IconString>
+			<PortraitIndex>15</PortraitIndex>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_MACHINERY</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>Machinery</Description>
+			<Help>Produced by the Machinery Industry</Help>
+			<Civilopedia>
+				Forerunners of machine tools included bow drills and potter's wheels, which had existed in ancient Egypt prior to 2500 BC, and lathes, known to have existed in multiple regions of Europe since at least 1000 to 500 BC. But it was not until the later Middle Ages and the Age of Enlightenment that the modern concept of a machine tool, a class of machines used as tools in the making of metal parts, and incorporating machine guided toolpath began to evolve. Clockmakers of the Middle Ages and renaissance men such as Leonardo da Vinci helped expand humans' technological milieu toward the preconditions for industrial machine tools. During the 18th and 19th centuries, and even in many cases in the 20th, the builders of machine tools tended to be the same people who would then use them to produce the end products (manufactured goods). However, from these roots also evolved an industry of machine tool builders as we define them today, meaning people who specialize in building machine tools for sale to others.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_MACHINERY]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>MACHINERY_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_PHARMA</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>Pharmaceuticals</Description>
+			<Help>Produced by the Medical Research Facility</Help>
+			<Civilopedia>
+				A pharmaceutical drug (also referred to as a pharmaceutical, pharmaceutical preparation, pharmaceutical product, medicinal product, medicine, medication, medicament, or simply a drug) is a drug used to diagnose, cure, treat, or prevent disease. Drug therapy (pharmacotherapy) is an important part of the medical field and relies on the science of pharmacology for continual advancement and on pharmacy for appropriate management.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_PHARMA]</IconString>
+			<PortraitIndex>12</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_2</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_AUTOS</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>Automobiles</Description>
+			<Help>Produced by the Automobile Industry</Help>
+			<Civilopedia>
+				A car is a wheeled, self-powered motor vehicle used for transportation and a product of the automotive industry. Most definitions of the term specify that cars are designed to run primarily on roads, to have seating for one to eight people, to typically have four wheels with tyres, and to be constructed principally for the transport of people rather than goods. The year 1886 is regarded as the birth year of the modern car. In that year, German inventor Karl Benz built the Benz Patent-Motorwagen. Cars did not become widely available until the early 20th century. One of the first cars that was accessible to the masses was the 1908 Model T, an American car manufactured by the Ford Motor Company. Cars were rapidly adopted in the United States of America, where they replaced animal-drawn carriages and carts, but took much longer to be accepted in Western Europe and other parts of the world.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_AUTOS]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>AUTOS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_BEER</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>Beer</Description>
+			<Help>Produced by the Beer Industry</Help>
+			<Civilopedia>
+				Beer is the world's most widely consumed and likely the oldest alcoholic beverage; it is the third most popular drink overall, after water and tea. The production of beer is called brewing, which involves the fermentation of starches, mainly derived from cereal grains, most commonly malted barley, although wheat, maize (corn), and rice are widely used. Most beer is flavoured with hops, which add bitterness and act as a natural preservative, though other flavourings such as herbs or fruit may occasionally be included. The fermentation process causes a natural carbonation effect, although this is often removed during processing, and replaced with forced carbonation. Some of humanity's earliest known writings refer to the production and distribution of beer: the Code of Hammurabi included laws regulating beer and beer parlours, and 'The Hymn to Ninkasi', a prayer to the Mesopotamian goddess of beer, served as both a prayer and as a method of remembering the recipe for beer in a culture with few literate people.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_BEER]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>BEER_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_TOYS</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>Toys</Description>
+			<Help>Produced by the Plastics Industry</Help>
+			<Civilopedia>
+				The golden age of toy development was at the turn of the 20th century. Real wages were rising steadily in the Western world, allowing even working-class families to afford toys for their children, and industrial techniques of precision engineering and mass production was able to provide the supply to meet this rising demand. Intellectual emphasis was also increasingly being placed on the importance of a wholesome and happy childhood for the future development of children. William Harbutt, an English painter, invented plasticine in 1897, and in 1900 commercial production of the material as a children's toy began. Frank Hornby was a visionary in toy development and manufacture and was responsible for the invention and production of three of the most popular lines of toys based on engineering principles in the twentieth century: Meccano, Hornby Model Railways and Dinky Toys.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_PLASTIC]</IconString>
+			<PortraitIndex>58</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+		</Row>
+		<Row>
+			<Type>RESOURCE_ELECTRONICS</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>Electronics</Description>
+			<Help>Produced by the Electronics Industry</Help>
+			<Civilopedia>
+				The electronics industry, especially meaning consumer electronics, emerged in the 20th century and has now become a global industry worth billions of dollars. Contemporary society uses all manner of electronic devices built in automated or semi-automated factories operated by the industry. Products are assembled from integrated circuits, principally by photolithography of printed circuit boards.
+			</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>1</Happiness>
+			<IconString>[ICON_RES_ELECTRONICS]</IconString>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_2</IconAtlas>
+		</Row>
+		<Update>
+			<Where Type="RESOURCE_BANANA"/>
+			<Set Happiness=".1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_CITRUS"/>
+			<Set Happiness=".1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_DYE"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_SPICES"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_SILK"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING" IconAtlas="SILKWORM_RESOURCE_ATLAS" PortraitIndex="0" IconString="[ICON_RES_SILKWORM]"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_SUGAR"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_COTTON"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_WINE"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_INCENSE"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_COCOA"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_BISON" />
+			<Set Happiness=".1"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_COW"/>
+			<Set Happiness=".1"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_FISH"/>
+			<Set Happiness=".1" TechCityTrade="TECH_WATERCRAFT"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_SHEEP"/>
+			<Set Happiness=".1"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_STONE"/>
+			<Set Description="Limestone" Happiness=".1" TechCityTrade="TECH_TOOLS"/>
+		</Update>
+		<!--WonderProductionMod="10" Help="+10% [ICON_PRODUCTION] Production when building Wonders in the City where it is worked."-->
+		<Update>
+			<Where Type="RESOURCE_WHEAT"/>
+			<Set Happiness=".1"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_COPPER"/>
+			<Set Happiness=".1" ArtDefineTag="ART_DEF_RESOURCE_LEAD" TechCityTrade="TECH_TRAPPING" Description="Lead" Civilopedia="Lead has been commonly used for thousands of years because it is widespread, easy to extract and easy to work with. It is highly malleable as well as easy to smelt. Metallic lead beads dating back to 6400 BCE have been found in Çatalhöyük in modern-day Turkey. In the early Bronze Age, lead was used with antimony and arsenic. The largest preindustrial producer of lead was the Roman economy, with an estimated annual output of 80,000 tonnes, which was typically won as a by-product of extensive silver smelting. Roman mining activities occurred in Central Europe, Roman Britain, the Balkans, Greece, Asia Minor and Hispania which alone accounted for 40% of world production. Roman lead pipes often bore the insignia of Roman emperors. Lead plumbing in the Latin West may have been continued beyond the age of Theoderic the Great into the medieval period. Many Roman 'pigs' (ingots) of lead figure in Derbyshire lead mining history and in the history of the industry in other English centers. The Romans also used lead in molten form to secure iron pins that held together large limestone blocks in certain monumental buildings. In alchemy, lead was thought to be the oldest metal and was associated with the planet Saturn. Alchemists accordingly used Saturn's symbol (the scythe) to refer to lead. Up to the 17th century, tin was often not distinguished from lead: lead was called plumbum nigrum (literally, 'black lead'), while tin was called plumbum candidum (literally, 'bright lead'). The Lead symbol Pb is an abbreviation of its Latin name plumbum for soft metals; the English words 'plumbing', 'plumber', 'plumb', and 'plumb-bob' also derive from this Latin root. Lead production in the US commenced as early as the late 1600s by the Indians in The Southeast Missouri Lead District, commonly called the Lead Belt, is a lead mining district in the southeastern part of Missouri. Significant among Missouri lead mining concerns in the district was the Desloge Family and Desloge Consolidated Lead Company in Desloge, Missouri and Bonne Terre – having been active in lead trading, mining and lead smelting from 1823 in Potosi to 1929." IconString="[ICON_MIN_LEAD]" IconAtlas="REP_RESOURCE_ATLAS_MINERALS" PortraitIndex="4"/>
+		</Update>
+
+		<Update>
+			<Where Type="RESOURCE_IRON"/>
+			<Set TechReveal="TECH_IRON_WORKING" TechCityTrade="TECH_IRON_WORKING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_COAL"/>
+			<Set TechReveal="TECH_CHEMISTRY" TechCityTrade="TECH_CHEMISTRY"/>
+		</Update>
+
+		<Update>
+			<Where Type="RESOURCE_PEARLS"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_DEER"/>
+			<Set Happiness=".1" TechCityTrade="NULL"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_GOLD"/>
+			<Set Happiness="1"  TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_SILVER"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_GEMS"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_MARBLE"/>
+			<Set Happiness="1" TechCityTrade="TECH_TOOLS" WonderProductionModObsoleteEra="NULL" Civilopedia="Marble is a beautiful rock highly prized as a building material and by artists for sculpting. Marble comes in a variety of colors and shades, sometimes mono-colored and sometimes with veins and pockets of many different colors within. Many of the most beautiful structures in the world - including the Taj Mahal, for one - are constructed of marble, as are the greatest sculptures of antiquity.[NEWLINE][NEWLINE]+15% [ICON_PRODUCTION] Production when building Wonders in the City where it is worked."/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_IRON"/>
+			<Set TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_HORSE"/>
+			<Set TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_NUTMEG"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_CLOVES"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_PEPPER"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_BISON"/>
+			<Set TechCityTrade="NULL"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_JEWELRY"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_PORCELAIN"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_COPPER"/>
+			<Set TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_SALT"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_CRAB"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+		<Update>
+			<Where Type="RESOURCE_WHALE"/>
+			<Set Happiness="1" TechCityTrade="TECH_TRAPPING"/>
+		</Update>
+	</Resources>
+	<Resource_YieldChanges>
+		<Delete ResourceType="RESOURCE_COPPER"/>
+		<Delete ResourceType="RESOURCE_WHEAT"/>
+		<Delete ResourceType="RESOURCE_FISH"/>
+		<Delete ResourceType="RESOURCE_WHALE"/>
+		<Delete ResourceType="RESOURCE_BANANA"/>
+		<Row>
+			<ResourceType>RESOURCE_BANANA</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_BANANA</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_BISON</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_COW</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_SHEEP</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_FISH</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_WHALE</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_WHALE</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_PEARLS"/>
+		<Row>
+			<ResourceType>RESOURCE_PEARLS</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_GOLD"/>
+		<Row>
+			<ResourceType>RESOURCE_GOLD</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_SILVER"/>
+		<Row>
+			<ResourceType>RESOURCE_SILVER</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_GEMS"/>
+		<Row>
+			<ResourceType>RESOURCE_GEMS</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_MARBLE"/>
+		<Row>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_IVORY"/>
+		<Row>
+			<ResourceType>RESOURCE_IVORY</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_IVORY</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_FUR"/>
+		<Row>
+			<ResourceType>RESOURCE_FUR</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_FUR</ResourceType>
+			<YieldType>YIELD_HEALTH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_DYE"/>
+		<Row>
+			<ResourceType>RESOURCE_DYE</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_DYE</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_SPICES"/>
+		<Row>
+			<ResourceType>RESOURCE_SPICES</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_SPICES</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_SILK"/>
+		<Row>
+			<ResourceType>RESOURCE_SILK</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		
+		<Delete ResourceType="RESOURCE_SUGAR"/>
+			<Row>	
+			<ResourceType>RESOURCE_SUGAR</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		
+		<Delete ResourceType="RESOURCE_COTTON"/>
+		<Row>
+			<ResourceType>RESOURCE_COTTON</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_COTTON</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_WINE"/>
+		<Row>
+			<ResourceType>RESOURCE_WINE</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		
+		<Delete ResourceType="RESOURCE_INCENSE"/>
+		<Row>
+			<ResourceType>RESOURCE_INCENSE</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_INCENSE</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_TRUFFLES"/>
+		<Row>
+			<ResourceType>RESOURCE_TRUFFLES</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_TRUFFLES</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		
+		<!--LEAD-->
+		<Row>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<ResourceType>RESOURCE_TEXTILES</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_TEXTILES</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PERFUME</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PERFUME</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_LEATHER</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_LEATHER</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_POTTERY</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_GLASS</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_GLASS</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_POTTERY</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_ORG_OIL</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_ORG_OIL</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_LIQUOR</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_LIQUOR</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PAPER</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PAPER</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_BOOKS</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_BOOKS</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_CIGARS</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_CHEESE</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_CHEESE</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_CHEMICALS</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_CHEMICALS</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_MACHINERY</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_MACHINERY</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PHARMA</ResourceType>
+			<YieldType>YIELD_HEALTH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PHARMA</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_AUTOS</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_AUTOS</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_BEER</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_BEER</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_TOYS</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_TOYS</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_ELECTRONICS</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_ELECTRONICS</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Resource_YieldChanges>
+	<Improvement_ResourceType_Yields>
+		<Delete ResourceType="RESOURCE_COPPER"/>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_COAL"/>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_ALUMINUM"/>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_URANIUM"/>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_MARBLE"/>
+		<Row>
+			<ImprovementType>IMPROVEMENT_QUARRY</ImprovementType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_QUARRY</ImprovementType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_STONE"/>
+		<Row>
+			<ImprovementType>IMPROVEMENT_QUARRY</ImprovementType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_HORSE"/>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_COW"/>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<ResourceType>RESOURCE_COW</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
+			<ResourceType>RESOURCE_IVORY</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<ResourceType>RESOURCE_SHEEP</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Delete ImprovementType="IMPROVEMENT_FISHING_BOATS"/>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<ResourceType>RESOURCE_FISH</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<ResourceType>RESOURCE_WHALE</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<ResourceType>RESOURCE_WHALE</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<ResourceType>RESOURCE_PEARLS</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<ResourceType>RESOURCE_PEARLS</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Delete ResourceType="RESOURCE_BANANA"/>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<ResourceType>RESOURCE_BANANA</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<ResourceType>RESOURCE_CRAB</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
+			<ResourceType>RESOURCE_BISON</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<ResourceType>RESOURCE_COCOA</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
+			<ResourceType>RESOURCE_FUR</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
+			<ResourceType>RESOURCE_DEER</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<ResourceType>RESOURCE_DYE</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<ResourceType>RESOURCE_SILK</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<ResourceType>RESOURCE_SPICES</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<ResourceType>RESOURCE_SUGAR</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<ResourceType>RESOURCE_COTTON</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<ResourceType>RESOURCE_WINE</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<ResourceType>RESOURCE_INCENSE</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<ResourceType>RESOURCE_SALT</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
+			<ResourceType>RESOURCE_TRUFFLES</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<ResourceType>RESOURCE_CITRUS</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_ResourceType_Yields>
+	<Resource_Flavors>
+		<Row>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_GUNPOWDER</ResourceType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_GUNPOWDER</ResourceType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_BRONZE</ResourceType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_BRONZE</ResourceType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_COMPOSITES</ResourceType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_COMPOSITES</ResourceType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+
+		<Row>
+			<ResourceType>RESOURCE_TEXTILES</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_LEATHER</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PERFUME</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_POTTERY</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_GLASS</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_ORG_OIL</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_LIQUOR</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PAPER</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_BOOKS</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_CIGARS</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_CHEESE</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_CHEMICALS</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_MACHINERY</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PHARMA</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_AUTOS</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_BEER</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_TOYS</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_ELECTRONICS</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Resource_Flavors>
+</GameData>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ff1b9b16-e2de-49f0-a963-93decb5b7f52" version="3">
+  <Properties>
+    <Name>Smart AI</Name>
+    <Teaser>Mod that updrage AI behavior.</Teaser>
+    <Description>This is an AI upgrade in their behaviour, doesn't change the game mechanics, and doesn't change any database variable to do so. AI use their knowledge based on what they see and know and perform moves much like a human would do. The goal of this patch is to make the AI perform better, respecting how AI works.[NEWLINE]
+[NEWLINE]
+V3 Bring some fixes, some enhancements from other mods, better build/train decission and better tech progression.[NEWLINE]
+[NEWLINE]
+V2 version treat some economic-related issues, on next versions I will refine the economic department and focus on diplomacy issues.[NEWLINE]
+[NEWLINE]
+This mod replaces BNW Core Assembly (Dll), any other mod that also edits the core dll would be incompatible with it. All lua and/or database mods should work with this mod without problems.[NEWLINE]
+[NEWLINE]
+This mod is in beta stage, should be stable anyways. I strongly encourage people to give feedback on how the mod really works, and any crash that may occur.[NEWLINE]
+[NEWLINE]
+[COLOR_POSITIVE_TEXT]V1 changes:[ENDCOLOR][NEWLINE]
+-----------------[NEWLINE]
+[NEWLINE]
+- AI ranged units are always able to move AND shoot on the same turn.[NEWLINE]
+[NEWLINE]
+- AI should not attack over and over a city with 1 HP remaining.[NEWLINE]
+[NEWLINE]
+- AI should use air sweep missions/interceptions more consistently.[NEWLINE]
+[NEWLINE]
+- AI now doesn't randomly embark to water tiles[NEWLINE]
+[NEWLINE]
+- AI should use Great people more effectively, plant some improvements, early, and later use GP powers.[NEWLINE]
+[NEWLINE]
+- AI will not use obsolete/no value items as part of a deal if asked to balance things out.[NEWLINE]
+[NEWLINE]
+- AI will now choose unit promotions in a more random fashion, still prioritizing on better promotions.[NEWLINE]
+[NEWLINE]
+[COLOR_POSITIVE_TEXT]V2 changes:[ENDCOLOR][NEWLINE]
+------------[NEWLINE]
+[NEWLINE]
+- AI will start disbanding archeologists if there are not valid targets. Stop making archeologists sooner than on the original dll.[NEWLINE]
+[NEWLINE]
+- AI will enphasize a bit more on workers.[NEWLINE]
+[NEWLINE]
+- AI will purchase units and buildings in cities under certain conditions, on the original only purchase units for operations and for defensive purposes, and no building purchase.[NEWLINE]
+[NEWLINE]
+- AI will disband long obsolete units like triremes on industrial era.[NEWLINE]
+[NEWLINE]
+- AI will evaluate with a decent importance science grand strategy at renaissance, on original was largely ignored until apolo program and latest eras.[NEWLINE]
+[NEWLINE]
+- AI will make better policy choices ignoring grand strategy until medieval and giving less importance to opening branches vs unlocked branches.[NEWLINE]
+[NEWLINE]
+- AI will upgrade more units per turn if there are lots of units that can be upgraded. Will also upgrade air units more often.[NEWLINE]
+[NEWLINE]
+- Corrected an unusual bug that could make the game crash when a settler was ordered by AI.[NEWLINE]
+[NEWLINE]
+[COLOR_POSITIVE_TEXT]V3 changes:[ENDCOLOR][NEWLINE]
+------------[NEWLINE]
+[NEWLINE]
+- Some fixes and enhancements from Artificial Unintelligence mod (all merits to Delnar!), most are for better AI tactical and operation ability, with some behaviour fixes.[NEWLINE]
+[NEWLINE]
+- Some fixes for Tactical analysis map internal calculations from Community Patch Project (thanks to Gazebo, Iteroi and all the team!).[NEWLINE]
+[NEWLINE]
+- AI will properly focus city on production while doing wonders and settlers (also from Community Patch Project).[NEWLINE]
+[NEWLINE]
+- Some fixes on V1 and V2 changes, mostly done in both Artificial Unintelligence mod and Community Patch Project.[NEWLINE]
+[NEWLINE]
+- AI Air rebase enhanced, to properly bring planes to the most needed cities, also won't flee from a city/carrier until REAL danger.[NEWLINE]
+[NEWLINE]
+- AI will only build world wonders on their most productive cities, and only will build some national wonders on the best cities to get the most of these building bonuses.[NEWLINE]
+[NEWLINE]
+- AI will create some core defense troops early, at least to cover cities, workers and settlers with one combat unit to avoid being too weak against barb attacks and rushes (incredibly useful for mods that give the AI less free starting units on higher difficulties IE my balance mod).[NEWLINE]
+[NEWLINE]
+- AI desired minimum and recommended troops are scaled with difficulty and more city-based. AI will train units more often if the total combat unit count is absurdly low.[NEWLINE]
+[NEWLINE]
+- AI desired minimum and recommended troops value based on threat fixed (specially useful isolated/distant civs), now it scales from 50% to 150% properly.[NEWLINE]
+[NEWLINE]
+- AI will dinamically create workers based on owned tiles still to be upgraded (useful when there's lots of tiles hard to upgrade IE jungle).[NEWLINE]
+[NEWLINE]
+- AI capital settler need for first three cities also scales with difficulty parameters (better bonuses = faster initial expansion).[NEWLINE]
+[NEWLINE]
+- Fix for AI tech selection: AI will emphasize on techs that enable luxuries effectively, now also working with resources and sea resources/luxuries.[NEWLINE]
+[NEWLINE]
+- More on AI Tech selection: AI will start considering grand strategy over situational needs faster based on difficulty bonsuses.[NEWLINE]
+[NEWLINE]
+- Better Tech selection based on flavors: AI flavor propagation formula fixed to distribute the value if there are several required techs needed to reach that Tech. Also some fixes to boost tech desire for the ones near the end of the tree (due the tech propagation computation, those didn't get much love).</Description>
+    <Authors>Ninakoru</Authors>
+    <SpecialThanks>Delnar_Ersike, Gazebo, Iteroi</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://www.ninakoru.com</Homepage>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="E8414DC92717CC3F5C3C3482EB1DD7AD" import="1">CvGameCore_Expansion2.dll</File>
+  </Files>
+</Mod>

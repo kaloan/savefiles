@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/25/2014 9:45:23 PM -->
+<GameData>
+	<Improvements>
+		<!--<Row>
+			<Type>IMPROVEMENT_CUSTOM_IMPROVEMENT_6</Type>
+			<Description>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</IconAtlas>
+		</Row>-->
+		<!--<Row>
+			<Type>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2</Type>
+			<Description>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</IconAtlas>
+		</Row>-->
+		<Row>
+			<Type>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3</Type>
+			<Description>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>8</PortraitIndex>
+			<IconAtlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4</Type>
+			<Description>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>4</PortraitIndex>
+			<IconAtlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5</Type>
+			<Description>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>6</PortraitIndex>
+			<IconAtlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</IconAtlas>
+		</Row>
+	</Improvements>
+	<Improvement_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>6</Yield>
+		</Row>
+	</Improvement_Yields>
+	<Improvement_ValidTerrains>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6</ImprovementType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2</ImprovementType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3</ImprovementType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4</ImprovementType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5</ImprovementType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+	</Improvement_ValidTerrains>
+	<Improvement_ValidFeatures>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6</ImprovementType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6</ImprovementType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+		</Row>
+	</Improvement_ValidFeatures>
+	<Improvement_TechYieldChanges>
+		<!--<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6</ImprovementType>
+			<TechType>TECH_EDUCATION</TechType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6</ImprovementType>
+			<TechType>TECH_EDUCATION</TechType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>-->
+	<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4</ImprovementType>
+			<TechType>TECH_PLASTIC</TechType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_TechYieldChanges>
+
+	<ArtDefine_Landmarks>
+		<Row>
+			<Era>Any</Era>
+			<State>Constructed</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>CommsArray.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Pillaged</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>CommsArray_PL.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>UnderConstruction</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>CommsArray_build.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Constructed</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>NetworkNode.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Pillaged</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>NetworkNode_PL.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>UnderConstruction</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>NetworkNode_build.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>UnderConstruction</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>BioDomes_build.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Constructed</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>BioDomes.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Pillaged</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>BioDomes_PL.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>UnderConstruction</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>IndustrialSite_build.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Constructed</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>IndustrialSite.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Pillaged</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>IndustrialSite_PL.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>UnderConstruction</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>HERC_build.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Constructed</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>HERC.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Pillaged</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>HERC_PL.fxsxml</Model>
+		</Row>
+
+		<Row>
+			<Era>Any</Era>
+			<State>Any</State>
+			<Scale>1.4</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_NONE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_GREY_GOO</ResourceType>
+			<Model>GreyGoo.fxsxml</Model>
+		</Row>
+	</ArtDefine_Landmarks>
+
+	<Builds>
+		<!--<Row>
+			<Type>BUILD_CUSTOM_IMPROVEMENT_6</Type>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+			<Time>800</Time>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6</ImprovementType>
+			<Description>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6</Description>
+			<Help>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_Z</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>1</IconIndex>
+			<IconAtlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_CUSTOM_IMPROVEMENT_6_2</Type>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+			<Time>800</Time>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2</ImprovementType>
+			<Description>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_2</Description>
+			<Help>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_2_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_2_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_Z</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>3</IconIndex>
+			<IconAtlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</IconAtlas>
+		</Row>-->
+		<Row>
+			<Type>BUILD_CUSTOM_IMPROVEMENT_6_3</Type>
+			<PrereqTech>TECH_HYDROPONICS</PrereqTech>
+			<Time>800</Time>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3</ImprovementType>
+			<Description>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_3</Description>
+			<Help>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_3_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_3_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_Z</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>9</IconIndex>
+			<IconAtlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_CUSTOM_IMPROVEMENT_6_4</Type>
+			<PrereqTech>TECH_ELECTRICITY</PrereqTech>
+			<Time>800</Time>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4</ImprovementType>
+			<Description>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_4</Description>
+			<Help>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_4_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_4_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_Z</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>5</IconIndex>
+			<IconAtlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_CUSTOM_IMPROVEMENT_6_5</Type>
+			<PrereqTech>TECH_PARTICLE_PHYSICS</PrereqTech>
+			<Time>800</Time>
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5</ImprovementType>
+			<Description>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_5</Description>
+			<Help>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_5_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_5_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_Z</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>7</IconIndex>
+			<IconAtlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</IconAtlas>
+		</Row>
+	</Builds>
+	<BuildFeatures>
+		<Row>
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_6_3</BuildType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			
+			<Production>20</Production>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_6_3</BuildType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+			
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_6_3</BuildType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+			<PrereqTech>TECH_MASONRY</PrereqTech>
+			
+		</Row>
+		<Row>
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_6_4</BuildType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			
+			<Production>20</Production>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_6_4</BuildType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+			
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_6_4</BuildType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+			<PrereqTech>TECH_MASONRY</PrereqTech>
+			
+		</Row>
+		<Row>
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_6_5</BuildType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			
+			<Production>20</Production>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_6_5</BuildType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+			
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_6_5</BuildType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+			<PrereqTech>TECH_MASONRY</PrereqTech>
+			
+		</Row>
+	</BuildFeatures>
+	<Unit_Builds>
+		<!--<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_6</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_6_2</BuildType>
+		</Row>-->
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_6_3</BuildType>
+		</Row>
+		
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_6_4</BuildType>
+		</Row>
+		
+		<Row>
+			<UnitType>UNIT_MODERN_WORKER</UnitType>
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_6_5</BuildType>
+		</Row>
+	</Unit_Builds>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6">
+			<Text>Communications Array</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_TEXT">
+			<Text>A custom improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_HELP">
+			<Text>This custom improvement provides 2 [ICON_CULTURE] Culture and 2 [ICON_GOLD] Gold to the tile it's built on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6">
+			<Text>Build a Communications Array</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_HELP">
+			<Text>Build a Communications Array which increases the Culture and Gold yield of the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_REC">
+			<Text>It will increase the Culture and Gold yield of the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2">
+			<Text>Network Node</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2_TEXT">
+			<Text>A custom improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2_HELP">
+			<Text>This custom improvement provides 1 [ICON_CULTURE] Culture and 1 [ICON_GOLD] Gold to the tile it's built on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_2">
+			<Text>Build a Network Node</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_2_HELP">
+			<Text>Build a Network Node which increases the Culture and Gold yield of the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_2_REC">
+			<Text>It will increase the Culture and Gold yield of the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3">
+			<Text>Hydroponics Dome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3_TEXT">
+			<Text>Agriculture of the future...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3_HELP">
+			<Text>This custom improvement provides 5 [ICON_GROWTH] Food to the tile it's built on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_3">
+			<Text>Build a Hydroponics Dome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_3_HELP">
+			<Text>Build a Hydroponics Dome which increases the Food yield of the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_3_REC">
+			<Text>It will increase the Food yield of the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4">
+			<Text>Industrial Site</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4_TEXT">
+			<Text>It's time to industrialize...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4_HELP">
+			<Text>This custom improvement provides 3 [ICON_PRODUCTION] Production to the tile it's built on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_4">
+			<Text>Build an Industrial Site</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_4_HELP">
+			<Text>Build an Industrial Site which increases the Production yield of the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_4_REC">
+			<Text>It will increase the Production yield of the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5">
+			<Text>High-Energy Research Centre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5_TEXT">
+			<Text>The future is finally here...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5_HELP">
+			<Text>Can only be built by a Great Scientist. This custom improvement provides 15 [ICON_RESEARCH] Science to the tile it's built on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_5">
+			<Text>Build a High-Energy Research Centre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_5_HELP">
+			<Text>Build a High-Energy Research Centre which increases the Science yield of the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_6_5_REC">
+			<Text>It will increase the Science yield of the tile.</Text>
+		</Row>
+	</Language_en_US>
+
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>Improvements/Future2IconAtlas256.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>Improvements/Future2IconAtlas128.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>Improvements/Future2IconAtlas80.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>Improvements/Future2IconAtlas64.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</Atlas>
+			<IconSize>48</IconSize>
+			<Filename>Improvements/Future2IconAtlas48.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>Improvements/Future2IconAtlas45.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>Improvements/Future2IconAtlas32.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/12/2012 4:09:59 PM -->
+<GameData>
+	<!--RESOURCES-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RESOURCE_BLUECRABZ">
+			<Text>Blue Crab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BLUECRABZ">
+			<Text>Blue Crab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BLUECRABZ_TEXT">
+			<Text>Portunus trituberculatus, the gazami crab, Japanese blue crab or horse crab, is the most widely fished species of crab in the world. It is found off the coasts of East Asia and is closely related to Portunus pelagicus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_KINGCRABZ">
+			<Text>King Crab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_KINGCRABZ">
+			<Text>King Crab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_KINGCRABZ_TEXT">
+			<Text>King crabs are a superfamily of crab-like decapod crustaceans chiefly found in cold seas. Because of their large size and the taste of their meat, many species are widely caught and sold as food, the most common being the red king crab, Paralithodes camtschaticus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_STONECRABZ">
+			<Text>Stone Crab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STONECRABZ">
+			<Text>Stone Crab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STONECRABZ_TEXT">
+			<Text>The Florida stone crab, Menippe mercenaria, is a crab found in the western North Atlantic, from Connecticut to Belize, including Texas, the Gulf of Mexico, Cuba and the Bahamas that is widely caught for food. The closely related species Menippe adina (gulf stone crab) is sometimes considered a subspecies – they can interbreed, forming hybrids – and they are treated as one species for commercial fishing, with their ranges partly overlapping. The two species are believed to have diverged approximately 3 million years ago.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_GREYWHALEZ">
+			<Text>Grey Whale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_GREYWHALEZ">
+			<Text>Grey Whale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_GREYWHALEZ_TEXT">
+			<Text>The gray whale (Eschrichtius robustus) is a baleen whale that migrates between feeding and breeding grounds yearly. It reaches a length of 14.9 meters (49 ft), a weight of 36 tonnes (40 short tons), and lives between 55 and 70 years. The common name of the whale comes from the gray patches and white mottling on its dark skin. Gray whales were once called devil fish because of their fighting behavior when hunted. The gray whale is the sole living species in the genus Eschrichtius, which in turn is the sole living genus in the family Eschrichtiidae. This mammal descended from filter-feeding whales that developed at the beginning of the Oligocene, over 30 million years ago.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BLUEWHALEZ">
+			<Text>Blue Whale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BLUEWHALEZ">
+			<Text>Blue Whale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BLUEWHALEZ_TEXT">
+			<Text>The blue whale (Balaenoptera musculus) is a marine mammal belonging to the baleen whales (Mysticeti). At 30 metres (98 ft) in length and 170 tonnes (190 short tons) or more in weight, it is the largest known animal ever to have existed. Long and slender, the blue whale's body can be various shades of bluish-grey dorsally and somewhat lighter underneath. There are at least three distinct subspecies: B. M. musculus of the North Atlantic and North Pacific, B. m. intermedia of the Southern Ocean and B. m. brevicauda (also known as the pygmy blue whale) found in the Indian Ocean and South Pacific Ocean. B. m. indica, found in the Indian Ocean, may be another subspecies. As with other baleen whales, its diet consists almost exclusively of small crustaceans known as krill.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_HUMPBACKWHALEZ">
+			<Text>Humpback Whale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_HUMPBACKWHALEZ">
+			<Text>Humpback Whale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_HUMPBACKWHALEZ_TEXT">
+			<Text>The humpback whale (Megaptera novaeangliae) is a species of baleen whale. One of the larger rorqual species, adults range in length from 12–16 metres (39–52 ft) and weigh approximately 36,000 kilograms (79,000 lb). The humpback has a distinctive body shape, with unusually long pectoral fins and a knobbly head. An acrobatic animal known for breaching and slapping the water with its tail and pectorals, it is popular with whale watchers off Australia, New Zealand, South America, Canada, and the United States. Males produce a complex song lasting 10 to 20 minutes, which they repeat for hours at a time. Its purpose is not clear, though it may have a role in mating.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TROPICALFISHZ">
+			<Text>Tropical Fish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TROPICALFISHZ">
+			<Text>Tropical Fish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TROPICALFISHZ_TEXT">
+			<Text>Tropical fish include fish found in tropical environments around the world, including both freshwater and salt water species. Tropical fish are popular as aquarium fish, due to their often bright coloration. In freshwater fish, this coloration typically derives from iridescence, while salt water fish are generally pigmented.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MARLINZ">
+			<Text>Marlin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MARLINZ">
+			<Text>Marlin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MARLINZ_TEXT">
+			<Text>A marlin is a fish from the family Istiophoridae. It has an elongated body, a spear-like snout or bill, and a long, rigid dorsal fin which extends forward to form a crest. Its common name is thought to derive from its resemblance to a sailor's marlinspike. Even more so than their close relatives, the scombrids, marlins are fast swimmers, reaching speeds of about 80 km/h (50 mph)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_GREATWHITEZ">
+			<Text>Great White</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_GREATWHITEZ">
+			<Text>Great White</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_GREATWHITEZ_TEXT">
+			<Text>The great white shark (Carcharodon carcharias), also known as the great white, white pointer, white shark, or white death, is a species of large lamniform shark which can be found in the coastal surface waters of all the major oceans. The great white shark is mainly known for its size, with mature individuals growing up to 6.4 m (21 ft) in length (although reports have been published of great white sharks measuring over 8 m (26 ft), and 3,324 kg (7,328 lb) in weight). This shark reaches its maturity around 15 years of age and was previously believed to have a life span of over 30 years. The true lifespan of great white sharks is far longer; now estimated to be as long as 70 years or more, making it one of the longest lived cartilaginous fish currently known. Great white sharks can accelerate to speeds that exceed 56 km/h (35 mph).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TUNAZ">
+			<Text>Tuna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TUNAZ">
+			<Text>Tuna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TUNAZ_TEXT">
+			<Text>A tuna is a saltwater finfish that belongs to the tribe Thunnini, a sub-grouping of the mackerel family (Scombridae) – which together with the tunas, also includes the bonitos, mackerels, and Spanish mackerels. Thunnini comprises fifteen species across five genera, the sizes of which vary greatly, ranging from the bullet tuna (max. length: 50 cm (1.6 ft), weight: 1.8 kg (4 lb)) up to the Atlantic bluefin tuna (max. length: 4.6 m (15 ft), weight: 684 kg (1,508 lb)). The bluefin averages 2 m (6.6 ft), and is believed to live for up to 50 years.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_DOLPHINZ">
+			<Text>Dolphin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_DOLPHINZ">
+			<Text>Dolphin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_DOLPHINZ_TEXT">
+			<Text>Dolphins are cetacean mammals closely related to whales and porpoises. There are almost forty species of dolphin in 17 genera. They vary in size from 1.2 m (4 ft) and 40 kg (90 lb) (Maui's dolphin), up to 9.5 m (30 ft) and 10 tonnes (9.8 long tons; 11 short tons) (the orca or killer whale). They are found worldwide, mostly in the shallower seas of the continental shelves and are carnivores, eating mostly fish and squid. The family Delphinidae, the largest in the order Cetacea, evolved relatively recently, about ten million years ago during the Miocene.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SQUIDZ">
+			<Text>Squid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SQUIDZ">
+			<Text>Squid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SQUIDZ_TEXT">
+			<Text>Squid are cephalopods of the order Teuthida, which comprises around 300 species. Like all other cephalopods, squid have a distinct head, bilateral symmetry, a mantle, and arms. Squid, like cuttlefish, have eight arms arranged in pairs and two, usually longer, tentacles. Squid are strong swimmers and certain species can "fly" for short distances out of the water.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BASSZ">
+			<Text>Bass</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BASSZ">
+			<Text>Bass</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BASSZ_TEXT">
+			<Text>Bass /ˈbæs/ is a name shared by many different species of fish. The term encompasses both freshwater and marine species. All belonging to the large order Perciformes, or perch-like fishes, and in fact the word bass comes from Middle English bars, meaning "perch.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TROUTZ">
+			<Text>Trout</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TROUTZ">
+			<Text>Trout</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TROUTZ_TEXT">
+			<Text>Trout is the name for a number of species of freshwater fish belonging to the genera Oncorhynchus, Salmo and Salvelinus, all of the subfamily Salmoninae of the family Salmonidae. The word trout is also used as part of the name of some non-salmonid fish such as Cynoscion nebulosus, the spotted seatrout or speckled trout.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SALMONZ">
+			<Text>Salmon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SALMONZ">
+			<Text>Salmon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SALMONZ_TEXT">
+			<Text>Salmon /ˈsæmən/ is the common name for several species of fish in the family Salmonidae. Other fish in the same family are called trout. The difference between salmon and trout is sometimes said to be that salmon migrate and trout are resident, and that salmon spawn once and trout spawn many times, though these distinctions are not always strictly true. Salmon live along the coasts of both the North Atlantic (the migratory species Salmo salar) and Pacific Oceans (half a dozen species of the genus Oncorhynchus), and have also been introduced into the Great Lakes of North America. Salmon are intensively produced in aquaculture in many parts of the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CORALZ">
+			<Text>Coral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CORALZ">
+			<Text>Coral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CORALZ_TEXT">
+			<Text>Corals are marine invertebrates in class Anthozoa of phylum Cnidaria typically living in compact colonies of many identical individual "polyps". The group includes the important reef builders that inhabit tropical oceans and secrete calcium carbonate to form a hard skeleton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SHRIMPZ">
+			<Text>Shrimp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SHRIMPZ">
+			<Text>Shrimp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SHRIMPZ_TEXT">
+			<Text>The term shrimp is used to refer to some decapod crustaceans, although the exact animals covered can vary. Used broadly, it may cover any of the groups with elongated bodies and a primarily swimming mode of locomotion – chiefly Caridea and Dendrobranchiata. In some fields, however, the term is used more narrowly, and may be restricted to Caridea, to smaller species of either group, or to only the marine species. Under the broader definition, shrimp may be synonymous with prawn, covering stalk-eyed swimming crustaceans with long narrow muscular tails (abdomens), long whiskers (antennae) and slender legs. They swim forwards by paddling with swimmerets on the underside of their abdomens. Crabs and lobsters have strong walking legs, whereas shrimp have thin fragile legs which they use primarily for perching.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_OYSTERSZ">
+			<Text>Oyster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_OYSTERSZ">
+			<Text>Oyster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_OYSTERSZ_TEXT">
+			<Text>The word oyster is used as a common name for a number of distinct groups of bivalve molluscs that live in marine or brackish habitats. The valves are highly calcified. Some kinds of oysters are commonly consumed, cooked or raw, by humans as a delicacy. Other kinds, such as pearl oysters, generally not eaten by humans, are harvested for the pearl produced within the mantle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LOBSTERZ">
+			<Text>Lobster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_LOBSTERZ">
+			<Text>Lobster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_LOBSTERZ_TEXT">
+			<Text>Lobsters are invertebrates with a hard protective exoskeleton. Like most arthropods, lobsters must moult in order to grow, which leaves them vulnerable. During the moulting process, several species change colour. Lobsters have 10 walking legs; the front three pairs bear claws, the first of which are larger than the others. Although, like most other arthropods, lobsters are largely bilaterally symmetrical, some genera possess unequal, specialised claws.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CLAMZ">
+			<Text>Clam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CLAMZ">
+			<Text>Clam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CLAMZ_TEXT">
+			<Text>The term clam generally refers to those bivalve molluscs that live buried in sand or silt, many of which are edible.Clams, like most molluscs, also have open circulatory systems, which means that their organs are surrounded by watery blood that contains nutrients and oxygen. They feed on plankton by filter feeding. Clams filter feed by drawing in water containing food using an incurrent siphon. The food is then filtered out of the water by the gills and swept toward the mouth on a layer of mucus. The water is then expelled from the animal by an ex-current siphon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_DIAMONDZ">
+			<Text>Diamond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_DIAMONDZ">
+			<Text>Diamond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_DIAMONDZ_TEXT">
+			<Text>In mineralogy, diamond (from the ancient Greek αδάμας – adámas "unbreakable") is a metastable allotrope of carbon, where the carbon atoms are arranged in a variation of the face-centered cubic crystal structure called a diamond lattice. Diamond is less stable than graphite, but the conversion rate from diamond to graphite is negligible at standard conditions. Diamond is renowned as a material with superlative physical qualities, most of which originate from the strong covalent bonding between its atoms. In particular, diamond has the highest hardness and thermal conductivity of any bulk material. Those properties determine the major industrial application of diamond in cutting and polishing tools and the scientific applications in diamond knives and diamond anvil cells.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_RUBYZ">
+			<Text>Ruby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_RUBYZ">
+			<Text>Ruby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_RUBYZ_TEXT">
+			<Text>A ruby is a pink to blood-red colored gemstone, a variety of the mineral corundum (aluminium oxide). The red color is caused mainly by the presence of the element chromium. Its name comes from ruber, Latin for red. The ruby is considered one of the four precious stones, together with the sapphire, the emerald and the diamond.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_EMERALDZ">
+			<Text>Emerald</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_EMERALDZ">
+			<Text>Emerald</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_EMERALDZ_TEXT">
+			<Text>Emerald is a gemstone, and a variety of the mineral beryl colored green by trace amounts of chromium and sometimes vanadium. Beryl has a hardness of 7.5–8 on the 10-point Mohs scale of mineral hardness. Most emeralds are highly included, so their toughness (resistance to breakage) is classified as generally poor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SAPPHIREZ">
+			<Text>Sapphire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SAPPHIREZ">
+			<Text>Sapphire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SAPPHIREZ_TEXT">
+			<Text>Sapphire (Greek: σάπφειρος; sappheiros, 'blue stone', which was referred to instead at the time as lapis lazuli) is a gemstone variety of the mineral corundum, an aluminium oxide. Trace amounts of other elements such as iron, titanium, chromium, copper, or magnesium can give corundum blue, yellow, purple, orange, or a greenish color.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LEADZ">
+			<Text>Lead</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_LEADZ">
+			<Text>Lead</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_LEADZ_TEXT">
+			<Text>
+				Lead is a chemical element in the carbon group with symbol Pb (from Latin: plumbum) and atomic number 82. Lead is a soft and malleable metal, which is regarded as a heavy metal and an other metal. Metallic lead has a bluish-white color after being freshly cut, but it soon tarnishes to a dull grayish color when exposed to air. Lead has a shiny chrome-silver luster when it is melted into a liquid. It is also the heaviest non-radioactive element.
+				Lead is used in building construction, lead-acid batteries, bullets and shot, weights, as part of solders, pewters, fusible alloys, and as a radiation shield.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_NICKELZ">
+			<Text>Nickel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_NICKELZ">
+			<Text>Nickel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_NICKELZ_TEXT">
+			<Text>Nickel is a chemical element with the chemical symbol Ni and atomic number 28. It is a silvery-white lustrous metal with a slight golden tinge. Nickel belongs to the transition metals and is hard and ductile. Pure nickel shows a significant chemical activity that can be observed when nickel is powdered to maximize the exposed surface area on which reactions can occur, but larger pieces of the metal are slow to react with air at ambient conditions due to the formation of a protective oxide surface. Even then, nickel is reactive enough with oxygen that native nickel is rarely found on Earth's surface, being mostly confined to the interiors of larger nickel–iron meteorites that were protected from oxidation during their time in space. On Earth, such native nickel is always found in combination with iron, a reflection of those elements' origin as major end products of supernova nucleosynthesis. An iron–nickel mixture is thought to compose Earth's inner core.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PLATINUMZ">
+			<Text>Platinum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PLATINUMZ">
+			<Text>Platinum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PLATINUMZ_TEXT">
+			<Text>
+				Platinum is a chemical element with the chemical symbol Pt and an atomic number of 78.
+				Its name is derived from the Spanish term platina, which is literally translated into "little silver".It is a dense, malleable, ductile, precious, gray-white transition metal.Platinum has six naturally occurring isotopes.
+				It is one of the rarest elements in the Earth's crust and has an average abundance of approximately 5 μg/kg. It is the least reactive metal. It occurs in some nickel and copper ores along with some native deposits, mostly in South Africa, which accounts for 80% of the world production.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TITANIUMZ">
+			<Text>Titanium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TITANIUMZ">
+			<Text>Titanium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TITANIUMZ_TEXT">
+			<Text>Titanium is a chemical element with the symbol Ti and atomic number 22. It is a lustrous transition metal with a silver color, low density and high strength. It is highly resistant to corrosion in sea water, aqua regia and chlorine.Titanium was discovered in Cornwall, Great Britain, by William Gregor in 1791 and named by Martin Heinrich Klaproth for the Titans of Greek mythology. The element occurs within a number of mineral deposits, principally rutile and ilmenite, which are widely distributed in the Earth's crust and lithosphere, and it is found in almost all living things, rocks, water bodies, and soils. The metal is extracted from its principal mineral ores via the Kroll process or the Hunter process. Its most common compound, titanium dioxide, is a popular photocatalyst and is used in the manufacture of white pigments. Other compounds include titanium tetrachloride (TiCl4), a component of smoke screens and catalysts; and titanium trichloride (TiCl3), which is used as a catalyst in the production of polypropylene.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MANGANESEZ">
+			<Text>Manganese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MANGANESEZ">
+			<Text>Manganese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MANGANESEZ_TEXT">
+			<Text>
+				Manganese is a chemical element, designated by the symbol Mn. It has the atomic number 25. It is found as a free element in nature (often in combination with iron), and in many minerals. Manganese is a metal with important industrial metal alloy uses, particularly in stainless steels.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CINNAMONZ">
+			<Text>Cinnamon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CINNAMONZ">
+			<Text>Cinnamon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CINNAMONZ_TEXT">
+			<Text>
+				Cinnamon (/ˈsɪnəmən/ sin-ə-mən) is a spice obtained from the inner bark of several trees from the genus Cinnamomum that is used in both sweet and savoury foods. While Cinnamomum verum is sometimes considered to be "true cinnamon", most cinnamon in international commerce is derived from related species, which are also referred to as "cassia" to distinguish them from "true cinnamon".
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_FRANKINCENSEZ">
+			<Text>Frankincense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_FRANKINCENSEZ">
+			<Text>Frankincense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_FRANKINCENSEZ_TEXT">
+			<Text>
+				Frankincense, also called olibanum, is an aromatic resin obtained from trees of the genus Boswellia, particularly Boswellia sacra, B. carteri, B. thurifera, B. frereana and B. bhaw-dajiana (Burseraceae). The English word is derived from Old French "franc encens" (i.e., high quality incense) and is used in incense and perfumes.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_GINGERZ">
+			<Text>Ginger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_GINGERZ">
+			<Text>Ginger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_GINGERZ_TEXT">
+			<Text>
+				Ginger or ginger root is the rhizome of the plant Zingiber officinale, consumed as a delicacy, medicine, or spice. It lends its name to its genus and family (Zingiberaceae). Other notable members of this plant family are turmeric, cardamom, and galangal. The distantly related dicots in the Asarum genus have the common name wild ginger because of their similar taste.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LAVENDERZ">
+			<Text>Herbs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_LAVENDERZ">
+			<Text>Herbs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_LAVENDERZ_TEXT">
+			<Text>
+				In general use, [ICON_INC_LAVENDER] Herbs are any plants used for food, flavoring, medicine, or perfume. Culinary use typically distinguishes herbs from spices. Herbs refer to the leafy green parts of a plant (either fresh or dried), while a "spice" is a product from another part of the plant (usually dried), including seeds, berries, bark, roots and fruits.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MYRRHZ">
+			<Text>Myrrh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MYRRHZ">
+			<Text>Myrrh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MYRRHZ_TEXT">
+			<Text>
+				Myrrh /ˈmɜr/ from the Arabic مر (mur), is the aromatic resin of a number of small, thorny tree species of the genus Commiphora, which is an essential oil termed an oleoresin. Myrrh resin is a natural gum. It has been used throughout history as a perfume, incense and medicine. It can also be ingested by mixing it with wine. It was so valuable in ancient times that it was, at times, equal in weight value to gold.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SAFFRONZ">
+			<Text>Saffron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SAFFRONZ">
+			<Text>Saffron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SAFFRONZ_TEXT">
+			<Text>
+				Saffron (pronounced /ˈsæfrən/ or /ˈsæfrɒn/) is a spice derived from the flower of Crocus sativus, commonly known as the saffron crocus. Crocus is a genus in the family Iridaceae. Saffron crocus grows to 20–30 cm (8–12 in) and bears up to four flowers, each with three vivid crimson stigmas, which are the distal end of a carpel. Together with the styles, or stalks that connect the stigmas to their host plant, the dried stigmas are used mainly in various cuisines as a seasoning and colouring agent. Saffron, long among the world's most costly spices by weight, is native to Greece or Southwest Asia and was first cultivated in Greece. As a genetically monomorphic clone, it was slowly propagated throughout much of Eurasia and was later brought to parts of North Africa, North America, and Oceania.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BIRCHZ">
+			<Text>Birch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BIRCHZ">
+			<Text>Birch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BIRCHZ_TEXT">
+			<Text>
+				Birch is a broadleaved deciduous hardwood tree of the genus Betula (/ˈbɛtjʊlə/), in the family Betulaceae, which also includes alders, hazels, and hornbeams, and is closely related to the beech/oak family, Fagaceae. The genus Betula contains 30 to 60 known taxa of which 11 are on the IUCN 2011 Red List of Threatened Species. They are typically rather short-lived pioneer species widespread in the Northern Hemisphere, particularly in northern temperate and boreal climates. This tree is sometimes called "The Watchful Tree" because of eye-like impressions on the bark.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CEDARZ">
+			<Text>Cedar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CEDARZ">
+			<Text>Cedar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CEDARZ_TEXT">
+			<Text>
+				Cedars are evergreen trees that can reach heights of 50 feet, and their foliage is needle-shaped. Unlike the long needles of pine trees, cedar foliage is short, soft and resembles ferns. The bark of the tree is thin and brownish red in color, and it can easily be peeled off in thin strips. Cedar has natural antifungal properties, and a tea made from its leaves can be used to soak feet afflicted with athlete’s foot or nail fungus. Cedar chips can also be used to repel moths, ants and other insects.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MAPLEZ">
+			<Text>Rubber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MAPLEZ">
+			<Text>Rubber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MAPLEZ_TEXT">
+			<Text>
+				Natural rubber, also called India rubber or caoutchouc, as initially produced, consists of polymers of the organic compound isoprene, with minor impurities of other organic compounds plus water. Malaysia is a leading producer of rubber. Forms of polyisoprene that are used as natural rubbers are classified as elastomers. Natural rubber is used by many manufacturing companies for the production of rubber products. Currently, rubber is harvested mainly in the form of the latex from certain trees. The latex is a sticky, milky colloid drawn off by making incisions into the bark and collecting the fluid in vessels in a process called "tapping". The latex then is refined into rubber ready for commercial processing. Natural rubber is used extensively in many applications and products, either alone or in combination with other materials. In most of its useful forms, it has a large stretch ratio and high resilience, and is extremely waterproof.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_OAKZ">
+			<Text>Oak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_OAKZ">
+			<Text>Oak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_OAKZ_TEXT">
+			<Text>
+				An oak is a tree or shrub in the genus Quercus (/ˈkwɜrkəs/; Latin "oak tree"), having approximately 600 extant species. The common name "Oak" may also appear in the names of species in related genera, notably Lithocarpus. The genus is native to the Northern Hemisphere, and includes deciduous and evergreen species extending from cool temperate to tropical latitudes in Asia and the Americas. North America contains the largest number of oak species, with approximately 90 occurring in the United States. Mexico has 160 species, of which 109 are endemic. The second greatest center of oak diversity is China, which contains approximately 100 species.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PINEZ">
+			<Text>Pine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PINEZ">
+			<Text>Pine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PINEZ_TEXT">
+			<Text>
+				Pines are conifer trees in the genus Pinus /ˈpiːnuːs/, in the family Pinaceae. They are the only genus in the subfamily Pinoideae. Although some authorities claim that there are 115 species of pine, different authorities generally agree that there are between 105 and 125 species.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_REDWOODZ">
+			<Text>Redwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_REDWOODZ">
+			<Text>Redwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_REDWOODZ_TEXT">
+			<Text>
+				The three redwood subfamily genera are: Sequoia and Sequoiadendron of California and Oregon, USA; and Metasequoia in China. The redwood species contains the largest and tallest trees in the world. These trees can live to an age of thousands of years. This is an endangered subfamily due to habitat losses from fire ecology suppression, logging, and air pollution.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ALPACAZ">
+			<Text>Alpaca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ALPACAZ">
+			<Text>Alpaca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ALPACAZ_TEXT">
+			<Text>
+				Alpacas are kept in herds that graze on the level heights of the Andes of southern Peru, northern Bolivia, Ecuador, and northern Chile at an altitude of 3,500 m (11,500 ft) to 5,000 m (16,000 ft) above sea level, throughout the year. Alpacas are considerably smaller than llamas, and unlike llamas, they were not bred to be beasts of burden, but were bred specifically for their fiber. Alpaca fiber is used for making knitted and woven items, similar to wool. These items include blankets, sweaters, hats, gloves, scarves, a wide variety of textiles and ponchos in South America, and sweaters, socks, coats and bedding in other parts of the world. The fiber comes in more than 52 natural colors as classified in Peru, 12 as classified in Australia and 16 as classified in the United States.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ANGUSZ">
+			<Text>Angus Cattle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ANGUSZ">
+			<Text>Angus Cattle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ANGUSZ_TEXT">
+			<Text>
+				Angus cattle (Aberdeen Angus) are a breed of cattle commonly used in beef production. They were developed from cattle native to the counties of Aberdeenshire and Angus in Scotland, and are known as Aberdeen Angus in most parts of the world.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ELKZ">
+			<Text>Elk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ELKZ">
+			<Text>Elk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ELKZ_TEXT">
+			<Text>
+				The elk or wapiti (Cervus canadensis) is one of the largest species of the Cervidae or deer family in the world, and one of the largest land mammals in North America and eastern Asia. It was long believed to be a subspecies of the European red deer (Cervus elaphus), but evidence from a 2004 study of the mitochondrial DNA indicates that the two are distinct species.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_HOLSTEINZ">
+			<Text>Holstein Cattle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_HOLSTEINZ">
+			<Text>Holstein Cattle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_HOLSTEINZ_TEXT">
+			<Text>
+				Holstein Friesians (often shortened as holsteins) are a breed of cattle known today as the world's highest-production dairy animals. Originating in Europe, Friesians were bred in what is now the Netherlands and more specifically in the two northern provinces of North Holland and Friesland, and northern Germany, more specifically what is now Schleswig-Holstein Germany. The animals were the regional cattle of the Frisians and the Saxons. The Dutch breeders bred and oversaw the development of the breed with the goal of obtaining animals that could best use grass, the area's most abundant resource. Over the centuries, the result was a high-producing, black-and-white dairy cow. It is black and white due to artificial selection by the breeders.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LONGHORNZ">
+			<Text>Longhorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_LONGHORNZ">
+			<Text>Longhorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_LONGHORNZ_TEXT">
+			<Text>
+				The Texas Longhorn is a breed of cattle known for its characteristic horns, which can extend to 7 ft (2.1 m) tip to tip for steers and exceptional cows, and 36 to 80 in (0.91 to 2.03 m) tip to tip for bulls. Similar cattle were imported by Spanish colonists into other parts of North America, including California and Florida. Horns can have a slight upward turn at their tips or even triple twist. Texas Longhorns are known for their diverse coloring. A longhorn can be any color or mix of colors but dark red and white color mixes are the most dominant. Texas Longhorns with elite genetics can often fetch $40,000 or more at auction with the record of $170,000 in recent history for a cow. Due to their innate gentle disposition and intelligence, Texas Longhorns are increasingly being trained as riding steers.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MOOSEZ">
+			<Text>Moose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MOOSEZ">
+			<Text>Moose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MOOSEZ_TEXT">
+			<Text>
+				The moose (North America) or Eurasian elk (Europe) (Alces alces) is the largest extant species in the deer family. Moose are distinguished by the palmate antlers of the males; other members of the family have antlers with a dendritic ("twig-like") configuration. Moose typically inhabit boreal and mixed deciduous forests of the Northern Hemisphere in temperate to subarctic climates. Moose used to have a much wider range but hunting and other human activities greatly reduced it over the years. Moose have been reintroduced to some of their former habitats. Currently, most moose are found in Canada, Alaska, Scandinavia and Russia. Their diet consists of both terrestrial and aquatic vegetation. The most common moose predators are wolves, bears, and humans. Unlike most other deer species, moose are solitary animals and do not form herds. Although generally slow-moving and sedentary, moose can become aggressive and move surprisingly quickly if angered or startled. Their mating season in the autumn can lead to spectacular fights between males competing for a female.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PIGZ">
+			<Text>Pig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PIGZ">
+			<Text>Pig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PIGZ_TEXT">
+			<Text>
+				A pig is any of the animals in the genus Sus, within the Suidae family of even-toed ungulates. Pigs include the domestic pig and its ancestor, the common Eurasian wild boar (Sus scrofa), along with other species; related creatures outside the genus include the babirusa and the warthog. Pigs, like all suids, are native to the Eurasian and African continents. Juvenile pigs are known as piglets. Pigs are omnivores and are highly social and intelligent animals.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_REINDEERZ">
+			<Text>Reindeer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_REINDEERZ">
+			<Text>Reindeer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_REINDEERZ_TEXT">
+			<Text>
+				The reindeer (Rangifer tarandus), also known as caribou in North America, is a species of deer native to Arctic, Subarctic, tundra, boreal and mountainous regions. This includes both sedentary and migratory populations.While overall widespread and numerous, some of its subspecies are rare and at least one has already gone extinct.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_WTAILDEERZ">
+			<Text>White Tail Deer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_WTAILDEERZ">
+			<Text>White Tail Deer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_WTAILDEERZ_TEXT">
+			<Text>
+				The white-tailed deer (Odocoileus virginianus), also known as the Virginia deer or simply as the whitetail, is a medium-sized deer native to the United States, Canada, Mexico, Central America, and South America as far south as Peru. It has also been introduced to New Zealand and some countries in Europe, such as Finland, the Czech Republic, and Serbia. In the Americas, it is the most widely distributed wild ungulate.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_APPLEZ">
+			<Text>Apple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_APPLEZ">
+			<Text>Apple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_APPLEZ_TEXT">
+			<Text>
+				The apple is the pomaceous fruit of the apple tree, species Malus domestica in the rose family (Rosaceae). It is one of the most widely cultivated tree fruits, and the most widely known of the many members of genus Malus that are used by humans. Apples grow on small, deciduous trees. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe, and were brought to North America by European colonists. Apples have been present in the mythology and religions of many cultures, including Norse, Greek and Christian traditions. In 2010, the fruit's genome was decoded as part of research on disease control and selective breeding in apple production.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COCONUTZ">
+			<Text>Coconut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COCONUTZ">
+			<Text>Coconut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COCONUTZ_TEXT">
+			<Text>
+				The coconut palm (Cocos nucifera), is a member of the family Arecaceae (palm family). It is the only accepted species in the genus Cocos. The term coconut can refer to the entire coconut palm, the seed, or the fruit, which, botanically, is a drupe, not a nut. The spelling cocoanut is an archaic form of the word. The term is derived from 16th-century Portuguese and Spanish coco, meaning "head" or "skull", from the three indentations on the coconut shell that resemble facial features.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CRANBERRYZ">
+			<Text>Cranberry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CRANBERRYZ">
+			<Text>Cranberry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CRANBERRYZ_TEXT">
+			<Text>
+				Cranberries are a group of evergreen dwarf shrubs or trailing vines in the subgenus Oxycoccus of the genus Vaccinium. In some methods of classification, Oxycoccus is regarded as a genus in its own right. They can be found in acidic bogs throughout the cooler regions of the northern hemisphere.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_GRAPEZ">
+			<Text>Grape</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_GRAPEZ">
+			<Text>Grape</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_GRAPEZ_TEXT">
+			<Text>
+				A grape is a fruiting berry of the deciduous woody vines of the botanical genus Vitis. Grapes can be eaten raw or they can be used for making wine, jam, juice, jelly, grape seed extract, raisins, vinegar, and grape seed oil. Grapes are a non-climacteric type of fruit, generally occurring in clusters.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MANGOZ">
+			<Text>Mango</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MANGOZ">
+			<Text>Mango</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MANGOZ_TEXT">
+			<Text>
+				The mango is a fleshy stone fruit belonging to the genus Mangifera, consisting of numerous tropical fruiting trees, that are cultivated mostly for edible fruits. The majority of these species are found in nature as wild mangoes. They all belong in the flowering plant family Anacardiaceae. The mango is native to South Asia, from where it has been distributed worldwide to become one of the most cultivated fruits in the tropics. The highest concentration of Mangifera genus is situated in western part of Malesia (Sumatra, Java and Borneo) and in Burma and India. While other Mangifera species (e.g. horse mango, M. foetida) are also grown on a more localized basis, Mangifera indica – the 'common mango' or 'Indian mango' – is the only mango tree commonly cultivated in many tropical and subtropical regions.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ORANGEZ">
+			<Text>Orange</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ORANGEZ">
+			<Text>Orange</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ORANGEZ_TEXT">
+			<Text>
+				The orange (specifically, the sweet orange) is the fruit of the citrus species Citrus × sinensis in the family Rutaceae. The fruit of the Citrus sinensis is considered a sweet orange, whereas the fruit of the Citrus aurantium is considered a bitter orange. The orange is a hybrid, possibly between pomelo (Citrus maxima) and mandarin (Citrus reticulata), which has been cultivated since ancient times.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PEACHZ">
+			<Text>Peach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PEACHZ">
+			<Text>Peach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PEACHZ_TEXT">
+			<Text>
+				The peach (Prunus persica) is a deciduous tree, native to North-West China, in the region between the Tarim basin and the north slopes of the Kunlun Shan mountains, where it was first domesticated and cultivated. It bears an edible juicy fruit also called a peach. The species name persica refers to its widespread cultivation in Persia, whence it was transplanted to Europe. It belongs to the genus Prunus which includes the cherry and plum, in the family Rosaceae. The peach is classified with the almond in the subgenus Amygdalus, distinguished from the other subgenera by the corrugated seed shell.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PINEAPPLEZ">
+			<Text>Pineapple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PINEAPPLEZ">
+			<Text>Pineapple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PINEAPPLEZ_TEXT">
+			<Text>
+				The pineapple (Ananas comosus) is a tropical plant with edible multiple fruit consisting of coalesced berries, and the most economically significant plant in the Bromeliaceae family. Pineapples may be cultivated from a crown cutting of the fruit, possibly flowering in 20–24 months and fruiting in the following six months. Pineapple does not ripen significantly post-harvest.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_POMEGRANATEZ">
+			<Text>Pomegranate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_POMEGRANATEZ">
+			<Text>Pomegranate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_POMEGRANATEZ_TEXT">
+			<Text>
+				The pomegranate /ˈpɒmɨɡrænɨt/, botanical name Punica granatum, is a fruit-bearing deciduous shrub or small tree growing between 5–8 meters (16–26 ft) tall.The pomegranate is widely considered to have originated in Iran and has been cultivated since ancient times. Today, it is widely cultivated throughout the Mediterranean region of southern Europe, the Middle East and Caucasus region, northern Africa and tropical Africa, the Indian subcontinent, Central Asia and the drier parts of southeast Asia. Introduced into Latin America and California by Spanish settlers in 1769, pomegranate is also cultivated in parts of California and Arizona.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_RASPBERRYZ">
+			<Text>Berries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_RASPBERRYZ">
+			<Text>Berries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_RASPBERRYZ_TEXT">
+			<Text>
+				Berries have been valuable as a food source since before the start of agriculture to humans, and remain among the primary food sources of other primates. They were a seasonal staple for early hunter-gatherers for thousands of years, and wild berry gathering remains a popular activity in Europe and North America today. In time, humans learned to store berries so that they could be used in the winter, and they may be made into fruit preserves, and among Native Americans, mixed with meat and fats as pemmican.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_STRAWBERRYZ">
+			<Text>Strawberry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STRAWBERRYZ">
+			<Text>Strawberry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STRAWBERRYZ_TEXT">
+			<Text>
+				The garden strawberry (or simply strawberry /ˈstrɔːb(ə)ri/; Fragaria × ananassa) is a widely grown hybrid species of the genus Fragaria (collectively known as the strawberries). It is cultivated worldwide for its fruit. The fruit (which is not a botanical berry, but an aggregate accessory fruit) is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness. It is consumed in large quantities, either fresh or in such prepared foods as preserves, fruit juice, pies, ice creams, milkshakes, and chocolates. Artificial strawberry aroma is also widely used in many industrial food products.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BARLEYZ">
+			<Text>Barley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BARLEYZ">
+			<Text>Barley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BARLEYZ_TEXT">
+			<Text>
+				Barley (Hordeum vulgare L.), a member of the grass family, is a major cereal grain. It was one of the first cultivated grains and is now grown widely. Barley grain is a staple in Tibetan cuisine and was eaten widely by peasants in Medieval Europe. Barley has also been used as animal fodder, as a source of fermentable material for beer and certain distilled beverages, and as a component of various health foods. It is used in soups and stews, and in barley bread of various cultures. Barley grains are commonly made into malt in a traditional and ancient method of preparation.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COCOAZ">
+			<Text>Cocoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COCOAZ">
+			<Text>Cocoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COCOAZ_TEXT">
+			<Text>
+				Theobroma cacao also cacao tree and cocoa tree, is a small (4–8 m (13–26 ft) tall) evergreen tree in the family Malvaceae, native to the deep tropical regions of Central and South America. Its seeds, cocoa beans, are used to make cocoa mass, cocoa powder, and chocolate.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COFFEEZ">
+			<Text>Coffee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COFFEEZ">
+			<Text>Coffee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COFFEEZ_TEXT">
+			<Text>
+				Coffee is a brewed beverage prepared from the roasted or baked seeds of several species of an evergreen shrub of the genus Coffea. The two most common sources of coffee beans are the highly regarded Coffea arabica, and the "robusta" form of the hardier Coffea canephora. The latter is resistant to the coffee leaf rust (Hemileia vastatrix), but has a more bitter taste. Coffee plants are cultivated in more than 70 countries, primarily in equatorial Latin America, Southeast Asia, and Africa. Once ripe, coffee "berries" are picked, processed, and dried to yield the seeds inside. The seeds are then roasted to varying degrees, depending on the desired flavor, before being ground and brewed to create coffee.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CORNZ">
+			<Text>Corn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CORNZ">
+			<Text>Corn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CORNZ_TEXT">
+			<Text>
+				Maize (/ˈmeɪz/ mayz; Zea mays subsp. mays, from Spanish: maíz after Taíno mahiz), known in some English-speaking countries as corn, is a large grain plant domesticated by indigenous peoples in Mesoamerica in prehistoric times. The leafy stalk produces ears which contain the grain, which are seeds called kernels. Maize kernels are often used in cooking as a starch.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_HEMPZ">
+			<Text>Hemp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_HEMPZ">
+			<Text>Hemp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_HEMPZ_TEXT">
+			<Text>
+				Hemp (from Old English hænep) is a commonly used term for high growing varieties of the Cannabis plant and its products, which include fiber, oil, and seed. Hemp is refined into products such as hemp seed foods, hemp oil, wax, resin, rope, cloth, pulp, paper, and fuel.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_HOPZ">
+			<Text>Hops</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_HOPZ">
+			<Text>Hops</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_HOPZ_TEXT">
+			<Text>
+				Hops are the female flowers (also called seed cones or strobiles) of the hop plant, Humulus lupulus. They are used primarily as a flavoring and stability agent in beer, to which they impart a bitter, tangy flavor, though hops are also used for various purposes in other beverages and herbal medicine.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_OATZ">
+			<Text>Oats</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_OATZ">
+			<Text>Oats</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_OATZ_TEXT">
+			<Text>
+				The common oat (Avena sativa) is a species of cereal grain grown for its seed, which is known by the same name (usually in the plural, unlike other grains). While oats are suitable for human consumption as oatmeal and rolled oats, one of the most common uses is as livestock feed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PEANUTZ">
+			<Text>Peanuts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PEANUTZ">
+			<Text>Peanuts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PEANUTZ_TEXT">
+			<Text>
+				The peanut, or groundnut (Arachis hypogaea), is a species in the legume or "bean" family (Fabaceae). The peanut was probably first domesticated and cultivated in the valleys of Paraguay. It is an annual herbaceous plant growing 30 to 50 cm (1.0 to 1.6 ft) tall. The leaves are opposite, pinnate with four leaflets (two opposite pairs; no terminal leaflet); each leaflet is 1 to 7 cm (⅜ to 2¾ in) long and 1 to 3 cm (⅜ to 1 inch) across.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_POTATOEZ">
+			<Text>Potato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_POTATOEZ">
+			<Text>Potato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_POTATOEZ_TEXT">
+			<Text>
+				The potato is a starchy, tuberous crop from the perennial nightshade Solanum tuberosum L. The word "potato" may refer to the plant itself in addition to the edible tuber. In the Andes, where the species is indigenous, there are some other closely related cultivated potato species. Potatoes were introduced outside the Andes region four centuries ago, and have become an integral part of much of the world's food supply. It is the world's fourth-largest food crop, following maize, wheat and rice.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_RICEZ">
+			<Text>Rice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_RICEZ">
+			<Text>Rice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_RICEZ_TEXT">
+			<Text>
+				Rice is the seed of the monocot plants Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia. It is the grain with the second-highest worldwide production, after corn, according to data for 2010.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SOYBEANZ">
+			<Text>Soybeans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SOYBEANZ">
+			<Text>Soybeans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SOYBEANZ_TEXT">
+			<Text>
+				The soybean (US) or soya bean (UK) (Glycine max) is a species of legume native to East Asia, widely grown for its edible bean which has numerous uses. The plant is classed as an oilseed rather than a pulse by the UN Food and Agricultural Organization (FAO).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TEAZ">
+			<Text>Tea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TEAZ">
+			<Text>Tea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TEAZ_TEXT">
+			<Text>
+				Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the tea plant, Camellia sinensis. After water, tea is the most widely consumed beverage in the world. It has a cooling, slightly bitter, and astringent flavour that many people enjoy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TOBACCOZ">
+			<Text>Tobacco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TOBACCOZ">
+			<Text>Tobacco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TOBACCOZ_TEXT">
+			<Text>
+				Tobacco is a plant within the genus Nicotiana of the Solanaceae (nightshade) family. There are more than 70 species of tobacco. Products manufactured from dried tobacco leaves include cigars, cigarettes, snuff, pipe tobacco, chewing tobacco and flavored shisha tobacco. Other uses of tobacco include plant bioengineering and ornamentals, while chemical components of tobacco are used in some pesticides and medications.
+			</Text>
+		</Row>														
+		<Row Tag="TXT_KEY_RESOURCE_FA_MAIZEX">
+			<Text>Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_FA_MAIZEX">
+			<Text>PlaceHolder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_FA_MAIZEX_TEXT">
+			<Text>[ICON_RES_PEARLS][ICON_SEA_BASS][ICON_SEA_DOLPHIN][ICON_SEA_KINGCRAB][ICON_SEA_SHRIMP][ICON_SEA_TUNA][ICON_SPC_PEPPER][ICON_INC_LAVENDER][ICON_MIN_SAPPHIRE][ICON_MIN_DIAMOND][ICON_TRE_BIRCH][ICON_TRE_REDWOOD][ICON_LA_ALPACA][ICON_LA_WTAILDEER][ICON_FRU_APPLE][ICON_FRU_STRAWBERRY][ICON_CRO_BARLEY][ICON_CRO_TOBACCO]</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

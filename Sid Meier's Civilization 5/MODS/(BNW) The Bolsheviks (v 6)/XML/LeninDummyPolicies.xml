@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/30/2016 10:55:38 PM -->
+<GameData>
+	<Policies>
+		<Row>
+			<Type>POLICY_FREEDOM_DUMMY</Type>
+			<Description>TXT_KEY_POLICY_FREEDOM_DUMMY</Description>
+			<Civilopedia>TXT_KEY_POLICY_FREEDOM_DUMMY_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_FREEDOM_DUMMY_HELP</Help>
+			<CultureCost>0</CultureCost>
+			<GridX>4</GridX>
+			<GridY>3</GridY>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_ORDER_DUMMY</Type>
+			<Description>TXT_KEY_POLICY_ORDER_DUMMY</Description>
+			<Civilopedia>TXT_KEY_POLICY_ORDER_DUMMY_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_ORDER_DUMMY_HELP</Help>
+			<CultureCost>0</CultureCost>
+			<GridX>4</GridX>
+			<GridY>3</GridY>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_AUTOCRACY_DUMMY</Type>
+			<Description>TXT_KEY_POLICY_AUTOCRACY_DUMMY</Description>
+			<Civilopedia>TXT_KEY_POLICY_AUTOCRACY_DUMMY_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_AUTOCRACY_DUMMY_HELP</Help>
+			<CultureCost>0</CultureCost>
+			<GridX>4</GridX>
+			<GridY>3</GridY>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_DUMMY_LENIN_1</Type>
+			<Description>TXT_KEY_POLICY_DUMMY_LENIN_1</Description>
+			<Civilopedia>TXT_KEY_POLICY_DUMMY_LENIN_1_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_DUMMY_LENIN_1_HELP</Help>
+			<CultureCost>0</CultureCost>
+			<GridX>4</GridX>
+			<GridY>3</GridY>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_DUMMY_LENIN_2</Type>
+			<Description>TXT_KEY_POLICY_DUMMY_LENIN_2</Description>
+			<Civilopedia>TXT_KEY_POLICY_DUMMY_LENIN_2_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_DUMMY_LENIN_2_HELP</Help>
+			<CultureCost>0</CultureCost>
+			<GridX>4</GridX>
+			<GridY>3</GridY>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_DUMMY_LENIN_3</Type>
+			<Description>TXT_KEY_POLICY_DUMMY_LENIN_3</Description>
+			<Civilopedia>TXT_KEY_POLICY_DUMMY_LENIN_3_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_DUMMY_LENIN_3_HELP</Help>
+			<CultureCost>0</CultureCost>
+			<GridX>4</GridX>
+			<GridY>3</GridY>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_DUMMY_LENIN_4</Type>
+			<Description>TXT_KEY_POLICY_DUMMY_LENIN_4</Description>
+			<Civilopedia>TXT_KEY_POLICY_DUMMY_LENIN_4_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_DUMMY_LENIN_4_HELP</Help>
+			<CultureCost>0</CultureCost>
+			<GridX>4</GridX>
+			<GridY>3</GridY>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_DUMMY_LENIN_5</Type>
+			<Description>TXT_KEY_POLICY_DUMMY_LENIN_5</Description>
+			<Civilopedia>TXT_KEY_POLICY_DUMMY_LENIN_5_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_DUMMY_LENIN_5_HELP</Help>
+			<CultureCost>0</CultureCost>
+			<GridX>4</GridX>
+			<GridY>3</GridY>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_DUMMY_LENIN_6</Type>
+			<Description>TXT_KEY_POLICY_DUMMY_LENIN_6</Description>
+			<Civilopedia>TXT_KEY_POLICY_DUMMY_LENIN_6_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_DUMMY_LENIN_6_HELP</Help>
+			<CultureCost>0</CultureCost>
+			<GridX>4</GridX>
+			<GridY>3</GridY>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_DUMMY_LENIN_7</Type>
+			<Description>TXT_KEY_POLICY_DUMMY_LENIN_7</Description>
+			<Civilopedia>TXT_KEY_POLICY_DUMMY_LENIN_7_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_DUMMY_LENIN_7_HELP</Help>
+			<CultureCost>0</CultureCost>
+			<GridX>4</GridX>
+			<GridY>3</GridY>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_DUMMY_LENIN_8</Type>
+			<Description>TXT_KEY_POLICY_DUMMY_LENIN_8</Description>
+			<Civilopedia>TXT_KEY_POLICY_DUMMY_LENIN_8_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_DUMMY_LENIN_8_HELP</Help>
+			<CultureCost>0</CultureCost>
+			<GridX>4</GridX>
+			<GridY>3</GridY>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_DUMMY_LENIN_9</Type>
+			<Description>TXT_KEY_POLICY_DUMMY_LENIN_9</Description>
+			<Civilopedia>TXT_KEY_POLICY_DUMMY_LENIN_9_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_DUMMY_LENIN_9_HELP</Help>
+			<CultureCost>0</CultureCost>
+			<GridX>4</GridX>
+			<GridY>3</GridY>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_DUMMY_LENIN_10</Type>
+			<Description>TXT_KEY_POLICY_DUMMY_LENIN_10</Description>
+			<Civilopedia>TXT_KEY_POLICY_DUMMY_LENIN_10_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_DUMMY_LENIN_10_HELP</Help>
+			<CultureCost>0</CultureCost>
+			<GridX>4</GridX>
+			<GridY>3</GridY>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_DUMMY_LENIN_11</Type>
+			<Description>TXT_KEY_POLICY_DUMMY_LENIN_11</Description>
+			<Civilopedia>TXT_KEY_POLICY_DUMMY_LENIN_11_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_DUMMY_LENIN_11_HELP</Help>
+			<CultureCost>0</CultureCost>
+			<GridX>4</GridX>
+			<GridY>3</GridY>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_DUMMY_LENIN_12</Type>
+			<Description>TXT_KEY_POLICY_DUMMY_LENIN_12</Description>
+			<Civilopedia>TXT_KEY_POLICY_DUMMY_LENIN_12_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_DUMMY_LENIN_12_HELP</Help>
+			<CultureCost>0</CultureCost>
+			<GridX>4</GridX>
+			<GridY>3</GridY>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+	</Policies>
+	<Policy_ImprovementYieldChanges>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_1</PolicyType>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_1</PolicyType>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_1</PolicyType>
+			<ImprovementType>IMPROVEMENT_QUARRY</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_1</PolicyType>
+			<ImprovementType>IMPROVEMENT_QUARRY</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_2</PolicyType>
+			<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_2</PolicyType>
+			<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_3</PolicyType>
+			<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_3</PolicyType>
+			<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_3</PolicyType>
+			<ImprovementType>IMPROVEMENT_FORT</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_3</PolicyType>
+			<ImprovementType>IMPROVEMENT_FORT</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_3</PolicyType>
+			<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_3</PolicyType>
+			<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_4</PolicyType>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_4</PolicyType>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_4</PolicyType>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_4</PolicyType>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_4</PolicyType>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_4</PolicyType>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_5</PolicyType>
+			<ImprovementType>IMPROVEMENT_LUMBERMILL</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_5</PolicyType>
+			<ImprovementType>IMPROVEMENT_LUMBERMILL</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_6</PolicyType>
+			<ImprovementType>IMPROVEMENT_LANDMARK</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_6</PolicyType>
+			<ImprovementType>IMPROVEMENT_LANDMARK</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_6</PolicyType>
+			<ImprovementType>IMPROVEMENT_MANUFACTORY</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_6</PolicyType>
+			<ImprovementType>IMPROVEMENT_MANUFACTORY</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_7</PolicyType>
+			<ImprovementType>IMPROVEMENT_TRADING_POST</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_7</PolicyType>
+			<ImprovementType>IMPROVEMENT_TRADING_POST</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_7</PolicyType>
+			<ImprovementType>IMPROVEMENT_WELL</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_7</PolicyType>
+			<ImprovementType>IMPROVEMENT_WELL</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_8</PolicyType>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_8</PolicyType>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_8</PolicyType>
+			<ImprovementType>IMPROVEMENT_OFFSHORE_PLATFORM</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_8</PolicyType>
+			<ImprovementType>IMPROVEMENT_OFFSHORE_PLATFORM</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_9</PolicyType>
+			<ImprovementType>IMPROVEMENT_ACADEMY</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_9</PolicyType>
+			<ImprovementType>IMPROVEMENT_ACADEMY</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_10</PolicyType>
+			<ImprovementType>IMPROVEMENT_TRADING_POST</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_10</PolicyType>
+			<ImprovementType>IMPROVEMENT_TRADING_POST</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_10</PolicyType>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_10</PolicyType>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_10</PolicyType>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_10</PolicyType>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_10</PolicyType>
+			<ImprovementType>IMPROVEMENT_WELL</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_10</PolicyType>
+			<ImprovementType>IMPROVEMENT_WELL</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_10</PolicyType>
+			<ImprovementType>IMPROVEMENT_OFFSHORE_PLATFORM</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_10</PolicyType>
+			<ImprovementType>IMPROVEMENT_OFFSHORE_PLATFORM</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_10</PolicyType>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_10</PolicyType>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_10</PolicyType>
+			<ImprovementType>IMPROVEMENT_CUSTOMS_HOUSE</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_10</PolicyType>
+			<ImprovementType>IMPROVEMENT_CUSTOMS_HOUSE</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_11</PolicyType>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_11</PolicyType>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_11</PolicyType>
+			<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_11</PolicyType>
+			<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_11</PolicyType>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_11</PolicyType>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_11</PolicyType>
+			<ImprovementType>IMPROVEMENT_LUMBERMILL</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_11</PolicyType>
+			<ImprovementType>IMPROVEMENT_LUMBERMILL</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_11</PolicyType>
+			<ImprovementType>IMPROVEMENT_LANDMARK</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_11</PolicyType>
+			<ImprovementType>IMPROVEMENT_LANDMARK</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_11</PolicyType>
+			<ImprovementType>IMPROVEMENT_ACADEMY</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_11</PolicyType>
+			<ImprovementType>IMPROVEMENT_ACADEMY</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_11</PolicyType>
+			<ImprovementType>IMPROVEMENT_MANUFACTORY</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_11</PolicyType>
+			<ImprovementType>IMPROVEMENT_MANUFACTORY</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_QUARRY</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_QUARRY</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_FORT</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_FORT</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_CHATEAU</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_CHATEAU</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_MOAI</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_MOAI</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_FEITORIA</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_FEITORIA</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_BRAZILWOOD_CAMP</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_BRAZILWOOD_CAMP</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_KASBAH</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_KASBAH</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_POLDER</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_POLDER</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_TERRACE_FARM</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<ImprovementType>IMPROVEMENT_TERRACE_FARM</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Policy_ImprovementYieldChanges>
+	<Policy_Flavors>
+		<Row>
+			<PolicyType>POLICY_FREEDOM_DUMMY</PolicyType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_ORDER_DUMMY</PolicyType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_AUTOCRACY_DUMMY</PolicyType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_1</PolicyType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_2</PolicyType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_3</PolicyType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_4</PolicyType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_5</PolicyType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_6</PolicyType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_7</PolicyType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_8</PolicyType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_9</PolicyType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_10</PolicyType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_11</PolicyType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DUMMY_LENIN_12</PolicyType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Policy_Flavors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_1">
+			<Text>Bolshevik Bonus 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_2">
+			<Text>Bolshevik Bonus 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_3">
+			<Text>Bolshevik Bonus 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_4">
+			<Text>Bolshevik Bonus 4</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_5">
+			<Text>Bolshevik Bonus 5</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_6">
+			<Text>Bolshevik Bonus 6</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_7">
+			<Text>Bolshevik Bonus 7</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_8">
+			<Text>Bolshevik Bonus 8</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_9">
+			<Text>Bolshevik Bonus 9</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_10">
+			<Text>Bolshevik Bonus 10</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_11">
+			<Text>Bolshevik Bonus 11</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_12">
+			<Text>Bolshevik Bonus 12</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_1_TEXT">
+			<Text>Bolshevik Bonus 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_2_TEXT">
+			<Text>Bolshevik Bonus 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_3_TEXT">
+			<Text>Bolshevik Bonus 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_4_TEXT">
+			<Text>Bolshevik Bonus 4</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_5_TEXT">
+			<Text>Bolshevik Bonus 5</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_6_TEXT">
+			<Text>Bolshevik Bonus 6</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_7_TEXT">
+			<Text>Bolshevik Bonus 7</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_8_TEXT">
+			<Text>Bolshevik Bonus 8</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_9_TEXT">
+			<Text>Bolshevik Bonus 9</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_10_TEXT">
+			<Text>Bolshevik Bonus 10</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_11_TEXT">
+			<Text>Bolshevik Bonus 11</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_12_TEXT">
+			<Text>Bolshevik Bonus 12</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_1_HELP">
+			<Text>Requires Tradition. +1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science from Farms and Pastures.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_2_HELP">
+			<Text>Requires Liberty. +1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science from Mines and Quarries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_3_HELP">
+			<Text>Requires Honor. +1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science from Forts and Citadels.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_4_HELP">
+			<Text>Requires Piety. +1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science from Holy Sites and Plantations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_5_HELP">
+			<Text>Requires Patronage. +1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science from Lumber Mills and Camps.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_6_HELP">
+			<Text>Requires Aesthetics. +1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science from Landmarks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_7_HELP">
+			<Text>Requires Commerce. +1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science from Trading Posts and Oil Wells.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_8_HELP">
+			<Text>Requires Exploration. +1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science from Fishing Boats and Offshore Platforms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_9_HELP">
+			<Text>Requires Rationalism. +1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science from Academies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_10_HELP">
+			<Text>Requires Freedom. +1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science from Trading Posts, Plantations, Pastures, Oil Wells, Offshore Platforms, Holy Sites, and Customs Houses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_11_HELP">
+			<Text>Requires Order. +1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science from Farms, Mines, Fishing Boats, Lumber Mills, Landmarks, Academies, and Manufactories.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DUMMY_LENIN_12_HELP">
+			<Text>Requires Autocracy. +1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science from Camps, Quarries, Forts, Citadels, and all non-modded Unique Improvements.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_FREEDOM_DUMMY">
+			<Text>Freedom Marker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ORDER_DUMMY">
+			<Text>Order Marker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_AUTOCRACY_DUMMY">
+			<Text>Autocracy Marker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_FREEDOM_DUMMY_TEXT">
+			<Text>Freedom Marker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ORDER_DUMMY_TEXT">
+			<Text>Order Marker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_AUTOCRACY_DUMMY_TEXT">
+			<Text>Autocracy Marker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_FREEDOM_DUMMY_HELP">
+			<Text>Marks this as a Freedom civ.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science from Trading Posts, Plantations, Pastures, Oil Wells, Offshore Platforms, Holy Sites, and Customs Houses if adopted by the Bolsheviks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ORDER_DUMMY_HELP">
+			<Text>Marks this as an Order civ.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science from Farms, Mines, Fishing Boats, Lumber Mills, Landmarks, Academies, and Manufactories if adopted by the Bolsheviks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_AUTOCRACY_DUMMY_HELP">
+			<Text>Marks this as an Autocracy civ.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science from Camps, Quarries, Forts, Citadels, and all non-modded Unique Improvements if adopted by the Bolsheviks.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

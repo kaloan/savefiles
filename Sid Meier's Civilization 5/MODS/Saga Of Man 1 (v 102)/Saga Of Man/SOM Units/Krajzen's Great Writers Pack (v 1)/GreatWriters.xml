@@ -1,0 +1,2747 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/14/2013 9:37:25 PM -->
+
+<GameData>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Stanislaw Lem</UniqueName>
+			<GreatWorkType>GREAT_WORK_SOLARIS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Wislawa Szymborska</UniqueName>
+			<GreatWorkType>GREAT_WORK_OUR_CENTURYS_DECLINE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Zbigniew Herbert</UniqueName>
+			<GreatWorkType>GREAT_WORK_MESSAGE_OF_MR.COGITO</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Jaroslav Hasek</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_GOOD_SOLDIER_SVEJK</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Ferenc Molnar</UniqueName>
+			<GreatWorkType>GREAT_WORK_PRISONERS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Ismail Kadare</UniqueName>
+			<GreatWorkType>GREAT_WORK_CHRONICLE_IN_STONE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Vaclav Havel</UniqueName>
+			<GreatWorkType>GREAT_WORK_DISTURBING_THE_PEACE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Marko Miljanov</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_EXAMPLES_OF_VALOR</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Masiela Lusha</UniqueName>
+			<GreatWorkType>GREAT_WORK_A_SIRENS_SONG</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Tove Jansson</UniqueName>
+			<GreatWorkType>GREAT_WORK_SOMMARBOKEN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Henrik Ibsen</UniqueName>
+			<GreatWorkType>GREAT_WORK_ET_VERS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Johann Huizinga</UniqueName>
+			<GreatWorkType>GREAT_WORK_IN_THE_SHADOW_OF_TOMORROW</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Dafydd ap Gwilym</UniqueName>
+			<GreatWorkType>GREAT_WORK_Y_GWYNT</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Ali Bin abu - Talib</UniqueName>
+			<GreatWorkType>GREAT_WORK_HUSAYN_AL-NURI_AL-TABARSI</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Aneirin</UniqueName>
+			<GreatWorkType>GREAT_WORK_Y_GODODDIN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Cassiodorus</UniqueName>
+			<GreatWorkType>GREAT_WORK_VARIAE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Li Bai</UniqueName>
+			<GreatWorkType>GREAT_WORK_MOON_OVER_MOUNTAIN_PASS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>T'ao Ch'ien</UniqueName>
+			<GreatWorkType>GREAT_WORK_WRITTEN_WHILE_DRUNK</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Bai Juyi</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_SONG_OF_LONG_SORROW</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Ts'ao Sung</UniqueName>
+			<GreatWorkType>GREAT_WORK_A_PROTEST_IN_THE_SIXTH_YEAR_OF_QIANFU</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Saadi</UniqueName>
+			<GreatWorkType>GREAT_WORK_BANI_ADAM</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Attar of Nishapur</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_SUN_AT_MIDNIGHT</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Jalal ad - Din Rumi</UniqueName>
+			<GreatWorkType>GREAT_WORK_MASNAVI_I_MANAV</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Archipoeta</UniqueName>
+			<GreatWorkType>GREAT_WORK_CONFESSION</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Ippen</UniqueName>
+			<GreatWorkType>GREAT_WORK_HYMN_OF_AMIDAS_VOW</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Kabir</UniqueName>
+			<GreatWorkType>GREAT_WORK_BIJAK</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Ihara Saikaku</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_JAPANESE_FAMILY_STOREHOUSE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Nazim Hikmet</UniqueName>
+			<GreatWorkType>GREAT_WORK_IN_THE_SNOWY_NIGHT_WOODS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Ataol Behramoglu</UniqueName>
+			<GreatWorkType>GREAT_WORK_SAIRIN_SIIRE_SORUMLULUGU</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Khakheperresenb</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_BURDEN_OF_THE_PAST</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Ptanhotep</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_MAXIMS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Thiruvalluvar</UniqueName>
+			<GreatWorkType>GREAT_WORK_TIRUKKURAL</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Rabindranath Tagore</UniqueName>
+			<GreatWorkType>GREAT_WORK_GITANJALI</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Nhat Hanh</UniqueName>
+			<GreatWorkType>GREAT_WORK_PEACE_IS_EVERY_STEP</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Abdul Ghani Khan</UniqueName>
+			<GreatWorkType>GREAT_WORK_REVERIE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Nadine Gordimer</UniqueName>
+			<GreatWorkType>GREAT_WORK_WRITING_AND_BEING</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Chinua Achebe</UniqueName>
+			<GreatWorkType>GREAT_WORK_THINGS_FALL_APART</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Frank Chipasula</UniqueName>
+			<GreatWorkType>GREAT_WORK_MANIFESTON_ON_ARS_POETICA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Wole Soyinka</UniqueName>
+			<GreatWorkType>GREAT_WORK_DEATH_AND_THE_KINGS_HORSEMAN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Giannina Braschi</UniqueName>
+			<GreatWorkType>GREAT_WORK_EMPIRE_OF_DREAMS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Vatsyayana</UniqueName>
+			<GreatWorkType>GREAT_WORK_KAMASUTRA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Gioconda Belli</UniqueName>
+			<GreatWorkType>GREAT_WORK_WASLALA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Gabriel Garcia Marquez</UniqueName>
+			<GreatWorkType>GREAT_WORK_ONE_HUNDRED_YEARS_OF_SOLITUDE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Lao Tzu</UniqueName>
+			<GreatWorkType>GREAT_WORK_TAO_TE_CHING</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Orhan Pamluk</UniqueName>
+			<GreatWorkType>GREAT_WORK_MY_NAME_IS_RED</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Muhammed Fuzuli</UniqueName>
+			<GreatWorkType>GREAT_WORK_LAYLA_AND_MAJNUN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Gabriela Mistral</UniqueName>
+			<GreatWorkType>GREAT_WORK_LAGAR</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Romulo Gallegos</UniqueName>
+			<GreatWorkType>GREAT_WORK_DONA_BARBARA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Julio Cortazar</UniqueName>
+			<GreatWorkType>GREAT_WORK_HOPSCOTCH</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Jorge Luis Borges</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_MASKED_DYER_HAKIM_OF_MERV</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Octavio Paz</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_LABYRINTH_OF_SOLITUDE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Ah Bam</UniqueName>
+			<GreatWorkType>GREAT_WORK_SONGS_OF_DZITBALCHE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Francisco Arana Xajila</UniqueName>
+			<GreatWorkType>GREAT_WORK_ANNALS_OF_THE_CAKCHIQUELS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Karel Capek</UniqueName>
+			<GreatWorkType>GREAT_WORK_ROSSUMS_UNIVERSAL_ROBOTS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Jnanappana</UniqueName>
+			<GreatWorkType>GREAT_WORK_POONTHANAM</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Nitlacoya</UniqueName>
+			<GreatWorkType>GREAT_WORK_NEZAHUALCOYOTL</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Naryan</UniqueName>
+			<GreatWorkType>GREAT_WORK_KOCHARETI</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Chingiz Aitmatov</UniqueName>
+			<GreatWorkType>GREAT_WORK_SPOTTED_DOG_RUNNING_ALONG_THE_SEASHORE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Mwana Kupona</UniqueName>
+			<GreatWorkType>GREAT_WORK_UTENDI_WA_MWANA_KUPONA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Heo Nanseolheon</UniqueName>
+			<GreatWorkType>GREAT_WORK_SONG_OF_AUTUMN_NIGHT</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Lady Ise</UniqueName>
+			<GreatWorkType>GREAT_WORK_THREAD_OF_PEARLS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Christine de Pizan</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_BOOK_OF_THE_CITY_OF_LADIES</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Celestine Hitiura Vaite</UniqueName>
+			<GreatWorkType>GREAT_WORK_CROATIAN_TALES_OF_LONG_AGO</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Griot Djeli Mamadou Kounyate</UniqueName>
+			<GreatWorkType>GREAT_WORK_EPIC OF SUNDIATA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Zera Yacob</UniqueName>
+			<GreatWorkType>GREAT_WORK_HATATA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Bessie Head</UniqueName>
+			<GreatWorkType>GREAT_WORK_A QUESTION OF POWER</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Mwengo</UniqueName>
+			<GreatWorkType>GREAT_WORK_UTENDI WA TAMBUKA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Chimamanda Ngozi Adichie</UniqueName>
+			<GreatWorkType>GREAT_WORK_HALF OF A YELLOW SUN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Nnedi Okorafor</UniqueName>
+			<GreatWorkType>GREAT_WORK_ZAHRAH THE WINDSEEKER</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Ho Xuan Huong</UniqueName>
+			<GreatWorkType>GREAT_WORK_DAY AND NIGHT</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Preah Bohumthera Som</UniqueName>
+			<GreatWorkType>GREAT_WORK_TUM TEAV</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Peter Watts</UniqueName>
+			<GreatWorkType>GREAT_WORK_BLINDSIGHT</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>N.Scott Momaday</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE WAY TO RAINY MOUNTAIN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Henry Wadsworth Longfellow</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE SONG OF HIAWATHA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Joy Harjo</UniqueName>
+			<GreatWorkType>GREAT_WORK_EAGLE POEM</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Sherman Alexie</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE ABSOLUTELY TRUE DIARY OF A PART-TIME INDIAN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Leslie Marmon Silko</UniqueName>
+			<GreatWorkType>GREAT_WORK_CEREMONY</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Sunthorn Phu</UniqueName>
+			<GreatWorkType>GREAT_WORK_PHRA APHAI MANI</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Mpu Prapanca</UniqueName>
+			<GreatWorkType>GREAT_WORK_NAGARAKRETAGAMA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Tibet</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE EPIC OF KING GESAR</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>The Horseman</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE SECRET HISTORY OF THE MONGOLS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Nguyen Du</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE TALE OF KIEU</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Wu Cheng'en</UniqueName>
+			<GreatWorkType>GREAT_WORK_JOURNEY TO THE WEST</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Luo Guazhong</UniqueName>
+			<GreatWorkType>GREAT_WORK_ROMANCE OF THE THREE KINGDOMS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Anna Frank</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE DIARY OF ANNA FRANK</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Deganawidah</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE GREAT LAW OF PEACE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>Iryeon</UniqueName>
+			<GreatWorkType>GREAT_WORK_SAMGUK YUSA</GreatWorkType>
+		</Row>
+	</Unit_UniqueNames>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_PERSON_STANISLAW_LEM">
+			<Text>Stanislaw Lem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SOLARIS">
+			<Text>Solaris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SOLARIS">
+			<Text>'We have no need of other, space worlds. We need mirrors. We don't know what to do with other worlds. A single world, our own, suffices us; but we can't accept it for what it is.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WISLAWA_SZYMBORSKA">
+			<Text>Wislawa Szymborska</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_OUR_CENTURYS_DECLINE">
+			<Text>Our Century's Decline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_OUR_CENTURYS_DECLINE">
+			<Text>'God was finally going to believe[NEWLINE]In a man both good and strong,[NEWLINE]But good and strong[NEWLINE]Are still two different men.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZBIGNIEW_HERBERT">
+			<Text>Zbigniew Herbert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MESSAGE_OF_MR.COGITO">
+			<Text>Message of Mr. Cogito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MESSAGE_OF_MR.COGITO">
+			<Text>'Go where the others have gone, to the tenebrous limit[NEWLINE]For the golden fleece of void, your ultimate prize[NEWLINE]Go upright among those who are on their knees[NEWLINE]Among those turning their backs on and those fallen to dust'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAROSLAV_HASEK">
+			<Text>Jaroslav Hasek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_GOOD_SOLDIER_SVEJK">
+			<Text>The Good Soldier Svejk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_GOOD_SOLDIER_SVEJK">
+			<Text>'Jesus Christ was innocent too, and all the same they crucified him. No one anywhere has ever worried about a man being innocent.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FERENC_MOLNAR">
+			<Text>Ferenc Molnar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PRISONERS">
+			<Text>Prisoners</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_PRISONERS">
+			<Text>'Tears have the value of gold on the scales of the human heart, and the weights do not ask whether it is found or stolen gold, or whether you had to sweat in the digging.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ISMAIL_KADARE">
+			<Text>Ismail Kadare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CHRONICLE_IN_STONE">
+			<Text>Chronicle in Stone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CHRONICLE_IN_STONE">
+			<Text>'If an animal has to be sacrificed when a new bridge is built, what will it take to build a whole new world?'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VACLAV_HAVEL">
+			<Text>Vaclav Havel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DISTURBING_THE_PEACE">
+			<Text>Disturbing the Peace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DISTURBING_THE_PEACE">
+			<Text>'Anyone who takes himself too seriously always runs the risk of looking ridiculous; anyone who can consistently laugh at himself does not.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARKO_MILJANOV">
+			<Text>Marko Miljanov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_EXAMPLES_OF_VALOR">
+			<Text>The Examples of Valor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_EXAMPLES_OF_VALOR">
+			<Text>'Bravery is to defend yourself from another, and the humanity is to defend the other from yourself.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MASIELA LUSHA">
+			<Text>Masiela Lusha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_A_SIRENS_SONG">
+			<Text>A Siren's Song</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_A_SIRENS_SONG">
+			<Text>'Sing your song, unforgiving siren,[NEWLINE]Part the curtain clouds with your faithful entrance,[NEWLINE]And clear your voice.[NEWLINE]Pour your song of milk onto this land of yours.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TOVE_JANSSON">
+			<Text>Tove Jansson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SOMMARBOKEN">
+			<Text>Sommarboken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SOMMARBOKEN">
+			<Text>'A person can find anything if he takes the time, that is, if he can afford to look. And while he’s looking, he’s free, and he finds things he never expected.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRIK_IBSEN">
+			<Text>Henrik Ibsen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ET_VERS">
+			<Text>Et Vers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ET_VERS">
+			<Text>'To live is to battle the demons[NEWLINE]In the heart as well as the brain[NEWLINE]To write is to preside at[NEWLINE]Judgement day over one's self.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHANN_HUIZINGA">
+			<Text>Johann Huizinga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_IN_THE_SHADOW_OF_TOMORROW">
+			<Text>In the Shadow of Tomorrow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_IN_THE_SHADOW_OF_TOMORROW">
+			<Text>
+				'History can predict nothing except that great changes in human relationship will never come about in the form in which they have been anticipated.'
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DAFYDD_AP_GWILYM">
+			<Text>Dafypp ap Gwilym</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_Y_GWYNT">
+			<Text>Y Gwynt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_Y_GWYNT">
+			<Text>'Winnowing leaves, you steal nests[NEWLINE]None charge you, you're not halted[NEWLINE]By armed band, lieutenant's hand,[NEWLINE]Blue blade or flood or downpour.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALI_BIN_ABU-TALIB">
+			<Text>Ali bin Abu-Talib</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HUSAYN_AL-NURI_AL-TABARSI">
+			<Text>Husayn al-Nuri al-Tabarsi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HUSAYN_AL-NURI_AL-TABARSI">
+			<Text>'The weakest man is the one who is able to correct his moral defects, but doesn't take action.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANEIRIN">
+			<Text>Aneirin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_Y_GODODDIN">
+			<Text>Y Gododdin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_Y_GODODDIN">
+			<Text>'He glutted black ravens on the rampart of the stronghold, though he was no King Arthur.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CASSIODORUS">
+			<Text>Cassiodorus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VARIAE">
+			<Text>Variae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_VARIAE">
+			<Text>'For what is more glorious than music, which modulates the heavenly system with its sonorous sweetness, and binds together with its virtue the concord of nature which is scattered everywhere?'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_T'AO_CH'IEN">
+			<Text>T'ao Ch'ien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WRITTEN_WHILE_DRUNK">
+			<Text>Written While Drunk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WRITTEN_WHILE_DRUNK">
+			<Text>'I beg you listen to this advice - when you get the wine, be sure to drink it.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LI_BAI">
+			<Text>Li Bai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MOON_OVER_MOUNTAIN_PASS">
+			<Text>Moon Over Mountain Pass</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MOON_OVER_MOUNTAIN_PASS">
+			<Text>'From the walls of Baidi high in the coloured dawn[NEWLINE]To Jiangling by night-fall is three hundred miles,[NEWLINE]Yet monkeys are still calling on both banks behind me[NEWLINE]To my boat these ten thousand mountains away.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BAI_JUYI">
+			<Text>Bai Juyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_SONG_OF_LONG_SORROW">
+			<Text>The Song of Long Sorrow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_SONG_OF_LONG_SORROW">
+			<Text>'That we wished to fly in heaven, two birds with the wings of one,[NEWLINE]And to grow together on the earth, two branches of one tree.[NEWLINE]Earth endures, heaven endures; some time both shall end,[NEWLINE]While this unending sorrow goes on and on forever.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TS'AO_SUNG">
+			<Text>Ts'ao Sung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_A_PROTEST_IN_THE_SIXTH_YEAR_OF_QIANFU">
+			<Text>A Protest in the Sixth Year of Qianfu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_A_PROTEST_IN_THE_SIXTH_YEAR_OF_QIANFU">
+			<Text>'The submerged country, river and hill, is a battle-ground.[NEWLINE]How can the common people enjoy they wood-cutting and their fuel-gathering?[NEWLINE]I charge thee, sir, no to talk of high honours;[NEWLINE]A single general achieves fame on the rotting bones of ten thousand.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ATTAR_OF_NISHAPUR">
+			<Text>Attar of Nishapur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_SUN_AT_MIDNIGHT">
+			<Text>The Sun at Midnight</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_SUN_AT_MIDNIGHT">
+			<Text>'The Sea[NEWLINE]Will be the Sea[NEWLINE]Whatever the drop's philosophy.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JALAL_AL-DIN_RUMI">
+			<Text>Jalal al-Din Rumi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MASNAVI_I_MANAV">
+			<Text>Masnavi I Ma'nav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MASNAVI_I_MANAV">
+			<Text>'Reason is the shadow cast by God; God is the sun.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARCHIPOETA">
+			<Text>Aechipoeta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CONFESSION">
+			<Text>Confession</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CONFESSION">
+			<Text>'Since the soul in me is dead,[NEWLINE]Better save the skin.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_IPPEN">
+			<Text>Ippen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HYMN_OF_AMIDAS_VOW">
+			<Text>Hymn of Amida's Vow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HYMN_OF_AMIDAS_VOW">
+			<Text>'From far, far in the distant past[NEWLINE]Down to this day, this very instant[NEWLINE]Those things we have longer for most[NEWLINE]Have not been attained, and we sorrow.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KABIR">
+			<Text>Kabir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BIJAK">
+			<Text>Bijak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_BIJAK">
+			<Text>'In your body is the garden of flowers.[NEWLINE]Take your seat on the thousand petals of the lotus, and there gaze[NEWLINE]on the Infinite Beauty.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_IHARA_SAIKAKU">
+			<Text>Ihara Saikaku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_JAPANESE_FAMILY_STOREHOUSE">
+			<Text>The Japanese Family Storehouse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_JAPANESE_FAMILY_STOREHOUSE">
+			<Text>'Though mothers and fathers give us life,[NEWLINE]It is money alone which preserves it.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NAZIM_HIKMET">
+			<Text>Nazim Hikmet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_IN_THE_SNOWY_NIGHT_WOODS">
+			<Text>In the Snowy Night Woods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_IN_THE_SNOWY_NIGHT_WOODS">
+			<Text>'The strangest of our powers[NEWLINE]Is the courage to live[NEWLINE]Knowing that we will die,[NEWLINE]Knowing nothing more true.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ATAOL_BEHRAMOGLU">
+			<Text>Ataol Behramoglu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAIRIN_SIIRE_SORUMLULUGU">
+			<Text>Sairin Siire Sorumlulugu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAIRIN_SIIRE_SORUMLULUGU">
+			<Text>'A poem is an alive organism.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KHAKHEPERRESENB">
+			<Text>Khakheperresenb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_BURDEN_OF_THE_PAST">
+			<Text>The Burden of the Past</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_BURDEN_OF_THE_PAST">
+			<Text>'Would I had phrases that are not known, utterances that are strange, in new language that has not been used, free from repetition, no an utterance that has grown stale, which men of old have spoken.' [2000BC]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PTANHOTEP">
+			<Text>Ptanhotep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_MAXIMS">
+			<Text>The Maxims of Ptanhotep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_MAXIMS">
+			<Text>'Be cheerful while you are alive.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THIRUVALLUVAR">
+			<Text>Thiruvalluvar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TIRUKKURAL">
+			<Text>Tirukkural</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TIRUKKURAL">
+			<Text>'The wound that's made by fire will heal,[NEWLINE]But the wound that's made by tongue will never heal.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RABINDRANATH_TAGORE">
+			<Text>Rabindranath Tagore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GITANJALI">
+			<Text>Gitanjali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GITANJALI">
+			<Text>'The truth comes as conqueror only because we have lost the art of reveiveing it as guest.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NHAT_HANH">
+			<Text>Nhat Hanh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PEACE_IS_EVERY_STEP">
+			<Text>Peace is Every Step</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_PEACE_IS_EVERY_STEP">
+			<Text>'The quality of our life[NEWLINE]Depends on the quality[NEWLINE]Of the seeds[NEWLINE]That lie deep in our consciousness.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ABDUL_GHANI_KHAN">
+			<Text>Abdul Ghani Khan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_REVERIE">
+			<Text>Reverie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_REVERIE">
+			<Text>'Death, go somewhere, get lost! I'm not done as yet - Joy still flows from the amphora of colors into my cupped hands.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NADINE_GORDIMER">
+			<Text>Nadine Gordimer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WRITING_AND_BEING">
+			<Text>Writing and Being</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WRITING_AND_BEING">
+			<Text>'Any writer of any worth at all hopes to play only a pocket-torch of light - and rarely, through genius, a sudden flambeau - into the bloody yet beautiful labyrinth of human experience of being.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHINUA_ACHEBE">
+			<Text>Chinua Achebe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THINGS_FALL_APART">
+			<Text>Things Fall Apart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THINGS_FALL_APART">
+			<Text>'The sun will shine on those who stand, before it shines on those who kneel under them.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANK_CHIPASULA">
+			<Text>Frank Chipasula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MANIFESTON_ON_ARS_POETICA">
+			<Text>Manifeston on Ars Poetica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MANIFESTON_ON_ARS_POETICA">
+			<Text>'I will not coat my words in lumps of sugar[NEWLINE]I will serve them to our people with the bitter quinine.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WOLE_SOYINKA">
+			<Text>Wole Soyinka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DEATH_AND_THE_KINGS_HORSEMAN">
+			<Text>Death and the King's Horseman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DEATH_AND_THE_KINGS_HORSEMAN">
+			<Text>'There is only one home to the life of a river-mussel;[NEWLINE]There is only one home to the life of a tortoise;[NEWLINE]There is only one shell to the soul of man;[NEWLINE]There is only one world to the spirit of our race.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GIANNINA_BRASCHI">
+			<Text>Giannina Braschi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EMPIRE_OF_DREAMS">
+			<Text>Empire of Dreams</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_EMPIRE_OF_DREAMS">
+			<Text>'Only what fated to die is capable of living.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VATSYAYANA">
+			<Text>Vatsyayana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KAMASUTRA">
+			<Text>Kamasutra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_KAMASUTRA">
+			<Text>'If variety is sought in all the arts and amusements, such as archery and others, how much more should it be sought after in the art of love.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GIOCONDA_BELLI">
+			<Text>Gioconda Belli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WASLALA">
+			<Text>Waslala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WASLALA">
+			<Text>'Every poet, I suppose, should fall madly in love at least once in her life, so that she may come to know the shadow side of the feminine human expercience, plumb the depth of her own vulnerability and emerge the wiser.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GABRIEL_GARCIA_MARQUEZ">
+			<Text>Gabriel Garcia Marquez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ONE_HUNDRED_YEARS_OF_SOLITUDE">
+			<Text>One Hundred Years of Solitude</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ONE_HUNDRED_YEARS_OF_SOLITUDE">
+			<Text>'Tell him, that a person doesn't die when he should, but when he can'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LAO_TZU">
+			<Text>Lao Tzu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TAO_TE_CHING">
+			<Text>Tao Te Ching</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TAO_TE_CHING">
+			<Text>'If you want to become full, let yourself be empty.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ORHAN_PAMLUK">
+			<Text>Orhan Pamluk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MY_NAME_IS_RED">
+			<Text>My Name is Red</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MY_NAME_IS_RED">
+			<Text>'I don't want to be a tree; I want to be its meaning.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MUHAMMED_FUZULI">
+			<Text>Muhammed Fuzuli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LAYLA_AND_MAJNUN">
+			<Text>Layla and Majnun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LAYLA_AND_MAJNUN">
+			<Text>'A beauty with a stately figure, cypress statured, like a rose,[NEWLINE]Rosy cheeked and sweet as jasmine, as a statue in repose...'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GABRIELA_MISTRAL">
+			<Text>Gabriela Mistral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LAGAR">
+			<Text>Lagar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LAGAR">
+			<Text>'Love beauty; it is the shadow of God on the universe.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROMULO_GALLEGOS">
+			<Text>Romulo Gallegos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DONA_BARBARA">
+			<Text>Dona Barbara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DONA_BARBARA">
+			<Text>'The hares of the dawn - the indigenous metaphor of the cowboy poet - are the little round clouds on the horizon behind the dark fringe of the thicket, golden in the sunrise.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JULIO_CORTAZAR">
+			<Text>Julio Cortazar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HOPSCOTCH">
+			<Text>Hopscotch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HOPSCOTCH">
+			<Text>'Before going back to sleep I imagined (I saw) a plastic universe, changeable, full of wondrous chance, an elastic sky, a sun that suddenly is missing or remains fixed or changes it shape.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JORGE_LUIS_BORGES">
+			<Text>Jorge Luis Borges</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_MASKED_DYER_HAKIM_OF_MERV">
+			<Text>The masked dyer Hakim of Merv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_MASKED_DYER_HAKIM_OF_MERV">
+			<Text>'Your unforgivable sins do not allow you to see my splendor.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_OCTAVIO PAZ">
+			<Text>Octavio Paz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_LABYRINTH_OF_SOLITUDE">
+			<Text>The Labyrinth of Solitude</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_LABYRINTH_OF_SOLITUDE">
+			<Text>'Solitude is the profoundest fact of the human condition. Man is the only being who knows he is alone.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AH BAM">
+			<Text>Ah Bam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SONGS_OF_DZITBALCHE">
+			<Text>Songs of Dzitbalche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SONGS_OF_DZITBALCHE">
+			<Text>'As the sun sinks into the top of the sky, it is the moment to begin...'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANCISCO ARANA XAJILA">
+			<Text>Francisco Arana Xajila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ANNALS_OF_THE_CAKCHIQUELS">
+			<Text>Annals of the Cakchiquels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ANNALS_OF_THE_CAKCHIQUELS">
+			<Text>'The chiefs rejoiced when the words of Ychal reached them, and they took counsel in words against Ychal: 'It is well that he is hidden from the light, that we disobey not the Demon on account of Ychal!'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JNANAPPANA">
+			<Text>Jnanappana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_POONTHANAM">
+			<Text>Poonthanam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_POONTHANAM">
+			<Text>'Mind will never be happy with how much wealth we get. If one gets ten, he wants to get hudnred instead; if one gets hundred, he wants thousand instead. If one gets thousand, then he would think more would have been wonderful.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NITLACOYA">
+			<Text>Nitlacoya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NEZAHUALCOYOTL">
+			<Text>Nezahualcoyotl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_NEZAHUALCOYOTL">
+			<Text>'I love the song of the mockingbird,[NEWLINE]Bird of four hundred voices,[NEWLINE]I love the color of the jadestone[NEWLINE]And the intoxicating scent of flowers,[NEWLINE]But more than all I love my brother, man.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NARAYAN">
+			<Text>Narayan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KOCHARETI">
+			<Text>Kochareti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_KOCHARETI">
+			<Text>'When the leader passes over all alike, not making a distinction, then the endeavors of those who are capable of exertion are entirely lost.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KAREL_CAPEK">
+			<Text>Karel Capek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ROSSUMS_UNIVERSAL_ROBOTS">
+			<Text>Rossum's Universal Robots</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ROSSUMS_UNIVERSAL_ROBOTS">
+			<Text>'You still stand watch, O human star, burning withour a flicker, perfect flame, bright and resourceful spirit. Each of your rays a great idea - O torch which passes from hand to hand, from age to age, world withour end.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHINGIZ_AITMATOV">
+			<Text>Chingiz Aitmatov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SPOTTED_DOG_RUNNING_ALONG_THE_SEASHORE">
+			<Text>Spotted Dog Running Along the Seashore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SPOTTED_DOG_RUNNING_ALONG_THE_SEASHORE">
+			<Text>'Nothing but wayer - an ever moving swell; nothing but waves, swiftly forming and instantly dying; nothing but depths; dark, fathomless depths; and nothing but sky, scudding white clouds, puffy and intangible. That was the living world, nothing besides, nothing else but sea. No winter or summer, no hills or ravines.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MWANA_KUPONA">
+			<Text>Mwana Kupona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_UTENDI_WA_MWANA_KUPONA">
+			<Text>Utendi Wa Mwana Kupona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_UTENDI_WA_MWANA_KUPONA">
+			<Text>'The author of this work[NEWLINE]Is a sorrowful widow[NEWLINE]Her worst sin[NEWLINE]The Lord will forgive...'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HEO_NANSEOLHEON">
+			<Text>Heo Nanseolheon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SONG_OF_AUTUMN_NIGHT">
+			<Text>Song of Autumn Night</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SONG_OF_AUTUMN_NIGHT">
+			<Text>'The grasshoppers are earnest and ardent; the winds are pure and clear[NEWLINE]The fragrance of the lotus fades; the eternal wheel high.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LADY_ISE">
+			<Text>Lady Ise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THREAD_OF_PEARLS">
+			<Text>Thread of Pearls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THREAD_OF_PEARLS">
+			<Text>'Hanging from the branches of a green[NEWLINE]Willow tree,[NEWLINE]The spring rain[NEWLINE]Is a[NEWLINE]Thread of pearls.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHRISTINE_DE_PIZAN">
+			<Text>Christine de Pizan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_BOOK_OF_THE_CITY_OF_LADIES">
+			<Text>The Book of the City of Ladies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_BOOK_OF_THE_CITY_OF_LADIES">
+			<Text>'The man or the woman in whom resides greater virtue is the higher; neither the loftiness nor the lowliness of a person lies in the body according to sex, but in the perfection of conduct and virtues.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CELESTINE_HITIURA_VAITE">
+			<Text>Celestine Hitiura Vaire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CROATIAN_TALES_OF_LONG_AGO">
+			<Text>Croatian Tales of Long Ago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CROATIAN_TALES_OF_LONG_AGO">
+			<Text>'Happy the land whose treasure is not guarded[NEWLINE]By mighty armies or strong cities, but by the mothers[NEWLINE]And children in shepherds' cots. Such a land will never perish!'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJELI_MAMADOU_KOUYATE">
+			<Text>Djeli Mamadou Kouyate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EPIC OF SUNDIATA">
+			<Text>Epic of Sundiata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_EPIC OF SUNDIATA">
+			<Text>'I teach kings the history of their ancestors, so that the lives of the ancient might serve them as an example, for the world is old, but the future springs from the past.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZERA_YACOB">
+			<Text>Zera Yacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HATATA">
+			<Text>Hatata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HATATA">
+			<Text>'I have begun an inquiry such as has not been attempted before... People should become wise with the help of God, arrive at the science of truth, less believe in falsehood, less trust in depravity, less quarrel about their empty faith and more rely on her minds!'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BESSIE HEAD">
+			<Text>Bessie Head</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_A QUESTION OF POWER">
+			<Text>A Question of Power</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_A QUESTION OF POWER">
+			<Text>'If things of the soul are really a question of power, then anyone in possesion of power of the spirit could be Lucifer.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MWENGO">
+			<Text>Mwengo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_UTENDI WA TAMBUKA">
+			<Text>Utendi wa Tambuka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_UTENDI WA TAMBUKA">
+			<Text>'A person who has no enemies is not a human being.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHIMAMANDA NGOZI ADICHIE">
+			<Text>Chimamanda Ngozi Adichie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HALF OF A YELLOW SUN">
+			<Text>Half of a Yellow Sun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HALF OF A YELLOW SUN">
+			<Text>'Richard exhaled. It was like somebody sprinkling pepper on this wound: thousands of Biafrans were dead, and this man wanted to know if there was anything new about one dead white man. Richard would write about this, the rule of Western journalism: one hundred dead black people equal to one dead white person.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NNEDI OKORAFOR">
+			<Text>Nnedi Okorafor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ZAHRAH THE WINDSEEKER">
+			<Text>Zahrah the Windseeker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ZAHRAH THE WINDSEEKER">
+			<Text>'Silence is the best answet to a fool.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HO XUAN HUONG">
+			<Text>Ho Xuan Huong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DAY AND NIGHT">
+			<Text>Day and Night</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DAY AND NIGHT">
+			<Text>'That is what we play now, your[NEWLINE]Hands on my face any my hands on your eyes[NEWLINE]Incredible,[NEWLINE]How we disappear into each other...'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PREAH BOTUMTHERA SOM">
+			<Text>Preah Botumthera Som</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TUM TEAV">
+			<Text>Tum Teav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TUM TEAV">
+			<Text>'They arrived at a field of reeds, fallen and sprouting.[NEWLINE]The white flowers, creeping and sparkling bright[NEWLINE]Were like the shining body of this beloved.[NEWLINE]Like the reeds' healing flowers, he longed for her so much.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PETER WATTS">
+			<Text>Peter Watts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BLINDSIGHT">
+			<Text>Blindsight</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_BLINDSIGHT">
+			<Text>'After four thousand of years we can't even prove, that outside of someone's dreaming mind the reality exists at all. We desperately need more powerful minds.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N. SCOTT MOMADAY">
+			<Text>N. Scott Momaday</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE WAY TO RAINY MOUNTAIN">
+			<Text>The Way to Rainy Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE WAY TO RAINY MOUNTAIN">
+			<Text>'Before there were horses, the Kiowas had need of dogs. That was a long time ago, when dogs could talk...'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRY WADSWORTH LONGFELLOW">
+			<Text>Henry Wadsworth Longfellow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE SONG OF HIAWATHA">
+			<Text>The Song of Hiawatha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE SONG OF HIAWATHA">
+			<Text>'I am weary of your quarrels,[NEWLINE]Weary of your wars and bloodsheed,[NEWLINE]Weary of your prayers for vengeance,[NEWLINE]Of your wrangling and dissensions.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SHERMAN ALEXIE">
+			<Text>Sherman Alexie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE ABSOLUTELY TRUE DIARY OF A PART-TIME INDIAN">
+			<Text>The Absolutely True Diary of a Part-Time Indian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE ABSOLUTELY TRUE DIARY OF A PART-TIME INDIAN">
+			<Text>'I used to think the world was broken down by tribes, by Black and White, by Indian and White. But I know this isn't true. The world is only broken into two tribes: the people who are assholes, and the people who are not.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOY HARJO">
+			<Text>Joy Harjo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EAGLE POEM">
+			<Text>Eagle Poem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_EAGLE POEM">
+			<Text>'We are truly blessed because we[NEWLINE]Were born and die soon within a[NEWLINE]True circle of motion[NEWLINE]Like eagle rounding out the morning[NEWLINE]Inside us.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LESLIE MARMON SILKO">
+			<Text>Leslie Marmon Silko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CEREMONY">
+			<Text>Ceremony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CEREMONY">
+			<Text>'You don't have anything,[NEWLINE]If you don't have the stories.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SUNTHORN PHU">
+			<Text>Sunthorn Phu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PHRA APHAI MANI">
+			<Text>Phra Aphai Mani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_PHRA APHAI MANI">
+			<Text>'I am no pirate or robber - my name is Sin Samudr, and I am the son of Phra Abhai, a scion of kings! And I am on a journey through the sea - do you wish to live, or die?'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MPU PRAPANCA">
+			<Text>Mpu Prapanca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NAGARAKRETAGAMA">
+			<Text>Nagarakretagama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_NAGARAKRETAGAMA">
+			<Text>'At the waxing moon, on the twelfth night, they invited there that[NEWLINE]Soul, sutra recital was performed and fire offering[NEWLINE]worship, on the other hand also amphidromy;[NEWLINE]they were only considere) complete at the arrival of the Soul again on Earth.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TIBET">
+			<Text>Tibet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE EPIC OF KING GESAR">
+			<Text>The Epic of King Gesar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE EPIC OF KING GESAR">
+			<Text>'Listen carefully for the enemy coming from afar,[NEWLINE]Watch closely for the enemy coming from close by![NEWLINE]You who are like the cloudless sun,[NEWLINE]You who are like an unbending reed!'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THE HORSEMAN">
+			<Text>The Horseman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE SECRET HISTORY OF THE MONGOLS">
+			<Text>The Secret History of The Mongols</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE SECRET HISTORY OF THE MONGOLS">
+			<Text>'At the Beginning there was a blue - grey Wolf born with his destiny ordained by Heaven Above...'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DEGANAWIDAH">
+			<Text>Deganawidah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE GREAT LAW OF PEACE">
+			<Text>The Great Law of Peace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE GREAT LAW OF PEACE">
+			<Text>'I am Deganawidah - with the statesmen of the League of Five Nations,[NEWLINE]I plant the Tree of Great Peace. Roots have spread out from this Tree,[NEWLINE]one to the north, one to the east, one to the west, and one to the south.[NEWLINE]And their nature is Peace and Strenght.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NGUYEN DU">
+			<Text>Nguyen Du</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE TALE OF KIEU">
+			<Text>The Tale of Kieu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE TALE OF KIEU">
+			<Text>'Within the span of hundred years of human existence,[NEWLINE]What a bitter struggle is waged between genius and destiny![NEWLINE]How many harrowing events have occurred while mulberries cover the [NEWLINE]Conquered sea![NEWLINE]Rich in beauty, unlucky in life!'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_IRYEON">
+			<Text>Iryeon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAMGUK YUSA">
+			<Text>Samguk Yusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAMGUK YUSA">
+			<Text>'I the olden days, when Uisang had returned from his first visit to China, he heard that the Goddess of mercy had taken up her abode in a cave on the seacost. He therefore called the place So-Paekhwa,Small Little Flower, because the graceful image of Goddess there resembled a white flower on a slender stream.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANNA FRANK">
+			<Text>Anna Frank</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE DIARY OF ANNA FRANK">
+			<Text>The Diary of Anna Frank</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE DIARY OF ANNA FRANK">
+			<Text>'I don't believe that the big men, the politicians and the capitalists alone are guilty of the war. Oh, no, the little man is just as keen, otherwise the people of the world would have risen in revolt long ago! There is an urge and rage in people to destroy, to kill, to murder, and until all mankind, without exception, undergoes a great change, wars will be waged.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WU CHEN">
+			<Text>Wu Chen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JOURNEY TO THE WEST">
+			<Text>Journey to the West</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_JOURNEY TO THE WEST">
+			<Text>'Nothing in this world is difficult, but thinking makes it seem so. Where there is true will, there is always a way.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAO XUEQIN">
+			<Text>Cao Xueqin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DREAM OF THE RED CHAMBER">
+			<Text>Dream of the Red Chamber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DREAM OF THE RED CHAMBER">
+			<Text>'Truth becomes fiction when the fiction's true;[NEWLINE]Real becomes not-real where the unreal's real.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAADI">
+			<Text>Sa'adi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BANI_ADAM">
+			<Text>Bani Adam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_BANI_ADAM">
+			<Text>'The sons of Adam are limbs of each other,[NEWLINE]Having been created of one essence.[NEWLINE]When the calamity of time affects one limb[NEWLINE]The other limbs cannot remain at rest.[NEWLINE]If you have no sympathy for the troubles of others,[NEWLINE]You are unworthy to be called by the name of a Human.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LUO_GUAZHONG">
+			<Text>Luo Guazhong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ROMANCE OF THE THREE KINGDOMS">
+			<Text>Romance of the Three Kingdoms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ROMANCE OF THE THREE KINGDOMS">
+			<Text>'The naval forces were then lined up shooting on the bank to prevent a landing. Presently the soldiers arrived, and ten thousand and more soldiers were shooting down into the river, where the arrows fell like rain. The whole twenty boats were bristling with arrows on both sides. As they left, Zhuge Liang asked all the crews to shout derivesely - We thank you, Prime Minister, for the arrows!'</Text>
+		</Row>
+	</Language_en_US>
+	<Language_PL_PL>
+			<Row Tag="TXT_KEY_GREAT_PERSON_STANISLAW_LEM">
+				<Text>Stanisław Lem</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_SOLARIS">
+				<Text>Solaris</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SOLARIS">
+				<Text>"Nie potrzeba nam innych światów. Potrzeba nam luster. Nie wiemy, co począć z innymi światami. Wystarczy ten jeden, a już się nim dławimy."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_WISLAWA_SZYMBORSKA">
+				<Text>Wislawa Szymborska</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_OUR_CENTURYS_DECLINE">
+				<Text>Schyłek Wieku</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_OUR_CENTURYS_DECLINE">
+				<Text>"Bóg miał nareszcie uwierzyć w człowieka [NEWLINE] dobrego i silnego, [NEWLINE]ale dobry i silny [NEWLINE]to ciągle jeszcze dwóch ludzi."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_ZBIGNIEW_HERBERT">
+				<Text>Zbigniew Herbert</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_MESSAGE_OF_MR.COGITO">
+				<Text>Wiadomość od Pana Cogito</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MESSAGE_OF_MR.COGITO">
+				<Text>"Idź dokąd poszli tamci do ciemnego kresu [NEWLINE]po złote runo nicości twoją ostatnią nagrodę [NEWLINE] idź wyprostowany wśród tych co na kolanach [NEWLINE]wśród odwróconych plecami i obalonych w proch"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_JAROSLAV_HASEK">
+				<Text>Jaroslav Hasek</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE_GOOD_SOLDIER_SVEJK">
+				<Text>Dobry Żołnierz Szwejk</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_GOOD_SOLDIER_SVEJK">
+				<Text>"Jezus Chrystus też był niewinny, a i tak go ukrzyżowano. Nikt nigdy nie martwił się o niewinnego człowieka."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_FERENC_MOLNAR">
+				<Text>Ferenc Molnar</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_PRISONERS">
+				<Text>Więźniowie</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_PRISONERS">
+				<Text>"Łzy mają wartość złota na szali ludzkiego serca, i ciężary nie pytają czy jest to wydobyte czy skradzione złoto, ani czy musiałeś się spocić podczas kopania."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_ISMAIL_KADARE">
+				<Text>Ismail Kadare</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_CHRONICLE_IN_STONE">
+				<Text>Kronika w Kamieniu</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CHRONICLE_IN_STONE">
+				<Text>"Jeśli zwierzę musi być poświęconę podczas budowy nowego mostu, co będziemy musieli poświęcić by zbudować nowy świat?"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_VACLAV_HAVEL">
+				<Text>Vaclav Havel</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_DISTURBING_THE_PEACE">
+				<Text>Przerywając Milczenie</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DISTURBING_THE_PEACE">
+				<Text>"Każdy kto bierze siebie zbyt poważnie, zawsze ryzykuje, że będzie wyglądał śmiesznie, podczas gdy ten który śmieje się z siebie - nie."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_MARKO_MILJANOV">
+				<Text>Marko Miljanov</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE_EXAMPLES_OF_VALOR">
+				<Text>Przykłady Odwagi</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_EXAMPLES_OF_VALOR">
+				<Text>"Odwagą jest obrona siebie przed drugim, ale człowieczeństwem jest chronić innych przed sobą."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_MASIELA LUSHA">
+				<Text>Masiela Lusha</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_A_SIRENS_SONG">
+				<Text>Pieśń Syreny</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_A_SIRENS_SONG">
+				<Text>"Śpiewaj swą pieśń, syreno bez przebaczenia [NEWLINE] Zakryj kurtynę chmur swym wniebowstąpieniem [NEWLINE]I oczyść swój głos. [NEWLINE]Wylej swą pieśń mleka na nasz ląd."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_TOVE_JANSSON">
+				<Text>Tove Jansson</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_SOMMARBOKEN">
+				<Text>Sommarboken</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SOMMARBOKEN">
+				<Text>"Człowiek może znaleźć wszystko jeśli poświęci na to czas, to znaczy, jeśli może sobie pozwolić na rozglądanie się. A gdy się rozgląda, jest wolny, i zauważa rzeczy których się nie spodziewał."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_HENRIK_IBSEN">
+				<Text>Henryk Ibsen</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_ET_VERS">
+				<Text>Et Vers</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ET_VERS">
+				<Text>"Żyć, to walczyć z demonami [NEWLINE] W sercu a także w głowie [NEWLINE]Pisać, to zarządzać nad [NEWLINE]Swym własnym dniem sądu."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_JOHANN_HUIZINGA">
+				<Text>Johann Huizinga</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_IN_THE_SHADOW_OF_TOMORROW">
+				<Text>W Cieniu Jutra</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_IN_THE_SHADOW_OF_TOMORROW">
+				<Text>"Historia nie jest w stanie przewidzieć nic ponadto, że wielkie zmiany w stosunkach ludzkich nigdy nie przychodzą w formie w jakiej się ich spodziewano."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_DAFYDD_AP_GWILYM">
+				<Text>Dafypp ap Gwilym</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_Y_GWYNT">
+				<Text>Y Gwynt</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_Y_GWYNT">
+				<Text>"Przebrane liście, stalowe gniazda[NEWLINE]Nikt cię nie zatrzyma, nie jesteś ścigany[NEWLINE]Przez zbrojną bandę, rękę przywódcy[NEWLINE]Błękitne ostrze, powódź lub ulewę."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_ALI_BIN_ABU-TALIB">
+				<Text>Ali bin Abu-Talib</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_HUSAYN_AL-NURI_AL-TABARSI">
+				<Text>Husayn al-Nuri al-Tabarsi</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HUSAYN_AL-NURI_AL-TABARSI">
+				<Text>"Najsłabszym człowiekiem jest ten, który jest w stanie poprawić swoje moralne defekty, ale nie podejmuje działania."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_ANEIRIN">
+				<Text>Aneirin</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_Y_GODODDIN">
+				<Text>Y Gododdin</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_Y_GODODDIN">
+				<Text>"Nasycił czarne kruki na wałach fortecy, choć nie był Królem Arturem."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_CASSIODORUS">
+				<Text>Kasjodor</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_VARIAE">
+				<Text>Variae</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_VARIAE">
+				<Text>"Cóż bowiem jest wspanialsze niż muzyka, modulująca niebiosa[NEWLINE]Swą dźwięczną słodkością, i wiąże cnoty rozsianego wszędy[NEWLINE]Współbrzmienia przyrody?"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_T'AO_CH'IEN">
+				<Text>T'ao Ch'ien</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_WRITTEN_WHILE_DRUNK">
+				<Text>Spisane w Trakcie Picia</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WRITTEN_WHILE_DRUNK">
+				<Text> "Błagam byś posłuchał tej rady - kiedy dostajesz wino, bądź pewien by je wypić."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_LI_BAI">
+				<Text>Li Bai</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_MOON_OVER_MOUNTAIN_PASS">
+				<Text>Przejście Księżyca ponad Górami</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MOON_OVER_MOUNTAIN_PASS">
+				<Text>"Od murów Baidi wysoko w blasku świtu[NEWLINE]Do Jianglingu nocą są trzy setki mil[NEWLINE]A małpy wciąż wyją na dwu brzegach rzeki[NEWLINE]Którą minałem tysiąc gór temu."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_BAI_JUYI">
+				<Text>Bai Juyi</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE_SONG_OF_LONG_SORROW">
+				<Text>Pieśń Długiego Smutku</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_SONG_OF_LONG_SORROW">
+				<Text>"Zapragnęliśmy frunąć w niebiosach, dwa ptaki skrzydłami jednego,[NEWLINE]I rosnąć razem na ziemi, gałęzie z jednego drzewa[NEWLINE]Ziemia przemija, niebo przemija; kiedyś oboje upadną[NEWLINE]Gdy ta pieśń nieskończona trwać będzie przez wieczność."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_TS'AO_SUNG">
+				<Text>Ts'ao Sung</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_A_PROTEST_IN_THE_SIXTH_YEAR_OF_QIANFU">
+				<Text>Protest w szósty rok Qianfu</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_A_PROTEST_IN_THE_SIXTH_YEAR_OF_QIANFU">
+				<Text>"Kraj zamęczony, wzgórze i rzeka, są polem bitwy[NEWLINE]Jak ludzie prości mogą cieszyć się życiem?[NEWLINE]Nie chcę więc panie mówić o wielkich honorach[NEWLINE]Generał osiąga sławę na kościach tysięcy."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_ATTAR_OF_NISHAPUR">
+				<Text>Attar z Niszapuru</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE_SUN_AT_MIDNIGHT">
+				<Text>Słońce Północą</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_SUN_AT_MIDNIGHT">
+				<Text>"Morze Będzie Morzem[NEWLINE]Niezależnie od filozofii kropli"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_JALAL_AL-DIN_RUMI">
+				<Text>Jalal al-Din Rumi</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_MASNAVI_I_MA'NAV">
+				<Text>Masnavi I Ma'nav</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MASNAVI_I_MANAV">
+				<Text>"Rozum jest cieniem rzuconym przez Boga - Bóg jest zaś słońcem."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_ARCHIPOETA">
+				<Text>Archipoeta</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_CONFESSION">
+				<Text>Wyznanie</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CONFESSION">
+				<Text>"Jako że dusza we mnie jest martwa,[NEWLINE]Lepiej ocalcie skórę."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_IPPEN">
+				<Text>Ippen</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_HYMN_OF_AMIDAS_VOW">
+				<Text>Pieśń Ślubna Amidy</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HYMN_OF_AMIDAS_VOW">
+				<Text>"Od dawna, od dawna z dalekiej przeszłości[NEWLINE]Aż po dziś dzień, bardzo odległy[NEWLINE]Te rzeczy o któreśmy zabiegali[NEWLINE]Wciąż nam umykają, zatem płaczemy."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_KABIR">
+				<Text>Kabir</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_BIJAK">
+				<Text>Bijak</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_BIJAK">
+				<Text>"W twoim ciele jest ogród kwiecisty[NEWLINE]Zajmij miejsce na tysiącu płatków lotosu, i przyglądaj się stąd[NEWLINE]Nieskończonemu Pięknu."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_IHARA_SAIKAKU">
+				<Text>Ihara Saikaku</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE_JAPANESE_FAMILY_STOREHOUSE">
+				<Text>Skarbnica Japońskiej Rodziny</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_JAPANESE_FAMILY_STOREHOUSE">
+				<Text> "Choć matki i ojcowie dają nam życie,[NEWLINE]To pieniądz samotny je zabezpiecza."	</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_NAZIM_HIKMET">
+				<Text>Nazim Hikmet</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_IN_THE_SNOWY_NIGHT_WOODS">
+				<Text>W Nocnych Śnieżnych Lasach</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_IN_THE_SNOWY_NIGHT_WOODS">
+				<Text>"Najdziwniejszą z naszyc mocy[NEWLINE]Jest odwaga do życia[NEWLINE]Choć wiemy że umrzemy[NEWLINE}Choć to jedyna pewność."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_ATAOL_BEHRAMOGLU">
+				<Text>Ataol Behramoglu</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_SAIRIN_SIIRE_SORUMLULUGU">
+				<Text>Sairin Siire Sorumlulugu</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAIRIN_SIIRE_SORUMLULUGU">
+				<Text>"Wiersz - jest organizmem żywym."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_KHAKHEPERRESENB">
+				<Text>Khakheperresenb</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE_BURDEN_OF_THE_PAST">
+				<Text>Jarzmo Przeszłości</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_BURDEN_OF_THE_PAST">
+				<Text>"O, gdybym miał nieznane światu frazy, obce wyrażenia,[NEWLINE]W języku nowym którego nie zna nikt,[NEWLINE]Wolne od powtórzenia, wolne od czerstwości[NEWLINE]Którą przemawiają starzy ludzie."[NEWLINE][2000 przed Chrystusem]</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_PTANHOTEP">
+				<Text>Ptanhotep</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE_MAXIMS">
+				<Text>Maksymy</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_MAXIMS">
+				<Text>"Bądź zawsze szczęśliw za życia"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_THIRUVALLUVAR">
+				<Text>Thiruvalluvar</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_TIRUKKURAL">
+				<Text>Tirukkural</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TIRUKKURAL">
+				<Text>"Zagoi się nawet rana od ognia,[NEWLINE]Lecz nigdy rana uczyniona językiem."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_RABINDRANATH_TAGORE">
+				<Text>Rabindranath Tagore</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_GITANJALI">
+				<Text>Gitanjali</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GITANJALI">
+				<Text>"Prawda przybywa do nas jako zdobywca tylko dlatego, że straciliśmy zdolność przyjmowania jej jak gościa"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_NHAT_HANH">
+				<Text>Nhat Hanh</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_PEACE_IS_EVERY_STEP">
+				<Text>Pokój jest Każdym Krokiem</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_PEACE_IS_EVERY_STEP">
+				<Text>"Jakość naszego życia[NEWLINE]Zależy od jakości[NEWLINE]Ziaren[NEWLINE]Leżących głęboko w podświadomości."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_ABDUL_GHANI_KHAN">
+				<Text>Abdul Ghani Khan</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_REVERIE">
+				<Text>Reverie</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_REVERIE">
+				<Text>"Śmierci, idź gdzieś, przepadnij - jeszcze nie skończyłem -[NEWLINE]Życie wciąż spływa z amfory kolorów do mych złożonych dłoni."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_NADINE_GORDIMER">
+				<Text>Nadine Gordimer</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_WRITING_AND_BEING">
+				<Text>Pisanie i Istnienie</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WRITING_AND_BEING">
+				<Text>"Każdy pisarz pragnie wtłoczyć małe światełko, lub poprzez geniusz - nagły płomień - w krwawe i piękne zarazem ludzkie doświadczenie życia."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_CHINUA_ACHEBE">
+				<Text>Chinua Achebe</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THINGS_FALL_APART">
+				<Text>Wszystko Rozpada Się</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THINGS_FALL_APART">
+				<Text>"Słońce wpierw będzie świecić na tych którzy stoją,[NEWLINE]Nim oświetli tych klęczących u ich stóp"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_FRANK_CHIPASULA">
+				<Text>Frank Chipasula</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_MANIFESTON_ON_ARS_POETICA">
+				<Text>Ars Poetica</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MANIFESTON_ON_ARS_POETICA">
+				<Text>"Nie przykryję mych słów grudkami cukru,[NEWLINE]Podam je ludziom z gorzką chininą."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_WOLE_SOYINKA">
+				<Text>Wole Soyinka</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_DEATH_AND_THE_KINGS_HORSEMAN">
+				<Text>Śmierć i Królewski Jeździec</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DEATH_AND_THE_KINGS_HORSEMAN">
+				<Text>"Jest tylko jeden dom dla skorupiaka;[NEWLINE]Jest tylko jeden dom dla żółwia[NEWLINE]Jest tylko jedna skorupa dla duszy ludzkiej;[NEWLINE]Jest tylko jeden świat dla ducha ludzkiej rasy"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_GIANNINA_BRASCHI">
+				<Text>Giannina Braschi</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_EMPIRE_OF_DREAMS">
+				<Text>Imperiów Snów</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_EMPIRE_OF_DREAMS">
+				<Text>"Tylko skazane na śmierć jest zdolne do życia."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_EVERY_DAY_YOU_PLAY">
+				<Text>Co dzień grasz</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_EVERY_DAY_YOU_PLAY">
+				<Text>"Kto pisze Twe imię literami dymu pośród gwiazd południa?[NEWLINE]Och, pozwól mi zapamiętać Ciebie gdy tu byłeś[NEWLINE]Przed Twoim istnieniem."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_VATSYAYANA">
+				<Text>Vatsjajana</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_KAMASUTRA">
+				<Text>Kamasutra</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_KAMASUTRA">
+				<Text>"Jeśli mistrzostwo wkładamy w sztuki i w rozrywki, w łucznictwo i wszelkie inne[NEWLINE]O ileż więcej powinno go być w sztuce miłości."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_GIOCONDA_BELLI">
+				<Text>Gioconda Belli</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_WASLALA">
+				<Text>Waslala</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WASLALA">
+				<Text>"Myślę, że każdy poeta powinienem szaleńczo się zakochać choć raz w życiu, by poznać mroczną stronę ludzkiego doświadczenia, zagłębić w swe słabe punkty i wyłonić mądrzejszym."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_GABRIEL_GARCIA_MARQUEZ">
+				<Text>Gabriel Garcia Marquez</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_ONE_HUNDRED_YEARS_OF_SOLITUDE">
+				<Text>Sto Lat Samotności</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ONE_HUNDRED_YEARS_OF_SOLITUDE">
+				<Text>"Powiedz mu - rzekł kapral z uśmiechem - że człowiek nie umiera gdy powinien, lecz gdy tylko może"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_LAO_TZU">
+				<Text>Lao Tzu</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_TAO_TE_CHING">
+				<Text>Tao Te Ching</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TAO_TE_CHING">
+				<Text>"Jeśli chcesz stać się pełnym, pozwól sobie być pustym."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_ORHAN_PAMLUK">
+				<Text>Orhan Pamluk</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_MY_NAME_IS_RED">
+				<Text>Me Imię to Czerwień</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MY_NAME_IS_RED">
+				<Text>"Nie chcę być drzewem, lecz jego znaczeniem."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_MUHAMMED_FUZULI">
+				<Text>Muhammed Fuzuli</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_LAYLA_AND_MAJNUN">
+				<Text>Lajla i Majnun</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LAYLA_AND_MAJNUN">
+				<Text>"Piękność z dostojną figurą, jak cyprys rosła, jak róża[NEWLINE]Z rumianym licem, jak jaśmin słodka, jak posąg w spoczynku..."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_GABRIELA_MISTRAL">
+				<Text>Gabriela Mistral</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_LAGAR">
+				<Text>Lagar</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LAGAR">
+				<Text>"Kochaj pięknośc - to bowiem cień Boga w naszym Wszechświecie"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_ROMULO_GALLEGOS">
+				<Text>Romulo Gallegos</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_DONA_BARBARA">
+				<Text>Dona Barbara</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DONA_BARBARA">
+				<Text>"Zające świtu - rodzima metafora kowbojskiego poety - są małymi okrągłymi chmurkami na horyzoncie, za czarnym frędzlem zarośli, złotymi wschodem słońca"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_JULIO_CORTAZAR">
+				<Text>Julio Cortazar</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_HOPSCOTCH">
+				<Text>Gra w Klasy</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HOPSCOTCH">
+				<Text>"Przed powrotem do snu wyobraziłem sobie (ujrzałem) plastikowy wszechświat, pełen zmian i cusownej szansy, elastyczne niebo, słońce które nagle znika lub zmienia swój kształt."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_JORGE_LUIS_BORGES">
+				<Text>Jorge Luis Borges</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE_MASKED_DYER_HAKIM_OF_MERV">
+				<Text>Zamaskowany Barwiarz z Merv</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_MASKED_DYER_HAKIM_OF_MERV">
+				<Text>"Twe niewybaczalne grzechy nie pozwalają ci na ujrzenie mojej wspaniałości"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_OCTAVIO_PAZ">
+				<Text>Octavio Paz</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE_LABYRINTH_OF_SOLITUDE">
+				<Text>Labirynt Samotności</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_LABYRINTH_OF_SOLITUDE">
+				<Text>"Samotność jest najgłębszą oznaką ludzkiej kondycji, człowiek to jedyna istota która wie, że jest sama."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_AH BAM">
+				<Text>Ah Bam</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_SONGS_OF_DZITBALCHE">
+				<Text>Pieśni Dzitbalche</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SONGS_OF_DZITBALCHE">
+				<Text>"Gdy Słońce tonie na szczycie niebios, rozpoczyna się chwila..."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_FRANCISCO ARANA XAJILA">
+				<Text>Francisco Arana Xajila</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_ANNALS_OF_THE_CAKCHIQUELS">
+				<Text>Annały Cakchiquel</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ANNALS_OF_THE_CAKCHIQUELS">
+				<Text>"Przywódcy dołączyli, gdy dotarły do nich słowa Ychal, i rzekli mu: Dobrze że jest ukryty przed światłem, że nie słuchamy się demona na jego władzy!"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_JNANAPPANA">
+				<Text>Jnanappana</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_POONTHANAM">
+				<Text>Poonthanam</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_POONTHANAM">
+				<Text>"Umysł nigdy nie będzie uszczęśliwion bogactwem - jeśli otrzyma dziesięć, pragnie dostać sto; gdy dostanie sto, pragnie dostać tysiąc - gdy dostanie zaś tysiąc, pragnie jeszcze więcej..."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_NITLACOYA">
+				<Text>Nitlacoya</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_NEZAHUALCOYOTL">
+				<Text>Nezahualcoyotl</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_NEZAHUALCOYOTL">
+				<Text>"Kocham pieśń przedrzeźniacza[NEWLINE]Ptaka czterystu głosów,[NEWLINE]Kocham barwę jadeitu[NEWLINE]I czystą woń kwiatów[NEWLINE]Lecz nade wszystko, kocham bliźniego."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_NARAYAN">
+				<Text>Narayan</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_KOCHARETI">
+				<Text>Kochareti</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_KOCHARETI">
+				<Text>"Gdy władca przemija tak jak każdy inny, bez żadnej różnicy,[NEWLINE]Wszelki szacunek doń także upada"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_KAREL_CAPEK">
+				<Text>Karel Capek</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_ROSSUMS_UNIVERSAL_ROBOTS">
+				<Text>Roboty Uniwersalne Rossuma</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ROSSUMS_UNIVERSAL_ROBOTS">
+				<Text>
+					"Wciąż stoisz patrząc, o ludzka gwiazdo, płonąca bez błysku, doskonały płomieniu, jasny i zasobny duchu. Każdy z twych promieni jest wspaniałą ideą - o pochodnio przechodząco z dłoni do dłoni, z wieku do wieku, świecie bez końca!"
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_CHINGIZ_AITMATOV">
+				<Text>Czyngis Aitmatow</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_SPOTTED_DOG_RUNNING_ALONG_THE_SEASHORE">
+				<Text>Pies biegnący wzdłuż Brzegu</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SPOTTED_DOG_RUNNING_ALONG_THE_SEASHORE">
+				<Text>"Nic prócz wody - wszechruchomego pęcznienia; nic prócz fal, formujących się i ginących; nicz prócz głębin, ciemnych i niezgłębionych; nic prócz nieba, pędzących białych chmur, puszystych i nieuchwytnych. To było żyjącym światem, nic poza tym, nic prócz morza."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_MWANA_KUPONA">
+				<Text>Mwana Kupona</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_UTENDI_WA_MWANA_KUPONA">
+				<Text>Utendi Wa Mwana Kupona</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_UTENDI_WA_MWANA_KUPONA">
+				<Text>"Autor tego dzieła jest wdową żałobną[NEWLINE]Niech Pan przebaczy jej największy grzech!"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_HEO_NANSEOLHEON">
+				<Text>Heo Nanseolheon</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_SONG_OF_AUTUMN_NIGHT">
+				<Text>Pieśń Jesiennej Nocy</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SONG_OF_AUTUMN_NIGHT">
+				<Text>"Świerszcze żarliwe, uparte, wiatry czyste i piękne,[NEWLINE]Aromat płatków lotosu, wieczne koło istnienia..."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_LADY_ISE">
+				<Text>Lady Ise</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THREAD_OF_PEARLS">
+				<Text>Sznur Pereł</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THREAD_OF_PEARLS">
+				<Text>"Wiszące z gałęzi zielonej[NEWLINE]Wierzby[NEWLINE]Krople wiosennego deszczu[NEWLINE]Są[NEWLINE]sznurem pereł."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_CHRISTINE_DE_PIZAN">
+				<Text>Christine de Pizan</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE_BOOK_OF_THE_CITY_OF_LADIES">
+				<Text>Księga z Miasta Kobiet</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_BOOK_OF_THE_CITY_OF_LADIES">
+				<Text>"Mężczyzna lub kobieta w którym leży większa wartość jest wyższy; ani niskość ani wysokość osoby nie leży w ciele i płci, lecz w perfekcji cnoty i postępku"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_CELESTINE HITIURA_VAITE">
+				<Text>Celestine Hitiura Vaire</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_CROATIAN_TALES_OF_LONG_AGO">
+				<Text>Chorwackie Bajki z Dawnych Czasów</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CROATIAN_TALES_OF_LONG_AGO">
+				<Text>"Szczęśliwym jest ląd, którego skarbiec nie jest strzeżony[NEWLINE]Przez wielkie armie i potężne miasta, lecz dzielne matki[NEWLINE]I dzieci w łóżeczkach, śpiące spokojnie."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_DJELI MAMADOU KOUYATE">
+				<Text>Djeli Mamadou Kouyate</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_EPIC OF SUNDIATA">
+				<Text>Epos o Sundiacie</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_EPIC OF SUNDIATA">
+				<Text>"Nauczam królów historii ich przodków, by żywoty starożytnych mogły im służyć - albowiem choć świat jest stary, przyszłość wytryska z przeszłości."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_ZERA YACOB">
+				<Text>Zera Yacob</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_HATATA">
+				<Text>Hatata</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HATATA">
+				<Text>"Doszedłem do czegoś, czego nie zna świat... Ludzie bowiem powinny wierzyć w pomoc Bożą i naukę ludzką, mniej wierzyć w zabobon, mniej ufać pustej wierze i bardziej polegać na swym rozumie!"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_BESSIE HEAD">
+				<Text>Bessie Head</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_A QUESTION OF POWER">
+				<Text>Kwestia Mocy</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_A QUESTION OF POWER">
+				<Text>"Jeśli przymioty ducha są przyczyną potęgi, każdy w posiadaniu siły ducha mógłby być Lucyferem..."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_MWENGO">
+				<Text>Mwengo</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_UTENDI WA TAMBUKA">
+				<Text>Utendi wa Tambuka</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_UTENDI WA TAMBUKA">
+				<Text>"Istota pozbawiona wrogów nie jest istotą ludzką!"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_CHIMAMANDA NGOZI ADICHIE">
+				<Text>Chimamanda Ngozi Adichie</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_HALF OF A YELLOW SUN">
+				<Text>Połowa Żółtego Słońca</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HALF OF A YELLOW SUN">
+				<Text>"Richard dał upust swej złości - to było tak jakby ktoś posypał jego ranę pieprzem; tysiące Biafrańczyków było martwych, a ten człowiek chciał wiedzieć czy są jakiekolwiek wieści o jakimkolwiek zabitym białym człowieku. Oto zasada zachodniego dziennikarstwa - setka martwych czarnych ludzi równa się śmierci jednego o białej skórze."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_NNEDI OKORAFOR">
+				<Text>Nnedi Okorafor</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_ZAHRAH THE WINDSEEKER">
+				<Text>Zahrah Poszukiwacz Wiatru</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ZAHRAH THE WINDSEEKER">
+				<Text>"Choć wiedziałem, że nie powinienem się przejmować, słowa wciąż bolały jak szczypnięcia, a szczypnięcia potrafią być bardzo bolesne gdy wykonane w jednym miejcu wielokrotnie..."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_HO XUAN HUONG">
+				<Text>Ho Xuan Huong</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_DAY AND NIGHT">
+				<Text>Dzień i Noc</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DAY AND NIGHT">
+				<Text>"Twe dłonie na mojej twarzy[NEWLINE]Me dłonie są na Twych oczach[NEWLINE]Niezwykłe, jak gubimy się w drugim z nas"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_PREAH BOTUMTHERA SOM">
+				<Text>Preah Botumthera Som</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_TUM TEAV">
+				<Text>Tum Teav</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TUM TEAV">
+				<Text>"Przybyli na pole trzcin, upadłych i kiełkujących[NEWLINE]Białe kwiaty lśniące jasnością[NEWLINE]Były jak ciało jego ukochanej[NEWLINE]I jak kwiaty kwitnące, tak długo na nią czekał"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_PETER WATTS">
+				<Text>Peter Watts</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_BLINDSIGHT">
+				<Text>Ślepowidzenie</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_BLINDSIGHT">
+				<Text>"Po czterech tysiącach lat nie umiemy nawet udowodnić, że poza umysłem kogoś śniącego w pierwszej osobie w ogóle istnieje rzeczywistość. Bardzo potrzebujemy umysłów większych od naszych własnych."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_N. SCOTT MOMADAY">
+				<Text>N. Scott Momaday</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE WAY TO RAINY MOUNTAIN">
+				<Text>Droga w Deszczowe Góry</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE WAY TO RAINY MOUNTAIN">
+				<Text>"Przed końmi, Kiowa potrzebowali psów - a było to dawno temu, gdy psy mogły mówić..."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_HENRY WADSWORTH LONGFELLOW">
+				<Text>Henry Wadsworth Longfellow</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE SONG OF HIAWATHA">
+				<Text>Pieśń Hiawathy</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE SONG OF HIAWATHA">
+				<Text>"Jestem zmęczony waszymi kłótniami,[NEWLINE]Zmęczony waszymi wojnami i rzezią,[NEWLINE]Zmęczony waszą modlitwą zemsty[NEWLINE]Sporami i niezgodą."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_SHERMAN ALEXIE">
+				<Text>Sherman Alexie</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE ABSOLUTELY TRUE DIARY OF A PART-TIME INDIAN">
+				<Text>Absolutnie Prawdziwy Dziennik Częściowego Indianina</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE ABSOLUTELY TRUE DIARY OF A PART-TIME INDIAN">
+				<Text>"Sądziłem że świat był podzielony na plemiona Czarnych i Białych, Indian i Białych, i tak dalej. Ale wiem już, że nie jest to prawda. Świat jest tylko podzielony tylko na dwa plemiona - na ludzi którzy są sukinsynami, i na tych którzy nimi nie są."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_JOY HARJO">
+				<Text>Joy Harjo</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_EAGLE POEM">
+				<Text>Wiersz Orła</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_EAGLE POEM">
+				<Text>"Jesteśmy prawdziwie szczęśliwi, albowiem[NEWLINE]Zrodziliśmy się i umrzemy wkrótce w[NEWLINE]Kole ciągłego ruchu[NEWLINE]Jak orzeł kołujący w nas rankiem"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_LESLIE MARMON SILKO">
+				<Text>Leslie Marmon Silko</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_CEREMONY">
+				<Text>Ceremonia</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CEREMONY">
+				<Text>"Nie masz nic, jeśli nie masz opowieści"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_SUNTHORN PHU">
+				<Text>Sunthorn Phu</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_PHRA APHAI MANI">
+				<Text>Phra Aphai Mani</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_PHRA APHAI MANI">
+				<Text>"Jam nie pirat czy łotr - nazywam się Sin Samundr, i jestem synem Phra Abhaia, potomka królów! Żyć pragniecie, czy umierać?"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_MPU PRAPANCA">
+				<Text>Mpu Prapanca</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_NAGARAKRETAGAMA">
+				<Text>Nagarakretagama</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_NAGARAKRETAGAMA">
+				<Text>"W dwunastą noc woskowego księżyca, w noc recytacji sutry i noc ognia ofiarnego, Duch znów przybył na Ziemię"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_FREE TIBET">
+				<Text>Wolny Tybet</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE EPIC OF KING GESAR">
+				<Text>Epos o Królu Gesarze</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE EPIC OF KING GESAR">
+				<Text>"Nasłuchujcie za wrogiem idącym z oddali,[NEWLINE]Rozglądajcie się za wrogiem podchodzącym z bliska![NEWLINE]Wy, którzyście jako słońce bez chmur,[NEWLINE]Wy, którzyście nieugiętą trzciną!"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_THE HORSEMAN">
+				<Text>Jeździec</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE SECRET HISTORY OF THE MONGOLS">
+				<Text>Tajemna Historia Mongołów</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE SECRET HISTORY OF THE MONGOLS">
+				<Text>"I nic nie było z Początku - tylko Wilk srebrzysty, zrodzony z przeznaczeniem wydanym przez Niebiosa"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_DEGANAWIDAH">
+				<Text>Deganawidah</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE GREAT LAW OF PEACE">
+				<Text>Wielkie Prawo Pokoju</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE GREAT LAW OF PEACE">
+				<Text>"Jam Tekanawita - mąż stanu Ligi Pięciu Narodów,[NEWLINE]I ja zasadziłem Drzewo Wielkiego Pokoju. Korzenie zeń wyrosły -[NEWLINE]Na północ, na wschód, na zachód, na południe.[NEWLINE]A ich naturą jest Pokój i Moc."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_NGUYEN DU">
+				<Text>Nguyen Du</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE TALE OF KIEU">
+				<Text>Opowieść Kieu</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE TALE OF KIEU">
+				<Text>"W ciągu setek lat lat ludzkiego istnienia,[NEWLINE]cóż za gorzka walka między geniuszem a losem![NEWLINE]Jak wiele zdarzeń strasznych było, jak wiele morw w ich czasie żyło i umierało spokojnie![NEWLINE]Bogactwo w pięknie, nieszczęście w życiu!"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_IRYEON">
+				<Text>Iryeon</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_SAMGUK YUSA">
+				<Text>Samguk Yusa</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAMGUK YUSA">
+				<Text>"W dawnych dniach, gdy Uisang wrócił z wizyty do Chin, usłyszał że bogini miłosierdzia zamieszkała w jaskini na brzegu morza. Nazwał to miejsce So-Paekhwa, Mały Drobny Kwiat, gdyż oblicze Boginie było jak biały kwiat na obliczu strumienia"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_ANNA FRANK">
+				<Text>Anna Frank</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_THE DIARY OF ANNA FRANK">
+				<Text>Dziennik Anny Frank</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE DIARY OF ANNA FRANK">
+				<Text>"Nie wierzę że wielcy ludzie, politycy i kapitaliści, winni są wojny. O nie, mały człowiek jest do niej tak samo skory, inaczej ludzie z całego świata by się zbuntowali już dawno! Jest w ludziach potrzeba i pragnienie niszczenia, zabijania, mordu, i póki cała ludzkość nie przejdzie wielkiej zmiany, będą trwać wojny, i ludzkość wciąż będzie zaczynać od nowa."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_WU CHEN">
+				<Text>Wu Chen</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_JOURNEY TO THE WEST">
+				<Text>Wyprawa na Zachód</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_JOURNEY TO THE WEST">
+				<Text>"Nic w tym świecie nie jest trudne, lecz myślenie tworzy takie wrażenie. Tam gdzie jest prawdziwa wola, tam jest i droga"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_CAO XUEQIN">
+				<Text>Cao Xueqin</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_DREAM OF THE RED CHAMBER">
+				<Text>Sen Czerwonej Komnaty</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DREAM OF THE RED CHAMBER">
+				<Text>"Prawda staje się fikcją, gdy fikcja staje się prawdą;[NEWLINE]Realne staje się nierealnym, gdy nierealne staje się realnym"</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_SAADI">
+				<Text>Sa'adi</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_BANI_ADAM">
+				<Text>Bani Adam</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_BANI_ADAM">
+				<Text>"Ludzie tego świata są członkami jednego świata, o jednej duszy. Jeśli jeden członek jest uciskany, wszyscy cierpią męki."</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_PERSON_LUO_GUAZHONG">
+				<Text>Luo Guazhong</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_ROMANCE OF THE THREE KINGDOMS">
+				<Text>Romans Trzech Królestw</Text>
+			</Row>
+			<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ROMANCE OF THE THREE KINGDOMS">
+				<Text>"Flota ostrzeliwała brzeg rzeki, uprzedzając desant. Z brzegu zaś, dziesięć tysięcy żołnierzy strzelało w dół rzeki, gdzie strzały opadały niczym deszcz; dwadzieścia okrętów było z obu stron najeżonych strzałam. Zhuge Liang kazał wszystkim załogom krzyczeć szyderczo - Dziękujemy za strzały, najdrożsi!"</Text>
+			</Row>
+		</Language_PL_PL>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_SOLARIS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SOLARIS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SOLARIS</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ROMANCE OF THE THREE KINGDOMS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ROMANCE OF THE THREE KINGDOMS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_ROMANCE OF THE THREE KINGDOMS</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_OUR_CENTURYS_DECLINE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_OUR_CENTURYS_DECLINE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_OUR_CENTURYS_DECLINE</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MESSAGE_OF_MR.COGITO</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_MESSAGE_OF_MR.COGITO</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_MESSAGE_OF_MR.COGITO</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_GOOD_SOLDIER_SVEJK</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_GOOD_SOLDIER_SVEJK</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_GOOD_SOLDIER_SVEJK</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_PRISONERS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_PRISONERS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_PRISONERS</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CHRONICLE_IN_STONE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CHRONICLE_IN_STONE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_CHRONICLE_IN_STONE</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_DISTURBING_THE_PEACE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_DISTURBING_THE_PEACE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_DISTURBING_THE_PEACE</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_EXAMPLES_OF_VALOR</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_EXAMPLES_OF_VALOR</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_EXAMPLES_OF_VALOR</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_A_SIRENS_SONG</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_A_SIRENS_SONG</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_A_SIRENS_SONG</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SOMMARBOKEN</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SOMMARBOKEN</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SOMMARBOKEN</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ET_VERS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ET_VERS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_ET_VERS</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_IN_THE_SHADOW_OF_TOMORROW</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_IN_THE_SHADOW_OF_TOMORROW</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_IN_THE_SHADOW_OF_TOMORROW</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_Y_GWYNT</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_Y_GWYNT</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_Y_GWYNT</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_Y_GODODDIN</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_Y_GODODDIN</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_Y_GODODDIN</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_VARIAE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_VARIAE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_VARIAE</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_WRITTEN_WHILE_DRUNK</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_WRITTEN_WHILE_DRUNK</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_WRITTEN_WHILE_DRUNK</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MOON_OVER_MOUNTAIN_PASS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_MOON_OVER_MOUNTAIN_PASS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_MOON_OVER_MOUNTAIN_PASS</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_SONG_OF_LONG_SORROW</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_SONG_OF_LONG_SORROW</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_SONG_OF_LONG_SORROW</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_A_PROTEST_IN_THE_SIXTH_YEAR_OF_QIANFU</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_A_PROTEST_IN_THE_SIXTH_YEAR_OF_QIANFU</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_A_PROTEST_IN_THE_SIXTH_YEAR_OF_QIANFU</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_SUN_AT_MIDNIGHT</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_SUN_AT_MIDNIGHT</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_SUN_AT_MIDNIGHT</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MASNAVI_I_MANAV</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_MASNAVI_I_MANAV</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_MASNAVI_I_MANAV</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CONFESSION</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CONFESSION</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_CONFESSION</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HYMN_OF_AMIDAS_VOW</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HYMN_OF_AMIDAS_VOW</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HYMN_OF_AMIDAS_VOW</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BIJAK</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_BIJAK</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_BIJAK</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_JAPANESE_FAMILY_STOREHOUSE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_JAPANESE_FAMILY_STOREHOUSE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_JAPANESE_FAMILY_STOREHOUSE</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_IN_THE_SNOWY_NIGHT_WOODS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_IN_THE_SNOWY_NIGHT_WOODS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_IN_THE_SNOWY_NIGHT_WOODS</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SAIRIN_SIIRE_SORUMLULUGU</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAIRIN_SIIRE_SORUMLULUGU</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SAIRIN_SIIRE_SORUMLULUGU</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_BURDEN_OF_THE_PAST</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_BURDEN_OF_THE_PAST</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_BURDEN_OF_THE_PAST</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_MAXIMS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_MAXIMS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_MAXIMS</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_TIRUKKURAL</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_TIRUKKURAL</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_TIRUKKURAL</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_GITANJALI</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_GITANJALI</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_GITANJALI</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_REVERIE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_REVERIE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_REVERIE</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_WRITING_AND_BEING</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_WRITING_AND_BEING</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_WRITING_AND_BEING</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THINGS_FALL_APART</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THINGS_FALL_APART</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THINGS_FALL_APART</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MANIFESTON_ON_ARS_POETICA</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_MANIFESTON_ON_ARS_POETICA</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_MANIFESTON_ON_ARS_POETICA</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_DEATH_AND_THE_KINGS_HORSEMAN</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_DEATH_AND_THE_KINGS_HORSEMAN</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_DEATH_AND_THE_KINGS_HORSEMAN</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_EMPIRE_OF_DREAMS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_EMPIRE_OF_DREAMS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_EMPIRE_OF_DREAMS</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_KAMASUTRA</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_KAMASUTRA</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_KAMASUTRA</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_WASLALA</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_WASLALA</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_WASLALA</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ONE_HUNDRED_YEARS_OF_SOLITUDE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ONE_HUNDRED_YEARS_OF_SOLITUDE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_ONE_HUNDRED_YEARS_OF_SOLITUDE</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_TAO_TE_CHING</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_TAO_TE_CHING</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_TAO_TE_CHING</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MY_NAME_IS_RED</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_MY_NAME_IS_RED</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_MY_NAME_IS_RED</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LAYLA_AND_MAJNUN</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LAYLA_AND_MAJNUN</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LAYLA_AND_MAJNUN</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LAGAR</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LAGAR</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LAGAR</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_DONA_BARBARA</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_DONA_BARBARA</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_DONA_BARBARA</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HOPSCOTCH</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HOPSCOTCH</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HOPSCOTCH</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_MASKED_DYER_HAKIM_OF_MERV</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_MASKED_DYER_HAKIM_OF_MERV</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_MASKED_DYER_HAKIM_OF_MERV</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_LABYRINTH_OF_SOLITUDE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_LABYRINTH_OF_SOLITUDE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_LABYRINTH_OF_SOLITUDE</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SONGS_OF_DZITBALCHE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SONGS_OF_DZITBALCHE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SONGS_OF_DZITBALCHE</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_POONTHANAM</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_POONTHANAM</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_POONTHANAM</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ANNALS_OF_THE_CAKCHIQUELS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ANNALS_OF_THE_CAKCHIQUELS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_ANNALS_OF_THE_CAKCHIQUELS</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_NEZAHUALCOYOTL</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_NEZAHUALCOYOTL</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_NEZAHUALCOYOTL</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_KOCHARETI</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_KOCHARETI</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_KOCHARETI</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ROSSUMS_UNIVERSAL_ROBOTS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ROSSUMS_UNIVERSAL_ROBOTS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_ROSSUMS_UNIVERSAL_ROBOTS</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SPOTTED_DOG_RUNNING_ALONG_THE_SEASHORE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SPOTTED_DOG_RUNNING_ALONG_THE_SEASHORE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SPOTTED_DOG_RUNNING_ALONG_THE_SEASHORE</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_UTENDI_WA_MWANA_KUPONA</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_UTENDI_WA_MWANA_KUPONA</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_UTENDI_WA_MWANA_KUPONA</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SONG_OF_AUTUMN_NIGHT</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SONG_OF_AUTUMN_NIGHT</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SONG_OF_AUTUMN_NIGHT</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THREAD_OF_PEARLS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THREAD_OF_PEARLS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THREAD_OF_PEARLS</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_BOOK_OF_THE_CITY_OF_LADIES</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_BOOK_OF_THE_CITY_OF_LADIES</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_BOOK_OF_THE_CITY_OF_LADIES</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CROATIAN_TALES_OF_LONG_AGO</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CROATIAN_TALES_OF_LONG_AGO</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_CROATIAN_TALES_OF_LONG_AGO</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_EPIC OF SUNDIATA</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_EPIC OF SUNDIATA</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_EPIC OF SUNDIATA</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HATATA</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HATATA</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HATATA</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_A QUESTION OF POWER</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_A QUESTION OF POWER</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_A QUESTION OF POWER</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_UTENDI WA TAMBUKA</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_UTENDI WA TAMBUKA</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_UTENDI WA TAMBUKA</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HALF OF A YELLOW SUN</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HALF OF A YELLOW SUN</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HALF OF A YELLOW SUN</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ZAHRAH THE WINDSEEKER</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ZAHRAH THE WINDSEEKER</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_ZAHRAH THE WINDSEEKER</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_DAY AND NIGHT</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_DAY AND NIGHT</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_DAY AND NIGHT</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_TUM TEAV</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_TUM TEAV</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_TUM TEAV</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BLINDSIGHT</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_BLINDSIGHT</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_BLINDSIGHT</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE WAY TO RAINY MOUNTAIN</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE WAY TO RAINY MOUNTAIN</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE WAY TO RAINY MOUNTAIN</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE SONG OF HIAWATHA</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE SONG OF HIAWATHA</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE SONG OF HIAWATHA</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE ABSOLUTELY TRUE DIARY OF A PART-TIME INDIAN</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE ABSOLUTELY TRUE DIARY OF A PART-TIME INDIAN</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE ABSOLUTELY TRUE DIARY OF A PART-TIME INDIAN</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_EAGLE POEM</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_EAGLE POEM</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_EAGLE POEM</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CEREMONY</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CEREMONY</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_CEREMONY</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_PHRA APHAI MANI</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_PHRA APHAI MANI</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_PHRA APHAI MANI</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_NAGARAKRETAGAMA</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_NAGARAKRETAGAMA</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_NAGARAKRETAGAMA</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE EPIC OF KING GESAR</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE EPIC OF KING GESAR</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE EPIC OF KING GESAR</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE SECRET HISTORY OF THE MONGOLS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE SECRET HISTORY OF THE MONGOLS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE SECRET HISTORY OF THE MONGOLS</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE GREAT LAW OF PEACE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE GREAT LAW OF PEACE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE GREAT LAW OF PEACE</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE TALE OF KIEU</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE TALE OF KIEU</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE TALE OF KIEU</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SAMGUK YUSA</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAMGUK YUSA</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SAMGUK YUSA</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE DIARY OF ANNA FRANK</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE DIARY OF ANNA FRANK</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE DIARY OF ANNA FRANK</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_JOURNEY TO THE WEST</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_JOURNEY TO THE WEST</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_JOURNEY TO THE WEST</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_DREAM OF THE RED CHAMBER</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_DREAM OF THE RED CHAMBER</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_DREAM OF THE RED CHAMBER</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BANI_ADAM</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_BANI_ADAM</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_BANI_ADAM</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_PEACE_IS_EVERY_STEP</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_PEACE_IS_EVERY_STEP</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_PEACE_IS_EVERY_STEP</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HUSAYN_AL-NURI_AL-TABARSI</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HUSAYN_AL-NURI_AL-TABARSI</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HUSAYN_AL-NURI_AL-TABARSI</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+	</GreatWorks>
+</GameData>

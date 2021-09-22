@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="29f50ef4-c166-451c-9da8-6d8bafdd6886" version="1">
+  <Properties>
+    <Name>Era Settlers</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>New cities get Advanced Era Start bonuses based on current era.</Teaser>
+    <Description>- New cities get free buildings based on Advanced Start rules for the current era.  (For example, if Granaries are normally free for games starting in the Renaissance Era, cities founded in the Renaissance Era or later will get Granaries in any game.)
+- New cities get extra population based on Advanced Start rules for the current era.  (For example, if cities normally get 1 extra population for games starting in the Renaissance Era, cities founded in the Renaissance Era or later will get 1 extra population in any game.)</Description>
+    <Authors>Anton Strenger</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="D11183030837B05938D1E7A00A5AB89C" import="0">EraSettlers.lua</File>
+    <File md5="83E9C3B0B656A65761BCDC27CA1430C7" import="0">EraSettlers.xml</File>
+  </Files>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="EraSettlers.xml">
+      <Name>EraSettlers</Name>
+      <Description>Empty UI to run background script for EraSettlers mod</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/4/2014 1:08:05 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_LHC">
+			<Text>Large Hadron Collider</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_LHC_HELP">
+			<Text>+30% [ICON_RESEARCH] Science. A free Great Scientist appears near the city in which the wonder is built. Requires 5 [ICON_RES_ALUMINUM] Aluminum and 2 [ICON_RES_COPPER] Copper.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_LHC_QUOTE">
+			<Text>
+				[NEWLINE]"The whole history of science has been the gradual realization that events do not happen in an arbitrary manner, but that they reflect a certain underlying order, which may or may not be divinely inspired."[NEWLINE] - Stephen Hawking[NEWLINE]
+			</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_LHC_PEDIA">
+			<Text>
+				The Large Hadron Collider was built by the European Organization for Nuclear Research (CERN) from 1998 to 2008, with the aim of allowing physicists to test the predictions of different theories of particle physics and high-energy physics, and particularly prove or disprove the existence of the theorized Higgs particle and of the large family of new particles predicted by supersymmetric theories. The Higgs particle was confirmed by data from the LHC in 2013. The LHC is expected to address some of the unsolved questions of physics, advancing human understanding of physical laws. It contains seven detectors each designed for specific kinds of exploration.
+				It was built in collaboration with over 10,000 scientists and engineers from over 100 countries, as well as hundreds of universities and laboratories. It lies in a tunnel 27 kilometres (17 mi) in circumference, as deep as 175 metres (574 ft) beneath the Franco-Swiss border near Geneva, Switzerland. As of 2014, the LHC remains one of the largest and most complex experimental facilities ever built. Its synchrotron is designed to initially collide two opposing particle beams of either protons at up to 7 teraelectronvolts (7 TeV or 1.12 microjoules) per nucleon, or lead nuclei at an energy of 574 TeV (92.0 µJ) per nucleus (2.76 TeV per nucleon-pair), with energies to be doubled to around 14 TeV collision energy - more than seven times any predecessor collider - by around 2015. Collision data was also anticipated to be produced at an unprecedented rate of tens of petabytes per year, to be analysed by a grid-based computer network infrastructure connecting 140 computing centers in 35 countries (by 2012 the LHC Computing Grid was the world's largest computing grid, comprising over 170 computing facilities in a worldwide network across 36 countries).
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

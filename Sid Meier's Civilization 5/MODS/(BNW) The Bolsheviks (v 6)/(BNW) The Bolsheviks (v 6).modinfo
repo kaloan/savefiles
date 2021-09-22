@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="bde27e43-57bd-4e29-95f6-ea209e95d758" version="6">
+  <Properties>
+    <Name>(BNW) The Bolsheviks</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Adds the Bolsheviks as a playable civilization, led by Vladimir Ilyich Lenin.</Teaser>
+    <Description>Adds the Bolsheviks as a playable civilization, led by Vladimir Ilyich Lenin.[NEWLINE][NEWLINE]UA - Peace, Land, Bread[NEWLINE]Adopting a Social Policy Opener or an Ideology yields +1 [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science to improvements, based on the adopted Policy or Ideology.[NEWLINE][NEWLINE]UU - Red Guard (Great War Infantry)[NEWLINE]Weaker (48 vs 50). Upgrades from Workers. +25% Combat Strength when attacking from Railroads. Starts with the Patriotic War promotion.[NEWLINE][NEWLINE]UB - Commissariat (Constabulary)[NEWLINE]+10% [ICON_FOOD] Food retained when a Citizen is born. +1 [ICON_PRODUCTION] Production from every 5 Citizens in the city. +15% [ICON_CULTURE] Culture. Does not reduce enemy Spy effectiveness.</Description>
+    <Authors>Space Communist</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="0D9C07839D46F3D5B71917539F7B7F98" import="1">Art/alphaLeninciv128.dds</File>
+    <File md5="6CA087E88A1D893720E8746AB360EEC0" import="1">Art/alphaLeninciv16.dds</File>
+    <File md5="76B996CB0EE455D92E9353BF4CC5649D" import="1">Art/alphaLeninciv24.dds</File>
+    <File md5="2C70FC2BCB3110AAC672B8B16D77D844" import="1">Art/alphaLeninciv256.dds</File>
+    <File md5="785B2E9BFCC654304DAD05AB9236E61A" import="1">Art/alphaLeninciv32.dds</File>
+    <File md5="0A160AF014B6F09F82794C1ABDF7BA42" import="1">Art/alphaLeninciv48.dds</File>
+    <File md5="CF4C9AA1E1D990402AE2F7632EF240D6" import="1">Art/alphaLeninciv64.dds</File>
+    <File md5="39DC9B470EA48A000466A64BBC90EB3D" import="1">Art/alphaLeninciv80.dds</File>
+    <File md5="11B90B9E749E08BC38C3DCFD3017AB86" import="1">Art/DOM_Lenin.dds</File>
+    <File md5="069B70A4D7D5DAA00D7C93CE229BAB06" import="1">Art/LeninAtlas128.dds</File>
+    <File md5="1C771D011219208DE22C9D14CA9585A3" import="1">Art/LeninAtlas214.dds</File>
+    <File md5="A7C5A2A0A237FAB20417F8FF33FCC969" import="1">Art/LeninAtlas256.dds</File>
+    <File md5="F44E21DC839A5BE28BF8D98C79B01E27" import="1">Art/LeninAtlas32.dds</File>
+    <File md5="91B1AE328C01C870926CF6DA535A7859" import="1">Art/LeninAtlas45.dds</File>
+    <File md5="112743BF1644354364EFBFC12D00538A" import="1">Art/LeninAtlas64.dds</File>
+    <File md5="9E0D117491FD007C39A41003DA350E59" import="1">Art/LeninAtlas80.dds</File>
+    <File md5="08A1CB8BD5662BD8C1B70DAE96F46B27" import="1">Art/LeninWar.mp3</File>
+    <File md5="EADE78E2C1E78D10BE03495991996187" import="1">Art/Lenin_Diplo_Screen.xml</File>
+    <File md5="7A551A4E1D484FFFDC974019D03224A9" import="1">Art/LeninPeace.mp3</File>
+    <File md5="CB77C4F31AC13CCE44BFBCC06EF3BC45" import="1">Art/Lenin_Leader_Screen.dds</File>
+    <File md5="F823D7C5F22A9D3CACBF226F81C2C71D" import="0">Lua/BolshevikTrait.lua</File>
+    <File md5="CDA3C9AB051A82FD4DD1E2ECCAD93708" import="0">Lua/RailroadPromotion.lua</File>
+    <File md5="5C9B8341C3912EB8E013FE0CEBD5CA9F" import="0">XML/LeninDummyPolicies.xml</File>
+    <File md5="FEA3F59AE47523791FCA52BCFAF12102" import="0">XML/IdeologyBranchUpdate.xml</File>
+    <File md5="B240A8410DD75738B5180FB3DAB2B095" import="0">XML/LeninUnits.sql</File>
+    <File md5="53BB05C4F60600240EF54E45947EF546" import="0">XML/LeninIconAtlases.xml</File>
+    <File md5="03D0A4B17B1CE26D18C823616D404108" import="0">XML/LeninCivilization.xml</File>
+    <File md5="88C22A5832346281DF75746A76138425" import="0">XML/LeninBuilding.xml</File>
+    <File md5="B96FBF717A43EDC0F97569594C326328" import="0">XML/LeninLeader.xml</File>
+    <File md5="AE224B2F84BA5BF22A1A9B625E75E9C6" import="0">XML/LeninTrait.xml</File>
+    <File md5="71D8CD97EC40FDE69E08BDA1EA566F42" import="0">XML/LeninUnits.xml</File>
+    <File md5="9C96514229676BF890FB5CA1295D419D" import="0">XML/LeninMusic.xml</File>
+    <File md5="B37D8676BB32554496F2587323CB6657" import="0">XML/LeninModSupport.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Lenin_Diplo_Screen.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LeninBuilding.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LeninCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LeninIconAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LeninLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LeninTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LeninUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LeninUnits.sql</UpdateDatabase>
+      <UpdateDatabase>XML/IdeologyBranchUpdate.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LeninDummyPolicies.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LeninMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LeninModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/RailroadPromotion.lua">
+      <Name>RailroadPromotion</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/BolshevikTrait.lua">
+      <Name>BolshevikTrait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

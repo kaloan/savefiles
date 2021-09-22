@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_POTALA">
+			<Text>Potala Palace</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_POTALA_HELP">
+			<Text>City must be built next to a Mountain and must be on a Hill. Requires 5 [ICON_RES_TIMBER] Timber.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_POTALA_QUOTE">
+			<Text>[NEWLINE]"The creatures that inhabit this earth-be they human beings or animals, are here to contribute, each in its own particular way, to the beauty and prosperity of the world." [NEWLINE] - Dalai Lama XIV[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_POTALA_PEDIA">
+			<Text>The Potala Palace is located in Lhasa, Tibet. It was named after Mount Potala, the abode of Chenresig or Avalokitesvara. The Potala Palace was the chief residence of the Dalai Lama until the 14th Dalai Lama fled to Dharamsala, India, after an invasion and failed uprising in 1959.[NEWLINE][NEWLINE]The first palace was built in 637 by the Tibetan king, Songtsen Gampo, as a present for his bride Princess Wen Cheng of the Tang Dynasty of China. The site was previously used by the king as a meditation retreat. Lozang Gyatso, the Great Fifth Dalai Lama, started the construction of the modern Potala Palace in 1645 after one of his spiritual advisers, Konchog Chophel, pointed out that the site was ideal as a seat of government, situated as it is between Drepung and Sera monasteries and the old city of Lhasa.[NEWLINE][NEWLINE]Today, the Potala Palace is a museum. The building measures 400 metres east-west and 350 metres north-south, with sloping stone walls averaging 3 m. thick, and 5 m. (more than 16 ft) thick at the base, and with copper poured into the foundations to help proof it against earthquakes. Thirteen stories of buildings � containing over 1,000 rooms, 10,000 shrines and about 200,000 statues � soar 117 metres (384 ft) on top of Marpo Ri, the "Red Hill", rising more than 300 m (about 1,000 ft) in total above the valley floor.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

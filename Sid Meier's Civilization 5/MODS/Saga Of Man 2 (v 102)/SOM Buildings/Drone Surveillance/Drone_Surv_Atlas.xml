@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/5/2016 3:44:29 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>ATLAS_DRONE_SURV</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>Drone_Surv_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_DRONE_SURV</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>Drone_Surv_128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_DRONE_SURV</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>Drone_Surv_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_DRONE_SURV</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>Drone_Surv_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_DRONE_SURV</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>Drone_Surv_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+  
+</GameData>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Artisanix on 8/10/2013 11:43:03 PM -->
+<GameData>
+
+	<Buildings>
+		<Row>
+			<Type>BUILDING_GGANTIJA</Type>
+			<BuildingClass>BUILDINGCLASS_GGANTIJA</BuildingClass>
+			<Description>TXT_KEY_BUILDING_GGANTIJA</Description>
+			<Civilopedia>TXT_KEY_WONDER_GGANTIJA_PEDIA</Civilopedia>
+			<Quote>TXT_KEY_WONDER_GGANTIJA_QUOTE</Quote>
+			<Help>TXT_KEY_WONDER_GGANTIJA_HELP</Help>
+			<Cost>185</Cost>
+			<!--<FaithCost>370</FaithCost>-->
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+			<MaxStartEra>ERA_CLASSICAL</MaxStartEra>
+			<!--<UnlockedByBelief>true</UnlockedByBelief>-->
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>100</ConquestProb>
+			<IconAtlas>NW_ICONS</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+			<WonderSplashImage>Ggantija_splash.dds</WonderSplashImage>
+			<WonderSplashAnchor>L,T</WonderSplashAnchor>
+		</Row>
+	</Buildings>
+	<Building_ResourceQuantityRequirements>
+		<Row>
+			<BuildingType>BUILDING_GGANTIJA</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+	<!--<Building_LocalResourceOrs>
+		<Row>
+			<BuildingType>BUILDING_GGANTIJA</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GGANTIJA</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+	</Building_LocalResourceOrs>-->
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_GGANTIJA</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GGANTIJA</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+
+	<Building_GlobalYieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_GGANTIJA</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>10</Yield>
+		</Row>
+	</Building_GlobalYieldModifiers>
+	<!--<Belief_BuildingClassYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_FERTILITY_RITES</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GGANTIJA</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+	</Belief_BuildingClassYieldChanges>-->
+	<!--<Belief_BuildingClassFaithPurchase>
+		<Row>
+			<BeliefType>BELIEF_FERTILITY_RITES</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GGANTIJA</BuildingClassType>
+		</Row>
+	</Belief_BuildingClassFaithPurchase>-->
+	<Beliefs>
+		
+		<!--<Row>
+			<Type>BELIEF_FERTILITY_CULT</Type>
+			<Description>Unlocks Ġgantija</Description>
+			<ShortDescription>Fertility Cult</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>-->
+	</Beliefs>
+	
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_GGANTIJA</BuildingType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GGANTIJA</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GGANTIJA</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+	</Building_Flavors>
+
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_GGANTIJA</Type>
+			<DefaultBuilding>BUILDING_GGANTIJA</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_GGANTIJA</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_GGANTIJA</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_GGANTIJA</BuildingClassType>
+			<BuildingType/>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_GGANTIJA">
+			<Text>Ggantija</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_GGANTIJA_HELP">
+			<Text>10% [ICON_FOOD] Growth in all cities. Provides +1 [ICON_PEACE] Faith and +1 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_GGANTIJA_QUOTE">
+			<Text>[NEWLINE]"Growth is the only evidence of life."[NEWLINE] - John Henry Newman[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_GGANTIJA_PEDIA">
+			<Text>
+				Ggantija (Giants' Tower) is a megalithic temple complex in Malta on the Mediterranean island of Gozo. Its makers erected the two Ggantija temples during the Neolithic Age (c. 3600-2500 BC), which makes the buildings more than 5500 years old and the world's second oldest manmade religious structures, after Gobekli Tepe. The temples were possibly the site of a Fertility cult - archeologists believe that the numerous figurines and statues found on site are connected with that cult.
+			</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

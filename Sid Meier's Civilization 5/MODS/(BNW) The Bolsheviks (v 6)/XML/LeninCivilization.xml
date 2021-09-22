@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_USSR</Type>
+      <Description>TXT_KEY_CIV_USSR_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_USSR</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_USSR_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_USSR_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_USSR</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_USSR</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+      <ArtStyleSuffix>_EURO</ArtStyleSuffix>
+      <ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>1</PortraitIndex>
+      <IconAtlas>LENIN_COLOR_ATLAS</IconAtlas>
+      <AlphaIconAtlas>LENIN_ALPHA_ATLAS</AlphaIconAtlas>
+      <MapImage>MapRussia512.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_USSR_TEXT</DawnOfManQuote>
+      <DawnOfManImage>DOM_Lenin.dds</DawnOfManImage>
+      <SoundtrackTag>Russia</SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <Civilization_BuildingClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_CONSTABLE</BuildingClassType>
+      <BuildingType>BUILDING_COMMISSARIAT</BuildingType>
+    </Row>
+  </Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_USSR_20</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <LeaderheadType>LEADER_LENIN</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_RUSSIA_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_RUSSIA_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_RUSSIA_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_RUSSIA_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_RUSSIA_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_RUSSIA_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_RUSSIA_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_RUSSIA_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_RUSSIA_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_RUSSIA_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_USSR</CivilizationType>
+      <UnitClassType>UNITCLASS_GREAT_WAR_INFANTRY</UnitClassType>
+      <UnitType>UNIT_BOLSHEVIK</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  <!-- Civilization_Start_Along_Ocean -->
+  <!-- Civilization_Start_Along_River -->
+  <!-- Civilization_Start_Region_Avoid -->
+  <!-- Civilization_Start_Place_First_Along_Ocean -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_USSR</Type>
+      <PrimaryColor>COLOR_PLAYER_USSR_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_USSR_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_USSR_ICON</Type>
+      <Red>0.875</Red>
+      <Green>0.836</Green>
+      <Blue>0.0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_USSR_BACKGROUND</Type>
+      <Red>0.691</Red>
+      <Green>0.112</Green>
+      <Blue>0.110</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_USSR_DESC">
+      <Text>The Bolsheviks</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_USSR_FACTOID_HEADING">
+      <Text>Bolshevik Factoid</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_USSR_HEADING_1">
+      <Text>Back in the USSR</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_USSR_TITLE">
+      <Text>The Bolsheviks</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_USSR_SHORT_DESC">
+      <Text>The Bolsheviks</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_USSR_ADJECTIVE">
+      <Text>Bolshevik</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_USSR_TEXT">
+      <Text>Seize the day, oh great Lenin, the mightiest revolutionary ever to walk the Earth! At the turn of the 19th Century, the Tsar of Russia was losing grasp on his country. Determined to retain power, the imperial powers killed anyone who dared oppose them - including your brother. Among these deaths were countless serfs starving to death, working arduously for little to no pay. All of this and more inspired you and your bretheren to form a radical party of communists, and after a split in 1905, you led these Bolsheviks in a struggle to overthrow the Tsar once and for all. Though tried by civil war, the Red Army survived, and adapted to create the foundations for the Soviet Union, a superpower the likes of which the world had never seen before.[NEWLINE][NEWLINE]Great Comrade, the peoples of the world yearn for freedom once more. Can you gather them in solidarity? Can your Bolsheviks take to the world stage and build a mighty nation of working men? Can you build a civilization that will stand the test of time?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_USSR_0">
+      <Text>Petrograd</Text>
+    </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_1">
+		  <Text>Kharkov</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_2">
+		  <Text>Smolensk</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_3">
+		  <Text>Yaroslavl</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_4">
+		  <Text>Perm</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_5">
+		  <Text>Sverdlovsk</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_6">
+		  <Text>Arkhangelsk</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_7">
+		  <Text>Kaluga</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_8">
+		  <Text>Ikaterinoslav</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_9">
+		  <Text>Saratov</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_10">
+		  <Text>Rostov</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_11">
+		  <Text>Orenburg</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_12">
+		  <Text>Vyatka</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_13">
+		  <Text>Astrakhan</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_14">
+		  <Text>Yekaterinodar</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_15">
+		  <Text>Tsaritsin</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_16">
+		  <Text>Penza</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_17">
+		  <Text>Samara</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_18">
+		  <Text>Baku</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_19">
+		  <Text>Pskov</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_USSR_20">
+		  <Text>Ufa</Text>
+	  </Row>
+  </Language_en_US>
+</GameData>

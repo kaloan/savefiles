@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/20/2016 11:42:42 AM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>SILKWORM_RESOURCE_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>Silkworm_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>SILKWORM_RESOURCE_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>Silkworm_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>SILKWORM_RESOURCE_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>Silkworm_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>SILKWORM_RESOURCE_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>Silkworm_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+
+	</IconTextureAtlases>
+  
+</GameData>

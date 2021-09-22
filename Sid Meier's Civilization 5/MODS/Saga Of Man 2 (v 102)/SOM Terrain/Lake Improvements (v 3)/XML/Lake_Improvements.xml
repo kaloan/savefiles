@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Buildings>
+		<Update>
+			<Where Type="BUILDING_LIGHTHOUSE"/>
+			<Set Water="0"/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_HARBOR"/>
+			<Set Water="0"/>
+		</Update>
+	</Buildings>
+	<Building_LakePlotYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_LIGHTHOUSE</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HARBOR</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_LakePlotYieldChanges>
+</GameData>

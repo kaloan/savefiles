@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/21/2013 5:39:29 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>VERSAILLES</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>versailles256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>VERSAILLES</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>versailles128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>VERSAILLES</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>versailles64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>VERSAILLES</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>versailles80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>VERSAILLES</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>versailles45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

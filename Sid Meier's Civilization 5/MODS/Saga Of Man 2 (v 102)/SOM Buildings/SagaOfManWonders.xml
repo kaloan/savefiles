@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/13/2014 7:40:20 AM -->
+<GameData>
+	<BuildingClasses>
+		
+
+	</BuildingClasses>
+	<Buildings>
+		
+		<Update>
+			<Where Type="BUILDING_ALHAMBRA"/>
+			<Set Hill="true"  ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. City must be on a Hill. "/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_ANGKOR_WAT"/>
+			<Set HolyCity="true"  ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2"  Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. Must be built in a Holy City."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_BIG_BEN"/>
+			<Set Description="Elizabeth Tower" PrereqTech="TECH_MASS_MEDIA" ConquestProb="75"   EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2"   Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. Requires 2 [ICON_RES_IRON] Iron."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_BOROBUDUR"/>
+			<Set HolyCity="true"  ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. Must be built in a Holy City.   "/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_BRANDENBURG_GATE"/>
+			<Set  EnhancedYieldTech="TECH_FLIGHT" ConquestProb="75" TechEnhancedTourism="2"  Strategy="Add +2 [ICON_TOURISM] Tourism at Flight." />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_BROADWAY"/>
+			<Set  EnhancedYieldTech="TECH_FLIGHT" ConquestProb="75" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. Requires 2 [ICON_RES_IRON] Iron." />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_CHICHEN_ITZA"/>
+			<Set  PrereqTech="TECH_CONSTRUCTION" ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_CN_TOWER"/>
+			<Set   ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism upon completion. Requires 2 [ICON_RES_IRON] Iron."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_COLOSSUS"/>
+			<Set  Description="Colossus of Rhodes" PrereqTech="TECH_OPTICS" ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. Requires 2 [ICON_RES_IRON] Iron. "/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_CRISTO_REDENTOR"/>
+			<Set HolyCity="true"  NearbyMountainRequired="true" PrereqTech="TECH_REPLACEABLE_PARTS" ConquestProb="75" EnhancedYieldTech="TECH_REPLACEABLE_PARTS" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] upon completion. City must have a nearby Mountain. Must be built in a Holy City."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_EIFFEL_TOWER"/>
+			<Set  ConquestProb="75" Strategy="Requires 3 [ICON_RES_IRON] Iron." />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_FORBIDDEN_PALACE"/>
+			<Set Description="Forbidden City"  ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2"  Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. Requires 20 [ICON_RES_TIMBER] Timber."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_GLOBE_THEATER"/>
+			<Set  EnhancedYieldTech="TECH_FLIGHT" ConquestProb="75" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. Requires 10 [ICON_RES_TIMBER] Timber." />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_GREAT_FIREWALL"/>
+			<Set PrereqTech="TECH_INTERNET" ConquestProb="75" Description="Golden Shield Project" Strategy="Requires 2 [ICON_RES_COPPER] Copper." Civilopedia="The Golden Shield Project, also known as the Great Firewall of China which is a censorship and surveillance project that blocks potentially unfavorable incoming data from foreign countries, is operated by the Ministry of Public Security (MPS) of the government of China. The project was initiated in 1998 and began operations in November 2003."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_GREAT_LIBRARY"/>
+			<Set Description="Royal Library of Alexandria" PrereqTech="TECH_PHILOSOPHY" ConquestProb="75" IconAtlas="ATLAS_ALEXANDRIA" PortraitIndex="0" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_GREAT_LIGHTHOUSE"/>
+			<Set Description="Lighthouse of Alexandria" ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_MOSQUE_OF_DJENNE"/>
+			<Set HolyCity="true" NearbyTerrainRequired="TERRAIN_DESERT"  ConquestProb="75"  PolicyBranchType="NULL" Help="All Missionaries born in this city can spread religion three times. Provides a free Mosque in the city in which it is built." EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. City must be on or near Desert. Must be built in a Holy City."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_GREAT_WALL"/>
+			<Set Description="Great Wall of China" ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2"  Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. Requires 2 [ICON_RES_MASONRY] Masonry."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_HAGIA_SOPHIA"/>
+			<Set  HolyCity="true" ConquestProb="75" Help="Must be built in a Holy City. A free Great Prophet appears. Provides a free Temple in the city in which it is built." EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_HANGING_GARDEN"/>
+			<Set Description="Hanging Gardens of Babylon" River="true" ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2"  Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. City must be near a River."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_HIMEJI_CASTLE"/>
+			<Set Hill="true" ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. City must be on a Hill. Requires 10 [ICON_RES_TIMBER] Timber."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_HUBBLE"/>
+			<Set  Strategy="Requires 3 [ICON_RES_ALUMINUM] Aluminum." />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_KREMLIN"/>
+			<Set Description="Moscow Kremlin" Hill="true"  ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2"   Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. City must be on a Hill."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_LEANING_TOWER"/>
+			<Set  Description="Leaning Tower of Pisa" ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_LOUVRE"/>
+			<Set  ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2"   Strategy="Add +2 [ICON_TOURISM] Tourism at Flight."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_MACHU_PICHU"/>
+			<Set PrereqTech="TECH_TRAPPING" ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_MAUSOLEUM_HALICARNASSUS"/>
+			<Set Description="Mausoleum at Halicarnassus" Hill="true" ConquestProb="75" PrereqTech="TECH_DRAMA" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. City must be on a Hill." />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_NEUSCHWANSTEIN"/>
+			<Set Description="Neuschwanstein Castle" PrereqTech="TECH_DYNAMITE" ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_NOTRE_DAME"/>
+			<Set HolyCity="true" Description="Notre Dame de Paris"   ConquestProb="75"  PrereqTech="TECH_MACHINERY" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. Must be built in a Holy City."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_ORACLE"/>
+			<Set Description="Delphi" NearbyMountainRequired="true" ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. Requires a nearby Mountain." Civilopedia="Delphi is an archaeological site in Greece on the south-western spur of Mount Parnassus in the valley of Phocis. In myths dating to the classical period of Ancient Greece (510-323 BC), the site of Delphi was believed to be determined by Zeus when he sought to find the centre of his 'Grandmother Earth'. He sent two eagles flying from the eastern and western extremities, and the path of the eagles crossed over Delphi where the omphalos, or navel of Gaia was found. Earlier myths include traditions that Pythia, or the Delphic oracle, already was the site of an important oracle in the pre-classical Greek world (as early as 1400 BC) and, rededicated from about 800 BC, when it served as the major site during classical times for the worship of the god Apollo. Apollo was said to have slain Python, 'a dragon' who lived there and protected the navel of the Earth. 'Python' is claimed by some to be the original name of the site in recognition of Python which Apollo defeated. The Homeric Hymn to Delphic Apollo recalled that the ancient name of this site had been Krisa. Others relate that it was named Pytho and that Pythia, the priestess serving as the oracle, was chosen from their ranks by a group of priestesses who officiated at the temple."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_PARTHENON"/>
+			<Set  Description="Acropolis of Athens" Hill="true" ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. City must be on a Hill." Civilopedia="The Acropolis of Athens is an ancient citadel located on a high rocky outcrop above the city of Athens and contains the remains of several ancient buildings of great architectural and historic significance, the most famous being the Parthenon. Although there are many other acropoleis in Greece, the significance of the Acropolis of Athens is such that it is commonly known as 'The Acropolis' without qualification. While there is evidence that the hill was inhabited as far back as the fourth millennium BC, it was Pericles (c. 495 – 429 BC) in the fifth century BC who coordinated the construction of the site's most important buildings including the Parthenon, the Propylaia, the Erechtheion and the Temple of Athena Nike. The Parthenon and the other buildings were seriously damaged during the 1687 siege by the Venetians in the Morean War when the Parthenon was being used for gunpowder storage and was hit by a cannonball."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_PENTAGON"/>
+			<Set  ConquestProb="75" />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_PETRA"/>
+			<Set ConquestProb="75"  TechEnhancedTourism="2" Help="+1 [ICON_FOOD] Food, +1 [ICON_PRODUCTION] Production for all desert tiles worked by this city (except Flood Plains). Gains an additional trade route slot and a Caravan appears in the city. +6 [ICON_CULTURE] Culture once Flight is discovered. City must be built on or next to Desert."  Strategy="Add +2 [ICON_TOURISM] Tourism at Flight."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_PORCELAIN_TOWER"/>
+			<Set Description="Porcelain Tower of Nanjing"  PrereqTech="TECH_SCIENTIFIC_THEORY"  ConquestProb="75"  EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2"   Strategy="Add +2 [ICON_TOURISM] Tourism at Flight."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_PRORA_RESORT"/>
+			<Set  ConquestProb="75" Strategy="Requires 2 [ICON_RES_IRON] Iron."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_PYRAMID"/>
+			<Set  Description="Great Pyramids"  PolicyBranchType="NULL" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. Requires 2 [ICON_RES_MASONRY] Masonry." Help="Tile improvement construction speed increased by 25% and two Workers appear near the City."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_RED_FORT"/>
+			<Set  ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_SISTINE_CHAPEL"/>
+			<Set  HolyCity="true" ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. Can only be built in a Holy City."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_STATUE_OF_LIBERTY"/>
+			<Set Water="true"  ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2"   Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. Can only be built on the Coast. Requires 2 [ICON_RES_IRON] Iron."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_STATUE_ZEUS"/>
+			<Set  Description="Statue of Zeus at Olympia" NearbyMountainRequired="true"  ConquestProb="75" PrereqTech="TECH_IRON_WORKING" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" PolicyBranchType="NULL"  Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. City must be near a Mountain. Requires 5 [ICON_RES_TIMBER] Timber."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_STONEHENGE"/>
+			<Set    PrereqTech="TECH_POTTERY" PolicyBranchType="POLICY_BRANCH_PIETY" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Help="Requires Piety. Add +2 [ICON_TOURISM] Tourism at Flight."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_SYDNEY_OPERA_HOUSE"/>
+			<Set ConquestProb="75" PrereqTech="TECH_COMPUTERS" EnhancedYieldTech="TECH_COMPUTERS" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] upon completion. Requires 2 [ICON_RES_IRON] Iron and 10 [ICON_RES_TIMBER] Timber."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_TAJ_MAHAL"/>
+			<Set HolyCity="true" ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight. Must be built in a Holy City."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_TEMPLE_ARTEMIS"/>
+			<Set  ConquestProb="75" PrereqTech="TECH_CALENDAR" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_TERRACOTTA_ARMY"/>
+			<Set  ConquestProb="75" PrereqTech="TECH_METAL_CASTING" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight."/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_UFFIZI"/>
+			<Set Description="Uffizi Gallery"  ConquestProb="75" EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2"  Strategy="Add +2 [ICON_TOURISM] Tourism at Flight."/>
+		</Update>
+
+		
+		<!--Events and Decisions-->
+		<Update>
+			<Where Type="BUILDING_SAN_MARCO_BASILICA"/>
+			<Set EnhancedYieldTech="TECH_FLIGHT" TechEnhancedTourism="2" Strategy="Add +2 [ICON_TOURISM] Tourism at Flight."/>
+		</Update>
+		<!--Events and Decisions-->
+	</Buildings>
+	
+	<Building_ResourceQuantityRequirements>
+		<Row>
+			<BuildingType>BUILDING_BIG_BEN</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BROADWAY</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_EIFFEL_TOWER</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CN_TOWER</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_COLOSSUS</BuildingType>
+			<ResourceType>RESOURCE_COPPER2</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_COLOSSUS</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GLOBE_THEATER</BuildingType>
+			<ResourceType>RESOURCE_TIMBER</ResourceType>
+			<Cost>10</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GREAT_FIREWALL</BuildingType>
+			<ResourceType>RESOURCE_COPPER2</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FORBIDDEN_PALACE</BuildingType>
+			<ResourceType>RESOURCE_TIMBER</ResourceType>
+			<Cost>20</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HIMEJI_CASTLE</BuildingType>
+			<ResourceType>RESOURCE_TIMBER</ResourceType>
+			<Cost>10</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HUBBLE</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PORCELAIN_TOWER</BuildingType>
+			<ResourceType>RESOURCE_PORCELAIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PRORA_RESORT</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_STATUE_OF_LIBERTY</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_STATUE_OF_LIBERTY</BuildingType>
+			<ResourceType>RESOURCE_COPPER2</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_STATUE_ZEUS</BuildingType>
+			<ResourceType>RESOURCE_IVORY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_STATUE_ZEUS</BuildingType>
+			<ResourceType>RESOURCE_GOLD</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_STATUE_ZEUS</BuildingType>
+			<ResourceType>RESOURCE_TIMBER</ResourceType>
+			<Cost>5</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SYDNEY_OPERA_HOUSE</BuildingType>
+			<ResourceType>RESOURCE_TIMBER</ResourceType>
+			<Cost>10</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SYDNEY_OPERA_HOUSE</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ALHAMBRA</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ANGKOR_WAT</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BIG_BEN</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BOROBUDUR</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BRANDENBURG_GATE</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BROADWAY</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CHICHEN_ITZA</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CN_TOWER</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_COLOSSUS</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CRISTO_REDENTOR</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_EIFFEL_TOWER</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FORUM</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GREAT_LIBRARY</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GREAT_LIGHTHOUSE</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GREAT_WALL</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HAGIA_SOPHIA</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HANGING_GARDEN</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HIMEJI_CASTLE</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KREMLIN</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LEANING_TOWER</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LOUVRE</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MACHU_PICHU</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MAUSOLEUM_HALICARNASSUS</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NEUSCHWANSTEIN</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NOTRE_DAME</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ORACLE</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PARTHENON</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PENTAGON</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PRORA_RESORT</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PYRAMID</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_RED_FORT</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SISTINE_CHAPEL</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_STATUE_OF_LIBERTY</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_STONEHENGE</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SUMMER_PALACE</BuildingType>
+			<ResourceType>RESOURCE_TIMBER</ResourceType>
+			<Cost>10</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SUMMER_PALACE</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SYDNEY_OPERA_HOUSE</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TAJ_MAHAL</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TEMPLE_ARTEMIS</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_UFFIZI</BuildingType>
+			<ResourceType>RESOURCE_MASONRY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MAUSOLEUM_HALICARNASSUS</BuildingType>
+			<ResourceType>RESOURCE_GRANITE</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	<!--<Building_LocalResourceOrs>
+		<Row>
+			<BuildingType>BUILDING_ALHAMBRA</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ALHAMBRA</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ANGKOR_WAT</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ANGKOR_WAT</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BIG_BEN</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BIG_BEN</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BOROBUDUR</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BOROBUDUR</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		
+		<Row>
+			<BuildingType>BUILDING_BRANDENBURG_GATE</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BRANDENBURG_GATE</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CHICHEN_ITZA</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CHICHEN_ITZA</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CN_TOWER</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CN_TOWER</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_COLOSSUS</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_COLOSSUS</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CRISTO_REDENTOR</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CRISTO_REDENTOR</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GREAT_LIBRARY</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GREAT_LIBRARY</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GREAT_LIGHTHOUSE</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GREAT_LIGHTHOUSE</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GREAT_WALL</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GREAT_WALL</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HAGIA_SOPHIA</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HAGIA_SOPHIA</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HANGING_GARDEN</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HANGING_GARDEN</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HIMEJI_CASTLE</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HIMEJI_CASTLE</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KREMLIN</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KREMLIN</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LEANING_TOWER</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LEANING_TOWER</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LOUVRE</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LOUVRE</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MACHU_PICHU</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MACHU_PICHU</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MAUSOLEUM_HALICARNASSUS</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MAUSOLEUM_HALICARNASSUS</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NEUSCHWANSTEIN</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NEUSCHWANSTEIN</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NOTRE_DAME</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NOTRE_DAME</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ORACLE</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ORACLE</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PARTHENON</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PARTHENON</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PENTAGON</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PENTAGON</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PYRAMID</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PYRAMID</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_RED_FORT</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_RED_FORT</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SISTINE_CHAPEL</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SISTINE_CHAPEL</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_STATUE_OF_LIBERTY</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_STATUE_OF_LIBERTY</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_STONEHENGE</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_STONEHENGE</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SYDNEY_OPERA_HOUSE</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SYDNEY_OPERA_HOUSE</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TAJ_MAHAL</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TAJ_MAHAL</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TEMPLE_ARTEMIS</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TEMPLE_ARTEMIS</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_UFFIZI</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_UFFIZI</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+		</Row>
+		
+	</Building_LocalResourceOrs>-->
+	
+	
+	<!--<Belief_BuildingClassYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_PEACE_LOVING</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_ANGKOR_WAT</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_ASCETISM</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_BOROBUDUR</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+	</Belief_BuildingClassYieldChanges>-->
+	<!--<Beliefs>
+		<Row>
+			<Type>BELIEF_MOUNT_MERU</Type>
+			<Description>Unlocks Angkor Wat</Description>
+			<ShortDescription>Mount Meru</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_NIRVANA</Type>
+			<Description>Unlocks Borobudur</Description>
+			<ShortDescription>Nirvana</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Update>
+			<Where Type="BELIEF_PEACE_LOVING"/>
+			<Set  ShortDescription="Mount Meru"/>
+		</Update>
+		<Update>
+			<Where Type="BELIEF_ASCETISM"/>
+			<Set  ShortDescription="Nirvana"/>
+		</Update>
+		<Update>
+			<Where Type="BELIEF_GOD_SEA"/>
+			<Set Description="Unlocks Colossus" ShortDescription="God of the Sun"/>
+		</Update>
+		<Row>
+			<Type>BELIEF_GOD_SUN</Type>
+			<Description>Unlocks Colossus</Description>
+			<ShortDescription>God of the Sun</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SALVATION</Type>
+			<Description>Unlocks Cristo Redentor</Description>
+			<ShortDescription>Salvation</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+	</Beliefs>-->
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_WONDER_ANGKOR_WAT_HELP"/>
+			<Set Text="[ICON_CULTURE] Culture and [ICON_GOLD] Gold costs of acquiring new tiles reduced by 25% in every city. Can only be built in a Holy City."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_WONDER_BOROBUDUR_HELP"/>
+			<Set Text="Must be built in a Holy City. 3 free Missionaries appear."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_PERSEPOLIS"/>
+			<Set Text="Parsa"/>
+		</Update>
+	</Language_en_US>
+	
+</GameData>

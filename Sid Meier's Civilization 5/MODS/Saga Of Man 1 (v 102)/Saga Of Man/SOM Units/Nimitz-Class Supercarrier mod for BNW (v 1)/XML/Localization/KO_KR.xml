@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/21/2014 12:06:27 AM -->
+<GameData>
+	<!-- Korean -->
+	<Language_KO_KR>
+		<Row Tag="TXT_KEY_UNIT_KCARRIER">
+			<Text>니미츠급 핵항공모함</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_KCARRIER">
+			<Text>니미츠급 핵항공모함은 5기의 공중유닛을 실고, 많은 양의 비행기를 실고 적 공군기의 접근을 막습니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KCARRIER_STRATEGY">
+			<Text>핵항공모함은 전투기, 폭격기, 원자폭탄을 실습니다. 핵항공모함은 공격이 가능하나, 핵항공모함에 있는 비행기들이 항모를 더 강력하게 만들어줍니다. 핵항공모함은 이전의 항공모함보다 더 강력하지만, 잠수함에 매우 취약합니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KCARRIER_TEXT">
+			<Text>슈퍼캐리어(영어: Super Carrier) 또는 대형항공모함은 항공모함 중에서도 배수량이 약70.000t 내외인 거대한 항공모함.이며, 일반이착륙함재기(CTOL:conventional take-off and landing)을 사용하는 대형 항공모함을 뜻한다. 대형항모인 슈퍼캐리어는 배수량 7만톤, 중형항공모함은 4만톤, 경항공모함은 2만톤 정도로 분류한다. 현재 몇몇 나라가 운용하는 경항공모함과는 대조된다. 현재 미국만이 100.000t급 이상의 슈퍼캐리어를 13~15척 정도 운용하고 있으며, 절대 다수가 원자력 추진방식이다. 그러나, 영국, 프랑스, 중국, 인도 등이 미국 최초의 재래식 슈퍼캐리어인 포레스탈급 항공모함과 비슷한 60.000~75.000t급의 대형 항공모함을 건조중에 있으며, 빠르면 2015년 즈음 새로 배치될것 이다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KCARRIER">
+			<Text>항공모함(6)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KCARRIER_HELP">
+			<Text>항공모함(6)</Text>
+		</Row>
+	</Language_KO_KR>
+</GameData>

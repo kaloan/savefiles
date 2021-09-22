@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/15/2013 8:02:20 PM -->
+<GameData>
+	<Technologies>
+		<Row>
+			<Type>TECH_RER_LARGEWEAPON</Type>
+			<Cost>485</Cost>
+			<Description>TXT_KEY_TECH_RER_LARGEWEAPON</Description>
+			<Civilopedia>TXT_KEY_TECH_RER_LARGEWEAPON_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_RER_LARGEWEAPON_HELP</Help>
+			<Era>ERA_RENAISSANCE</Era>
+			<Trade>true</Trade>
+			<GridX>7</GridX>
+			<GridY>8</GridY>
+			<Quote>TXT_KEY_TECH_RER_LARGEWEAPON_QUOTE</Quote>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>RER_TECH_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>TECH_RER_PIKE_AND_SHOT</Type>
+			<Cost>780</Cost>
+			<Description>TXT_KEY_TECH_RER_PIKE_AND_SHOT</Description>
+			<Civilopedia>TXT_KEY_TECH_RER_PIKE_AND_SHOT_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_RER_PIKE_AND_SHOT_HELP</Help>
+			<Era>ERA_RENAISSANCE</Era>
+			<Trade>true</Trade>
+			<GridX>8</GridX>
+			<GridY>8</GridY>
+			<Quote>TXT_KEY_TECH_RER_PIKE_AND_SHOT_QUOTE</Quote>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>RER_TECH_ATLAS</IconAtlas>
+		</Row>
+		<Update>
+			<Set GridY="7" />
+			<Where Type="TECH_METALLURGY" />
+		</Update>
+	</Technologies>
+	<Technology_PrereqTechs>
+		<Row>
+			<TechType>TECH_RER_LARGEWEAPON</TechType>
+			<PrereqTech>TECH_STEEL</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_METALLURGY</TechType>
+			<PrereqTech>TECH_RER_LARGEWEAPON</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RER_PIKE_AND_SHOT</TechType>
+			<PrereqTech>TECH_RER_LARGEWEAPON</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RER_PIKE_AND_SHOT</TechType>
+			<PrereqTech>TECH_GUNPOWDER</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_MILITARY_SCIENCE</TechType>
+			<PrereqTech>TECH_RER_PIKE_AND_SHOT</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RIFLING</TechType>
+			<PrereqTech>TECH_RER_PIKE_AND_SHOT</PrereqTech>
+		</Row>
+	</Technology_PrereqTechs>
+	<Technology_Flavors>
+		<Row>
+			<TechType>TECH_RER_LARGEWEAPON</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_RER_LARGEWEAPON</TechType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_RER_PIKE_AND_SHOT</TechType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<TechType>TECH_RER_PIKE_AND_SHOT</TechType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>12</Flavor>
+		</Row>
+	</Technology_Flavors>
+	<Technology_PrereqTechs>
+		<Delete TechType="TECH_METALLURGY" PrereqTech="TECH_GUNPOWDER"/>
+		<Delete TechType="TECH_MILITARY_SCIENCE" PrereqTech="TECH_METALLURGY"/>
+	</Technology_PrereqTechs>
+</GameData>

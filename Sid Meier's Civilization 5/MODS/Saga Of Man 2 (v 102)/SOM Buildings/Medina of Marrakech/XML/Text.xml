@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/24/2013 5:26:18 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Resource tags-->
+		<Row Tag="TXT_KEY_RESOURCE_MINTTEA">
+			<Text>Moroccan mint tea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MINTTEA_TEXT">
+			<Text>Maghrebi tea culture is defined by the way tea (exclusively green tea) is prepared and consumed in the Maghreb, where it is widely consumed with food. The tradition has also spread throughout North Africa, parts of the Sahel, and southern Spain. Tea occupies a very important place in Moroccan culture and is considered an art form.</Text>
+		</Row>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_MEDINAMARRAKECH">
+			<Text>Medina of Marrakesh</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_MEDINAMARRAKECH_HELP">
+			<Text>Provides +3 [ICON_RES_MINTTEA] Moroccan mint teas.  Gives a free mosque in the city and also an additional trade route. +2 [ICON_GOLD] from trade routes from this city and +1 [ICON_GOLD] from trade routes to this city. +4 [ICON_TOURISM] tourism after flight has been researched.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_MEDINAMARRAKECH_QUOTE">
+			<Text>[NEWLINE]"Travelling, one accepts everything; indignation stays at home. One looks, one listens, one is roused to enthusiasm by the most dreadful things because they are new. Good travellers are heartless."[NEWLINE] - Elias Canetti[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_MEDINAMARRAKECH_PEDIA">
+			<Text>Founded in 1070–72 by the Almoravids, Marrakesh remained a political, economic and cultural centre for a long period. Its influence was felt throughout the western Muslim world, from North Africa to Andalusia. It has several impressive monuments dating from that period: the Koutoubiya Mosque, the Kasbah, the battlements, monumental doors, gardens, etc. Later architectural jewels include the Bandiâ Palace, the Ben Youssef Madrasa, the Saadian Tombs, several great residences and Place Jamaâ El Fna, a veritable open-air theatre.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

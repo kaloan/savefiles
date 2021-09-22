@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+
+	<Units>
+		
+		<Update>
+			<Where Type="UNIT_GALLEY"/>
+			<Set   
+			PrereqTech="TECH_SAILING"
+			Combat="8"
+			RangedCombat="9"
+			Cost="56"
+			Range="2"
+			CombatClass="UNITCOMBAT_NAVALRANGED"
+			DefaultUnitAI="UNITAI_ASSAULT_SEA"
+			Help="TXT_KEY_UNIT_HELP_GALLEY"
+			ObsoleteTech="TECH_COMPASS"
+			UnitArtInfo="ART_DEF_UNIT_BATTLE_GALLEY"
+			IconAtlas="BATTLE_GALLEY_ICON"
+			PortraitIndex="0"
+			/>
+		</Update>
+		<Row>
+			<Class>UNITCLASS_GALLEY</Class>
+			<Type>UNIT_BARBARIAN_GALLEY</Type>
+			<Combat>8</Combat>
+			<PrereqTech>TECH_SAILING</PrereqTech>
+			<RangedCombat>9</RangedCombat>
+			<Cost>56</Cost>
+			<Moves>3</Moves>
+			<Range>2</Range>
+			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+			<Domain>DOMAIN_SEA</Domain>
+			<DefaultUnitAI>UNITAI_ASSAULT_SEA</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_GALLEY</Description>
+			<ShowInPedia>false</ShowInPedia>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<Mechanized>true</Mechanized>
+			<AdvancedStartCost>10</AdvancedStartCost>
+			<MinAreaSize>20</MinAreaSize>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_BARBARIAN_GALLEY</UnitArtInfo>
+			<UnitFlagIconOffset>23</UnitFlagIconOffset>
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>23</PortraitIndex>
+			<MoveRate>WOODEN_BOAT</MoveRate>
+		</Row>
+		<Update>
+			<Where Type="UNIT_BYZANTINE_DROMON"/>
+			<Set 
+				PreReqTech="TECH_SAILING"
+			Class="UNITCLASS_GALLEY"
+			Combat="10"
+			RangedCombat="11"
+			Cost="56" 
+			Moves="3"
+			ObsoleteTech="TECH_COMPASS"
+			/>
+		</Update>
+		<Update>
+			<Where Type="UNIT_TRIREME"/>
+			<Set PrereqTech="TECH_OPTICS" Combat="12" Cost="75" Moves="3"/>
+		</Update>
+		<Update>
+			<Where Type="UNIT_CARTHAGINIAN_QUINQUEREME"/>
+			<Set PrereqTech="TECH_OPTICS" Combat="15" Cost="75" Moves="3"/>
+		</Update>
+		<Update>
+			<Where Class="UNITCLASS_GALLEASS"/>
+			<Set Combat="15" ObsoleteTech="TECH_ARCHITECTURE"/>
+		</Update>
+		<Update>
+			<Where Class="UNITCLASS_IRONCLAD"/>
+			<Set Moves="4"/>
+		</Update>
+		<Update>
+			<Where Type="UNIT_KOREAN_TURTLE_SHIP"/>
+			<Set Combat="30" Moves="3"/>
+		</Update>
+	</Units>
+
+	<Unit_AITypes>
+		<Update>
+			<Where UnitType="UNIT_GALLEY" UnitAIType="UNITAI_ATTACK_SEA"/>
+			<Set UnitAIType="UNITAI_ASSAULT_SEA"/>
+		</Update>
+		<Row>
+			<UnitType>UNIT_BARBARIAN_GALLEY</UnitType>
+			<UnitAIType>UNITAI_ASSAULT_SEA</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BARBARIAN_GALLEY</UnitType>
+			<UnitAIType>UNITAI_RESERVE_SEA</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BARBARIAN_GALLEY</UnitType>
+			<UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BARBARIAN_GALLEY</UnitType>
+			<UnitAIType>UNITAI_EXPLORE_SEA</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+
+	<Unit_ClassUpgrades>
+		<Update>
+			<Where UnitType="UNIT_GALLEY"/>
+			<Set UnitClassType="UNITCLASS_GALLEASS"/>
+		</Update>
+		<Row>
+			<UnitType>UNIT_BARBARIAN_GALLEY</UnitType>
+			<UnitClassType>UNITCLASS_PRIVATEER</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_KCARRIER</UnitType>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_KCARRIER</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+	<UnitClasses>
+		<Update>
+			<Where Type="UNITCLASS_GALLEY"/>
+			<Set DefaultUnit="UNIT_GALLEY"/>
+		</Update>
+	</UnitClasses>
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_GALLEY</UnitType>
+			<ResourceType>RESOURCE_TIMBER</ResourceType>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+	<Unit_TechTypes>
+		<Row>
+			<UnitType>UNIT_GALLEY</UnitType>
+			<TechType>TECH_ARCHERY</TechType>
+		</Row>
+	</Unit_TechTypes>
+	<Civilization_UnitClassOverrides>
+		<Update>
+			<Where CivilizationType="CIVILIZATION_BARBARIAN" UnitClassType="UNITCLASS_GALLEY"/>
+			<Set UnitType="UNIT_BARBARIAN_GALLEY"/>
+		</Update>
+		<Update>
+			<Where CivilizationType="CIVILIZATION_BYZANTIUM" UnitType="UNIT_BYZANTINE_DROMON"/>
+			<Set UnitClassType="UNITCLASS_GALLEY"/>
+		</Update>
+	</Civilization_UnitClassOverrides>
+
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_GALLEY</UnitType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GALLEY</UnitType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BARBARIAN_GALLEY</UnitType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BARBARIAN_GALLEY</UnitType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Update>
+			<Where UnitType="UNIT_TRIREME" FlavorType="FLAVOR_NAVAL"/>
+			<Set Flavor="8"/>
+		</Update>
+	</Unit_Flavors>
+	
+	
+
+	<UnitPromotions>
+		<Update>
+			<Where Type="PROMOTION_PRIZE_SHIPS"/>
+			<Set LostWithUpgrade="true"/>
+		</Update>
+		<Row>
+			<Type>PROMOTION_GREEK_FIRE</Type>
+			<Description>TXT_KEY_PROMOTION_GREEK_FIRE</Description>
+			<Help>TXT_KEY_PROMOTION_GREEK_FIRE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>GREEK_FIRE_ICON</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_GREEK_FIRE</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_BARBARY_PIRATE</Type>
+			<Description>TXT_KEY_PROMOTION_BARBARY_PIRATE</Description>
+			<Help>TXT_KEY_PROMOTION_BARBARY_PIRATE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CaptureDefeatedEnemy>true</CaptureDefeatedEnemy>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>JOLLY_ROGER_ICON</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_BARBARY_PIRATE</PediaEntry>
+		</Row>
+	</UnitPromotions>
+
+	<UnitPromotions_UnitCombatMods>
+		<Row>
+			<PromotionType>PROMOTION_GREEK_FIRE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALRANGED</UnitCombatType>
+			<Modifier>20</Modifier>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_GREEK_FIRE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+			<Modifier>20</Modifier>
+		</Row>
+	</UnitPromotions_UnitCombatMods>
+	
+	<Unit_FreePromotions>
+		<Delete UnitType="UNIT_IRONCLAD" PromotionType="PROMOTION_STEAM_POWERED"/>
+		<Delete UnitType="UNIT_KOREAN_TURTLE_SHIP" PromotionType="PROMOTION_OCEAN_IMPASSABLE"/>
+		<Delete UnitType="UNIT_BYZANTINE_DROMON" PromotionType="PROMOTION_NAVAL_BONUS"/>
+		<Row>
+			<UnitType>UNIT_BYZANTINE_DROMON</UnitType>
+			<PromotionType>PROMOTION_GREEK_FIRE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CARTHAGINIAN_QUINQUEREME</UnitType>
+			<PromotionType>PROMOTION_MOBILITY</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BARBARIAN_GALLEY</UnitType>
+			<PromotionType>PROMOTION_OCEAN_IMPASSABLE</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	
+</GameData>

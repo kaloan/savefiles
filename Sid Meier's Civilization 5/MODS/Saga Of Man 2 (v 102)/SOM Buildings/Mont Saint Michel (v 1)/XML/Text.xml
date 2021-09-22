@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/30/2013 7:57:14 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_MONTMICHEL">
+			<Text>Mont Saint Michel</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_MONTMICHEL_HELP">
+			<Text>Gives a free Cathedral in the city. A Great Prophet appears. Religious Pressure from this city is increased by 25%. City must be on a Hill and on the Coast. </Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_MONTMICHEL_QUOTE">
+			<Text>[NEWLINE]"Therefore in the east give glory to the Lord; exalt the name of the Lord, the God of Israel, in the islands of the sea."[NEWLINE] - The Bible, Isaiah  24:15[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_MONTMICHEL_PEDIA">
+			<Text>Perched on a rocky islet in the midst of vast sandbanks exposed to powerful tides between Normandy and Brittany stand the 'Wonder of the West', a Gothic-style Benedictine abbey dedicated to the archangel St Michael, and the village that grew up in the shadow of its great walls. Built between the 11th and 16th centuries, the abbey is a technical and artistic tour de force, having had to adapt to the problems posed by this unique natural site.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

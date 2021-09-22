@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/19/2014 12:23:22 AM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>NATIONAL_MUSEUM_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>nationalm256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>NATIONAL_MUSEUM_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>nationalm128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>NATIONAL_MUSEUM_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>nationalm64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>NATIONAL_MUSEUM_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>nationalm80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>NATIONAL_MUSEUM_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>nationalm45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>	
+</GameData>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/9/2010 12:59:47 AM -->
+<GameData>
+	<BuildingClasses>
+		<!-- Special Buildings -->
+		<Row>
+			<Type>BUILDINGCLASS_APOLLO2</Type>
+			<DefaultBuilding>BUILDING_APOLLO2</DefaultBuilding>
+			<Description>TXT_KEY_PROJECT_APOLLO_PROGRAM</Description>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+			<!--<MaxGlobalInstances>1</MaxGlobalInstances>-->
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_MOON_COLONY</Type>
+			<DefaultBuilding>BUILDING_MOON_COLONY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_MOON_COLONY</Description>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+		<!--<Row>
+			<Type>BUILDINGCLASS_SUPERCOMPUTING_CENTER</Type>
+			<DefaultBuilding>BUILDING_SUPERCOMPUTING_CENTER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SUPERCOMPUTING_CENTER</Description>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>-->
+		<!--<Row>
+			<Type>BUILDINGCLASS_SLHC</Type>
+			<DefaultBuilding>BUILDING_SLHC</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SLHC</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>-->
+		<!--<Row>
+			<Type>BUILDINGCLASS_OIL_REFINERY</Type>
+			<DefaultBuilding>BUILDING_OIL_REFINERY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_OIL_REFINERY_DESC</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_HITECH_STORE</Type>
+			<DefaultBuilding>BUILDING_HITECH_STORE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_HITECH_STORE_DESC</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_BIOFUEL_REFINERY</Type>
+			<DefaultBuilding>BUILDING_BIOFUEL_REFINERY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_BIOFUEL_REFINERY_DESC</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_STEEL_FOUNDRY</Type>
+			<DefaultBuilding>BUILDING_STEEL_FOUNDRY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_STEEL_FOUNDRY_DESC</Description>
+		</Row>-->
+	</BuildingClasses>
+</GameData>

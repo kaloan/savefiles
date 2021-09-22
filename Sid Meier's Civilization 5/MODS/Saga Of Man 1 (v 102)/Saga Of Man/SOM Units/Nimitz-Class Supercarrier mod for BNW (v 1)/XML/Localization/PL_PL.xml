@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/21/2014 12:20:13 AM -->
+<GameData>
+	<!-- Polish -->
+	<Language_PL_PL>
+		<Row Tag="TXT_KEY_UNIT_KCARRIER">
+			<Text>Lotniskowce typu Nimitz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_KCARRIER">
+			<Text>Carries up to 6 Aircraft, and has an increased rate of aircraft interception.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KCARRIER_STRATEGY">
+			<Text>The Supercarrier is a specialized vessel which carries fighter airplanes, bombers (but not stealth bombers), and atomic bombs. The Supercarrier itself is unable to attack, but the aircraft it carries make it the most powerful offensive weapon afloat. Defensively, the Supercarrier is much stronger than its predecessor, but should still be escorted by destroyers and submarines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KCARRIER_TEXT">
+			<Text>Lotniskowce typu Nimitz – typ amerykańskich lotniskowców z napędem atomowym, które zaczęto wprowadzać do służby w 1975. Są to największe okręty wojenne świata, które tworzą w chwili obecnej trzon sił nawodnych Marynarki Wojennej Stanów Zjednoczonych.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KCARRIER">
+			<Text>lotniskowiec(6)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KCARRIER_HELP">
+			<Text>lotniskowiec(6)</Text>
+		</Row>
+	</Language_PL_PL>
+</GameData>

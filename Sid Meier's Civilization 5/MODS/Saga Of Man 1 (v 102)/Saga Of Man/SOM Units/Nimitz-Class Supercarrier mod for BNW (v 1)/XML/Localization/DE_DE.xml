@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/21/2014 12:17:03 AM -->
+<GameData>
+	<!-- German -->
+	<Language_DE_DE>
+		<Row Tag="TXT_KEY_UNIT_KCARRIER">
+			<Text>Nimitz-Klasse Flugzeugträger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_KCARRIER">
+			<Text>Trägt bis zu 6 Flugzeuge und kann eine erhöhte Rate von Flugzeugen Abfangen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KCARRIER_STRATEGY">
+			<Text>Der Superträger ist ein Spezialschiff, das Jagdflugzeuge, Bomber (aber nicht Tarnkappen Bomber) und Atombomber trägt. Der Supercarrier selbst ist nicht in der Lage, anzugreifen, aber die Flugzeug die er trägt ist die mächtigste Angriffswaffe schneller. fertedigung ist das Superträger viel stärker als sein Vorgänger, aber sollte noch von Zerstörern und U-Booten begleitet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KCARRIER_TEXT">
+			<Text>Die Nimitz-Klasse ist eine Klasse nukleargetriebener Flugzeugträger der United States Navy. Das Typschiff USS Nimitz, die erste Einheit der Klasse, wurde 1975 in Dienst gestellt, die zehnte und letzte Anfang 2009. Mit einer Verdrängung von rund 100.000 tn.l. sind die Träger die größten Kriegsschiffe der Welt. Sie können bis zu 85 Flugzeuge tragen. Die Träger sind zeitlich nahezu unbegrenzt einsetzbar, lediglich Kerosin- und Lebensmittelvorräte müssen regelmäßig aufgefüllt werden. Der Bau eines Schiffs der Nimitz-Klasse kostet heute über sechs Milliarden US-Dollar und dauert von der Kiellegung bis zur Indienststellung rund fünf Jahre. Die Schiffe sind für eine Nutzungsdauer von rund 50 Jahren ausgelegt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KCARRIER">
+			<Text>Flugzeugträger(6)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KCARRIER_HELP">
+			<Text>Flugzeugträger(6)</Text>
+		</Row>
+	</Language_DE_DE>
+</GameData>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/8/2010 8:23:31 PM -->
+<GameData>
+	<Language_en_US>
+		<!--<Row Tag="TXT_KEY_UNIT_ADVANCED_MEC_INFANTRY">
+			<Text>Advanced Mechanized Infantry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_ADVANCED_MEC_INFANTRY">
+			<Text> Incredibly fast and powerful post late-game unit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ADVANCED_MEC_INFANTRY_STRATEGY">
+			<Text> Advanced Mechanized Infantry are stronger and much faster than Mechanized Infantry. In addition to its speed, Advanced Mechanized Infantry can move after combat like Modern Armor and can heal every turn regardless of any action taken.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_ADVANCED_MEC_INFANTRY_TEXT">
+			<Text> A military exoskeleton, also known as powered armor or an exoframe, is a powered mobile machine worn by a soldier in lieu of traditional body armor. It consists typically of armoured plating and electronic servos to aid in motion and enhance the user's strength.[NEWLINE][NEWLINE]While the size of these exoskeletons can vary, a bipedal humanoid form is the most common configuration used, so as to utilise the innate spatial awareness of the human operator. [NEWLINE][NEWLINE]Due to the additional strength the suit provides, a wide range of weaponry can be employed by the user, from traditional small arms to larger ordnance  previously only usable by larger vehicles or tanks. As a result, the line of distinction between powered armor and bipedal vehicles (mechas) is very vague.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_ORBITAL_BALLISTIC_MISSILE">
+			<Text>Orbital Ballistic Missile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_ORBITAL_BALLISTIC_MISSILE">
+			<Text>Unleash nuclear destruction upon your foes. Does great damage to Cities and damages any Unit caught in the blast radius. Costs much more than a Nuclear missile, but it has more range and double the destructive power.[NEWLINE][NEWLINE]Requires Manhattan Project and two Uranium resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ORBITAL_BALLISTIC_MISSILE_STRATEGY">
+			<Text> The Orbital Ballistic Missile (or OBM) is an upgraded, more powerful Nuclear Missile. The OBM can be based in any city you own, or aboard a Nuclear Submarine or Missile Cruiser. It can move from base to base, or attack a target within its range of 24 tiles. When it detonates, a OBM damages (and possibly destroys) cities and destroys all units within its 2 tile blast radius. It is automatically destroyed when it attacks. See the rules on Nuclear Weapons for more details.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_ORBITAL_BALLISTIC_MISSILE_TEXT">
+			<Text>The first attempt to place a weapon into outer space was taken by Nazi Germany during the Second World War. The scientists of the regime theorized a 'Sun Gun', a large concave mirror which could concentrate and reflect the sun's rays onto a small area on the Earth's surface, burning the target area. [NEWLINE][NEWLINE]Most of the later designs for Orbital Weapons were made during the Cold War by Soviet Russia and the United States. The Soviets proposed a Fractional Orbital Bombardment System that involved placing a nuclear warhead into low Earth orbit, which could then de-orbit to strike a target.[NEWLINE][NEWLINE]The Outer Space and SALT II Treaties prohibited the use of outer space for any weapons of mass destruction, but does not restrict conventional weapons or techniques such as kinetic bombardment or space to earth laser systems. A growing number of private groups and government officials across the world have proposed a Space Preservation Treaty to ban the placement of any weaponry into outer space.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_RAILGUN_ARMOR">
+			<Text>Railgun Armor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_RAILGUN_ARMOR">
+			<Text>Fast and powerful post late-game Unit. Receives a penalty when attacking Cities and on defense, but is incredibly effective in open ground.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RAILGUN_ARMOR_STRATEGY">
+			<Text>Railgun Armor is stronger than the Modern Armor unit, although it still suffers the Modern Armor's penalty when attacking cities. Railgun Armor can continue to move after combat and may attack twice per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RAILGUN_ARMOR_TEXT">
+			<Text>Railguns differ from current conventional weapons in their means of propulsion. Bullets fired from a typical assault rifle are accelerated to approximately 900m/s using the explosive force of an ignited chemical compound, channelled down a barrel. Railguns use two parallel metal 'rails' and a powerful magnetic field to launch a projectile at much higher velocity, around 3,500 m/s. [NEWLINE][NEWLINE]This design decreases ammunition size and weight by eliminating the need for a casing of chemical propellant, which also removes hazards of carrying explosive material in a tank or on a ship. The higher projectile velocities also grants a vastly increased range and a shorter travel time, which in turn lessens the effect of gravity and wind conditions on the projectile, resulting in a more accurate, more precise and far deadlier weapons system.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_RAILGUN_DESTROYER">
+			<Text>Railgun Destroyer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_RAILGUN_DESTROYER">
+			<Text> The Railgun Destroyer is an extremely powerful post late-game warship with a mighty Ranged Combat Strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RAILGUN_DESTROYER_STRATEGY">
+			<Text>The Railgun Destroyer is an extremely powerful warship with an attack range of 4 tiles, allowing it to bombard units or cities several tiles inland. Its indirect fire ability allows it to bombard targets it cannot see (as long as other friendly units can see them). The Railgun Destroyer is vulnerable to air and submarine attacks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RAILGUN_DESTROYER_TEXT">
+			<Text>Railguns differ from current conventional weapons in their means of propulsion. Bullets fired from a typical assault rifle are accelerated to approximately 900m/s using the explosive force of an ignited chemical compound, channelled down a barrel. Railguns use two parallel metal 'rails' and a powerful magnetic field to launch a projectile at much higher velocity, around 3,500 m/s. [NEWLINE][NEWLINE]This design decreases ammunition size and weight by eliminating the need for a casing of chemical propellant, which also removes hazards of carrying explosive material in a tank or on a ship. The higher projectile velocities also grants a vastly increased range and a shorter travel time, which in turn lessens the effect of gravity and wind conditions on the projectile, resulting in a more accurate, more precise and far deadlier weapons system.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_UM_VEHICLE">
+			<Text>Unmanned Air Vehicle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_UM_VEHICLE">
+			<Text>Air Unit designed to wrest control of the skies and intercept incoming enemy aircraft.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_UM_VEHICLE_STRATEGY">
+			<Text>The Unmanned Air Vehicle (UAV) is a powerful air unit controlled by remote command or artificial intelligence. It can be based in any city you own or aboard an aircraft carrier. It can move from base to base and can perform "missions" within its range of 15 tiles. Use UAVs to attack enemy aircraft and ground units, to scout enemy positions, and to defend against enemy air attacks. UAVs are especially effective against enemy helicopters. The UAV has the "air recon" ability, which means that everything within 6 tiles of its starting location is visible at the beginning of the turn. See the rules on Aircraft for more information.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_UM_VEHICLE_TEXT">
+			<Text>An unmanned aerial vehicle (UAV), commonly known as a drone, is an aircraft without a human pilot on board. Its flight is either controlled autonomously by computers in the vehicle, or under the remote control of a pilot on the ground or in another vehicle. There are a wide variety of drone shapes, sizes, configurations, and characteristics.[NEWLINE][NEWLINE]Historically, UAVs were simple remotely piloted aircraft, but autonomous control is increasingly being employed. They are predominantly deployed for military applications, but also used in a small but growing number of civil applications, such as fire-fighting and non-military security work, such as surveillance of pipelines. UAVs are often preferred for missions that are too 'dull, dirty, or dangerous' for manned aircraft.[NEWLINE][NEWLINE]A UAV's greatest advantage and disadvantage is the lack of a human pilot. As a physical human presence is not required, a UAV can be smaller and lighter than manned aircraft, and capable of manoeuvres that would disable a human pilot with g-force's effect on the body.[NEWLINE][NEWLINE]The drawback of not having a human pilot stems from a moderate detachment of human morality and intuition from the operation of a UAV, even when it is under remote control, leading to poor judgment and pilot error in high-stress situations. This is being remedied by research in more advanced artificial intelligence capable of weighing risks and introducing a moral component into logical calculations.</Text>
+		</Row>-->
+
+		<Row Tag="TXT_KEY_PROJECT_MARS_MISSION">
+			<Text>Mars Mission</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_MARS_MISSION_STRATEGY">
+			<Text> The Mars Mission is the first step of the space race. It allows for the construction of spaceship parts. Each civilization must complete this project before they can construct spaceship parts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_MARS_MISSION_PEDIA">
+			<Text>A manned mission to Mars has been the subject of science fiction, engineering and scientific proposals throughout the 20th and into the 21st century. The plans comprise proposals to not only land on but to settle on and ultimately terraform Mars.[NEWLINE][NEWLINE]Preliminary work for a manned mission to Mars has been undertaken since the 1950s, with planned missions typically forecast to take place 10 to 30 years in the future. In 2010, a bill was signed in the United States discontinuing plans for a further manned mission to the Moon by 2020, instead authorizing manned missions to an asteroid in 2025 and to the planet Mars by the 2030s.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MOON_COLONY">
+			<Text>Moon Colony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOON_COLONY_STRATEGY">
+			<Text>The Moon Colony provides 5 [ICON_RES_URANIUM] Uranium from mining the Moon's surface, +25% [ICON_PRODUCTION] Production when building Spaceship parts and boosts [ICON_RESEARCH] Science. Requires construction of the Apollo Program.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOON_COLONY_HELP">
+			<Text>Provides 5 [ICON_RES_URANIUM] Uranium, +25% [ICON_PRODUCTION] Production when building Spaceship parts and boost the [ICON_RESEARCH] Science. Requires construction of the Apollo Program.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOON_COLONY_PEDIA">
+			<Text>Permanent human habitation on a planetary body other than the Earth is one of science fiction's most prevalent themes. As technology has advanced, and concerns about the future of humanity on Earth have increased, the argument that space colonization is an achievable and worthwhile goal has gained momentum. Because of its proximity to Earth, the Moon has been seen as the most obvious natural expansion after Earth.[NEWLINE][NEWLINE]Placing a colony on another planet or celestial body would provide an ample source of resources for construction of both buildings and objects such as rockets, radiation shielding and any other necessities or materials required for life on the planet.[NEWLINE][NEWLINE]As the Moon's gravitational field is much smaller than Earth's, the energy required to launch an object into outer space is far lower than if a similar feat were attempted on Earth. This means that any traditional rockets launched would require far less fuel to leave the Moon, and opens up the possibility of using a railgun to launch an object from the Moon without the need for chemical propellants at all.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_SUPERCOMPUTING_CENTER">
+			<Text>Supercomputing Centre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUPERCOMPUTING_CENTER_HELP">
+			<Text>Boost the [ICON_RESEARCH] Science output of the city where is built. City must have a Research Lab.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUPERCOMPUTING_CENTER_STRATEGY">
+			<Text>The Supercomputing Centre in a research facility with an enormous data processing capacity. This centre will greatly increase the [ICON_RESEARCH] Science output of a city due to its ability to give almost instant solutions to otherwise difficult and tedious calculations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUPERCOMPUTING_CENTER_PEDIA">
+			<Text>A supercomputer is defined as a computer on the frontline of current processing capacity, particularly in speed of calculation. While the supercomputers of the 1970s used only a few powerful processors, in the 1990s, machines with thousands of processors began to appear. By the end of the 20th century, supercomputers with tens of thousands of "off-the-shelf" processors working in parallel with each other were the norm.[NEWLINE][NEWLINE]Supercomputers are typically used in the scientific modelling of complex and multi-dimensional calculations that are prohibitively difficult to perform on paper, such as 3D molecular dynamics simulations, where millions upon millions of calculations are required for every second of motion.</Text>
+		</Row>
+
+		<!--<Row Tag="TXT_KEY_BUILDING_SLHC">
+			<Text>International Linear Collider</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SLHC_HELP">
+			<Text> Provides a free Research Lab in the city which it is built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SLHC_STRATEGY">
+			<Text>The International Linear Collider provides a free technology, plus +2 Great Scientist points and a large amount of [ICON_RESEARCH] Science. This Wonder can provide a big late-game tech boost for a fairly cheap production cost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SLHC_PEDIA">
+			<Text>The International Linear Collider (ILC) is a proposed linear particle accelerator. It is planned to have a initially operate at a collision energy of 500 GeV, with the possibility for a further upgrade to 1000 GeV (1 TeV).[NEWLINE][NEWLINE]A Linear Collider accelerates atoms and sub-atomic particles at relativistic velocities in a straight line, observing the fragments left over after collision with particles travelling in the opposite direction, to advance understanding about the quantum physics of matter and sub-atomic particles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SLHC_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"If anybody says he can think about quantum physics without getting giddy, that only shows he has not understood the first thing about them."[NEWLINE][TAB][TAB] - Niels Bohr[NEWLINE][TAB]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_HITECH_STORE_DESC">
+			<Text>High-Tech Store</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HITECH_STORE_HELP">
+			<Text>It cannot provide more [ICON_HAPPINESS_1] Happiness than there are [ICON_CITIZEN] Citizens in a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HITECH_STORE_STRATEGY">
+			<Text>A Hi-Tech Store is a Information-era building which increases the [ICON_HAPPINESS_1] Happiness of your entire empire, not just the city in which it is constructed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_HITECH_STORE_TEXT">
+			<Text>A High-Tech Store provides the inhabitants of a city with easy access to the latest in personal gadgets and luxury items, allowing for more enjoyable leisure pursuits and lessening the stresses of everyday working life.[NEWLINE][NEWLINE]From the advent of the tablet to the Smartphone revolution, modern technology has been becoming increasingly prevalent in all developed nations across the world. The latest high-tech gadget is often enviously viewed in society as a status symbol of economic power and influence.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TECH_GRID_COMPUTING_TITLE">
+			<Text>Grid Computing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GRID_COMPUTING_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]" Coming together is a beginning; keeping together is progress; working together is success."[NEWLINE][TAB][TAB] - Henry Ford[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GRID_COMPUTING_HELP">
+			<Text> Allows you to build the [COLOR_POSITIVE_TEXT]Supercomputing Centre[ENDCOLOR], a building that will improve greatly your [ICON_RESEARCH] Science output.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GRID_COMPUTING_DESC">
+			<Text>Grid computing is the leverage of computer resources from multiple geographic locations to reach a common goal. What distinguishes grid computing from conventional high performance computing systems such as cluster computing is that grids tend to be more loosely coupled, heterogeneous, and geographically dispersed.[NEWLINE][NEWLINE]A grid can be made up of many volunteer computers linked by the Internet, with a large, computing-intensive problem distributed in smaller tasks to each computer. They then send back a solution to their task and the overall problem is solved using a combination of the constituent solutions. As a result, larger and more complicated problems can be distributed across a grid of many slow computers to solve it just as quickly as a single, faster computer.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TECH_MINIATURIZATION_TITLE">
+			<Text>Miniaturization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MINIATURIZATION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"The complexity for minimum component costs has increased at a rate of roughly a factor of two per year... Certainly over the short term this rate can be expected to continue, if not to increase."[NEWLINE][TAB][TAB] - Gordon Moore[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MINIATURIZATION_HELP">
+			<Text> Allows you to build the [COLOR_POSITIVE_TEXT]High-Tech Store[ENDCOLOR], which increases [ICON_HAPPINESS_1] Happiness within the City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MINIATURIZATION_DESC">
+			<Text>Miniaturization is the creation of ever-smaller mechanical, optical, and electronic devices and products. Devices which take up less space and have a smaller mass tend to be more desirable than larger and heavier objects purely because they are easier to carry, store and use.[NEWLINE][NEWLINE]The history of miniaturization is based in the 50s, at the start of the Space Race. One of the major limiting factor in sending a payload into orbit is the mass of the payload, shortly followed by the drag due to the shape of the rocket. As such, the components used in rocket and satellite construction needed to be small and light, but without sacrificing any of their functional ability or resistance.[NEWLINE][NEWLINE]This area of research, although not seeming to have any initial tangible economic significance, bore fruits in the development of new, smaller, lighter, and tougher materials and alloys than ever before; enriching further technological advances and ventures.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TECH_SPACE_RESEARCH_TITLE">
+			<Text>Space Research</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SPACE_RESEARCH_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]" Earth is the cradle of humanity, but one cannot live in a cradle forever."[NEWLINE][TAB][TAB] - Konstantin E. Tsiolkovsky [NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SPACE_RESEARCH_HELP">
+			<Text> An important technology for the Space Race, Space Research allows you to build the [COLOR_POSITIVE_TEXT]Spaceship Factory[ENDCOLOR], a building which speeds the construction of Spaceship parts.</Text>
+		</Row>
+		<Update>
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]Missile Cruiser[ENDCOLOR], a Naval Unit capable of carrying 3 Missiles and spotting enemy Submarines." />
+			<Where Tag="TXT_KEY_TECH_ROBOTICS_HELP" />
+		</Update>
+		<Row Tag="TXT_KEY_TECH_SPACE_RESEARCH_DESC">
+			<Text>The observation of space, and its formalisation in Astronomy, has been an object of human curiosity since before reliable records began. Space Research is the natural progression of this idea - to go from merely observing from a distance, to actually going there to witness it close-up.[NEWLINE][NEWLINE]Before the 1950s, the idea of going into outer space was reserved for science-fiction writings and religious postulation, but after the German scientists in the Second World War performed extensive research into rocketry, the gate was unlocked to making these dreams of space exploration a reality.[NEWLINE][NEWLINE]While the reasons for going to space are numerous - scientific curiosity, planning for the future of mankind, and military strategy - are by far the most dominant. Indeed, one of the bases of the initial Space Race was a competition by proxy between the USSR and the USA during the Cold War, each trying to outdo each other.[NEWLINE][NEWLINE]The commonly accepted boundaries for the Space Race start when the USSR's Sputnik I was the first man-made object to orbit the Earth on 4th October 1957, and end with the American Apollo 11 landing on the moon on 20th July 1969.[NEWLINE][NEWLINE]Eventually, the focus of Space Scientists shifted from individual, one-off flights to reusable hardware, such as the Space Shuttle, and after the end of the Cold War, co-operation became key, with the International Space Station being a jewel in the crown of global co-operation.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TECH_SUPERCONDUCTIVITY_TITLE">
+			<Text>High Temp. Superconductivity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SUPERCONDUCTIVITY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"The experiment left no doubt that, as far as accuracy of measurement went, the resistance disappeared."[NEWLINE][TAB][TAB] - Heike Kamerlingh Onnes[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SUPERCONDUCTIVITY_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Railgun Armor[ENDCOLOR], an incredibly fast and powerful Armored Unit. Also allows you to build the [COLOR_POSITIVE_TEXT]Railgun Destroyer[ENDCOLOR], one of the most powerful naval units in the game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SUPERCONDUCTIVITY_DESC">
+			<Text>Superconductors are materials that, when lowered below a certain 'critical temperature', exhibit an electrical resistance of exactly zero. High Temperature Superconductors are, unsurprisingly, the exploitation of new materials to achieve this phenomena at higher temperatures than previously possible.[NEWLINE][NEWLINE]The first High Temperature Superconductor was discovered in 1986 by IBM researchers Karl Müller and Johannes Bednorz, who were awarded the 1987 Nobel Prize in Physics for their efforts.[NEWLINE][NEWLINE]All Superconductors make exceptional magnets, so High Temperature Superconductors pave the way to extraordinarily powerful magnets, which can in turn benefit any component that depends on a magnet to function, such as a motors, generators, and railguns.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TECH_AI_TITLE">
+			<Text>Artificial Intelligence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_AI_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]" Never trust a computer you can't throw out the window."[NEWLINE][TAB][TAB] - Steve Wozniak[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_AI_HELP">
+			<Text> Allows you to build the [COLOR_POSITIVE_TEXT]Unmanned Air Vehicle[ENDCOLOR], a powerful post late-game air unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_AI_DESC">
+			<Text>Artificial intelligence (AI) is technology, and a branch of computer science, that studies and develops intelligent machines and software. Major AI researchers and textbooks define the field as "the study and design of intelligent agents", where an intelligent agent is a system that perceives its environment and takes actions that maximize its chances of success.[NEWLINE][NEWLINE]Artificial intelligence has been the subject of tremendous optimism but has also suffered stunning setbacks. Today it has become an essential part of the technology industry and many of the most difficult problems in computer science.[NEWLINE][NEWLINE]AI research is divided by several technical issues. The research is split into subfields which are focused on the solution of specific problems, on one of several possible approaches, on the use of widely differing tools and towards the accomplishment of specific applications, rather than the realisation of true AI as a whole.[NEWLINE][NEWLINE]Today's popular approaches include statistical methods, computational intelligence and traditional symbolic AI. There are an enormous number of tools used in AI, including versions of search and mathematical optimization, probabilistic methods, and many others.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TECH_NANOMATERIALS_TITLE">
+			<Text>Nanomaterials</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_NANOMATERIALS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"We think that the biggest breakthroughs in nanotechnology are going to be in the new materials that are developed."[NEWLINE][TAB][TAB] - Troy Kirkpatrick[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_NANOMATERIALS_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]SS Stasis Chamber[ENDCOLOR], one of the Spaceship parts necessary to win a [COLOR_POSITIVE_TEXT]Science Victory[ENDCOLOR].</Text>
+		</Row>
+		<Update>
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]Advanced Mechanized Infantry[ENDCOLOR], a very powerful late-game unit that doesn't require any resources." />
+			<Where Tag="TXT_KEY_TECH_NANOTECHNOLOGY_HELP" />
+		</Update>
+		<Row Tag="TXT_KEY_TECH_NANOMATERIALS_DESC">
+			<Text>The research into Nanomaterials takes a more practical and applied approach to nanotechnology, studying materials that have structures or properties on the nanoscale. The nanoscale is generally defined to be anything smaller than one tenth of a micrometre (approximately one thousandth of the breadth of a human hair) .[NEWLINE][NEWLINE]Working on such small scales brings in a new raft of considerations to take into account for the design of systems and machines on the nanoscale. The ratio between surface area to volume vastly increases, having an effect on thermal energy transfer.[NEWLINE][NEWLINE]The reduction in size also brings in certain elements of quantum mechanics as noteworthy factors. One example is quantum tunnelling, the chance that a particle can tunnel through a potential barrier, such as a wall or a vacuum, without the energy required to do so.[NEWLINE][NEWLINE]Producing machines, that can take advantage of all of these factors, opens the possibility to enhance existing materials using the newly-created materials or even change them altogether. This may enable further miniaturisation of a material as well as increased functionality.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TECH_INTELLIGENT_MACHINES_TITLE">
+			<Text>Intelligent Machines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_INTELLIGENT_MACHINES_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"I think they are a better race than humans ever were."[NEWLINE][TAB][TAB] - Angelo Tsanatelis[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_INTELLIGENT_MACHINES_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]SS Cockpit[ENDCOLOR], one of the Spaceship parts necessary to win a [COLOR_POSITIVE_TEXT]Science Victory[ENDCOLOR].</Text>
+		</Row>
+		<Update>
+			<Set Text="Reveals the [COLOR_POSITIVE_TEXT]Titanium[ENDCOLOR] on the map and the entire map itself." />
+			<Where Tag="TXT_KEY_TECH_SATELLITES_HELP" />
+		</Update>
+		<Row Tag="TXT_KEY_TECH_INTELLIGENT_MACHINES_DESC">
+			<Text>Intelligent Machines are, in  this context, machines that have individual artificial intelligence capable of learning and adapting their functions to achieve a goal that they themselves can set.[NEWLINE][NEWLINE]In effect, true artificial life has been achieved. These machines have aspirations, fears and needs, they can hold true conversations and develop their personalities.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TECH_ORBITAL_FLIGHT_TITLE">
+			<Text>Orbital Flight</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ORBITAL_FLIGHT_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"I see Earth. It is so beautiful!"[NEWLINE][TAB][TAB] - Yuri A. Gagarin[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ORBITAL_FLIGHT_HELP">
+			<Text> Allows you to build the [COLOR_POSITIVE_TEXT]Orbital Ballistic Missile[ENDCOLOR], a frightening weapon that requires [ICON_RES_URANIUM] Uranium and is capable of destroying units and cities at long distances. It also unlocks the [COLOR_POSITIVE_TEXT]SS Booster[ENDCOLOR], one of the Spaceship parts necessary to win a [COLOR_POSITIVE_TEXT]Science Victory[ENDCOLOR].</Text>
+		</Row>
+		<Update>
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]Nuclear Missile[ENDCOLOR], a frightening weapon that requires [ICON_RES_URANIUM] Uranium, and is capable of destroying units and cities. Also allows you to build the [COLOR_POSITIVE_TEXT]Guided Missile[ENDCOLOR], an inexpensive single-use Unit that can damage enemy Units." />
+			<Where Tag="TXT_KEY_TECH_ADVANCED_BALLISTICS_HELP" />
+		</Update>
+		<Row Tag="TXT_KEY_TECH_ORBITAL_FLIGHT_DESC">
+			<Text>Orbital spaceflight, otherwise known as orbital flight, is achieved when an object is placed on a trajectory that can remain in orbit for at least one orbit. For this to be achieved on Earth, it must have a minimum altitude above one hundred kilometres.[NEWLINE][NEWLINE]The linear speeds required to maintain this orbit are around eight kilometres a second. Higher altitude orbits can support lower speeds but the acceleration required to get there is also higher.[NEWLINE][NEWLINE]If this speed is to be maintained at a relatively low orbit, it needs to be occasionally 'topped up' by thrusters. A prime example of this effect is the International Space Station, which orbits are around 400km, and requires intermittent boosts to keep its orbital velocity high enough.</Text>
+		</Row>-->
+
+		<Row Tag="TXT_KEY_TECH_SPACE_MINING_TITLE">
+			<Text>Space Mining</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SPACE_MINING_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Many of the scarce metals and minerals on Earth are in near-infinite quantities in space."[NEWLINE][TAB][TAB] - Peter Diamandis[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SPACE_MINING_HELP">
+			<Text>An important technology, Space Mining allows you to build the [COLOR_POSITIVE_TEXT]Mars Program[ENDCOLOR], a project necessary to win a [COLOR_POSITIVE_TEXT]Science Victory[ENDCOLOR]. Also allows you to build the [COLOR_POSITIVE_TEXT]Moon Colony[ENDCOLOR] to improve your [ICON_RESEARCH] Science output, speed Spaceship part production and provide [ICON_RES_URANIUM] Uranium.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SPACE_MINING_DESC">
+			<Text>Asteroid mining refers to the possibility of exploiting raw materials from asteroids and other minor planets, including near-Earth objects. Minerals could be mined from an asteroid or comet that passes near Earth, then brought back or used in space to construct spaceships or satellites off-Earth.[NEWLINE][NEWLINE]Materials that could be mined or extracted include heavy metals for construction, water and oxygen to sustain the lives of any prospector-astronauts on site, as well as hydrogen for use as rocket fuel.[NEWLINE][NEWLINE]In space exploration, using resources gathered whilst on a journey is referred to as in-situ resource utilization. Due to the thrust required to take pre-built objects or raw materials from Earth into space, it is often more efficient to send extraction equipment and simply mine the materials off-planet and construct the more massive components there.[NEWLINE][NEWLINE]In addition, elements or materials seen as rare on Earth, such as gold or diamonds, can be found in abundance on other celestial bodies, so the potential to mine extra-terrestrial bodies purely for economic reasons is tangible for future development.</Text>
+		</Row>
+
+		<!--<Update>
+			<Set Text="An important technology, Rocketry allows you to build the [COLOR_POSITIVE_TEXT]Apollo Program[ENDCOLOR], a project necessary to build the Moon Colony. Also allows you to build the [COLOR_POSITIVE_TEXT]Rocket Artillery[ENDCOLOR]." />
+			<Where Tag="TXT_KEY_TECH_ROCKETRY_HELP" />
+		</Update>-->
+
+
+		<Update>
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]Giant Death Robot[ENDCOLOR], the strongest unit in the game, and the [COLOR_POSITIVE_TEXT]SS Engine[ENDCOLOR], one of the Spaceship parts necessary to win a [COLOR_POSITIVE_TEXT]Science Victory[ENDCOLOR]." />
+			<Where Tag="TXT_KEY_TECH_NUCLEAR_FUSION_HELP" />
+		</Update>
+
+		<!--<Update>
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]International Linear Collider[ENDCOLOR], a building that will improve greatly your [ICON_RESEARCH] Science output." />
+			<Where Tag="TXT_KEY_TECH_PARTICLE_PHYSICS_HELP" />
+		</Update>-->
+
+
+		<!--<Row Tag="TXT_KEY_BUILDING_OIL_REFINERY_DESC">
+			<Text>Oil Refinery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OIL_REFINERY_HELP">
+			<Text>Requires 1 [ICON_RES_OIL] Oil. City must not contain a Biolfuel Refinery.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OIL_REFINERY_STRATEGY">
+			<Text>The Oil Refinery is a Modern-era building which greatly increases a city's [ICON_PRODUCTION] Production. The city must already possess a Factory. 1 [ICON_RES_OIL] Oil is consumed when an Oil Refinery is created.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_OIL_REFINERY_TEXT">
+			<Text>The first oil refinery in the world was built in 1851 at Bathgate, Scotland, by Scottish chemist James Young shortly followed by Ignacy Lukasiewicz near Jaslo, Poland from 1854 to 1856, but they were initially small as there was no real demand for refined fuel. As Lukasiewicz's kerosene lamp gained popularity, the refining industry grew in the area. The world's first large refinery opened at Ploiești, Romania, in 1856-1857, with United States investment.[NEWLINE][NEWLINE]After being taken over by Nazi Germany, the Ploiești refineries were bombed in Operation Tidal Wave by the Allies during the Oil Campaign of World War II. Another early large refinery is Oljeön, Sweden (1875) (Swedish name means The Petroleum Isle), now preserved as a museum near Engelsberg Ironworks, a UNESCO World Heritage Site, and part of the Ekomuseum Bergslagen.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_BUILDING_STEEL_FOUNDRY_DESC">
+			<Text>Steel Foundry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEEL_FOUNDRY_HELP">
+			<Text>Requires 3 [ICON_RES_IRON] Iron. The city must have a Factory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEEL_FOUNDRY_STRATEGY">
+			<Text>The Steel Foundry is an Industrial-era building which increases a city's [ICON_PRODUCTION] Production and [ICON_FOOD] Food. The city must already possess a Factory. 3 [ICON_RES_IRON] Iron are consumed when a Steel Foundry is created.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STEEL_FOUNDRY_TEXT">
+			<Text>A foundry is a factory that produces metal castings. Metals are cast into shapes by melting them into a liquid, pouring the metal in a mold, and removing the mold material or casting after the metal has solidified as it cools. The most common metals processed are aluminium and cast iron. However, other metals, such as bronze, brass, steel, magnesium, and zinc, are also used to produce castings in foundries.[NEWLINE][NEWLINE]The introduction of the Bessemer process and other modern production techniques, steel was expensive and was only used where no cheaper alternative existed, particularly for the cutting edge of knives, razors, swords, and other items where a hard, sharp edge was needed. It was also used for springs, including those used in clocks and watches.[NEWLINE][NEWLINE]With the advent of speedier and thriftier production methods, steel has become easier to obtain and much cheaper. Iron and steel are used widely in the construction of roads, railways, other infrastructure, appliances, and buildings. Most large modern structures, such as stadiums and skyscrapers, bridges, and airports, are supported by a steel skeleton. Even those with a concrete structure employ steel for reinforcing. In addition, it sees widespread use in major appliances and cars. Other common applications include shipbuilding, pipelines, mining, offshore construction, aerospace, white goods (e.g. washing machines), heavy equipment such as bulldozers, office furniture, steel wool, tools, and armour in the form of personal vests or vehicle armour.</Text>
+		</Row>-->
+
+
+		<Row Tag="TXT_KEY_PROJECT_APOLLO_PROGRAM2_HELP">
+			<Text>The Apollo Program is necessary to build the Moon Base, it starts the space race and the exploration of the moon surface searching for resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_APOLLO_PROGRAM_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"That's one small step for (a) man, one giant leap for mankind."[NEWLINE][TAB][TAB] - Neil Armstrong (20 July 1969).[NEWLINE][TAB]</Text>
+		</Row>
+
+
+		<!--<Row Tag="TXT_KEY_BUILDING_BIOFUEL_REFINERY_DESC">
+			<Text>Biofuel Refinery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BIOFUEL_REFINERY_HELP">
+			<Text>Requires [ICON_RES_WHEAT] Wheat in your city, [COLOR_NEGATIVE_TEXT]consumes[ENDCOLOR] 5 [ICON_FOOD] Food and provide 2 [ICON_RES_OIL] Oil. City must not contain an Oil Refinery.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BIOFUEL_REFINERY_STRATEGY">
+			<Text>The Biofuel Refinery provide 2 [ICON_RES_OIL] Oil consuming 5 [ICON_FOOD] Food in the city where is built. A Biofuel Refinery requires [ICON_RES_WHEAT] Wheat in your city to be constructed. The city must possess a Factory before it can be constructed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BIOFUEL_REFINERY_TEXT">
+			<Text>A biofuel is a fuel that stores energy from recent (geologically speaking) carbon fixation, the biological process that occurs when plants grow. The plant is chemically broken down and the resultant biofuel is used in specially designed engines or turbines to generate power.[NEWLINE][NEWLINE]Solid biofuels have been in use ever since man discovered fire, in the form of wood. As fire was so integral to man's development, enabling cooking of food and the provision of heat and light, it is natural to assume that biofuel remained in use.[NEWLINE][NEWLINE]After the discovery of electricity, biofuels fell into relative disuse in the developed world, in favour of the efficiency fossil fuels could offer. In today's society, increasing oil and fossil fuel prices have driven countries to seek more renewable and more stable alternatives.</Text>
+		</Row>-->
+
+		<!-- TITANIUM -->
+
+		<!--<Row Tag="TXT_KEY_RESOURCE_TITANIUM">
+			<Text>Titanium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TITANIUM_HELP">
+			<Text>Valuable metal prized in the Aerospace and Advanced Weapon Industry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TITANIUM">
+			<Text>Titanium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TITANIUM_TEXT">
+			<Text>Titanium is a metallic, silver-colored element with a remarkably ratio of high tensile strength to weight. It also has a very high melting point and high resistance to corrosion. This makes it very useful in creating strong, light objects such as aircraft, spacecraft and advanced weaponry and armour.</Text>
+		</Row>-->
+
+	</Language_en_US>
+</GameData>

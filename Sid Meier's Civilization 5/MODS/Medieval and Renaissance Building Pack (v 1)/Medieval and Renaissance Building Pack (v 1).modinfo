@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b21cd2d9-cc7c-4de1-aba8-04dcd9bd4ad9" version="1">
+  <Properties>
+    <Name>Medieval and Renaissance Building Pack</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>This mod adds 5 new buildings to the Medieval and Renaissance eras.</Teaser>
+    <Description>This mod adds 5 new buildings to the Medieval and Renaissance eras.</Description>
+    <Authors>thecrazyscotsman</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="AB3A9EEEF7EDC4582F150FF68DF51822" import="1">Art/Med-Ren_IconAtlas128.dds</File>
+    <File md5="9BA7C76086C38F3B60F1B9E7E3F22592" import="1">Art/Med-Ren_IconAtlas256.dds</File>
+    <File md5="26FBD4E24C994A3F5641D89CFC307C33" import="1">Art/Med-Ren_IconAtlas45.dds</File>
+    <File md5="572383200E93A965C8403D2BECF86FBA" import="1">Art/Med-Ren_IconAtlas64.dds</File>
+    <File md5="009FEF97D309A97FE3678C20B9EDD861" import="1">Art/Med-Ren_IconAtlas80.dds</File>
+    <File md5="E0A9B92ADE87247058B5FCB549F071E1" import="0">XML/ModBuildings.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/ModBuildings.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/5/2014 11:34:49 AM -->
+<GameData>
+	<!--<PolicyBranchTypes>
+		<Update>
+		    <Where Type="POLICY_BRANCH_TRADITION"/>
+		    <Set EraPrereq="ERA_CLASSICAL" />
+		</Update>
+		<Update>
+			<Where Type="POLICY_BRANCH_LIBERTY"/>
+			<Set EraPrereq="ERA_CLASSICAL"/>
+		</Update>
+		<Update>
+			<Where Type="POLICY_BRANCH_HONOR"/>
+			<Set EraPrereq="ERA_CLASSICAL"/>
+		</Update>
+		<Update>
+			<Where Type="POLICY_BRANCH_PIETY"/>
+			<Set EraPrereq="ERA_CLASSICAL" />
+		</Update>
+		<Update>
+			<Where Type="POLICY_BRANCH_PATRONAGE"/>
+			<Set EraPrereq="ERA_MEDIEVAL"/>
+		</Update>
+		<Update>
+			<Where Type="POLICY_BRANCH_AESTHETICS"/>
+			<Set EraPrereq="ERA_CLASSICAL"/>
+		</Update>
+		<Update>
+			<Where Type="POLICY_BRANCH_COMMERCE"/>
+			<Set EraPrereq="ERA_RENAISSANCE"/>
+		</Update>
+		<Update>
+			<Where Type="POLICY_BRANCH_EXPLORATION"/>
+			<Set EraPrereq="ERA_RENAISSANCE"/>
+		</Update>
+	</PolicyBranchTypes>-->
+	<Policies>
+		<Update>
+			<Where Type="POLICY_AESTHETICS_FINISHER"/>
+			<Set WonderProductionModifier="33"/>
+		</Update>
+	
+	</Policies>
+	<Policy_BuildingClassCultureChanges>
+		<Update>
+			<Where PolicyType="POLICY_TRADITION"/>
+			<Set BuildingClassType="BUILDINGCLASS_NEOLITHIC_LONGHOUSE"/>
+		</Update>
+	</Policy_BuildingClassCultureChanges>
+	
+	<Language_en_US>
+		<Replace Tag="TXT_KEY_POLICY_BRANCH_AESTHETICS_HELP">
+		<Text>[COLOR_POSITIVE_TEXT]Aesthetics[ENDCOLOR] improves the civilization's ability to generate [ICON_CULTURE] Culture.[NEWLINE][NEWLINE]Adopting Aesthetics allows you to earn Great Writers, Artists, and Musicians 25% faster. Unlocks building the Uffizi.[NEWLINE][NEWLINE]Adopting all policies doubles the theming bonus you receive from Museums and Wonders. It also allows the purchase of Great Writers, Artists, or Musicians with [ICON_PEACE] Faith starting in the Industrial Era.[NEWLINE][NEWLINE]+33% [ICON_PRODUCTION] Production when constructing Wonders. </Text>
+	</Replace>
+		<Replace Tag="TXT_KEY_POLICY_BRANCH_PIETY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Piety[ENDCOLOR] increases the [ICON_PEACE] Faith of empires.[NEWLINE][NEWLINE]Adopting Piety allows you to build Shrines and Temples in half the usual time. Unlocks Stonehenge.[NEWLINE][NEWLINE]Adopting all Policies in the Piety tree causes a Great Prophet to appear and Holy Sites provide +3 [ICON_CULTURE] Culture.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_POLICY_BRANCH_TRADITION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Tradition[ENDCOLOR] is best for small empires.[NEWLINE][NEWLINE]Adopting Tradition greatly increases the rate of border expansion in cities and also grants 3 [ICON_CULTURE] Culture to the [ICON_CAPITAL] Neolithic Longhouse. Unlocks the Hanging Gardens.[NEWLINE][NEWLINE]Adopting all Policies in the Tradition tree will grant +15% [ICON_FOOD] Growth and a free Aqueduct in your first 4 cities. It also allows the purchase of Great Engineers with [ICON_PEACE] Faith starting in the Industrial Era.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_POLICY_BRANCH_LIBERTY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Liberty[ENDCOLOR] is best for civilizations which desire rapid expansion.[NEWLINE][NEWLINE]Adopting Liberty will provide 1 [ICON_CULTURE] Culture in every city. Unlocks the Flavian Amphitheatre.[NEWLINE][NEWLINE]Adopting all policies in the Liberty tree will grant a free Great Person of your choice near the [ICON_CAPITAL] Capital.</Text>
+		</Replace>
+		
+	</Language_en_US>
+</GameData>

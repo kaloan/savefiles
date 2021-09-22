@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Created by ModBuddy on 11/26/2013 6:18:49 PM -->
+
+<GameData>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Shine Tani</UniqueName>
+			<GreatWorkType>GREAT_WORK_DUSK</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Reza Derakshani</UniqueName>
+			<GreatWorkType>GREAT_WORK_MASTERS OF PERSIAN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Babak Roshaninejad</UniqueName>
+			<GreatWorkType>GREAT_WORK_NO.3</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Yan Liben</UniqueName>
+			<GreatWorkType>GREAT_WORK_EMPEROR WEN OF SUI</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Su Hanchen</UniqueName>
+			<GreatWorkType>GREAT_WORK_PLAYING CHILDREN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Anak Agung Sukawati</UniqueName>
+			<GreatWorkType>GREAT_WORK_MASK DANCER</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Ketut Murtika</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE WHEEL OF LIFE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Wayan Pugur</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE TREE SNAKE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Raden Saleh</UniqueName>
+			<GreatWorkType>GREAT_WORK_HUNT</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Jeong Seon</UniqueName>
+			<GreatWorkType>GREAT_WORK_GENERAL VIEW OF MOUNT GEUMGANG</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Yi Am</UniqueName>
+			<GreatWorkType>GREAT_WORK_MOGYEONDO</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Shin Yun - Bok</UniqueName>
+			<GreatWorkType>GREAT_WORK_JUYU CHEONG GANGDO</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Kano Motonobu</UniqueName>
+			<GreatWorkType>GREAT_WORK_BODHISATTVA OF COMPASSION</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Yunizar</UniqueName>
+			<GreatWorkType>GREAT_WORK_CATATAN PINGGIR</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Damien Dematra</UniqueName>
+			<GreatWorkType>GREAT_WORK_OFFERING</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Tepantitla</UniqueName>
+			<GreatWorkType>GREAT_WORK_GREAT GODDESS OF TEOTIHUACAN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Jan Matejko</UniqueName>
+			<GreatWorkType>GREAT_WORK_STANCZYK</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Pedro Americo</UniqueName>
+			<GreatWorkType>GREAT_WORK_A BATALHA DE AVAI</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Nikolai Pirosmani - Schvili</UniqueName>
+			<GreatWorkType>GREAT_WORK_FARMER WITH A BULL</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Syed Thajudeen</UniqueName>
+			<GreatWorkType>GREAT_WORK_SPRING MOOD</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Black Hawk</UniqueName>
+			<GreatWorkType>GREAT_WORK_HAOKAH</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Makinti Napanangka</UniqueName>
+			<GreatWorkType>GREAT_WORK_ROCKS AT LALUPUNGA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Abanindranath Tagore</UniqueName>
+			<GreatWorkType>GREAT_WORK_GANASHA-JANANI</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>S.L.Haldankar</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE GLOW OF HOPE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Zhang Zeduan</UniqueName>
+			<GreatWorkType>GREAT_WORK_RIVERSIDE SCENE AT QINGMING FESTIVAL</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Akseli Gallen - Kallela</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE DEFENSE OF THE SAMPO</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Tarsila do Amaral</UniqueName>
+			<GreatWorkType>GREAT_WORK_ABAPORU</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Hendra Gunawan</UniqueName>
+			<GreatWorkType>GREAT_WORK_THREE PROSTITUTES</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Julie Mehretu</UniqueName>
+			<GreatWorkType>GREAT_WORK_UNTITLED1</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Kastriot Dervishi</UniqueName>
+			<GreatWorkType>GREAT_WORK_BERATI</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Quamrul Hassam</UniqueName>
+			<GreatWorkType>GREAT_WORK_UKI</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Felipe Guaman Poma de Ayala</UniqueName>
+			<GreatWorkType>GREAT_WORK_CORONICA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Ogura Yonesuke Itoh</UniqueName>
+			<GreatWorkType>GREAT_WORK_KILAUEA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Wojciech Kossak</UniqueName>
+			<GreatWorkType>GREAT_WORK_ROKITNA CHARGE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Princess Ka'iulani</UniqueName>
+			<GreatWorkType>GREAT_WORK_POPPIES</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Herb Kawainui Kane</UniqueName>
+			<GreatWorkType>GREAT_WORK_COOK ENTERING KEALAKEKUA BAY</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Shin Saimdang</UniqueName>
+			<GreatWorkType>GREAT_WORK_MAHWADO</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Naza</UniqueName>
+			<GreatWorkType>GREAT_WORK_RED MACAW</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>Beyazit'da Yangin</UniqueName>
+			<GreatWorkType>GREAT_WORK_FIRE AT BEYAZIT</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>E.J.Martin</UniqueName>
+			<GreatWorkType>GREAT_WORK_MIDNIGHT GOLFER</GreatWorkType>
+		</Row>
+	</Unit_UniqueNames>
+
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_MAHWADO</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_MAHWADO</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Shin Saimdang - Mahwado.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_RED MACAW</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_RED MACAW</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Naza - Red Macaw.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_PEDRO I</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_PEDRO I</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Manuel de Araújo Porto Alegre – Pedro I.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CHARGING TO BEIJING</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CHARGING TO BEIJING</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Maqbool Fida Hussain - Charging to Beijing.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_FIRE AT BEYAZIT</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_FIRE AT BEYAZIT</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Beyazit'da Yangin -Fire at Beyazit.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MASTERS OF PERSIAN</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_MASTERS OF PERSIAN</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Reza Derakshani - Masters of Persian.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_NO.3</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_NO.3</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Babak Roshaninejad - No.3.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_EMPEROR WEN OF SUI</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_EMPEROR WEN OF SUI</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>A Tang portrait of Emperor Wen of Sui - Yan Liben.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SCROLL OF BUDDHIST IMAGES</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SCROLL OF BUDDHIST IMAGES</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Chang Sheng-wen - Scroll of Buddhist Images.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_PLAYING CHILDREN</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CHILDREN</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Su Hanchen - Playing Children.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MASK DANCER</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_MASK DANCER</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Mask Dancer - Anak Agung Gde Anom Sukawati.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE WHEEL OF LIFE</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE WHEEL OF LIFE</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>The Wheel of Life - Ketut Murtika.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE TREE SNAKE</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE TREE SNAKE</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>The Tree Snake - Wayan Pugur.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HUNT</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HUNT</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Raden Saleh - Hunt.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_GENERAL VIEW OF MOUNT GEUMGANG</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_GENERAL VIEW OF MOUNT GEUMGANG</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Jeong Seon - General View of Mt. Geumgang.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MOGYEONDO</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_MOGYEONDO</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Mogyeondo - Yi Am.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_JUYU CHEONG GANGDO</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_JUYU CHEONG GANGDO</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Shin Yun-bok - Juyucheonggangdo.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BODHISATTVA OF COMPASSION</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_BODHISATTVA OF COMPASSION</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Kano Motonobu - Bodhisattva of Compassion.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CATATAN PINGGIR</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CATATAN PINGGIR</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Yunizar- Catatan Pinggir.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_OFFERING</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_OFFERING</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Damien Dematra - Offering.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_GREAT GODDESS OF TEOTIHUACAN</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_GREAT GODDESS OF TEOTIHUACAN</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Tepantitla - Great Goddess of Teotihuacan.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_STANCZYK</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_STANCZYK</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Stanczyk - Jan Matejko.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_A BATALHA DE AVAI</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_A BATALHA DE AVAI</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Pedro Americo - A Batalha de Avai.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_FARMER WITH A BULL</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_FARMER WITH A BULL</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Nikolai Pirosmani - Shvili - Farmer with a Bull.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SPRING MOOD</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SPRING MOOD</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Spring Mood - Syed Thajudeen.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HAOKAH</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HAOKAH</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Black Hawk - Haokah.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ROCKS AT LALUPUNGA</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ROCKS AT LALUPUNGA</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Rocks at Lupulunga - Makinti Napanangka.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_GANASHA-JANANI</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_GANASHA-JANANI</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Ganasha-Janani by Abanindranath Tagore.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE GLOW OF HOPE</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE GLOW OF HOPE</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>The Glow of Hope - S. L. Haldankar.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_RIVERSIDE SCENE AT QINGMING FESTIVAL</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_RIVERSIDE SCENE AT QINGMING FESTIVAL</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Riverside Scene at Qingming Festival - Zhang Zeduan.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE DEFENSE OF THE SAMPO</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE DEFENSE OF THE SAMPO</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>The Defense of the Sampo - Akseli Gallen-Kallela.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ABAPORU</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ABAPORU</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Abaporu -Tarsila do Amaral.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THREE PROSTITUTES</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THREE PROSTITUTES</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Three Prostitutes - Hendra Gunawan.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_UNTITLED1</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_UNTITLED1</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Julie Mehretu - Untitled 1.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BERATI</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_BERATI</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Kastriot Dervishi - Berati.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_UKI</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_UKI</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Uki - Quamrul Hassan.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CORONICA</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CORONICA</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Felipe Guaman Poma de Ayala - Coronica.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_KILAUEA</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_KILAUEA</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Kilauea - Ogura Yonesuke Itoh.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ROKITNA CHARGE</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ROKITNA CHARGE</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Rokitna Charge - Wojciech Kossak.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_POPPIES</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_POPPIES</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Poppies - Princess Ka'iulani.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_COOK ENTERING KEALAKEKUA BAY</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_COOK ENTERING KEALAKEKUA BAY</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>Herb Kawainui Kane - Cook Entering Kealakekua Bay.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MIDNIGHT GOLFER</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_MIDNIGHT GOLFER</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>E.J.Martin - Midnight Golfer.dds</Image>
+		</Row>
+	</GreatWorks>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_MASTERS OF PERSIAN">
+			<Text>Masters of Persian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NO.3">
+			<Text>No.3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EMPEROR WEN OF SUI">
+			<Text>Emperor Wen of Sui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PLAYING CHILDREN">
+			<Text>Playing Children</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MASK DANCER">
+			<Text>Mask Dancer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE WHEEL OF LIFE">
+			<Text>The Wheel of Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE TREE SNAKE">
+			<Text>The Tree Snake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HUNT">
+			<Text>Hunt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GENERAL VIEW OF MT.GEUMGANG">
+			<Text>General View of Mt. Geumgang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MOGYENONDO">
+			<Text>Mogyeondo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JUYUCHEONGGANGDO">
+			<Text>Juyucheonggangdo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BODHISATTVA OF COMPASSION">
+			<Text>Bodhisattva of Compassion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CATATAN PINGGIR">
+			<Text>Catatan Pinggir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_OFFERING">
+			<Text>Offering</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GREAT GODDESS OF TEOTIHUACAN">
+			<Text>Great Goddess of Teotihuacan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_STANCZYK">
+			<Text>Stanczyk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_A BATALHA DE AVAI">
+			<Text>A Batalha de Avai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FIRE AT BEYAZIT">
+			<Text>Fire at Beyazit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MIDNIGHT GOLFER">
+			<Text>Midnight Golfer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CHARGING TO BEIJING">
+			<Text>Charging to Beijing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RED MACAW">
+			<Text>Red Macaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MAHWADO">
+			<Text>Mahwado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FARMER WITH A BULL">
+			<Text>Farmer with a Bull</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HAOKAH">
+			<Text>Haokah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SPRING MOOD">
+			<Text>Spring Mood </Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ROCKS AT LALUPUNGA">
+			<Text>Rocks at Lalupunga </Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GANASHA-JANANI">
+			<Text>Ganasha-Janani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE GLOW OF HOPE">
+			<Text>The Glow of Hope</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RIVERSIDE SCENE AT QINGMING FESTIVAL">
+			<Text>Riverside Scene at Qingming Festival</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE DEFENSE OF SAMPO">
+			<Text>The Defense of the Sampo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ABAPORU">
+			<Text>Abaporu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THREE PROSTITUTES">
+			<Text>Three Prostitutes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_UNTITLED1">
+			<Text>Untitled1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BERATI">
+			<Text>Berati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_UKI">
+			<Text>Uki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CORONICA">
+			<Text>Coronica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KILAUEA">
+			<Text>Kilauea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ROKITNA CHARGE">
+			<Text>Rokitna Charge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_POPPIES">
+			<Text>Poppies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_COOK ENTERING KEALAKEKUA BAY">
+			<Text>Cook Entering Kealakekua Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE DEFENSE OF THE SAMPO">
+			<Text>The Defense of the Sampo</Text>
+		</Row>
+	</Language_en_US>
+	<Language_PL_PL>
+		<Row Tag="TXT_KEY_GREAT_WORK_MASTERS OF PERSIAN">
+			<Text>Masters of Persian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NO.3">
+			<Text>No.3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EMPEROR WEN OF SUI">
+			<Text>Imperator Wen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SCROLL OF BUDDHIST IMAGES">
+			<Text>Zwój Buddyjskich Obrazów</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PLAYING CHILDREN">
+			<Text>Bawiące się dzieci</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MASK DANCER">
+			<Text>Zamaskowany Tancerz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE WHEEL OF LIFE">
+			<Text>Koło Życia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE TREE SNAKE">
+			<Text>Wąż na drzewie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HUNT">
+			<Text>Polowanie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GENERAL VIEW OF MT.GEUMGANG">
+			<Text>Ogólny widok góry Geumgang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MOGYENONDO">
+			<Text>Mogyeondo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JUYUCHEONGGANGDO">
+			<Text>Juyucheonggangdo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BODHISATTVA OF COMPASSION">
+			<Text>Bodhisattva Współczucia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CATATAN PINGGIR">
+			<Text>Catatan Pinggir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_OFFERING">
+			<Text>Ofiara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GREAT GODDESS OF TEOTIHUACAN">
+			<Text>Wielka Bogini Teotihuacan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_STANCZYK">
+			<Text>Stańczyk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_A BATALHA DE AVAI">
+			<Text>A Batalha de Avai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FIRE AT BEYAZIT">
+			<Text>Pożar Beyazit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MIDNIGHT GOLFER">
+			<Text>Midnight Golfer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CHARGING TO BEIJING">
+			<Text>Idąc na Pekin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RED MACAW">
+			<Text>Czerwona Ara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MAHWADO">
+			<Text>Mahwado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FIRST MASS IN BRAZIL">
+			<Text>Pierwsza Msza w Brazylii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FARMER WITH A BULL">
+			<Text>Farmer z bykiem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HAOKAH">
+			<Text>Haokah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SPRING MOOD">
+			<Text>Wiosenny Nastrój</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ROCKS AT LUPULUNGA">
+			<Text>Skały w Lupulundze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GANASHA-JANANI">
+			<Text>Ganasha-Janani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE GLOW OF HOPE">
+			<Text>Świeca Nadziei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RIVERSIDE SCENE AT QINGMING FESTIVAL">
+			<Text>Scena Nadrzeczna na Festiwalu Qingming</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE DEFENSE OF SAMPO">
+			<Text>Obrona Sampo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ABAPORU">
+			<Text>Abaporu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VILLAGE LIFE">
+			<Text>Wiejskie życie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THREE PROSTITUTES">
+			<Text>Trzy Kurtyzany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PASAR MALAM">
+			<Text>Pasar Malam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TALKING AND WAITING">
+			<Text>Rozmawiając i czekając</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_UNTITLED1">
+			<Text>Untitled1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BERATI">
+			<Text>Berati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WARRIOR BAND OF SHAHIN MATRAKU">
+			<Text>Banda Wojów Shahina Matraku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_UKI">
+			<Text>Uki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CORONICA">
+			<Text>Coronica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_POPULARITE">
+			<Text>Popularite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LATE SPRING">
+			<Text>Późna Wiosna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DALMADO">
+			<Text>Dalmado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TORTOISE TRAINER">
+			<Text>Trener Żółwi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KILAUEA">
+			<Text>Kilauea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ROKITNA CHARGE">
+			<Text>Szarża pod Rokitną</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_POPPIES">
+			<Text>Maki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_COOK ENTERING KEALAKEKUA BAY">
+			<Text>Cook odwiedzający Zatokę Kealakekua</Text>
+		</Row>
+	</Language_PL_PL>
+</GameData>

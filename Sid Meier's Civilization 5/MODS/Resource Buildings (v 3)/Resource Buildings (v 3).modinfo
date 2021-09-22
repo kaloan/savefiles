@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="be5b4fd2-6c2a-4d5a-b583-8c188aa18368" version="3">
+  <Properties>
+    <Name>Resource Buildings</Name>
+    <Teaser>This mod adds various bonus buildings to the game that improves Luxuries in the same manner as the Mint.</Teaser>
+    <Description>This mod adds various bonus buildings to the game that improves Luxuries in the same manner as the Mint. Requires the Brave New World expansion.[NEWLINE][NEWLINE]Weavery: Requires improved Cotton or Silk nearby. +2 [ICON_GOLD] Gold per Cotton and Silk.[NEWLINE][NEWLINE]Wine Cellar: Requires improved Wine nearby. +1 [ICON_FOOD] Food and +1 [ICON_CULTURE] Culture per Wine.[NEWLINE][NEWLINE]Thermopolium: Requires improved Salt, Spices, Sugar, Truffles or Citrus nearby. +1 [ICON_FOOD] Food per Salt, Spices, Sugar, Truffles and Citrus.[NEWLINE][NEWLINE]Tannery: Requires improved Furs or Dyes nearby. +2 [ICON_GOLD] Gold per Furs and Dyes.[NEWLINE][NEWLINE]Sculptor's Workshop: Requires improved Marble or Ivory nearby. +1 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture per Marble and Ivory. +15% [ICON_GREAT_PEOPLE] Great People Generation in this City.[NEWLINE][NEWLINE]Mint (updated): Now also +2 [ICON_GOLD] Gold from Copper.[NEWLINE][NEWLINE]Gem Merchant: Requires improved Gems nearby. +2 [ICON_GOLD] Gold per Gems. Land trade routes originating from this city have a 25% increase in range.[NEWLINE][NEWLINE]Ritual Site: Requires improved Incense nearby. +1 [ICON_PEACE] Faith and +1 [ICON_CULTURE] Culture per Incense. Military Land Units trained in this City may heal faster.[NEWLINE][NEWLINE]Distillery: Requires a Wine Cellar in the City. Provides one copy of [ICON_RES_WINE] Wine and increases [ICON_RES_HAPPINESS_1] Happiness.[NEWLINE][NEWLINE]Gilder: Requires a Mint in the City. +1 [ICON_CULTURE] Culture. The Gilder contains an Artist Specialist slot.[NEWLINE][NEWLINE]Leatherworker: Requires a Tannery in the City. +10% [ICON_GOLD] Gold. Units trained in this City gain +10% [ICON_STRENGTH] Defense.[NEWLINE][NEWLINE]Tailor: Requires a Weavery in the City. +1 [ICON_GOLD] Gold. Increases [ICON_GOLDEN_AGE] Golden Age Length by 15%.[NEWLINE][NEWLINE]Restaurant: Requires a Thermopolium in the City. Each source of Salt, Spices, Sugar, Truffles and Citrus worked by this City produces +1 [ICON_GOLD]. +2 [ICON_TOURISM] Tourism.[NEWLINE][NEWLINE]Chocolatier: Requires improved Cocoa nearby. +1 [ICON_FOOD] Food and [ICON_CULTURE] Culture from Cocoa. +15% of [ICON_FOOD] Food is carried over after a new [ICON_CITIZEN] Citizen is born.[NEWLINE][NEWLINE]Includes support for Barathor's More Luxuries mod (requires manual installation):[NEWLINE][NEWLINE]Perfumery: Requires improved Perfume nearby. +1 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture from Perfume. Contains a Great Work of Art slot.[NEWLINE][NEWLINE]Tea House: Requires improved Tea or Coffee nearby. +1 [ICON_FOOD] Food and +1 [ICON_CULTURE] Culture from Tea and Coffee. +1 [ICON_GOLD] Gold per incoming Trade Route (also +1 [ICON_GOLD] Gold for the owner of the route).[NEWLINE][NEWLINE]Jade, Lapis Lazuli and Amber included in Gem Merchant. Olives included in Thermopolium and Restaurant. Tobacco included in Ritual Site.</Description>
+    <Authors>DJSHenninger</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="be2d13ee-d18d-410e-8f04-7cd19cd99a98" minversion="0" maxversion="999" title="More Luxuries" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="93CC16D1AF66E9330916E06CFF96001D" import="1">Art/ResourceBuildings_Icons128.dds</File>
+    <File md5="F687E0C0CDB1DC1734F9665C148BDA3A" import="1">Art/ResourceBuildings_Icons256.dds</File>
+    <File md5="9C3574091709E06AC323984DD387215E" import="1">Art/ResourceBuildings_Icons45.dds</File>
+    <File md5="B6E7F9300A1B71CC56482E2D3C4EDF86" import="1">Art/ResourceBuildings_Icons64.dds</File>
+    <File md5="3BDA8672D94CC8B8E0A445D8DCE0F2A0" import="1">Art/ResourceBuildings_Icons80.dds</File>
+    <File md5="109B4EAD9CBC13646B3707248812065A" import="0">Barathor Mod Support/Tea House.xml</File>
+    <File md5="69347A951E78066BB387B45A5D20C17F" import="0">Barathor Mod Support/Gem Merchant.xml</File>
+    <File md5="76250CE9B0F5D4C72AF18BA6745B1F6D" import="0">Barathor Mod Support/Perfumery.xml</File>
+    <File md5="2B217A355935D2011DD431A0C9CC3E65" import="0">Barathor Mod Support/Restaurant.xml</File>
+    <File md5="D883FB016DE778CA2523CCE18DFACF0E" import="0">Barathor Mod Support/Ritual Site.xml</File>
+    <File md5="8916D2CDE08ACA91435182FA2F37116C" import="0">Barathor Mod Support/Thermopolium.xml</File>
+    <File md5="9295B8C096E8806C85703356DF852C99" import="0">XML/Distillery.xml</File>
+    <File md5="58EF5CFC8B64059AD2A0CC82D65898C7" import="0">XML/Chocolatier.xml</File>
+    <File md5="86052A4DB1A3D6593E81F2D8C8EDAB17" import="0">XML/Tea House.xml</File>
+    <File md5="399653E78BF92F46FB72E44162D272C3" import="0">XML/Perfumery.xml</File>
+    <File md5="C66A3E92D99ACFA90F381D548B60DFD4" import="0">XML/Mint Update.xml</File>
+    <File md5="EA52044177678F9A6B6281EE3F5B06DC" import="0">XML/Tailor.xml</File>
+    <File md5="88D105269115CE5F8332CBD5740A3866" import="0">XML/Gilder.xml</File>
+    <File md5="74CA173A05BB2E15219E15AFDCAF6F82" import="0">XML/Leatherworker.xml</File>
+    <File md5="7D1F268CCBB611D01518C5A30DA2979A" import="0">XML/Restaurant.xml</File>
+    <File md5="FECB39586A59E26696106C7B245F19D0" import="0">XML/Tannery.xml</File>
+    <File md5="41AC452CB392AC26E228E37375CA60D7" import="0">XML/Gem Merchant.xml</File>
+    <File md5="C8B0F04A778618E28D18E3108BE828C3" import="0">XML/Thermopolium.xml</File>
+    <File md5="B0FD093F85CBFF05A7CFD229DB0C97CF" import="0">XML/Wine Cellar.xml</File>
+    <File md5="59933C6FE878F87F0FAF8269DAACD158" import="0">XML/Weavery.xml</File>
+    <File md5="4A11620F07F4E5A8A24ECFA3FD1DF684" import="0">XML/Ritual Site.xml</File>
+    <File md5="28082AE2C0131462DEABACAA5C923B17" import="0">XML/Sculptors Workshop.xml</File>
+    <File md5="4C46991F3484B8F289598E4D5B91A796" import="0">XML/CIV5IconTextureAtlases.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/CIV5IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Distillery.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Gem Merchant.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Gilder.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leatherworker.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Mint Update.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Restaurant.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Ritual Site.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sculptors Workshop.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Tailor.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Tannery.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Thermopolium.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Weavery.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Wine Cellar.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Chocolatier.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Perfumery.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Tea House.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

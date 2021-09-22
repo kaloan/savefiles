@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/13/2012 2:07:38 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Language="en_US" Tag="TXT_KEY_UNIT_MECH">
+			<Text>Automated Weapons of Mass Destruction</Text>
+		</Row>
+		<Row Language="en_US" Tag="TXT_KEY_UNIT_TINY_MECH_DESC">
+			<Text>Miniaturization is the trend these days.  Cell phones are getting smaller, the PC is now the tablet.  It's only fitting that our giant mechs of death be reduced in size as well.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
