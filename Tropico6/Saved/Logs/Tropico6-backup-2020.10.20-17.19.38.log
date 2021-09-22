@@ -1,0 +1,39 @@
+﻿[2020.10.20-13.27.19:655][  0]Log file open, 10/20/20 16:27:19
+[2020.10.20-13.27.19:655][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2020.10.20-13.27.19:655][  0]LogMemory: Process Physical Memory: 105.07 MB used, 105.07 MB peak
+[2020.10.20-13.27.19:655][  0]LogMemory: Process Virtual Memory: 103.40 MB used, 103.40 MB peak
+[2020.10.20-13.27.19:655][  0]LogMemory: Physical Memory: 7088.03 MB used,  9232.73 MB free, 16320.75 MB total
+[2020.10.20-13.27.19:655][  0]LogMemory: Virtual Memory: 4548.47 MB used,  9232.73 MB free, 134217728.00 MB total
+[2020.10.20-13.27.21:101][  0]LogRF: BuildID: t6-#154-win64-steam@df871cc Version: v.11
+[2020.10.20-13.27.21:158][  0]LogEngine: Error: Failed to load '/Script/NavigationSystem.NavigationSystemV1', falling back to 'NavigationSystemBase'
+[2020.10.20-13.27.26:050][  0]LogRF: BeginPlay map=/Game/Maps/MainMenu/MainMenuMap?Name=Player, saveGame=, netmode=0
+[2020.10.20-13.27.27:041][  9]LogRF: ActivateMod: BP_ModSandboxMap_Patch11
+[2020.10.20-13.27.51:617][694]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_AutoSave2, netmode=0
+[2020.10.20-13.27.54:037][695]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-13.56.16:633][428]LogRF: TQ-17686: Should pay FiringMinister: 4, Cost: 2000
+[2020.10.20-13.56.16:633][428]LogRF: TQ-17686: Pay FiringMinister: 4, Cost: 2000
+[2020.10.20-13.56.31:249][ 57]LogRF: TQ-17686: Should pay FiringMinister: 4, Cost: 2000
+[2020.10.20-13.56.31:249][ 57]LogRF: TQ-17686: Pay FiringMinister: 4, Cost: 2000
+[2020.10.20-14.07.02:371][655]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6Tannery_C_0.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6Tannery_C_0.Hides' which is static to it. Aborting.
+[2020.10.20-14.07.02:372][655]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6Dock_C_0.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6Dock_C_0.Crane' which is static to it. Aborting.
+[2020.10.20-14.07.02:372][655]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6Dock_C_1.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6Dock_C_1.Crane' which is static to it. Aborting.
+[2020.10.20-14.07.02:373][655]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6Landing_C_0.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6Landing_C_0.StaticMesh' which is static to it. Aborting.
+[2020.10.20-14.07.02:373][655]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6Landing_C_1.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6Landing_C_1.StaticMesh' which is static to it. Aborting.
+[2020.10.20-14.07.02:373][655]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6StorageQuay_C_0.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6StorageQuay_C_0.Crane' which is static to it. Aborting.
+[2020.10.20-14.07.02:374][655]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6StorageQuay_C_1.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6StorageQuay_C_1.Crane' which is static to it. Aborting.
+[2020.10.20-14.07.02:374][655]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6StorageQuay_C_2.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6StorageQuay_C_2.Crane' which is static to it. Aborting.
+[2020.10.20-14.07.02:374][655]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6StorageQuay_C_3.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6StorageQuay_C_3.Crane' which is static to it. Aborting.
+[2020.10.20-14.07.02:374][655]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6StorageQuay_C_4.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6StorageQuay_C_4.Crane' which is static to it. Aborting.
+[2020.10.20-14.07.02:374][655]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6StorageQuay_C_5.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6StorageQuay_C_5.Crane' which is static to it. Aborting.
+[2020.10.20-14.07.02:375][655]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6FunfairPier_C_0.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6FunfairPier_C_0.StaticMesh' which is static to it. Aborting.
+[2020.10.20-14.07.02:376][655]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6Courthouse_C_0.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6Courthouse_C_0.BP_Prop_Flag' which is static to it. Aborting.
+[2020.10.20-14.07.02:376][655]PIE: Warning: AttachTo: '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6AircraftCarrier_C_0.RootComponent' is not static , cannot attach '/Game/Maps/Episodes/Episode_15/EP_BattleRoyale.EP_BattleRoyale:PersistentLevel.BP_T6AircraftCarrier_C_0.StaticMesh' which is static to it. Aborting.
+[2020.10.20-14.07.03:900][655]LogRF: BeginPlay map=/Game/Maps/MainMenu/MainMenuMap?closed, saveGame=, netmode=0
+[2020.10.20-14.07.34:204][596]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal May, 1965, netmode=0
+[2020.10.20-14.07.36:569][597]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-14.09.58:517][603]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal May, 1965, netmode=0
+[2020.10.20-14.10.00:803][604]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-14.12.09:486][ 86]LogRF: BeginPlay map=/Game/Maps/MainMenu/MainMenuMap?closed, saveGame=, netmode=0
+[2020.10.20-14.12.11:636][142]LogRF: Cheat by BP_T6PlayerControllerMainMenu_C_0: quit
+[2020.10.20-14.12.11:651][142]Closing by request
+[2020.10.20-14.12.15:411][143]Log file closed, 10/20/20 17:12:15

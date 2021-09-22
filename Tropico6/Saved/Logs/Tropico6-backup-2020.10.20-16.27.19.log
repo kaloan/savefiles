@@ -1,0 +1,38 @@
+﻿[2020.10.20-13.23.27:533][  0]Log file open, 10/20/20 16:23:27
+[2020.10.20-13.23.27:533][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2020.10.20-13.23.27:533][  0]LogMemory: Process Physical Memory: 105.33 MB used, 105.33 MB peak
+[2020.10.20-13.23.27:533][  0]LogMemory: Process Virtual Memory: 103.64 MB used, 103.64 MB peak
+[2020.10.20-13.23.27:533][  0]LogMemory: Physical Memory: 7019.29 MB used,  9301.47 MB free, 16320.75 MB total
+[2020.10.20-13.23.27:533][  0]LogMemory: Virtual Memory: 4548.47 MB used,  9301.47 MB free, 134217728.00 MB total
+[2020.10.20-13.23.28:987][  0]LogRF: BuildID: t6-#154-win64-steam@df871cc Version: v.11
+[2020.10.20-13.23.29:043][  0]LogEngine: Error: Failed to load '/Script/NavigationSystem.NavigationSystemV1', falling back to 'NavigationSystemBase'
+[2020.10.20-13.23.37:166][  0]LogRF: BeginPlay map=/Game/Maps/MainMenu/MainMenuMap?Name=Player, saveGame=, netmode=0
+[2020.10.20-13.23.38:166][  9]LogRF: ActivateMod: BP_ModSandboxMap_Patch11
+[2020.10.20-13.23.58:437][407]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_AutoSave0, netmode=0
+[2020.10.20-13.24.00:831][408]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-13.24.38:940][771]LogWindows: Error: === Critical error: ===
+[2020.10.20-13.24.38:940][771]LogWindows: Error: 
+[2020.10.20-13.24.38:940][771]LogWindows: Error: Fatal error!
+[2020.10.20-13.24.38:940][771]LogWindows: Error: 
+[2020.10.20-13.24.38:940][771]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000041c
+[2020.10.20-13.24.38:940][771]LogWindows: Error: 
+[2020.10.20-13.24.38:940][771]LogWindows: Error: [Callstack] 0x00007ff6f573c91f Tropico6-Win64-Shipping.exe!UnknownFunction []
+[2020.10.20-13.24.38:940][771]LogWindows: Error: [Callstack] 0x00007ff6f578a499 Tropico6-Win64-Shipping.exe!UnknownFunction []
+[2020.10.20-13.24.38:940][771]LogWindows: Error: [Callstack] 0x00007ff6f5720664 Tropico6-Win64-Shipping.exe!UnknownFunction []
+[2020.10.20-13.24.38:940][771]LogWindows: Error: [Callstack] 0x00007ff6f5907d72 Tropico6-Win64-Shipping.exe!UnknownFunction []
+[2020.10.20-13.24.38:940][771]LogWindows: Error: [Callstack] 0x00007ff6f5930335 Tropico6-Win64-Shipping.exe!UnknownFunction []
+[2020.10.20-13.24.38:940][771]LogWindows: Error: [Callstack] 0x00007ff6f55d3288 Tropico6-Win64-Shipping.exe!UnknownFunction []
+[2020.10.20-13.24.38:940][771]LogWindows: Error: [Callstack] 0x00007ff6f6de884e Tropico6-Win64-Shipping.exe!UnknownFunction []
+[2020.10.20-13.24.38:940][771]LogWindows: Error: [Callstack] 0x00007ff6f55d7ecb Tropico6-Win64-Shipping.exe!UnknownFunction []
+[2020.10.20-13.24.38:940][771]LogWindows: Error: [Callstack] 0x00007ff6f55baac2 Tropico6-Win64-Shipping.exe!UnknownFunction []
+[2020.10.20-13.24.38:940][771]LogWindows: Error: [Callstack] 0x00007ff6f6af5e33 Tropico6-Win64-Shipping.exe!UnknownFunction []
+[2020.10.20-13.24.38:940][771]LogWindows: Error: [Callstack] 0x00007ff6f6a220d7 Tropico6-Win64-Shipping.exe!UnknownFunction []
+[2020.10.20-13.24.38:940][771]LogWindows: Error: [Callstack] 0x00007ff6f52bd689 Tropico6-Win64-Shipping.exe!UnknownFunction []
+[2020.10.20-13.24.38:940][771]LogWindows: Error: [Callstack] 0x00007ff6f52c307e Tropico6-Win64-Shipping.exe!UnknownFunction []
+[2020.10.20-13.24.38:940][771]LogWindows: Error: [Callstack] 0x00007ff6f52c30fa Tropico6-Win64-Shipping.exe!UnknownFunction []
+[2020.10.20-13.24.38:940][771]LogWindows: Error: [Callstack] 0x00007ff6f52cb359 Tropico6-Win64-Shipping.exe!UnknownFunction []
+[2020.10.20-13.24.38:940][771]LogWindows: Error: [Callstack] 0x00007ff6f759d656 Tropico6-Win64-Shipping.exe!UnknownFunction []
+[2020.10.20-13.24.38:941][771]LogWindows: Error: [Callstack] 0x00007ffe47b27bd4 KERNEL32.DLL!UnknownFunction []
+[2020.10.20-13.24.38:941][771]LogWindows: Error: [Callstack] 0x00007ffe492ace51 ntdll.dll!UnknownFunction []
+[2020.10.20-13.24.38:941][771]LogWindows: Error: 
+[2020.10.20-13.24.39:016][771]Log file closed, 10/20/20 16:24:39

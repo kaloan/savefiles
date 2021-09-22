@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-ACF612294018E75F575770AB7EE27F19_0000</CrashGUID>
+		<ProcessId>28320</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>false</IsEnsure>
+		<IsAssert>false</IsAssert>
+		<CrashType>Crash</CrashType>
+		<SecondsSinceStart>71</SecondsSinceStart>
+		<GameName>UE4-Tropico6</GameName>
+		<ExecutableName>Tropico6-Win64-Shipping</ExecutableName>
+		<BuildConfiguration>Shipping</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>WindowsNoEditor</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Game</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.20.2-0+patch11</EngineVersion>
+		<CommandLine>Tropico6</CommandLine>
+		<LanguageLCID>1033</LanguageLCID>
+		<AppDefaultLocale>bg-BG</AppDefaultLocale>
+		<BuildVersion>t6-#154-win64-steam@df871cc</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName>kaloan</UserName>
+		<BaseDir>D:/Games/Steam/steamapps/common/Tropico 6/Tropico6/Binaries/Win64/</BaseDir>
+		<RootDir>D:/Games/Steam/steamapps/common/Tropico 6/</RootDir>
+		<MachineId>E470C64C4ED61BF6733BE99E1E86D56F</MachineId>
+		<LoginId>e470c64c4ed61bf6733be99e1e86d56f</LoginId>
+		<EpicAccountId>8d9361886e08400a94838c5594fcb732</EpicAccountId>
+		<CallStack />
+		<PCallStack>Tropico6-Win64-Shipping 0x00000000f4fc0000 + 77c91f Tropico6-Win64-Shipping 0x00000000f4fc0000 + 7ca499 Tropico6-Win64-Shipping 0x00000000f4fc0000 + 760664 Tropico6-Win64-Shipping 0x00000000f4fc0000 + 947d72 Tropico6-Win64-Shipping 0x00000000f4fc0000 + 970335 Tropico6-Win64-Shipping 0x00000000f4fc0000 + 613288 Tropico6-Win64-Shipping 0x00000000f4fc0000 + 1e2884e Tropico6-Win64-Shipping 0x00000000f4fc0000 + 617ecb Tropico6-Win64-Shipping 0x00000000f4fc0000 + 5faac2 Tropico6-Win64-Shipping 0x00000000f4fc0000 + 1b35e33 Tropico6-Win64-Shipping 0x00000000f4fc0000 + 1a620d7 Tropico6-Win64-Shipping 0x00000000f4fc0000 + 2fd689 Tropico6-Win64-Shipping 0x00000000f4fc0000 + 30307e Tropico6-Win64-Shipping 0x00000000f4fc0000 + 3030fa Tropico6-Win64-Shipping 0x00000000f4fc0000 + 30b359 Tropico6-Win64-Shipping 0x00000000f4fc0000 + 25dd656 KERNEL32 0x0000000047b10000 + 17bd4 ntdll 0x0000000049240000 + 6ce51</PCallStack>
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint />
+		<ErrorMessage />
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>8</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>16</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>AuthenticAMD</Misc.CPUVendor>
+		<Misc.CPUBrand>AMD Ryzen 7 1700 Eight-Core Processor</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>NVIDIA GeForce GTX 960</Misc.PrimaryGPUBrand>
+		<Misc.CurrentAdapterName>NVIDIA GeForce GTX 960</Misc.CurrentAdapterName>
+		<Misc.CurrentAdapterDriverVersion>26.21.14.4120</Misc.CurrentAdapterDriverVersion>
+		<Misc.CurrentRHIDescription>DX11_1 - 256 - 1</Misc.CurrentRHIDescription>
+		<Misc.AccountId>Steam_76561198024539886</Misc.AccountId>
+		<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor>{10.0.18362.1.256.64bit}</Misc.OSVersionMinor>
+		<GameStateName>/Game/Maps/Episodes/Episode_15/EP_BattleRoyale</GameStateName>
+		<MemoryStats.TotalPhysical>17113550848</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>0</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>0</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>0</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>0</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>0</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>0</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>637387970796770000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 10 {10.0.18362.1.256.64bit} 64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>

@@ -1,0 +1,91 @@
+﻿[2020.10.20-15.50.48:101][  0]Log file open, 10/20/20 18:50:48
+[2020.10.20-15.50.48:101][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2020.10.20-15.50.48:101][  0]LogMemory: Process Physical Memory: 104.54 MB used, 104.55 MB peak
+[2020.10.20-15.50.48:101][  0]LogMemory: Process Virtual Memory: 103.27 MB used, 103.27 MB peak
+[2020.10.20-15.50.48:101][  0]LogMemory: Physical Memory: 7199.54 MB used,  9121.21 MB free, 16320.75 MB total
+[2020.10.20-15.50.48:101][  0]LogMemory: Virtual Memory: 4541.99 MB used,  9121.21 MB free, 134217728.00 MB total
+[2020.10.20-15.50.49:649][  0]LogRF: BuildID: t6-#154-win64-steam@df871cc Version: v.11
+[2020.10.20-15.50.49:710][  0]LogEngine: Error: Failed to load '/Script/NavigationSystem.NavigationSystemV1', falling back to 'NavigationSystemBase'
+[2020.10.20-15.50.57:940][  0]LogRF: BeginPlay map=/Game/Maps/MainMenu/MainMenuMap?Name=Player, saveGame=, netmode=0
+[2020.10.20-15.50.58:927][  9]LogRF: ActivateMod: BP_ModSandboxMap_Patch11
+[2020.10.20-15.51.21:929][597]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.51.23:031][598]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-15.52.15:196][531]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.52.16:240][532]LogRF: Savegame history: t6-#154-win64-steam@df871cc
+[2020.10.20-15.52.43:476][330]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.52.44:503][331]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-15.53.07:730][ 45]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.53.08:771][ 46]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-15.53.32:000][746]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.53.33:054][747]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-15.53.56:023][433]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.53.57:071][434]LogRF: Savegame history: t6-#154-win64-steam@df871cc
+[2020.10.20-15.54.21:707][ 94]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.54.22:723][ 95]LogRF: Savegame history: t6-#154-win64-steam@df871cc
+[2020.10.20-15.54.47:558][851]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.54.48:620][852]LogRF: Savegame history: t6-#154-win64-steam@df871cc
+[2020.10.20-15.55.10:315][499]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.55.11:350][500]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-15.55.39:973][418]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.55.41:004][419]LogRF: Savegame history: t6-#154-win64-steam@df871cc
+[2020.10.20-15.56.02:955][ 57]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.56.04:025][ 58]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-15.56.26:275][720]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.56.27:340][721]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-15.56.50:334][401]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.56.51:363][402]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-15.57.17:257][194]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.57.18:280][195]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-15.57.40:574][851]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.57.41:648][852]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-15.58.05:837][524]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.58.06:869][525]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-15.58.27:800][143]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.58.28:894][144]LogRF: Savegame history: t6-#154-win64-steam@df871cc
+[2020.10.20-15.58.52:148][876]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.58.53:175][877]LogRF: Savegame history: t6-#154-win64-steam@df871cc
+[2020.10.20-15.59.16:044][551]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.59.17:084][552]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-15.59.38:720][186]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-15.59.39:762][187]LogRF: Savegame history: t6-#154-win64-steam@df871cc
+[2020.10.20-16.00.00:689][802]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.00.01:704][803]LogRF: Savegame history: t6-#154-win64-steam@df871cc
+[2020.10.20-16.00.24:651][485]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.00.25:692][486]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-16.00.50:468][265]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.00.51:496][266]LogRF: Savegame history: t6-#154-win64-steam@df871cc
+[2020.10.20-16.01.12:669][891]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.01.13:746][892]LogRF: Savegame history: t6-#154-win64-steam@df871cc
+[2020.10.20-16.01.39:815][604]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.01.40:835][605]LogRF: Savegame history: t6-#154-win64-steam@df871cc
+[2020.10.20-16.02.02:836][263]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.02.03:900][264]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-16.02.26:337][924]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.02.27:376][925]LogRF: Savegame history: t6-#154-win64-steam@df871cc
+[2020.10.20-16.02.51:290][617]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.02.52:367][618]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-16.03.14:559][150]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.03.15:605][151]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-16.03.37:070][775]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.03.38:117][776]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-16.04.00:542][425]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.04.01:559][426]LogRF: Savegame history: t6-#154-win64-steam@df871cc
+[2020.10.20-16.04.22:315][ 21]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.04.23:371][ 22]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-16.04.46:467][701]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.04.47:509][702]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-16.05.09:772][341]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.05.10:799][342]LogRF: Savegame history: t6-#154-win64-steam@df871cc
+[2020.10.20-16.05.32:995][976]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.05.34:042][977]LogRF: Savegame history: t6-#154-win64-steam@df871cc
+[2020.10.20-16.05.58:695][707]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.05.59:735][708]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-16.06.23:717][401]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.06.24:799][402]LogRF: Savegame history: t6-#154-win64-steam@df871cc
+[2020.10.20-16.06.49:872][136]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.06.50:917][137]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-16.07.15:356][848]LogRF: BeginPlay map=/Game/Maps/Episodes/Episode_15/EP_BattleRoyale, saveGame=Trop6_Sav_Battle Royal Nov, 1913, netmode=0
+[2020.10.20-16.07.16:408][849]LogRF: Savegame history: t6-#154-win64-steam@df871cc, t6-#154-win64-steam@df871cc
+[2020.10.20-16.07.29:632][315]LogRF: Cheat by BP_T6PlayerController_C_0: exit
+[2020.10.20-16.07.29:632][315]Closing by request
+[2020.10.20-16.07.31:333][316]Log file closed, 10/20/20 19:07:31
