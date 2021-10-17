@@ -1,0 +1,925 @@
+Initialize engine version: 2018.3.4f1 (1d952368ca3a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   (null)
+    VRAM:     2007 MB
+    Driver:   25.21.14.1634
+Begin MonoManager ReloadAssembly
+- Completed reload, in  2.031 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.790303 ms
+Cultist Simulator Version: 2019.2.b.1
+OS: Windows 10  (10.0.0) 64bit
+Processor: AMD Ryzen 7 1700 Eight-Core Processor  Count: 16
+Graphics: 5121/NVIDIA GeForce GTX 960/NVIDIA/Direct3D 11.0 [level 11.1]/2007 Shader: 50
+Memory: system - 16316 graphics - 2007
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.313249 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 581.
+Total: 0.796117 ms (FindLiveObjects: 0.125847 ms CreateObjectMapping: 0.015047 ms MarkObjects: 0.649409 ms  DeleteObjects: 0.005472 ms)
+
+Facepunch.Steamworks Unity: WindowsPlayer
+Facepunch.Steamworks Os: Windows
+Facepunch.Steamworks Arch: x86
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.344861 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1762.
+Total: 4.549286 ms (FindLiveObjects: 0.334451 ms CreateObjectMapping: 0.049586 ms MarkObjects: 4.149518 ms  DeleteObjects: 0.014705 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.064500 ms
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 4254.
+Total: 27.205778 ms (FindLiveObjects: 0.500309 ms CreateObjectMapping: 0.109432 ms MarkObjects: 26.495155 ms  DeleteObjects: 0.100199 ms)
+
+> GOG Galaxy auth failed:FAILURE_REASON_NO_LICENSE
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+legacyphysicianwork says: Found additional recipe with dice result 58, against chance 100legacyphysicianopenstudy to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+legacyphysicianopenstudy says: Found additional recipe with dice result 69, against chance 100needs to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+legacyphysicianstudynotes says: Found additional recipe with dice result 13, against chance 100legacyphysicianopendream to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+legacyphysicianopendream says: Found additional recipe with dice result 24, against chance 100legacyphysicianhook to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Dice result 71, against chance 70 for alternative recipe forlornbloodsickness; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 95, against chance 100visionsrisklink to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+legacyphysicianhookfulfilment says: Found additional recipe with dice result 11, against chance 100legacyphysicianopentalk to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+legacyphysicianhook says: reached the bottom of the execution list: returning legacyphysicianhookfulfilment; legacyphysicianopentalk; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+studymapbookdealer says: Found additional recipe with dice result 74, against chance 100openexplore to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+begincultfoundation_createcult says: Found additional recipe with dice result 20, against chance 100cultfoundation to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+explorefindvault_a says: Dice result 43, against chance 2 for alternative recipe explorefindvault_h_floating; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+cultfoundation says: reached the bottom of the execution list: returning cultfoundationknock; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 55, against chance 100sickness to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 68, against chance 100rosenext to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+talkfindacquaintance says: reached the bottom of the execution list: returning talkmeetacquaintance; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+> Trying to set Steam achievement A_CULT_KNOCK, but it's already set
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Dice result 85, against chance 70 for alternative recipe forlornbloodsickness; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 8, against chance 100suspicion to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+suspiciontrycreatehunter says: reached the bottom of the execution list: returning suspicioncreatefirsthunter; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 54, against chance 100despairrisklink to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+talkfindpatron says: reached the bottom of the execution list: returning talkmeetpatron; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+explorechoosepaycriminal says: reached the bottom of the execution list: returning explorepaycriminal; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 9, against chance 100suspicion to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+dreamstartingpassion says: reached the bottom of the execution list: returning dreamreachwoodknock; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+poppyoffer says: reached the bottom of the execution list: returning poppyofferquery; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 81, against chance 100despairrisklink to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+workhealthskilla says: reached the bottom of the execution list: returning workhealthinjury; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+dreamusewoodway says: reached the bottom of the execution list: returning dreamenterwood; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+> Set Steam achievement:A_MANSUS_WOOD
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+studyresearchminimalinsight says: Dice result 55, against chance 30 for alternative recipe studyresearchsuccess; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+studyresearchminimalinsight says: reached the bottom of the execution list: returning studyresearchconsolation; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+studyresearchconclusion says: reached the bottom of the execution list: returning studyresearchconsolation; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 84, against chance 100ambition to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+suspiciongrabevidence says: Dice result 47, against chance 10 for alternative recipe suspicionerratic_alwaysfail; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+explorevaultcurse_dread_failure says: Found additional recipe with dice result 76, against chance 100curse_dread_dormant to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+ascensionnotyet says: reached the bottom of the execution list: returning ascensionhintenlightenment1; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+explorevaulttick says: reached the bottom of the execution list: returning explorevaultsuccesslink; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Dice result 80, against chance 70 for alternative recipe forlornbloodsickness; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 100, against chance 100visionsrisklink to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+curse_dread_dormant says: reached the bottom of the execution list: returning curse_dread_active; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+poppyofferaccept says: Found additional recipe with dice result 13, against chance 100poppytimebomb to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+poppyoffer says: reached the bottom of the execution list: returning poppyofferaccept; poppytimebomb; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+despairactive says: reached the bottom of the execution list: returning despairwarning; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Dice result 73, against chance 70 for alternative recipe forlornbloodsickness; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 64, against chance 100ambition to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+workhealthskilla says: Dice result 32, against chance 10 for alternative recipe workhealthinjury; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+ascensionnotyet says: reached the bottom of the execution list: returning ascensionhintenlightenment1; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 68, against chance 100visionsrisklink to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+talkfindpatron says: reached the bottom of the execution list: returning talkmeetpatron; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+workbeg says: reached the bottom of the execution list: returning workbeg_lucky; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 46, against chance 100rosenext to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+despairactive says: reached the bottom of the execution list: returning despairwarning; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+nightmarehersault says: Dice result 53, against chance 30 for alternative recipe nightmarehersaultsuccess; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Dice result 76, against chance 70 for alternative recipe forlornbloodsickness; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 70, against chance 100suspicion to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+despairactive says: reached the bottom of the execution list: returning despairwarning; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+workbeg says: Dice result 36, against chance 30 for alternative recipe workbeg_lucky; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+talkfindacquaintance says: reached the bottom of the execution list: returning talkmeetacquaintance; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+TabletopManager.EndGame()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+> Trying to set Steam achievement A_ENDING_DESPAIRENDING, but it's already set
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+> Couldn't find a death-dependent ending for despairending so we'll draw a full 3 randoms. But this is a problem!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+4 legacies available to draw from
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+3  legacies drawing
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Target Zoom Pos (-360.0, -410.0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.177786 ms
+
+Unloading 958 unused Assets to reduce memory usage. Loaded Objects now: 1043.
+Total: 49.711117 ms (FindLiveObjects: 0.198345 ms CreateObjectMapping: 0.042747 ms MarkObjects: 48.574052 ms  DeleteObjects: 0.895631 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.301213 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1174.
+Total: 51.890520 ms (FindLiveObjects: 0.236304 ms CreateObjectMapping: 0.049244 ms MarkObjects: 49.105480 ms  DeleteObjects: 2.499149 ms)
+
+No such SoundCombo UIStartgame in SoundManager
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.587445 ms
+
+Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 4330.
+Total: 71.848492 ms (FindLiveObjects: 0.347104 ms CreateObjectMapping: 0.064633 ms MarkObjects: 71.348183 ms  DeleteObjects: 0.087887 ms)
+
+> GOG Galaxy auth failed:FAILURE_REASON_NO_LICENSE
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+> GOG Galaxy auth failed:FAILURE_REASON_NO_LICENSE
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+workintrojob says: Found additional recipe with dice result 4, against chance 100introdream to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+introdream says: Found additional recipe with dice result 81, against chance 100bequestcountdown to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+workhealthskilla says: Dice result 76, against chance 10 for alternative recipe workhealthinjury; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Dice result 89, against chance 70 for alternative recipe forlornbloodsickness; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+workhealthskilla says: reached the bottom of the execution list: returning workhealthinjury; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 49, against chance 100ambition to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+workhealthskilla says: Dice result 70, against chance 10 for alternative recipe workhealthinjury; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+ascensionnotyet says: reached the bottom of the execution list: returning ascensionhintpower1; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 54, against chance 100ambition to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+ascensionnotyet says: reached the bottom of the execution list: returning ascensionhintpower1; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintbasic says: Dice result 49, against chance 30 for alternative recipe paintbasicsuccess; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Dice result 75, against chance 70 for alternative recipe forlornbloodsickness; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 37, against chance 100suspicion to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+workhealthskilla says: reached the bottom of the execution list: returning workhealthinjury; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 96, against chance 100visionsrisklink to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+gloverandglover_diligence says: reached the bottom of the execution list: returning gloverandgloverjunior_diligence_promotion; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+gloverandgloverjuniorwork says: reached the bottom of the execution list: returning gloverandgloverjunior_diligence_promotion; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Dice result 72, against chance 70 for alternative recipe forlornbloodsickness; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 10, against chance 100despairrisklink to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+studycontactintro says: Found additional recipe with dice result 34, against chance 100findacquaintanceopentalk to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 23, against chance 100visionsrisklink to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+begincultfoundation_createcult says: Found additional recipe with dice result 15, against chance 100cultfoundation to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintwithskill says: reached the bottom of the execution list: returning painthasinfluence; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+cultfoundation says: reached the bottom of the execution list: returning cultfoundationforge; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 87, against chance 100despairrisklink to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintaddpigment says: Dice result 49, against chance 30 for alternative recipe paintluck; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintcheckpigment says: reached the bottom of the execution list: returning painthasfunds; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 73, against chance 100suspicion to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+> Set Steam achievement:A_CULT_FORGE
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+suspiciontrycreatehunter says: reached the bottom of the execution list: returning suspicioncreatefirsthunter; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 31, against chance 100rosenext to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintwithskill says: reached the bottom of the execution list: returning painthasinfluence; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+studymapbookdealer says: Found additional recipe with dice result 7, against chance 100openexplore to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintaddpigment says: Dice result 52, against chance 30 for alternative recipe paintluck; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintcheckpigment says: reached the bottom of the execution list: returning painthasfunds; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 42, against chance 100sickness to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+talkfindacquaintance says: reached the bottom of the execution list: returning talkmeetacquaintance; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintwithskill says: reached the bottom of the execution list: returning painthasinfluence; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Dice result 81, against chance 70 for alternative recipe forlornbloodsickness; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 100, against chance 100despairrisklink to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintaddpigment says: Dice result 31, against chance 30 for alternative recipe paintluck; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintcheckpigment says: reached the bottom of the execution list: returning painthasfunds; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 2, against chance 100suspicion to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+talkfindacquaintance says: reached the bottom of the execution list: returning talkmeetacquaintance; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Dice result 96, against chance 70 for alternative recipe forlornbloodsickness; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 30, against chance 100despairrisklink to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 16, against chance 100rosenext to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+talkfindacquaintance says: reached the bottom of the execution list: returning talkmeetacquaintance; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 75, against chance 100suspicion to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create suspicion for verb suspicion but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Dice result 91, against chance 70 for alternative recipe forlornbloodsickness; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 67, against chance 100ambition to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+ascensionnotyet says: reached the bottom of the execution list: returning ascensionhintpower1; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintwithskill says: reached the bottom of the execution list: returning painthasinfluence; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintaddpigment says: Dice result 60, against chance 30 for alternative recipe paintluck; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintcheckpigment says: reached the bottom of the execution list: returning painthasfunds; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 83, against chance 100sickness to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintwithskill says: reached the bottom of the execution list: returning painthasinfluence; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Dice result 100, against chance 70 for alternative recipe forlornbloodsickness; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 32, against chance 100visionsrisklink to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintaddpigment says: Dice result 84, against chance 30 for alternative recipe paintluck; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintcheckpigment says: reached the bottom of the execution list: returning painthasfunds; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+explorefindvault_a says: Dice result 74, against chance 2 for alternative recipe explorefindvault_h_floating; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 73, against chance 100visionsrisklink to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create visionsrisklink for verb visions but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+talkfindacquaintance says: reached the bottom of the execution list: returning talkmeetacquaintance; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+explorechoosepaycriminal says: reached the bottom of the execution list: returning explorepaycriminal; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintwithskill says: reached the bottom of the execution list: returning painthasinfluence; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 86, against chance 100ambition to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintaddpigment says: Dice result 53, against chance 30 for alternative recipe paintluck; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintcheckpigment says: reached the bottom of the execution list: returning painthasfunds; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+ascensionnotyet says: reached the bottom of the execution list: returning ascensionhintpower1; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintwithskill says: reached the bottom of the execution list: returning painthasinfluence; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 14, against chance 100despairrisklink to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintaddpigment says: Dice result 46, against chance 30 for alternative recipe paintluck; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+suspiciongrabevidence says: Dice result 28, against chance 10 for alternative recipe suspicionerratic_alwaysfail; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+suspiciongrabevidence says: Dice result 73, against chance 70 for alternative recipe suspicionpromoteevidence; will try to execute next alternative recipe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+paintcheckpigment says: reached the bottom of the execution list: returning painthasfunds; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+explorevaultperil_treacherousground_encounter says: reached the bottom of the execution list: returning explorevaultperil_treacherousground_lowforge; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 64, against chance 100ambition to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+ascensionnotyet says: reached the bottom of the execution list: returning ascensionhintpower1; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+explorevaultperil_treacherousground_failure says: Found additional recipe with dice result 56, against chance 70explorevault_casualty to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+talkfindacquaintance says: reached the bottom of the execution list: returning talkmeetacquaintance; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Tried to create needs for verb time but that verb is already active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+needs says: Found additional recipe with dice result 54, against chance 100sickness to execute - adding it to execution list and looking for more
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+despairactive says: reached the bottom of the execution list: returning despairwarning; 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 25.363562 ms
+
+Unloading 882 unused Assets to reduce memory usage. Loaded Objects now: 2087.
+Total: 67.151472 ms (FindLiveObjects: 0.273580 ms CreateObjectMapping: 0.059504 ms MarkObjects: 66.026035 ms  DeleteObjects: 0.791671 ms)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 4180 -> priority: 1 
+  Thread -> id: 1e18 -> priority: 1 
+  Thread -> id: 2fcc -> priority: 1 
+  Thread -> id: 17e8 -> priority: 1 
+  Thread -> id: 1030 -> priority: 1 
+  Thread -> id: e38 -> priority: 1 
+  Thread -> id: 2384 -> priority: 1 
+  Thread -> id: 4010 -> priority: 1 

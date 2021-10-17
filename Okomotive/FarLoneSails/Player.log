@@ -1,0 +1,171 @@
+Initialize engine version: 2019.1.7f1 (f3c4928e5742)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   26.21.14.4120
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 27.405700 ms
+WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - All passes removed
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Uber' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Uber' - Pass '' has no vertex shader
+NotSupportedException: To marshal a managed method, please add an attribute named 'MonoPInvokeCallback' to the method definition. The method we're attempting to marshal is: SteamManager::SteamAPIDebugTextHook
+  at Steamworks.NativeMethods.ISteamClient_SetWarningMessageHook (System.IntPtr instancePtr, Steamworks.SteamAPIWarningMessageHook_t pFunction) [0x00000] in <00000000000000000000000000000000>:0 
+  at SteamManager.OnEnable () [0x00000] in <00000000000000000000000000000000>:0 
+  at Okomotive.FarLoneSails.PlatformHandlerSteam.Init () [0x00000] in <00000000000000000000000000000000>:0 
+  at Okomotive.FarLoneSails.Logic.Init () [0x00000] in <00000000000000000000000000000000>:0 
+Okomotive.FarLoneSails.PlatformHandlerSteam:Init()
+Okomotive.FarLoneSails.Logic:Init()
+ 
+(Filename: currently not available on il2cpp Line: -1)
+
+Wait for SteamManager
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Okomotive.FarLoneSails.<WaitForSteamManager>d__2:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Logic: Init done (v1.21)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Okomotive.FarLoneSails.OnInit:Invoke(PlatformHandler, Boolean)
+Okomotive.FarLoneSails.<WaitForSteamManager>d__2:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+AchievementManager: OnInit done
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Okomotive.FarLoneSails.OnInit:Invoke(PlatformHandler, Boolean)
+Okomotive.FarLoneSails.<WaitForSteamManager>d__2:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 144 unused Assets to reduce memory usage. Loaded Objects now: 14922.
+Total: 24.200200 ms (FindLiveObjects: 0.897100 ms CreateObjectMapping: 0.201500 ms MarkObjects: 22.696100 ms  DeleteObjects: 0.405200 ms)
+
+Temporal Bugfix: Fixed bug where health of Sail  was under 100 and hitbox was deactivated!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Okomotive.FarLoneSails.<CheckHitbox>d__58:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Health:95 / State:Working
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Okomotive.FarLoneSails.<CheckHitbox>d__58:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Temporal Bugfix: Fixed bug where health of ItemCollector was under 100 and hitbox was deactivated!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Okomotive.FarLoneSails.<CheckHitbox>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Health:92.55983 / State:Working
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Okomotive.FarLoneSails.<CheckHitbox>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 854 unused Assets to reduce memory usage. Loaded Objects now: 16852.
+Total: 15.332600 ms (FindLiveObjects: 1.025200 ms CreateObjectMapping: 0.228300 ms MarkObjects: 11.016300 ms  DeleteObjects: 3.062500 ms)
+
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 199 unused Assets to reduce memory usage. Loaded Objects now: 14949.
+Total: 11.765700 ms (FindLiveObjects: 0.864600 ms CreateObjectMapping: 0.155700 ms MarkObjects: 10.367100 ms  DeleteObjects: 0.377900 ms)
+
+Kinematic body only supports Speculative Continuous collision detection
+UnityEngine.Events.UnityAction`1:Invoke(T0)
+UnityEngine.Events.InvokableCall`1:Invoke(T1)
+UnityEngine.Events.UnityEvent:Invoke()
+Okomotive.AnimationSystem.<Process>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Okomotive.AnimationSystem.<IPlayState>d__28:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Okomotive.AnimationSystem.AnimationBase:PlayState(Int32)
+Okomotive.FarLoneSails.OnWeatherDayBrightnessChange:Invoke(WeatherDayBrightness)
+UnityEngine.Events.InvokableCall`1:Invoke(T1)
+UnityEngine.Events.UnityEvent:Invoke()
+Okomotive.Toolset.<IInvokeState>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Okomotive.Toolset.DelayedEvent:InvokeState(Int32)
+Okomotive.FarLoneSails.OnWeatherDayBrightnessChange:Invoke(WeatherDayBrightness)
+UnityEngine.Events.InvokableCall`1:Invoke(T1)
+UnityEngine.Events.UnityEvent:Invoke()
+Okomotive.FarLoneSails.<EnterActionDelay>d__11:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[C:\buildslave\unity\build\Modules/Physics/Rigidbody.cpp line 737] 
+(Filename: C:\buildslave\unity\build\Modules/Physics/Rigidbody.cpp Line: 737)
+
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 142 unused Assets to reduce memory usage. Loaded Objects now: 17304.
+Total: 13.472500 ms (FindLiveObjects: 1.001600 ms CreateObjectMapping: 0.182000 ms MarkObjects: 11.904600 ms  DeleteObjects: 0.384100 ms)
+
+Unloading 20 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 18024.
+Total: 14.945000 ms (FindLiveObjects: 1.282000 ms CreateObjectMapping: 0.270800 ms MarkObjects: 13.367000 ms  DeleteObjects: 0.024900 ms)
+
+Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 615 unused Assets to reduce memory usage. Loaded Objects now: 15306.
+Total: 10.504500 ms (FindLiveObjects: 0.866200 ms CreateObjectMapping: 0.157000 ms MarkObjects: 8.255200 ms  DeleteObjects: 1.225900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 15306.
+Total: 9.359400 ms (FindLiveObjects: 0.845900 ms CreateObjectMapping: 0.121100 ms MarkObjects: 8.370800 ms  DeleteObjects: 0.021300 ms)
+
+Logic: User Quit game
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Okomotive.FarLoneSails.Logic:QuitGame()
+Okomotive.FarLoneSails.OnButtonForceStart:Invoke()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.UI.Button:OnSubmit(BaseEventData)
+System.Reflection.AddEventAdapter:Invoke(Object, Delegate)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+InControl.InControlInputModule:SendButtonEventToSelectedObject()
+InControl.InControlInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Logic: OnApplicationQuit
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 8508 -> priority: 1 
+  Thread -> id: 5184 -> priority: 1 
+  Thread -> id: 8848 -> priority: 1 
+  Thread -> id: 28c4 -> priority: 1 
