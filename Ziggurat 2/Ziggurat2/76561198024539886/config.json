@@ -1,0 +1,41 @@
+﻿{
+ Game: {
+  Vibration: "true",
+  LeftHanded: "false",
+  ViewBob: "true",
+  WeaponRecoil: "true",
+  AutoHideUI: "true",
+  AutoPause: "true",
+  InvertX: "false",
+  InvertY: "false",
+  AimAssist: "0",
+  MouseSensitivity: "8",
+  GamepadSensitivity: "0.5",
+  GamepadAcceleration: "1.3",
+  GamepadDeadZone: "0.3",
+  Fov: "110",
+  ItemScale: "1.8",
+  SprintSensitivity: "0.7",
+  VerticalSensitivity: "1",
+  RotateMinimap: "true",
+  ShowEnemyHealthBars: "true",
+  ShowDamageNumbers: "true",
+  ShowMap: "true",
+  ShowDamageDirection: "true",
+  ShowLowWarning: "true",
+  CharacterSheetShortcut: "true",
+  ShowGlossary: "true",
+  ShowTimer: "false",
+  ShowReload: "false",
+  ShowStatusOverlay: "true",
+  ShowUpgradeOverview: "false",
+  HitConfirmSound: "true",
+  DisableBackgroundAudio: "false",
+  EnableControllerInput: "true"
+ },
+ Sound: {
+  Sound: "0.1",
+  Music: "0",
+  Master: "1"
+ }
+}

@@ -1,0 +1,26 @@
+﻿{
+ General: {
+  Language: "English"
+ },
+ Graphics: {
+  VSync: "true",
+  Resolution: "1920,1080",
+  FullscreenMode: "1",
+  Quality: "4"
+ },
+ Sound: {
+  Sound: "0.1",
+  Music: "0.1",
+  Menu: "0.1"
+ },
+ AmbientOcclusion: "3",
+ Antialiasing: "3",
+ MotionBlur: "0",
+ VolumetricLighting: "2",
+ RenderSize: "1",
+ InitialConfig: "false",
+ LockCursor: "true",
+ TargetFramerate: "200",
+ BGFramerate: "60",
+ Analytics: "true"
+}
