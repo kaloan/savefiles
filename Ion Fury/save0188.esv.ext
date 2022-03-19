@@ -1,0 +1,102 @@
+{
+  "name": "17-1",
+  "volume": 0,
+  "level": 20,
+  "skill": 3,
+  "players": [
+    {
+      "extra": 100,
+      "max_player_health": 100,
+      "gotweapon": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "ammo_amount": [
+        0,
+        59,
+        38,
+        320,
+        0,
+        8,
+        43,
+        58,
+        15,
+        0,
+        0,
+        0,
+        0
+      ],
+      "max_ammo_amount": [
+        0,
+        90,
+        48,
+        320,
+        400,
+        25,
+        48,
+        75,
+        20,
+        0,
+        0,
+        0,
+        0
+      ],
+      "inv_amount": [
+        0,
+        9,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        4,
+        0
+      ],
+      "max_shield_amount": 50,
+      "curr_weapon": 0,
+      "subweapon": 0,
+      "inven_icon": 0,
+      "vars": {
+        "p_armor_type": 0,
+        "p_pizza_health": 0,
+        "p_pizza_count": 0,
+        "p_lastline": 0,
+        "p_hazard_amount": 0,
+        "p_item_pocket": 1,
+        "p_item_pocket_text": 0,
+        "weapon1_realclip": 0,
+        "weapon1_cleared": 0,
+        "weapon2_realclip": 0,
+        "weapon3_realclip": 0,
+        "weapon6_realclip": 1,
+        "weapon7_realclip": 0,
+        "p_have_dart": 0,
+        "p_dart_pal": 0
+      }
+    }
+  ],
+  "vars": {
+    "exp_aftershock": 0,
+    "bbomb_mode": 0,
+    "game_session_stat": 25493603,
+    "p_skiplastgib": 3334,
+    "p_skiplastkill": 3352,
+    "underwater_enemies": 0,
+    "yahahayoufoundme2": 1,
+    "other_smg_toggle": 0,
+    "other_smg": 1
+  }
+}
