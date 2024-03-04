@@ -1,0 +1,794 @@
+Initializing Thai line breaker...
+Initializing SDL...
+Compiled SDL version 2.0.8 ...
+Linked SDL version 2.0.9.
+Into the Breach: 1.2.88 (1-12-2023)
+Initializing Video
+Creating Window...
+Creating OpenGL Context...
+SDL Error: Failed loading udev_device_get_action: /home/kaloan/.steam/debian-installation/ubuntu12_64/gameoverlayrenderer.so: undefined symbol: _udev_device_get_action
+Video Initialized
+Opengl version = 4.6.0 NVIDIA 525.147.05
+Using Opengl 2.0 rendering path
+Loading shader shadersOGL/material_color.vs
+Loading shader shadersOGL/vcolor.ps
+Loading shader shadersOGL/material_color.vs
+Loading shader shadersOGL/vcolor.ps (0x1)
+Loading shader shadersOGL/material_color.vs
+Loading shader shadersOGL/vcolor.ps (0x2)
+Loading shader shadersOGL/material_color.vs
+Loading shader shadersOGL/vcolor.ps (0x3)
+Shader program created.
+Loading shader shadersOGL/vcolor.vs
+Loading shader shadersOGL/vcolor.ps
+Loading shader shadersOGL/vcolor.vs
+Loading shader shadersOGL/vcolor.ps (0x1)
+Loading shader shadersOGL/vcolor.vs
+Loading shader shadersOGL/vcolor.ps (0x2)
+Loading shader shadersOGL/vcolor.vs
+Loading shader shadersOGL/vcolor.ps (0x3)
+Shader program created.
+Loading shader shadersOGL/texture.vs
+Loading shader shadersOGL/texture.ps
+Loading shader shadersOGL/texture.vs
+Loading shader shadersOGL/texture.ps (0x1)
+Loading shader shadersOGL/texture.vs
+Loading shader shadersOGL/texture.ps (0x2)
+Loading shader shadersOGL/texture.vs
+Loading shader shadersOGL/texture.ps (0x3)
+Shader program created.
+Loading shader shadersOGL/texture.vs
+Loading shader shadersOGL/texture_alpha.ps
+Loading shader shadersOGL/texture.vs
+Loading shader shadersOGL/texture_alpha.ps (0x1)
+Loading shader shadersOGL/texture.vs
+Loading shader shadersOGL/texture_alpha.ps (0x2)
+Loading shader shadersOGL/texture.vs
+Loading shader shadersOGL/texture_alpha.ps (0x3)
+Shader program created.
+Loading shader shadersOGL/vcolor_texture.vs
+Loading shader shadersOGL/vcolor_texture.ps
+Loading shader shadersOGL/vcolor_texture.vs
+Loading shader shadersOGL/vcolor_texture.ps (0x1)
+Loading shader shadersOGL/vcolor_texture.vs
+Loading shader shadersOGL/vcolor_texture.ps (0x2)
+Loading shader shadersOGL/vcolor_texture.vs
+Loading shader shadersOGL/vcolor_texture.ps (0x3)
+Shader program created.
+Initializing Steam API
+Initializing Lua Environment
+Flushed stdout before initializing
+loading 137 scripts
+user/missionData.lua doesn't exist!
+Lua Initialized
+Setting language
+Initializing resource control
+Setting SDL icon
+Preparing resource loader
+Rendering loading bar frame
+Initializing texts
+Starting audio library...
+Retrieving resources...
+Opening the resource file... 
+Resource file accessed... 
+Loading resources...
+Testing first image img/advanced/units/mission/trainarmor_ns.png
+Completed image loading...img/advanced/units/mission/trainarmor_ns.png
+First render attempt...
+Starting frame...
+Using Frame Buffer
+Rendering Loading Bar...
+Drawing the Box...
+Drawing the Bar (2D Texture)...
+Swapping...
+Finished frame!
+Render complete...
+OnWindowResize 1920, 1080
+Retrieved Steam User Stats
+Loading font fonts/JustinFont11.ttf (Scale: 1.0x)
+Loading font fonts/c&c.ttf (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_16.font (Scale: 1.0x)
+Loading font fonts/zh-Hans/black_12.font (Scale: 1.0x)
+Loading font fonts/JustinFont12Bold.ttf (Scale: 1.0x)
+Loading font fonts/ar/NotoSans_12.font (Scale: 1.0x)
+Loading font fonts/ar/NotoSans_16.font (Scale: 1.0x)
+Loading font fonts/JustinFont11Bold.ttf (Scale: 1.0x)
+Loading font fonts/Justin15.ttf (Scale: 1.0x)
+Loading font fonts/Roboto-Regular.ttf (Scale: 1.0x)
+Loading font fonts/NunitoSans_Bold.ttf (Scale: 1.0x)
+Loading font fonts/Justin13.ttf (Scale: 1.0x)
+Loading font fonts/Roboto-Bold.ttf (Scale: 1.0x)
+Loading font fonts/JustinFont10.ttf (Scale: 1.0x)
+Loading font fonts/NunitoSans_Regular.ttf (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_12.font (Scale: 1.0x)
+Loading font fonts/jp/NotoSans_16.font (Scale: 1.0x)
+Loading font fonts/th/NotoSerif_12.font (Scale: 1.0x)
+Loading font fonts/th/NotoSerif_16.font (Scale: 1.0x)
+Loading font fonts/JustinFont8.ttf (Scale: 1.0x)
+Loading font fonts/JustinFont12.ttf (Scale: 1.0x)
+Loading font fonts/zh-Hant/black_16.font (Scale: 1.0x)
+Loading font fonts/zh-Hant/black_12.font (Scale: 1.0x)
+Loading font fonts/ko/NotoSans_12.font (Scale: 1.0x)
+Loading font fonts/ko/NotoSans_16.font (Scale: 1.0x)
+Fonts memory usage: 134 MB
+Resource Preload: 2139.260
+Save game cache: Getting file list for root directory...
+Save game cache:   profile_koko
+Save game cache:   settings.lua
+Found profile: profile_koko
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Set Steam Achievement Ach_Rust_A_2
+Set Steam Achievement Ach_Squad_Cataclysm_2
+Set Steam Achievement Ach_Pinnacle_B_2
+Set Steam Achievement Ach_Global_Island_Power
+Set Steam Achievement Ach_Pinnacle_A_3
+Set Steam Achievement Ach_Global_Victory_Any
+Set Steam Achievement Ach_Detritus_B_3
+Set Steam Achievement Ach_Global_Challenge_Perfect
+Set Steam Achievement Ach_Random_3
+Set Steam Achievement Ach_Random_2
+Set Steam Achievement Ach_Squad_Bomber_1
+Set Steam Achievement Ach_Global_Pilot_Max
+Set Steam Achievement Ach_Squad_Cataclysm_3
+Set Steam Achievement Ach_Detritus_A_2
+Set Steam Achievement Ach_Squad_Heat_2
+Set Steam Achievement Ach_Archive_B_3
+Set Steam Achievement Ach_Global_Meta_Rescue
+Set Steam Achievement Ach_Rust_A_3
+Set Steam Achievement Ach_Rust_B_2
+Set Steam Achievement Ach_Global_Victory_Four
+Set Steam Achievement Ach_Global_Pilot_Face
+Set Steam Achievement Ach_Global_Challenge_New
+Set Steam Achievement Ach_Squad_Cataclysm_1
+Set Steam Achievement Ach_Detritus_A_3
+Set Steam Achievement Ach_Detritus_A_1
+Set Steam Achievement Ach_Rust_B_3
+Set Steam Achievement Ach_Global_Challenge_Power
+Set Steam Achievement Ach_Archive_A_1
+Set Steam Achievement Ach_Detritus_B_1
+Set Steam Achievement Ach_Global_Victory_Islands
+Set Steam Achievement Ach_Squad_Mist_2
+Set Steam Achievement Ach_Custom_1
+Set Steam Achievement Ach_Squad_Spiders_1
+Set Steam Achievement Ach_Global_Pilot_Unlocked
+Set Steam Achievement Ach_Pinnacle_A_2
+Set Steam Achievement Ach_Squad_Spiders_2
+Set Steam Achievement Ach_Rust_A_1
+Set Steam Achievement Ach_Global_Island_Perfect
+Set Steam Achievement Ach_Archive_B_2
+Set Steam Achievement Ach_Squad_Mist_1
+Set Steam Achievement Ach_Custom_3
+Set Steam Achievement Ach_Pinnacle_B_1
+Set Steam Achievement Ach_Archive_A_2
+Set Steam Achievement Ach_Pinnacle_B_3
+Set Steam Achievement Ach_Global_Meta_Reputation
+Set Steam Achievement Ach_Detritus_B_2
+Set Steam Achievement Ach_Global_Island_Rep
+Set Steam Achievement Ach_Global_Victory_Hard
+Set Steam Achievement Ach_Random_1
+Set Steam Achievement Ach_Squad_Heat_3
+Set Steam Achievement Ach_Rust_B_1
+Set Steam Achievement Ach_Custom_2
+Set Steam Achievement Ach_Global_Meta_Perfect
+Set Steam Achievement Ach_Squad_Mist_3
+Set Steam Achievement Ach_Global_Pilot_Three
+Set Steam Achievement Ach_Squad_Bomber_3
+Set Steam Achievement Ach_Squad_Bomber_2
+Set Steam Achievement Ach_Global_Pilot_Final
+Set Steam Achievement Ach_Archive_A_3
+Set Steam Achievement Ach_Squad_Spiders_3
+Set Steam Achievement Ach_Global_Meta_Block
+Set Steam Achievement Ach_Global_Island_Mechs
+Set Steam Achievement Ach_Global_Meta_Unlock
+Set Steam Achievement Ach_Squad_Heat_1
+Set Steam Achievement Ach_Pinnacle_A_1
+Set Steam Achievement Ach_Global_Victory_Complete
+Set Steam Achievement Ach_Global_Challenge_Pods
+Set Steam Achievement Ach_Global_Challenge_Mods
+Set Steam Achievement Ach_Global_Island_Building
+Set Steam Achievement Ach_Archive_B_1
+Save game cache: Opening file settings.lua... Ok
+Updating Steam Server w/ Achievement Data
+Mouse initialization...
+Loading map data...
+Initializing ImGui...
+Running Game!
+Generating world...
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/settings.lua... Ok
+Did not find lua defined box: upgrade_health_button    
+Did not find lua defined box: upgrade_movement_button    
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Finding dialog for:CEO_Grass, event: Welcome_Message    
+Finding dialog for:CEO_Sand, event: Welcome_Message    
+Finding dialog for:CEO_Snow, event: Welcome_Message    
+Finding dialog for:CEO_Acid, event: Welcome_Message    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Deleting file profile_koko/saveData.lua.old... Error deleting
+Save game cache: Deleting file profile_koko/saveData.lua.backup.old... Error deleting
+Save game cache: Renaming file profile_koko/saveData.lua -> profile_koko/saveData.lua.old... Ok
+Save game cache: Deleting file profile_koko/saveData.lua... Error deleting
+Save game cache: Deleting file profile_koko/saveData.lua.old... Ok
+Save game cache: Deleting file profile_koko/saveData.lua.backup... Error deleting
+Save game cache: Deleting physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua.old... Error
+Save game cache: Deleting physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua.old.backup... Error
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/profile.lua... Ok
+Save game cache: Deleting physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua... Ok
+Save game cache: Deleting physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua.backup... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/profile.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Starting Battle Music!
+Starting track = event:/music/final/boss
+Adding voice id Opening_7    
+Adding voice id Opening_4    
+Adding voice id Opening_10    
+Adding voice id Opening_5    
+Triggering voice id MissionFinal_Start    
+Adding voice popup for event MissionFinal_Start and id 1    
+Finding dialog for:Leader, event: MissionFinal_Start    
+Triggering voice id MissionFinal_StartResponse    
+Adding voice popup for event MissionFinal_StartResponse and id 2000    
+Finding dialog for:CEO_Sand, event: MissionFinal_StartResponse    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Already Spawning = 0
+Final spawn = 3    
+Triggering voice id Emerge_Detected    
+Triggering voice id Emerge_Detected    
+Triggering voice id Emerge_Detected    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Renaming file profile_koko/undoSave.lua -> profile_koko/undoLastSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/undoSave.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/profile.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/undoSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id VekKilled    
+Adding voice popup for event VekKilled_Obs and id 2000    
+Finding dialog for:CEO_Sand, event: VekKilled_Obs    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id VekKilled_Enemy    
+Triggering voice id Emerge_Success    
+Triggering voice id Emerge_Success    
+Triggering voice id Emerge_Success    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Already Spawning = 0
+Final spawn = 2    
+Triggering voice id Emerge_Detected    
+Triggering voice id Emerge_Detected    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Renaming file profile_koko/undoSave.lua -> profile_koko/undoLastSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/undoSave.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/profile.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/undoSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id Vek_Drown    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id VekKilled    
+Adding voice popup for event VekKilled_Obs and id 2000    
+Finding dialog for:CEO_Sand, event: VekKilled_Obs    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/undoSave.lua... Ok
+Finding dialog for:CEO_Grass, event: Welcome_Message    
+Finding dialog for:CEO_Sand, event: Welcome_Message    
+Finding dialog for:CEO_Snow, event: Welcome_Message    
+Finding dialog for:CEO_Acid, event: Welcome_Message    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Triggering voice id Mission_ResetTurn    
+Adding voice popup for event Mission_ResetTurn and id 0    
+Finding dialog for:Pinnacle, event: Mission_ResetTurn    
+Save game cache: Renaming file profile_koko/undoSave.lua -> profile_koko/undoLastSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/undoSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/profile.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/undoSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id Emerge_Success    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Already Spawning = 1
+Final spawn = 2    
+Triggering voice id Emerge_Detected    
+Triggering voice id Emerge_Detected    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Renaming file profile_koko/undoSave.lua -> profile_koko/undoLastSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/undoSave.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/profile.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/undoSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id Vek_Frozen    
+Triggering voice id VekKilled    
+Adding voice popup for event VekKilled_Obs and id 2000    
+Finding dialog for:CEO_Sand, event: VekKilled_Obs    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Starting track = event:/music/final/boss
+Save game cache: Opening file profile_koko/undoSave.lua... Ok
+Finding dialog for:CEO_Grass, event: Welcome_Message    
+Finding dialog for:CEO_Sand, event: Welcome_Message    
+Finding dialog for:CEO_Snow, event: Welcome_Message    
+Finding dialog for:CEO_Acid, event: Welcome_Message    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Triggering voice id Mission_ResetTurn    
+Adding voice popup for event Mission_ResetTurn and id 2    
+Finding dialog for:Assassin, event: Mission_ResetTurn    
+Save game cache: Renaming file profile_koko/undoSave.lua -> profile_koko/undoLastSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/undoSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/profile.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/undoSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id VekKilled    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/undoSave.lua... Ok
+Finding dialog for:CEO_Grass, event: Welcome_Message    
+Finding dialog for:CEO_Sand, event: Welcome_Message    
+Finding dialog for:CEO_Snow, event: Welcome_Message    
+Finding dialog for:CEO_Acid, event: Welcome_Message    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Triggering voice id Mission_ResetTurn    
+Adding voice popup for event Mission_ResetTurn and id 0    
+Finding dialog for:Pinnacle, event: Mission_ResetTurn    
+Save game cache: Renaming file profile_koko/undoSave.lua -> profile_koko/undoLastSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/undoSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/profile.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/undoSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id Vek_Frozen    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id VekKilled    
+Adding voice popup for event VekKilled_Obs and id 2000    
+Finding dialog for:CEO_Sand, event: VekKilled_Obs    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id Emerge_Success    
+Triggering voice id Emerge_Success    
+Triggering voice id Emerge_Success    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Renaming file profile_koko/undoSave.lua -> profile_koko/undoLastSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/undoSave.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/profile.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/undoSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id VekKilled_Enemy    
+Finding dialog for:CEO_Sand, event: Mission_Generic_Success    
+Triggering voice id MissionFinal_FallStart    
+Adding voice popup for event MissionFinal_FallStart and id 2000    
+Finding dialog for:CEO_Sand, event: MissionFinal_FallStart    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id MissionFinal_FallResponse    
+Adding voice popup for event MissionFinal_FallResponse and id 0    
+Finding dialog for:Pinnacle, event: MissionFinal_FallResponse    
+Loading map file: cave4
+OnWindowResize 1280, 720
+Did not find lua defined box: upgrade_movement_button    
+Did not find lua defined box: upgrade_health_button    
+OnWindowResize 1920, 1080
+Did not find lua defined box: upgrade_movement_button    
+Did not find lua defined box: upgrade_health_button    
+Triggering voice id MissionFinal_Pylons    
+Adding voice popup for event MissionFinal_Pylons and id 2000    
+Finding dialog for:CEO_Sand, event: MissionFinal_Pylons    
+Triggering voice id MissionFinal_Bomb    
+Adding voice popup for event MissionFinal_Bomb and id 0    
+Finding dialog for:Pinnacle, event: MissionFinal_Bomb    
+Triggering voice id MissionFinal_BombResponse    
+Adding voice popup for event MissionFinal_BombResponse and id 2000    
+Finding dialog for:CEO_Sand, event: MissionFinal_BombResponse    
+Triggering voice id MissionFinal_CaveStart    
+Adding voice popup for event MissionFinal_CaveStart and id 1    
+Finding dialog for:Leader, event: MissionFinal_CaveStart    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Already Spawning = 0
+Final spawn = 3    
+Triggering voice id Emerge_Detected    
+Starting track = event:/music/final/boss
+Triggering voice id Emerge_Detected    
+Triggering voice id Emerge_Detected    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Renaming file profile_koko/undoSave.lua -> profile_koko/undoLastSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/undoSave.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/profile.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/undoSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id VekKilled    
+Adding voice popup for event VekKilled_Obs and id 2000    
+Finding dialog for:CEO_Sand, event: VekKilled_Obs    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id VekKilled    
+Adding voice popup for event VekKilled_Obs and id 2000    
+Finding dialog for:CEO_Sand, event: VekKilled_Obs    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id Emerge_FailedMech    
+Triggering voice id Emerge_Success    
+Triggering voice id Emerge_Success    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Already Spawning = 1
+Final spawn = 2    
+Triggering voice id Emerge_Detected    
+Triggering voice id Emerge_Detected    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Renaming file profile_koko/undoSave.lua -> profile_koko/undoLastSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/undoSave.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/profile.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/undoSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id VekKilled    
+Adding voice popup for event VekKilled_Obs and id 2000    
+Finding dialog for:CEO_Sand, event: VekKilled_Obs    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id VekKilled    
+Adding voice popup for event VekKilled_Obs and id 2000    
+Finding dialog for:CEO_Sand, event: VekKilled_Obs    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/undoSave.lua... Ok
+Finding dialog for:CEO_Grass, event: Welcome_Message    
+Finding dialog for:CEO_Sand, event: Welcome_Message    
+Finding dialog for:CEO_Snow, event: Welcome_Message    
+Finding dialog for:CEO_Acid, event: Welcome_Message    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Triggering voice id Mission_ResetTurn    
+Adding voice popup for event Mission_ResetTurn and id 2000    
+Finding dialog for:CEO_Sand, event: Mission_ResetTurn    
+Save game cache: Renaming file profile_koko/undoSave.lua -> profile_koko/undoLastSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/undoSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/profile.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/undoSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id VekKilled    
+Adding voice popup for event VekKilled_Obs and id 2000    
+Finding dialog for:CEO_Sand, event: VekKilled_Obs    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id VekKilled    
+Adding voice popup for event VekKilled_Obs and id 2000    
+Finding dialog for:CEO_Sand, event: VekKilled_Obs    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id Emerge_Success    
+Triggering voice id Emerge_Success    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Already Spawning = 0
+Final spawn = 3    
+Triggering voice id Emerge_Detected    
+Triggering voice id Emerge_Detected    
+Triggering voice id Emerge_Detected    
+Adding voice popup for event Emerge_Detected and id 0    
+Finding dialog for:Pinnacle, event: Emerge_Detected    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Renaming file profile_koko/undoSave.lua -> profile_koko/undoLastSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/undoSave.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/profile.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/undoSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id VekKilled    
+Adding voice popup for event VekKilled_Obs and id 2000    
+Finding dialog for:CEO_Sand, event: VekKilled_Obs    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id Emerge_FailedVek    
+Triggering voice id Emerge_Success    
+Triggering voice id Emerge_FailedMech    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Already Spawning = 2
+Final spawn = 2    
+Triggering voice id Emerge_Detected    
+Triggering voice id Emerge_Detected    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Save game cache: Renaming file profile_koko/undoSave.lua -> profile_koko/undoLastSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/undoSave.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/profile.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/undoSave.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id VekKilled    
+Adding voice popup for event VekKilled_Obs and id 2000    
+Finding dialog for:CEO_Sand, event: VekKilled_Obs    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Starting track = event:/music/final/boss
+Triggering voice id VekKilled    
+Adding voice popup for event VekKilled_Obs and id 2000    
+Finding dialog for:CEO_Sand, event: VekKilled_Obs    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Triggering voice id Vek_Smoke    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Finding dialog for:CEO_Sand, event: Mission_Final_Cave_Success    
+No localization dialog:Mission_Final_Cave_Success_CEO_Sand_1 Maybe sending default?    
+Finding dialog for:CEO_Sand, event: Mission_Generic_Success    
+Triggering voice id MissionFinal_BombArmed    
+Adding voice popup for event MissionFinal_BombArmed and id 2000    
+Finding dialog for:CEO_Sand, event: MissionFinal_BombArmed    
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/saveData.lua... Ok
+Battle playlist empty, failed to start.
+Triggering voice id TimeTravel_Win    
+Adding voice popup for event TimeTravel_Win and id 1    
+Finding dialog for:Leader, event: TimeTravel_Win    
+Triggering voice id TimeTravel_Win    
+Adding voice popup for event TimeTravel_Win and id 2    
+Finding dialog for:Assassin, event: TimeTravel_Win    
+Triggering voice id TimeTravel_Win    
+Adding voice popup for event TimeTravel_Win and id 0    
+Finding dialog for:Pinnacle, event: TimeTravel_Win    
+Save game cache: Deleting file profile_koko/saveData.lua... Ok
+Save game cache: Deleting file profile_koko/saveData.lua.old... Error deleting
+Save game cache: Deleting file profile_koko/saveData.lua.backup... Error deleting
+Loading map file: island_ending
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/profile.lua... Ok
+Save game cache: Deleting physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua... Ok
+Save game cache: Deleting physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/saveData.lua.backup... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file profile_koko/profile.lua... Ok
+Save game cache: Opening file settings.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/profile_koko/profile.lua... Ok
+Save game cache: Saving physical file /home/kaloan/.local/share/IntoTheBreach/settings.lua... Ok

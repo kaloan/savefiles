@@ -1,0 +1,5 @@
+[S_API] SteamAPI_Init(): Loaded '/home/kaloan/.steam/debian-installation/linux64/steamclient.so' OK.
+ERROR: ld.so: object '/home/kaloan/.steam/debian-installation/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/kaloan/.steam/debian-installation/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Setting breakpad minidump AppID = 590380
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198024539886 [API loaded no]
